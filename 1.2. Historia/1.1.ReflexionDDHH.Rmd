@@ -1,0 +1,85 @@
+---
+title: "Aún debemos luchar por la garantía de los derechos humanos"
+subtitle: La violación de los derechos humanos en México y Estados Unidos
+author: "Santiago Botero Sierra"
+date: "26 de enero de 2020"
+output: pdf_document
+bibliography: 0.biblio.bib
+lang: 'es'
+---
+
+Los derechos humanos (DDHH) son garantías que todas las personas tenemos y que
+nos corresponden de igual forma por el simple hecho de ser humanos. En el video
+de @histdh se observa el largo proceso histórico que hubo para que estos fueran
+reconocidos. No obstante que, al menos en teoría, estos están garantizados pues
+"(...) *los  Estados Miembros* [de la Organización de las Naciones Unidas (ONU)]
+***se han  comprometido a asegurar*** (...) *la promoción del respeto universal
+y la  observancia de los derechos humanos y las libertades fundamentales*",
+según se lee en el preámbulo de la Declaración Universal de los Derechos Humanos
+(DUDH) [@universal], en el mismo video se observan los desafíos que existen hoy
+en día para garantizar su cumplimiento en el mundo.
+
+Me llama la atención, particularmente, que se violan los DDHH en contextos que
+son muy cercanos para nosotros: tanto en nuestro país como en los Estados Unidos
+de América (EUA), a cuyo sistema jurídico y económico solemos mirar para obtener
+inspiración sobre diversos asuntos. En particular, hago referencia a la
+prohibición de la tortura, así como los tratos crueles, inhumanos o degradantes
+(artículo 5 de la DUDH,[^Art5_DUDH] violado por EUA) y al acceso en igualdad de condiciones
+a las funciones públicas del país de toda persona (artículo 21, fracción 2 de la
+DUDH,[^Art21_DUDH] violado por México).
+
+En efecto, en EUA se han cometido actos de tortura contra personas privadas
+ilegalmente de su libertad que no han sido sometidas a un juicio imparcial que
+permita aclarar su responsabilidad sobre actos de terrorismo en ese país. Estas
+personas han sido aprehendidas en territorio extranjero, retenidas en centros
+ubicados fuera de los EUA sin ser sometidas a juicio y se les han aplicado
+técnicas de tortura (denominadas eufemísticamente como técnicas de
+'interrogatorio mejorado') en aras de objetivos como el llamado *patriotismo*
+[@psicologos]. Llama la atención que el llamado *patriotismo* sea una réplica
+más de la metodología antigua según la cual había derechos para un *nosotros*
+pero no para los *otros*, excluidos así de su humanidad. Asimismo, que sea EUA
+quien viole estos DDHH y que no haya confianza sobre la capacidad de su sistema
+legal para perseguir y juzgar imparcialmente estas violaciones hace pensar que
+hemos retrocedido en la garantía de estos derechos.
+
+Similarmente, de un modo más sutil, la misma Constitución Política de los
+Estados Unidos Mexicanos (CPEUM) posibilita la existencia de ciudadanos
+mexicanos que no tienen las mismas garantías para acceder al ejercicio de las
+funciones públicas. Por ejemplo, aunque el artículo 30 constitucional dice que
+"[l]*a nacionalidad mexicana se adquiere por nacimiento o por*
+***naturalización***" [énfasis añadido], el artículo 28, párrafo 23, numeral I,
+restringe ser comisionado de la Comisión Federal de Competencia Económica
+(Cofece) y del Instituto Federal de Telecomunicaciones (IFT) a los ciudadanos
+mexicanos por nacimiento;[^Restriccion] es decir, mediante la limitación a un
+único tipo de ciudadano, impide que cualquier ciudadano mexicano pueda ejercer
+dicha función, por lo que se genera en la práctica un tipo de ciudadano de una
+categoría más amplia (aquel por nacimiento) que otro (aquel por naturalización).
+Esto genera la inobservancia del artículo 21, fracción 2, de la DUDH; pero,
+debido al alcance constitucional de esta normativa, es difícil buscar que este
+derecho pueda ser garantizado en nuestro país.
+
+En consonancia con @histdh, concluyo que existe aún un camino por recorrer
+para garantizar la observancia y aplicación irrestricta de los DDHH, aún cuando
+el proceso histórico ha sido demasiado largo y las atrocidades cometidas durante
+la Segunda Guerra Mundial nos orillaron a tener una apreciación más comúnmente
+aceptada de los mismos. No obstante, aún en el contexto de nuestro país y de los
+EUA, existen derechos que son violados y cuya garantía parece ser difícil, bien
+sea por incapacidad del sistema jurídico (en el caso estadounidense) o por el
+rango constitucional de la misma (en el caso mexicano). Pese a estas
+dificultades, el único camino que nos queda para ser verdaderamente humanos es
+continuar luchando por defender y garantizar el cumplimiento irrestricto de los
+DDHH para todas y todos, con independencia de cualquier consideración.
+
+# Referencias
+
+[^Art5_DUDH]: El artículo 5 de la DUDH establece: "*Nadie será sometido a 
+torturas ni a penas o tratos crueles, inhumanos o degradantes*" [@universal].
+
+[^Art21_DUDH]: El artículo 21, fracción 2 de la DUDH establece: "*Toda persona
+tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas
+de su país*" [@universal].
+
+[^Restriccion]: El artículo 28 de la CPEUM establece que: "(...) *Los
+comisionados* [de la Cofece y el IFT] *deberán cumplir los siguientes
+requisitos* [/] *I.* ***Ser ciudadano mexicano por nacimiento*** *y estar en
+pleno goce de sus derechos civiles y políticos* (...)" [énfasis añadido].

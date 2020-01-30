@@ -1,0 +1,63 @@
+---
+title: "Introducción al estudio del derecho"
+subtitle: "Jorge Lara"
+author: "Santiago Botero S."
+date: "Enero - abril de 2020"
+output: pdf_document
+bibliography: biblio.bib
+---
+
++ *Necesidades* es una carencia que debe ser satisfecha.
++ Para eliminar la carencia, se necesita un *satisfactor*.
++ De cada cien delitos en México, si acaso, se sancionan uno o dos.
+
+# ¿Qué es el derecho?
+
++ Para armar una definición desde el método de Aristóteles, hay que decir:
+(i) género próximo y (ii) diferencia específica.
+
++ Concepto de dereho, como *polisémico* (tiene diferentes acepciones).
+    - Derecho objetivo, desde el punto de visto *ontológico* (el estudio del
+      ser): conjunto de *normas*[^1] **y principios**[^2] jurídicos que rigen la
+      conducta del hombre en  sociedad.
+    - Derecho subjetivo: facultad derivada de la norma. Es un derecho entendido
+    - como prerrogativa.
+    - Derecho como ciencia: estudio de las normas.
+
++ Clasificación del derecho.
+    - *Derecho sustantivo*: Es la regulación del fondo de la cuestión que se
+      esté analizando. En últimas, el derecho establece derechos y obligaciones,
+      con las correspondientes sanciones en caso de que se incumplan.
+    - *Derecho adjetivo (o procesal)*: Es la metodología y el procedimiento para
+      reclamar el derecho (subjetivo).
+    - *Derecho orgánico*: Las autoridades y sus jurisdicciones. Las leyes
+      orgánicas general atribuciones y facultades; va a los efectos de la
+      realización de las normas.
+
++ Órdenes normativos.Existen normas morales, religiosas, jurídicas, etc.
+    - Normas morales. Es la convención social a propósito de lo que es
+      correcto o incorrecto con base en la constumbre. Las *moras* eran, en la
+      sociedad griega, deidades propias de un determinado pueblo o tribu
+      (inmoralidad y amoralidad).
+    - Normas éticas. La ética es más intrínseca; tiene correspondencias
+      valorativas que se estudian en la *axiología*.
+    - Normas de trato social.
+    - Normas religiosas
+    - Normas jurídicas.
+
++---------------+---------------+-----------+-------------------+---------------+
+| Normas        | Creación      | Fuero     | Sinalagmática[^3] | Coercibilidad |
++===============+===============+===========+===================+===============|
+| Religiosas    | Heterónomas   | Interno   | Unilateral        | Incoercible   |
+| Morales       | Autónomas     | Interno   | Unilateral        | Incoercible   |
+| Trato social  | Heterónomas   | Externo   | Bilateral         | Incoercible   |
+| Jurídicas     | Heterónomas   | Externo   | Bilateral         | Coercible     |
++---------------+---------------+-----------+-------------------+---------------+
+
+## Tarea
+
+1. Encontrar cinco ejemplos de norma sustantiva, adjetiva y orgánica.
+
+[^1]: Ver análisis de las normas de Kelsen.
+[^2]: Enunciado valorativo con pretensiones de prescripción que no está detallado.
+[^3]: Si existe o no una correspondencia.

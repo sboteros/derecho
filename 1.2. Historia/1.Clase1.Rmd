@@ -1,0 +1,34 @@
+---
+title: "Historia de las instituciones jurídicas"
+subtitle: "María Patricia Lira Alonso"
+author: "Santiago Botero S."
+date: "Enero - abril de 2020"
+output: pdf_document
+bibliography: 0.biblio.bib
+---
+
++ Foto, nombre, teléfono, correo-e, actividad.
++ Historia del derecho, Beatriz Bernal Gómez.
++ Evaluación.
+    - Evaluación I: teórica
+    - Evaluación II: práctica
++ Campo algodonero.
++ ¿Qué cambio generó la masacre de Tlatelolco en el Código Penal?
++ La Décima Época de la jurisprudencia mexicana se dio a partir de la reforma en
+  derechos humanos.
++ ceclicenciaturaderecho@gmail.com
++ Classroom, código de clase: `frwsq6m`.
++ Cartas a un joven estudiante de derecho.
++ La misión, película.
+
+# Historia y derecho
+
+
+
+# Historia del derecho como ciencia
+# Sistemas juíridicos contemporáneos
+# Derecho mexicano
+# Derecho prehispánico
+# Derecho indiano y novohispano
+# Independencia y revolución
+# Sistema jurídico mexicano actual

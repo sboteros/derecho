@@ -1,0 +1,108 @@
+---
+title: 'Se discrimina a algunos mexicanos para acceder a cargos públicos'
+subtitle: 'Los mexicanos no son iguales: unos son por nacimiento y otros no'
+author: 'Santiago Botero Sierra'
+output: pdf_document
+date: '29 de enero de 2020'
+bibliography: 0.biblio.bib
+lang: 'es'
+---
+
+En un trabajo reciente[^Tarea1] reflexioné que una de las dificultades para la
+garantía  de los derechos humanos (DDHH) es que, pese al largo proceso histórico
+que se ha  tenido para llegar a la aceptación más o menos universal de un
+conjunto de derechos protocolizados en la Declaración Universal de los Derechos
+Humanos (DUDH), estos son violados en contextos cercanos a nosotros; para
+sustentar  esta afirmación, ejemplifiqué que en el caso mexicano se discrimina a
+los  ciudadanos mexicanos que no adquirieron la ciudadanía en razón de su
+nacimiento para participar en empleos públicos como el de Comisionado de la
+Comisión  Federal de Competencia Económica (Cofece).[^Comisionado]
+
+Al respecto, el 27 de enero de 2020 fue publicada en la Revista Proceso una nota
+llamada "*Corte invalida 'antecedentes no penales' y 'ser mexicano' para ocupar
+cargos*" [@noti_mexicanos]. En esta nota se reseña que la Suprema Corte de
+Justicia de la Nación (SCJN) consideró que los requisitos de "*no tener
+antecedentes penales*" (NAP) y "*ser mexicano* ***por nacimiento***" (MPN)
+establecidos en normatividades locales para acceder a determinados cargos
+públicos[^Cargos] eran violatorios de los principios de igualdad y no
+discriminación establecidos en los artículos 1[^Art1_CPEUM] y 5[^Art5_CPEUM] de
+la CPEUM. Sobre el  requisito de MPN, según la misma nota, la SCJN
+"(...) *estableció que* ***los congresos locales carecen de competencia***
+*para fijar como requisito para acceder a cargos públicos el contar con
+nacionalidad mexicana* ***por nacimiento***" [@noti_mexicanos, énfasis
+añadido].
+
+Me pareció muy interesante la lectura de @noti_mexicanos, pues indica que la
+SCJN considera como discriminatoria la cláusula de MPN establecida en diversas
+disposiciones locales; en ese sentido, yo la considero violatoria de un
+derecho humano establecido en la DUDH.[^Art21_DUDH] No obstante, considero que
+el caso que analicé en mi escrito anterior continúa siendo una violación a los
+mismos principios establecidos en los artículos 1 y 5 de la CPEUM, así como al
+artículo 2 de la DUDH, que no está cobijado por la decisión descrita de la SCJN.
+
+En efecto, según @noti_mexicanos, la SCJN definió que los *congresos locales* no
+pueden establecer la cláusula MPN, pues es discriminatoria; pero esta fue
+establecida por el mismo constituyente en el artículo 28 de  la CPEUM para
+ejercer el cargo de Comisionado de la Cofece y del IFT, por lo que la  decisión de la SCJN
+no la cobija. En ese sentido, creo que la discriminación para el cargo en
+comento tiene una naturaleza diferente a la analizada por la corte, ya que no se
+trata de una normatividad de rango inferior a la CPEUM que la contradice, sino
+de dos determinaciones dentro de la misma CPEUM que son incompatibles entre sí:
+los principios de igualdad y no discriminación, por un lado; y la cláusula de
+MPN, por el otro.
+
+Mi conclusión es, como en el trabajo anterior, que la lucha por la garantía
+irrestricta de los DDHH continúa siendo un imperativo para que podamos ser
+verdaderamente humanos y que esta se desarrolla en muchas esferas, a veces
+sutiles, como el caso de la MPN en las normatividades mexicanas.
+
+# Referencias
+
+[^Tarea1]: Documeto denominado *Aún debemos luchar por la garantía de los
+derechos humanos. La violación de los derechos humanos en México y Estados
+Unidos*, elaborado el 26 de enero de 2020.
+
+[^Comisionado]: Prohibición establecida en el artículo 28, párrafo 23,
+numeral I de la Constitución Política de los Estados Unidos Mexicanos (CPEUM)
+que, en mi opinión, contraviene con lo establecido en el artículo 21, fracción
+2 de la DUDH [@universal]. Dicho artículo señala que "(...) *Los 
+comisionados* [de la Cofece y el Instituto Federal de Telecomunicaciones --IFT--] 
+*deberán cumplir los siguientes requisitos:* [/] *I.* ***Ser ciudadano mexicano
+por nacimiento*** *y estar en pleno goce de sus derechos civiles y políticos*
+(...)" [énfasis añadido].
+
+[^Cargos]: Los cargos para los que se establecían requisitos discriminatorios
+son los de agente inmobiliario en Baja California (NAP), Director General del
+Organismo Descentralizado de Agua Potable de Sonora (NAP), ser parte del
+Comité de Contraloría Social de Hidalgo (NAP) y Coordinadora del Refugio
+Estatal para Mujeres en Situación de Violencia en el Instituto Veracruzano de
+las Mujeres (MPN) [el género femenino en este último caso es del original, por
+lo que no descarto que otro requisito sea tener sexo o género femenino]
+[@noti_mexicanos].
+
+[^Art1_CPEUM]: El artículo 1 de la CPEUM establece: "*En los Estados Unidos
+Mexicanos* ***todas las personas gozarán de los derechos humanos reconocidos***
+*en esta Constitución y* ***en los tratados internacionales*** *de los que el
+Estado Mexicano sea parte, así como de las garantías para su protección, cuyo
+ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las
+condiciones que esta Constitución establece.* (...) ***Queda prohibida toda
+discriminación motivada por origen étnico o nacional***, *el género, la edad,
+las discapacidades, la condición social, las condiciones de salud, la religión,
+las opiniones, las preferencias sexuales, el estado civil o cualquier otra que
+atente contra la dignidad humana y tenga por objeto anular o menoscabar los
+derechos y libertades de las personas*" [énfasis añadido].
+
+[^Art5_CPEUM]: El artículo 5 de la CPEUM establece: "***A ninguna persona podrá
+impedirse que se dedique a la profesión, industria, comercio o trabajo que le
+acomode, siendo lícitos.*** *El ejercicio de esta libertad sólo podrá vedarse
+por determinación judicial, cuando se ataquen los derechos de tercero, o por
+resolución gubernativa, dictada en los términos que marque la ley, cuando se
+ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su
+trabajo, sino por resolución judicial.*[/] ***La ley determinará en cada entidad
+federativa, cuáles son las profesiones que necesitan título para su ejercicio,
+las condiciones que deban llenarse para obtenerlo*** *y las autoridades que han
+de expedirlo* (...)" [énfasis añadido].
+
+[^Art21_DUDH]: El artículo 21, fracción 2 de la DUDH establece: "*Toda persona
+tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas
+de su país*" [@universal].
