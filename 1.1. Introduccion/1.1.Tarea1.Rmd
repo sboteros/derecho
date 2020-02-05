@@ -1,0 +1,183 @@
+---
+title: 'Ejemplos de normas'
+subtitle: 'Normas sustantivas, adjetivas y orgánicas'
+author: 'Santiago Botero Sierra'
+date: '3 de febrero de 2020'
+output: pdf_document
+bibliography: 0.biblio.bib
+lang: 'es'
+---
+
+La normatividad del derecho se puede clasificar en:
+
+- *Derecho sustantivo*: Es la regulación del fondo de la cuestión que se
+  esté analizando. En últimas, el derecho establece derechos y obligaciones,
+  con las correspondientes sanciones en caso de que se incumplan.
+- *Derecho adjetivo (o procesal)*: Es la metodología y el procedimiento
+    para reclamar el derecho (subjetivo).
+- *Derecho orgánico*: Las autoridades y sus jurisdicciones. Las leyes
+  orgánicas generan atribuciones y facultades; va a los efectos de la
+  realización de las normas.
+
+A continuación se presentan: 5 normas sustantivas (una relativa a competencia
+económica; y 2 relativas al servicio ferroviario y al derecho a la salud,
+respectivamente); 11 normas orgánicas (7 del servicio de salud; y 2 de
+competencia económica y transporte ferroviario, respectivamente); así como 8
+normas adjetivas (1 sobre competencia, 2 sobre el sector ferroviario y 5 sobre
+el sector salud).[^Nota1]
+
+# Competencia Económica
+
+## Norma sustantiva
+
+La Ley Federal de Competencia Económica (LFCE)[^LFCE] es reglamentaria del
+artículo 28 de la Constitución Política de los Estados Unidos Mexicanos (CPEUM)
+y tiene "(...) *por objeto promover, proteger y garantizar la libre concurrencia
+y la competencia económica, así como prevenir, investigar, combatir, perseguir
+con eficacia, castigar severamente y eliminar los monopolios, las prácticas
+monopólicas, las concentraciones ilícitas, las barreras a la libre concurrencia
+y la competencia económica, y demás restricciones al funcionamiento eficiente
+de los mercados*" (art. 2 de la LFCE).
+
+## Normas orgánicas
+
+La aplicación de la LFCE corresponde a la Comisión Federal de Competencia
+Económica (Cofece) para todos los sectores económicos con excepción de las
+telecomunicaciones y la radiodifusión, estos últimos encomendados al Instituto
+Federal de Telecomunicaciones (IFT). Cada uno de estos organismos
+constitucionales autónomos tiene su propio estatuto orgánico, que establece su
+forma de organización.[^EstatutosComp]
+
+## Norma adjetiva
+
+Por su parte, el Capítulo IV de las Disposiciones regulatorias de la Ley Federal
+de Competencia Económica,[^Disposciones] explica las pautas sobre los
+procedimientos seguidos por la Cofece, detallados en 17 secciones.
+
+# Sector Ferroviario
+
+## Normas sustantivas
+
+La Agencia Reguladora del Transporte Ferroviario (ARTF) es la dependencia de  la
+Secretaría de Comunicaciones y Transportes (SCT) que se encarga de las vías
+generales de comunicación ferroviaria.  Las *normas sustantivas* que tiene son
+el Reglamento del Servicio Ferroviario (RSF),[^RSF]  que "(...) *tiene por
+objeto regular la construcción, conservación y  mantenimiento de las vías
+férreas que sean vías generales de comunicación, así como la prestación de los
+servicios ferroviarios* (...)*, así como los servicios auxiliares* (...)" (art.
+1 del RSF) y la Ley Reglamentaria del Servicio  Ferroviario (LRSF),[^LRSF] que
+"(...) *tiene por objeto regular* (...) *la garantía de interconexión en las
+vías férreas cuando sean vías generales de comunicación, así como procurar las
+condiciones de competencia del servicio público de transporte ferroviario*
+(...)" (art. 1 de la LRSF).
+
+## Normas orgánicas
+
+Para la aplicación de esas leyes, se creó la ARTF[^DGTFM] mediante un decreto
+orgánico (Decreto de Creación de la ARTF),[^DecARTF] que tiene "(...) *por
+objeto regular, promover y verificar* (...) *la infraestructura ferroviaria y la
+prestación del servicio público de transporte ferroviario y sus servicios
+auxiliares, garantizar la interconexión de las vías férreas cuando sean vías
+generales de comunicación, fomentar la interrelación de las terminales
+ferroviarias con la operación intermodal, así como imponer sanciones*" (art. 2
+del Decreto de Creación de la ARTF). Asimismo, otra disposición de carácter
+orgánico es el manual de organización de la ARTF.[^ManualARTF]
+
+## Normas adjetivas
+
+Respecto de las disposiciones adjetivas, el artículo séptimo transitorio de la
+LRSF establece que "[e]*n tanto se expiden las disposiciones reglamentarias y
+administrativas a que se refiere la presente* [LRSF]*, se continuarán aplicando
+las expedidas en la materia con anterioridad a la vigencia de la misma, en lo
+que no se opongan*". Sobre esto, no encontré información sobre las disposiciones
+que utiliza la ARTF para el desahogo de sus procedimientos, aunque sé que
+utiliza la Ley Federal de Procedimiento Administrativo (LFPA)[^LFPA] y que
+publicó unos lineamientos para atender las solicitudes de acceso a la
+información.[^InfoARTF]
+
+# Seguridad social
+
+## Normas sustativas
+
+La Ley del Seguro Social (LSS),[^LSS] establece la finalidad y las
+características de la seguridad social en México y le otorga al Instituto
+Mexicano del Seguro  Social (IMSS) la organizacion y administración del Seguro
+Social, que es el instrumento básico para garantizar la seguridad social (LSS,
+título primero). Por otra parte, la Ley General de Salud (LGS)[^LGS] "(...)
+*reglamenta el derecho a la  protección de la salud que tiene toda persona en
+los términos del artículo 4^o.^  de la* [CPEUM]*, establece las bases y
+modalidades para el acceso a los  servicios de salud y la concurrencia de la
+Federación y las entidades  federativas en materia de salubridad general*" (art.
+1 de la LGS).
+
+## Normas orgánicas
+
+Para aplicar sus responsabilidades, el IMSS cuenta con un manual de organización
+que define su organigrama estructural.[^OrgIMSS] Asimismo, diversas áreas de
+esta organización necesitan manuales de organización más específicos, entre los
+que se encuentran, entre otros:
+
++ Manual de Organización de los Centros de Investigación Educativa y Formación
+Docente.^[Disponible en
+http://www.imss.gob.mx/sites/all/statics/pdf/manualesynormas/2000-002-007.pdf.]
++ Manual de Organización de Guarderías “Esquema Madres”.^[Disponible en
+http://www.imss.gob.mx/sites/all/statics/pdf/manualesynormas/3000-002-003.pdf.]
++ Manual de Organización de Guarderías “Esquema Ordinario”.^[Disponible en
+http://www.imss.gob.mx/sites/all/statics/pdf/manualesynormas/3000-002-004.pdf.]
++ Manual de Integración y Funcionamiento del Comité para el programa
+institucional sobre los derechos de las personas con discapacidad.^[Disponible
+en
+http://www.imss.gob.mx/sites/all/statics/pdf/manualesynormas/3000-021-001.pdf.]
++ Manual de Organización de la Jefatura de Servicios de Prestaciones
+Médicas.^[Disponible en
+http://www.imss.gob.mx/sites/all/statics/pdf/manualesynormas/2000-002-002.pdf.]
++ Manual de Organización de la Dirección de Administración.^[Disponible en
+http://www.imss.gob.mx/sites/all/statics/pdf/manualesynormas/1000-002-001_1.pdf.]
+
+## Normas adjetivas
+
+Para la aplicación de dichos preceptos legales, existen reglamentos que regulan
+la aplicación de las leyes que rigen al IMSS, entre los que se encuentran, entre
+otros:
+
++ Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de
+    Atención Médica.^[Publicado en el DOF el 17 de julio de 2018.]
++ Reglamento de la Ley General de Salud en Materia de Protección Social en
+    Salud.^[Publicado en el DOF el 17 de diciembre de 2014.]
++ Reglamento de Prestaciones Médicas del Instituto Mexicano del Seguro
+    Social.^[Publicado en el DOF el 30 de noviembre de 2006.]
++ Reglamento de la Ley General de Salud en Materia de Trasplantes.^[Publicado
+    en el DOF el 26 de marzo de 2014.]
++ Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación
+    de Empresas, Recaudación y Fiscalización.^[Publicado en el DOF el 15 de
+    julio de 2005.]
+
+[^Nota1]: Se requirió encontrar 5 ejemplos de normas sustantivas, orgánicas y
+adjetivas, respectivamente.
+[^LFCE]: Publicada en el Diario Oficial de la Federación (DOF) el 23 de mayo de
+2014.
+[^EstatutosComp]: Estatuto orgánico de la Comisión Federal de Competencia
+Económica, publicado en el DOF el 8 de julio de 2014, y Estatuto Orgánico del
+Instituto Federal de Telecomunicaciones, publicado en el DOF el 4 de septiembre
+de 2014.
+[^Disposciones]: Publicadas en el DOF el 10 de noviembre de 2014.
+
+[^RSF]: Publicado en el DOF el 25 de enero de 2000.
+[^LRSF]: Publicada en el DOF el 12 de mayo de 1995.
+[^DGTFM]: Aunque también hay atribuciones que le corresponden a otra área de la
+SCT, la Dirección General de Transporte Ferroviario y Multimodal.
+[^DecARTF]: DECRETO por el que se crea la Agencia Reguladora del Transporte
+Ferroviario, como un órgano desconcentrado de la Secretaría de Comunicaciones y
+Transportes, publicado en el DOF el 18 de agosto de 2016.
+[^ManualARTF]: MANUAL de Organización de la Agencia Reguladora del Transporte
+Ferroviario, publicado en el DOF el 10 de marzo de 2017.
+[^LFPA]: Publicada en el DOF el 4 de agosto de 1994.
+[^InfoARTF]: ACUERDO mediante el cual se aprueban los Lineamientos que
+establecen los procedimientos internos de atención a solicitudes de acceso a
+información pública, publicado en el DOF el 12 de febrero de 2016.
+
+[^LSS]: Publicada en el DOF el 21 de diciembre de 1995.
+[^LGS]: Publicada en el DOF el 7 de febrero de 1984.
+[^OrgIMSS]: ACUERDO ACDO.SA2.HCT.250718/195.P.DA y su Anexo Único denominado
+Manual de Organización del Instituto Mexicano del Seguro Social, publicado en el
+DOF el 28 de agosto de 2018.

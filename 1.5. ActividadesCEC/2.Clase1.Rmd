@@ -1,0 +1,75 @@
+---
+title: 'Disertación sobre el derecho'
+subtitle: 'Raul Castell'
+author: 'Santiago Botero Sierra'
+date: '1 de febrero de 2020'
+output: pdf_document
+lang: 'es'
+---
+
++ Definición en ciencias sociales:
+    - Género y diferencia específica.
++ El derecho es:
+    - Género: humanidad, ciencia social, campo de estudio.
+    - Diferencia específica: normas, leyes y principios.
++ Finalidad:
+    - Bien común.
+    - Evitar sanciones.
+    - Permite el desarrollo individual (tener derechos).
+
++ *Tarea 1*: Buscar en el DOF la reforma constitucional en materia de DDHH en
+  junio de 2011 y leer el artículo 1 de la constitución y compararlo con la
+  versión previa de la reforma. Explicar en dos párrafos lo que considero como
+  el cambio más relevante.
+
++ Antes de la II Guerra Mundial, las constituciones sólo tenían una parte
+  orgánica, el eje era el Estado; después se generalizó el respeto de los
+  derechos humanos y el eje fue el individuo. Por ello, las constituciones
+  modernas tienen una parte *dogmática* y otra parte *orgánica*.
+    - La parte dogmática tiene que ver con los derechos.
+    - La parte orgánica tiene que ver con la organización del Estado.
+    - Un Estado es territorio, población y gobierno.
+
++ **Bloque de regularidad normativa**. (i) Constitución, (ii) que está al mismo
+nivel que los tratados internacionales en materia de derechos humanos, (iii) que
+puede estar en otros tratados que se relacionen con DDHH, y (iv) la
+interpretación tiene que regularse con un enfoque de derechos.
++ Derecho como medio de protección de la dignidad de las personas a través de
+  normas, instituciones y el ordenamiento jurídico.
++ Ordenamiento jurídico. Se puede identificar en tres partes:
+    - Parte normativa. Las funciones de las normas son evitar problemas
+      (regulación), solucionar problemas, proteger derechos. Estan pueden ser
+      reglas (premisas, silogismos) o principios (abiertos a la interpretación).
+    - Parte procedimental. Instituciones que se dedican a aplicar la parte
+      normativa.
+    - Cultura jurídica. Se subdivide en interna (operadores jurídicos,
+      sociología del derecho) y externa (sociedad en general, sociología
+      jurídica).
+
++ Cultura jurídica interna
+    - Normativa
+    - Interpretativa
++ Parte normativa
+    * Una norma es un enunciado que se encuentra en determinadas fuentes,
+      aquellas que se encuentran dentro del derecho (es decir, el ordenamiento
+      jurídico).
+    * El enunciado se encuentra en una fuente jurídica y tiene características:
+      (i) es abstracto, (ii) es válido (proceso de creación del enunciado
+      jurídico), (iii)
+    * Validez
+        - Hay una norma superior válida que la permita: bloque de
+          constitucionalidad, leyes generales, leyes específicas, códigos,
+          acuerdos.
+        - Hay un proceso de creación establecido; proceso legislativo.
+        - El enunciado debe contener su modo de aplicación territorial, temporal
+          y por materia.
+        - Es prescriptiva: debe indicar un hacer o no hacer. El contenido de las
+          normas puede ser prohibitorio, orientador,
+        - Bilateral.
+
++ Ordenamiento jurídico $\Rightarrow$ Norma jurídica $\Rightarrow$ Sistema
+  jurídico. El sistema jurídico tiene características:
+    - Es único.
+    - Completo. No obstante, hay antinomias (dos normas existentes y válidas
+      son contradictorias entre sí) y lagunas (cuando no existe una norma que
+      regule un determinado supuesto).

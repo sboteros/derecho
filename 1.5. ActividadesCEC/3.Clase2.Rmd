@@ -1,0 +1,74 @@
+---
+title: '¿Qué es el derecho?'
+subtitle: 'Miguel Carbonell'
+author: 'Santiago Botero Sierra'
+output: pdf_document
+date: '1 de febrero de 2020'
+lang: 'es'
+---
+
++ El derecho busca superar dificultades que aparecen en la vida de las personas
+    y en la historia de las sociedades.
++ Presencia de conflictos y necesidad de cooperación.
++ Los elementos para lograr los fines del derecho son:
+    - La autoridad
+    - La coacción
++ Actores jurídicos. El derecho asigna diferentes papeles a las personas que
+    están relacionadas con los ordenamientos jurídicos.
++ Significados de derecho.
+    - "El derecho mexicano no prevé la pena de muerte" (derecho objetivo).
+    - "Tengo derecho a expresar con libertad mis pensamientos" (derecho
+        subjetivo).
+    - "El derecho es una de las más importantes ciencias sociales" (ciencia
+        jurídica).
++ El derecho como instrumento.
++ *Iusnaturalismo*. Entiende que existen principios morales universalmente
+    válidos de los que proviene el ordenamiento jurídico. Hay dos enfoques
+    principales: *iusnaturalismo teológico* y *iusnaturalismo racionalista*.
++ *Iuspositivismo*. Plantea que las normas jurídicas deben ser cumplidas siempre
+    que sean válidas y promulgadas debidamente. De allí, plantea que por el sólo
+    hecho de que la norma exista, entonces es justa.
++ *Realismo jurídico*. Lo importante de la norma no es su origen, sino su
+    aplicabilidad; es decir, lo que busca es la *eficacia* del derecho.
+
++ ¿Qué es el derecho? Un conjunto de normas que regulan la conducta humana. El
+    derecho regula lo que las personas pueden hacer (no lo imposible ni lo
+    necesario) en tanto son personas con libre albedrío. Se parece a otras
+    fuentes de regulación de la conducta (religión, moral, trato social).
+    - Las normas jurídicas suelen ser prohiciones; mientras las morales suelen
+        ser mandatos positivos.
+    - Las normas jurídicas son heterónomas; en cambio la moral es autónoma.
+    - Las normas jurídicas pueden ser impuestas por la fuerza física; las
+        morales suponen sanciones diferentes.
+
+    - Lo que distingue al derecho es la posibilidad de usar la *fuerza* para
+        imponer las sanciones en un ordenamiento jurídico. El uso de la fuerza
+        debería ser monopolio del Estado; ningún otro grupo deberís poder
+        "competir" con el Estado en términos del uso de la fuerza.
+    - Si lo que caracteriza al derecho es la posibilidad del uso de la fuerza
+        física, ¿qué es lo que lo distingue de una banda de malhechores que nos
+        amenaza con hacernos daño si no le entregamos nuestro dinero? La
+        diferencia es:
+
+        * Argumento de la justicia: emplea la fuerza para respaldar un valor
+            (la justicia), lo que le da legitimidad a la autoridad que utiliza
+            la fuerza.
+        * Argumento de la institucionalización: El derecho y el uso jurídico de
+            la fuerza se hallan institucionalizados. Se sabe en qué casos se
+            aplica, quién lo aplica y cuál es el procedimiento para aplicarlo;
+            entonces, el derecho permite un cierto grado de *certeza* y
+            *proporcionalidad*.
+
+    - Además, otros autores como Robert Alexy señalan que el derecho tiene
+        también una pretensión de corrección o legitimidad por su asociación
+        con valores (justicia, bien común, seguridad, libertad, etc.)
+    - *Ubi societas, ibi ius* (donde hay una sociedad humana, hay derecho). No
+        obstante, el grado de juridicidad es muy variable en el tiempo y en el
+        espacio.
+    - ¿Puede desaparecer el derecho?
+
+        * Algunas corrientes plantean que, a medida que las sociedades se
+            pacifican y elminan el conflicto, el derecho será menos necesario.
+        * El marxismo lucha por la abolición del derecho y las instituciones
+            jurídicas burguesas.
+        * Neurociencias.

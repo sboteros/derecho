@@ -1,0 +1,49 @@
+---
+title: 'La modificación del artículo 1 constitucional'
+subtitle: 'El reconocimiento de los derechos humanos en México'
+author: 'Santiago Botero Sierra'
+date: '4 de febrero de 2020'
+output: pdf_document
+bibliography: 0.biblio.bib
+lang: 'es'
+header-includes:
+   - \usepackage{fixltx2e}
+---
+
+¡hOLA!
+
+```{r, echo = FALSE, message = FALSE}
+library('tidyverse')
+library('kableExtra')
+cons1857 <- c('El pueblo mexicano reconoce que los derechos del hombre son la base y el objeto de las instituciones sociales. En consecuencia declara que todas las leyes y todas las autoridades del pais deben respetar y  sostener las garantías que otorga la presente Constitucion.', '', '', '', '')
+
+cons1917 <- c('\\textbf{En los Estados Unidos Mexicanos todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse, sino en los casos y con las condiciones que ella misma establece.}', '', '', '', '')
+
+ref2001 <- c('En los Estados Unidos Mexicanos todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse, sino en los casos y con las condiciones que ella misma establece.\\textbf{\\textsuperscript{(sin cambio)}}', '', '', 'Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.', 'Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.')
+
+ref2006 <- c('En los Estados Unidos Mexicanos todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse, sino en los casos y con las condiciones que ella misma establece.\\textbf{\\textsuperscript{(sin cambio)}}', '', '', 'Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.\\textbf{\\textsuperscript{(sin cambio)}}', 'Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las \\textbf{discapacidades}, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.')
+
+ref2011 <- c('En los Estados Unidos Mexicanos \\textbf{todas las personas gozarán de los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece.}', 'Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.', 'Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.', 'Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.\\textbf{\\textsuperscript{(sin cambio)}}', 'Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias \\textbf{sexuales}, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.')
+
+cbind(cons1857, cons1917, ref2001, ref2006, ref2011) %>%
+    knitr::kable(row.names = FALSE, format = 'latex', longtable = TRUE,
+                 escape = FALSE,
+                 col.names = c('Const. de 1857\\textsuperscript{1}',
+                               'Const. de 1917\\textsuperscript{2}',
+                               'Ref. de 2001\\textsuperscript{3}',
+                               'Ref. de 2006\\textsuperscript{4}',
+                               'Ref. de DDHH de 2011\\textsuperscript{5}'),
+                               caption = 'Evolución del artículo 1 de la CPEUM a
+                               partir de 1857.') %>%
+    kable_styling('striped', latex_options = 'repeat_header', position = 'center',
+                  full_width = FALSE, ) %>%
+    row_spec(0, bold = TRUE) %>%
+    column_spec(1:5, width = '3cm') %>%
+    footnote(number = c('Constitución Federal de los Estados Unidos Mexicanos, 1857.',
+                        'Constitución Política de los Estados Unidos Mexicanos.',
+                        'DECRETO por el que se aprueba el diverso por el que se adicionan un segundo y tercer párrafos al artículo 1o., se reforma el artículo 2o., se deroga el párrafo primero del artículo 4o.; y se adicionan un sexto párrafo al artículo 18, y un último párrafo a la fracción tercera del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 14 de agosto de 2001.',
+                        'DECRETO por el que se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 4 de diciembre de 2006.',
+                        'DECRETO por el que se modifica la denominación del Capítulo 1 del Título Primero y reforma diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 10 de junio de 2011.'),
+             threeparttable = TRUE, number_title = 'Notas:') %>%
+    landscape()
+```

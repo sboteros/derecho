@@ -5,9 +5,9 @@ author: "Santiago Botero S."
 date: "Enero - abril de 2020"
 output: pdf_document
 bibliography: 0.biblio.bib
+lang: 'es'
 ---
 
-+ Foto, nombre, teléfono, correo-e, actividad.
 + Historia del derecho, Beatriz Bernal Gómez.
 + Evaluación.
     - Evaluación I: teórica
@@ -17,18 +17,125 @@ bibliography: 0.biblio.bib
 + La Décima Época de la jurisprudencia mexicana se dio a partir de la reforma en
   derechos humanos.
 + ceclicenciaturaderecho@gmail.com
-+ Classroom, código de clase: `frwsq6m`.
 + Cartas a un joven estudiante de derecho.
 + La misión, película.
 
-# Historia y derecho
+# Historia y derechos
 
+Estas anotaciones se basan en [@bernal, cap. I].
 
+## Definición de historia
 
-# Historia del derecho como ciencia
-# Sistemas juíridicos contemporáneos
-# Derecho mexicano
-# Derecho prehispánico
-# Derecho indiano y novohispano
-# Independencia y revolución
-# Sistema jurídico mexicano actual
+La historia sirve para reincidir en el camino correcto seguido por los
+ancestros, así como para no repetir los errores del pasado. De acuerdo con
+Voltaire, se  trata del "*relato de los hechos que se tienen como verdaderos, al
+contrario de  la fábila*"; por su parte, Henry Marrou la define como "el
+conocimiento del pasado humano".
+
+Es necesario distinguir entre:
+
++ Realidad acontecida: hechos y fenómenos sucedidos.
++ Ciencia histórica: la disciplina que se encarga de la elaboración,
+  interpretación y enseñanza de dichos hechos.
+
+Para entender la historia, es necesario:
+
++ Precisar el **objeto de la historia**; es decir, distinguir entre
+  *acontecimientos históricos* y *acontecimientos del pasado*.
+    - A la historia sólo le interesan acontecimientos que han adquirido cierta
+      *perdurabilidad*.
+    - Antiguamente, sólo interesaban acontecimientos políticos, bélicos e
+      institucionales; posteriormente, con la escuela de los *Annales* (Fernand
+      Braudel) y la *historia total* (marxismo, Pierre Vilar), depende del punto
+      de vista del historiador: historias económica, demográfica, pedagógica,
+      filosófica, *del derecho o las instituciones jurídicas*, etc.
++ Reflexionar sobre la **objetividad** de la historia.
+    - Es un ideal que no se puede alcanzar, pues la historia es hecha e
+      interpretada por el historiador, quien selecciona, razona, enjuicia y
+      valora el acontecimiento histórico.
+    - Se limita a: (i) rechazar la adopción de juicios apriorísticos y (ii)
+      acopiar suficientes testimonios comprobados.
++ Conocer el **quehacer del historiador**.
+    - La historia es
+        * Retrospectiva: comienza cuando termina la memoria de las  generaciones
+          vivas, en contraposición con la crónica.
+        * Humana: sólo se interesa por la acción del hombre.
+        * Analiza los hechos en su contexto histórico, no con los juicios del
+          presente.
+        * Interpreta los hechos en sentido universal, no regional o nacional.
+    - El *método* del historiador:
+        * Selección del tema
+        * Heurística: búsqueda de testimonios y documentos.
+        * Crítica: confrontación de testimonios, análisis y valoración.
+        * Ordenamiento y relacionamiento del material.
+        * Interpretación y re-creación del hecho: creación histórica.
+        * Exposición.
+
+## El derecho y su historia
+
+El derecho es un orden que se expresa normativamente con el fin de regir a la
+sociedad. Su diferencia con respecto de otras normas es la fuerza vincultante,
+que puede ser establecida por: la naturaleza de las cosas (derecho natural) o
+por el hombre mismo (derecho positivo).
+
++ Elementos definitorios del derecho (vs. moral):
+    - Carácter social (vs. individualidad)
+    - Bilateralidad (vs. unilateralidad)
+    - Certeza
+    - Permanencia
+    - Coercibilidad o coercitividad
++ Historicidad del derecho
+    - El derecho es conservador, va siempre a la zaga, salvo en las revoluciones.
+    - Se somete a su propio ritmo histórico.
+    - El "lenguaje jurídico" tiene su ritmo y evoluciona lentamente, debido a
+    su origen plástico y ritual.
++ Categorías jurídicas fundamentales:
+    - Sujeto de derechos y obligaciones.
+    - Objeto sobre el que recaen derechos y obligaciones.
+    - Actividad o comportamiento de los sujetos.
+    - Relación establecida entre los sujetos.
+    - Norma jurídica.
+
+## Delimitaciones material, espacial y temporal
+
+La historia del derecho estudia el desarrollo del derecho dentro de una
+coordenada temporal previamente fijada. Esto requiere hacer una delimitación:
+
++ Material (lo jurídico y no lo extrajurídico).
+    - Distinción entre fuentes escritas (leyes, compilaciones, sentencias,
+      etc.) y no escritas (costumbre).
+    - Distinguir entre fuentes formales (ley, jurisprudencia, costumbre y
+      principios generales) y fuentes históricas.
+    - Distinguir entre fuentes directas y fuentes indirectas (literatura, cine,
+      etc.)
++ Espacial (nacional, continental o universal).
+    - Espacio geográfico (nación o país), con criterios de periodificación
+      (políticos, sociales, geográficos, étnicos, lingüísticos, etc.)
+    - Delimitación de historia nacional, continental o universal, al analizar
+      las corrientes jurídicas que le dan unidad (europeo, romano, canónico,
+      *iusnaturalismo* racionalista, etc.).
+        * Fue en la ilustración y el  enciclopedismo (s. XVIII) cuando surgió la
+          tendencia de historiar el  derecho desde un pusto de vista
+          supranacional.
+        * Relación y confusión con la *historia del derecho comparado* e
+          *historia universal del derecho*. El primero sólo aplica para los
+          derechos positivos.
++ Temporal (límites de la historia del derecho en el tiempo).
+    - La historia es un todo continuo, por lo que la periodificación resulta
+      convencional y artificiosa.
+    - La periodificación implica un alto grado de dificultad, pero es
+      importante:
+        * Para descubrir el devenir histórico y mejorar la comprensión de su
+          secuencia.
+        * Porque implica caracterizar: extrar de cada edad denominadores comunes
+          y diferenciarlos con periodos anteriores o posteriores.
+
+## Sistemas jurídicos contemporános.
+
++ Derechos romanistas (romano-germánico o romano-canónico), basado en el *ius
+  commune*.
++ Sistema anglosajón (*common law* o *precedente judicial*) nace de una fusión
+  entre el del conquistador normando y las prácticas anglosajonas, y se unifica
+  con decisiones de tribunales reales (en detrimento de las costumbres locales).
++ *Sistema socialista* (soviético), en desuso desde la caída del Muro de Berlín.
++ Sistemas jurídico-religiosos como el derecho musulmán.
