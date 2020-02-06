@@ -1,18 +1,49 @@
 ---
-title: 'La modificación del artículo 1 constitucional'
-subtitle: 'El reconocimiento de los derechos humanos en México'
-author: 'Santiago Botero Sierra'
-date: '4 de febrero de 2020'
-output: pdf_document
+title: "Evolución del artículo primero constitucional"
+author: "Santiago Botero Sierra"
+date: "4 de febrero de 2020"
+output:
+  bookdown::pdf_document2:
+    toc: false
+lang: es
+subtitle: El reencuentro de México con el reconocimiento de los derechos humanos
 bibliography: 0.biblio.bib
-lang: 'es'
-header-includes:
-   - \usepackage{fixltx2e}
 ---
 
-¡hOLA!
+El cambio más relevante, respecto del artículo primero de la Constitución
+Política de los Estados Unidos Mexicanos (CPEUM) que trajo consigo la reforma de
+derechos humanos del 2011 (Reforma)[^ReformaDDHH] fue que México reencontró su
+convicción de que los derechos humanos (DDHH) son algo inherente a las personas
+y el Estado brinda las garantías para su realización. Me refiero a un
+reencuentro porque la Constitución Federal de los Estados Unidos Mexicanos de
+1857 (Constitución de 1857) ya contenía un talante *iusnaturalista* que aceptaba
+que las personas tienen derechos *reconocidos* por el pueblo que las autoridades
+debían garantizar; sin embargo, esta concepción cedió paso a una más positivista
+con la CPEUM, pues en esta únicamente se *otorgaron garantías* previamente
+positivizadas en la constitución  misma a los *individuos*. Esta concepción
+positivista no fue superada durante el siglo XX,[^Nota99] cuando no hubo
+modificaciones de dicho artículo, ni en las reformas de 2001 y 2006,[^reformas]
+sino únicamente con la Reforma (vea el Cuadro \@ref(tab:const)). En efecto, la
+redacción del primer párrafo de este artículo a partir de la Reforma indica que
+las *personas* tienen unos derechos que tanto la CPEUM como los tratados
+internacionales les *reconocen* (es decir, no son un otorgamiento de estos) y
+gozan de las *garantías* para su protección. En este sentido, es como si este
+párrafo de la CPEUM hubiese vuelto a sus orígenes de una forma actualizada: un
+auténtico reencuentro.
 
-```{r, echo = FALSE, message = FALSE}
+Además de este reencuentro, la Reforma asignó responsabilidades al Estado para
+enfocar su actuación a la luz de estos derechos: no se trató de un reencuentro
+entre iguales, sino mas bien del reencuentro de un joven con su yo, más sabio,
+del futuro. Mientras que en la Constitución de 1857 las leyes y las autoridades
+"*deben respetar y sostener las garantías*", en la Reforma se establecen
+obligaciones y deberes para el Estado y todas sus autoridades,[^competencia] así
+como unos principios para la interpretación[^interpretacion] y la realización de
+los DDHH.[^realizacion] En este sentido, un cambio positivo de la Reforma fue
+que no sólo se reencontró, sino que superó a la Constitución de 1857 con un
+enfoque moderno que asignó responsabilidades al Estado para enfocar su actuación
+a la luz de estos derechos.
+
+```{r const, echo = FALSE, message = FALSE}
 library('tidyverse')
 library('kableExtra')
 cons1857 <- c('El pueblo mexicano reconoce que los derechos del hombre son la base y el objeto de las instituciones sociales. En consecuencia declara que todas las leyes y todas las autoridades del pais deben respetar y  sostener las garantías que otorga la presente Constitucion.', '', '', '', '')
@@ -28,22 +59,56 @@ ref2011 <- c('En los Estados Unidos Mexicanos \\textbf{todas las personas gozar�
 cbind(cons1857, cons1917, ref2001, ref2006, ref2011) %>%
     knitr::kable(row.names = FALSE, format = 'latex', longtable = TRUE,
                  escape = FALSE,
-                 col.names = c('Const. de 1857\\textsuperscript{1}',
-                               'Const. de 1917\\textsuperscript{2}',
-                               'Ref. de 2001\\textsuperscript{3}',
-                               'Ref. de 2006\\textsuperscript{4}',
-                               'Ref. de DDHH de 2011\\textsuperscript{5}'),
+                 col.names = c('Constitución de 1857',
+                               'CPEUM',
+                               'Reforma de 2001\\textsuperscript{a}',
+                               'Reforma de 2006\\textsuperscript{b}',
+                               'Reforma'),
                                caption = 'Evolución del artículo 1 de la CPEUM a
                                partir de 1857.') %>%
     kable_styling('striped', latex_options = 'repeat_header', position = 'center',
                   full_width = FALSE, ) %>%
     row_spec(0, bold = TRUE) %>%
     column_spec(1:5, width = '3cm') %>%
-    footnote(number = c('Constitución Federal de los Estados Unidos Mexicanos, 1857.',
-                        'Constitución Política de los Estados Unidos Mexicanos.',
-                        'DECRETO por el que se aprueba el diverso por el que se adicionan un segundo y tercer párrafos al artículo 1o., se reforma el artículo 2o., se deroga el párrafo primero del artículo 4o.; y se adicionan un sexto párrafo al artículo 18, y un último párrafo a la fracción tercera del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 14 de agosto de 2001.',
-                        'DECRETO por el que se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 4 de diciembre de 2006.',
-                        'DECRETO por el que se modifica la denominación del Capítulo 1 del Título Primero y reforma diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 10 de junio de 2011.'),
-             threeparttable = TRUE, number_title = 'Notas:') %>%
-    landscape()
+    footnote(alphabet = c('DECRETO por el que se aprueba el diverso por el que se adicionan un segundo y tercer párrafos al artículo 1o., se reforma el artículo 2o., se deroga el párrafo primero del artículo 4o.; y se adicionan un sexto párrafo al artículo 18, y un último párrafo a la fracción tercera del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 14 de agosto de 2001.',
+                        'DECRETO por el que se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los Estados Unidos Mexicanos, publicado en el DOF el 4 de diciembre de 2006.'),
+             threeparttable = TRUE, number_title = 'Notas:')
 ```
+
+# Referencias
+
+[^ReformaDDHH]: El 10 de junio de 2011 se publicó en el Diario Oficial de la
+Federación (DOF) el DECRETO por el que se modifica la denominación del Capítulo
+1 del Título Primero y reforma diversos artículos de la Constitución Política de
+los Estados Unidos Mexicanos (Decreto de DDHH). Este decreto generó un cambio de
+paradigma en el derecho mexicano propiciado por las demandas de la sociedad
+civil, un ambiente internacional favorable y la alternancia política después del
+periodo de hegemonía del Partido Revolucionario Institucional
+[@internacional_dh; @conforme_dh, p. 108].
+
+[^reformas]: Ambas reformas mantienen intacto el primer párrafo del artículo 1
+de la CPEUM; la reforma del 2001 adiciona dos párrafos: uno sobre la esclavitud
+y otro sobre la discriminación y es el primer cambio importante en dicho
+artículo; por su parte, la reforma del 2006 únicamente hace una precisión del
+lenguaje en el párrafo sobre discriminación. Vea el Cuadro \@ref(tab:const).
+
+[^Nota99]: @conforme_dh[p. 104] afirma que en 1999 se modificó el concepto de
+*garantía* por el de *amparo* de los derechos humanos en el artículo 102 de la
+CPEUM, con  lo que se superó la confusión existente en el siglo XX entre los
+DDHH y sus  medios de garantía.
+
+[^competencia]: @estado_dh[sección II] analiza la distribución de competencias
+en un Estado federal y sugiere que "(...) *la distribución de competencias no
+puede servir como excusa para desentenderse de las obligaciones que los derechos
+generan para las mismas* [autoridades]."
+
+[^interpretacion]: @conforme_dh analiza el cambio que trajo consigo elevar al
+rango de la CPEUM a los tratados internacionales de DDHH como fuente del derecho
+mexicano (pues con anterioridad estos tratados se encuentraban en un nivel
+por debajo de la CPEUM, aunque por encima de las demás leyes, como lo hacen hoy
+los demás tratados internacionales) y sus implicaciones con respecto a los
+principios de *interpretación conforme* y *pro persona*.
+
+[^realizacion]: En la CPEUM después de la Reforma se establece que los DDHH
+tienen los "(...) *principios de universalidad, interdependencia,
+indivisibilidad y progresividad*".
