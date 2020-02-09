@@ -1,0 +1,34 @@
+---
+title: 'Persuasión y abogacía'
+author: 'Santiago Botero Sierra'
+date: '7 de febrero de 2020'
+output: pdf_document
+---
+
+Cuando una persona no puede resolver por sí misma un problema con otra, busca a
+un abogado para que le ayude. La dificultad para encontrar una solución puede
+deberse a que los intereses de las partes les impiden verla y llegar a un
+acuerdo, o a que la complejidad del problema hace que acepte varias soluciones
+que no son igualmente ventajosas para las partes y, por lo tanto, se requiere
+que una autoridad determine quién tiene la razón. En ambos casos, la persuasión
+es importante para la labor del abogado en cualquier parte; luego, también en
+México.
+
+Cuando los problemas tienen una solución pero las partes no la encuentran por sí
+mismas, acudir al litigio es costoso; por lo tanto, el abogado debe ayudarle al
+cliente a buscar un arreglo con la contraparte. En este caso, como los
+implicados no vieron la solución por sí mismos, la persuasión es importante para
+que el abogado les explique cuál es la solución y cómo deben llegar a ella; así
+cumple con su función, pues ayuda a su cliente a resolver su problema y le evita
+gastos innecesarios.
+
+En cambio, cuando las soluciones no son unívocas y la que quiere la contraparte
+es lesiva para el cliente, entonces se debe acudir al litigio para que una
+autoridad decida cuál es la solución adecuada y vincule a ambas partes para
+resolver el problema. En este caso, la persuasión es importante para que el
+abogado convenza a la autoridad para que decida en derecho lo que más convenga
+al cliente.
+
+En síntesis, la persuasión es importante para que el abogado ayude a su cliente
+a resolver problemas de la forma que más le convenga, independientemente de si
+esta forma es amistosa o litigiosa.

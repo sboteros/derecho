@@ -1,0 +1,202 @@
+---
+title: 'Metodología de la enseñanza y la investigación jurídica'
+subtitle: 'Edgar S. Cabellero'
+author: 'Santiago Botero Sierra'
+date: 'Enero a marzo de 2020'
+output: pdf_document
+bibliography: 0.biblio.bib
+---
+
+# Sobre la clase
+
++ [Página del profesor](edgarcabellero.com)
++ Se va a fucionar el temario de la maestría en CEC y la licencitura de la UNAM.
++ Va a hacer llegar una antología; leeremos un capítulo de la misma en cada
+    sesión de clase.
++ Las actividades extracurriculares están basadas en un ensayo, del que habrá
+    que hacer un reporte.
++ Actividades extracurriculares
+    - 29 de febrero
+    - 14 de marzo
+    - 4 de abril
++ Libro base: ¿Cómo hacer una tesis?
++ Criterios de Harvard para elaborar la bibliografía.
++ Criterios de evaluación
+
+    +-----------------------------------------------+
+    | Actividad       | Fecha           | Aporte    |
+    +=================+=================+===========+
+    | Examen parcial  | 7 de marzo      | 25%       |
+    | Examen final    | 2 de mayo       | 25%       |
+    | Ensayo          | 2 de mayo       | 50%       |
+    | Actividad 1     | 22 de febrero   | 1 punto   |
+    | Actividad 2     | 28 de marzo     | adicional |
+    | Actividad 3     | 18 de abril     |           |
+    +-----------------+-----------------+-----------+
+    Table: Actividades de evaluación.
+
+    - Ensayo:
+        - 40% de metodología, 30% de fondo, 15% de forma y 15% de ortografía
+            y citas.
+        - Sobre cualquiera de los temas que estén presentes en el temario o que
+            hayamos visto en clase.
+        - Por recibir, criterios metodológicos.
+        - Se enviarán unos criterios metodológicos.
+        - El estándar mínimo para la evaluación es el *ensayo descriptivo*.
+    - Primer examen: Desarrollo de contenido (5 o 10 preguntas)
+    - Segundo examen: Desarrollo y razonamiento (5 o 10 pregunta de cada uno).
+    - Se enviarán instrucciones para las actividades.
+
+# Contexto del derecho
+
++ Sociedad primitiva $\rightarrow$ Pequeños núcleos de población que, en la
+    convivencia generan *reglan de conducta*. Estas requieren de una persona que
+    vigile su *cumplimiento*.
++ El núcleo de población se empieza a dividir y a expandir. Cuando el grupo
+    crece, comienza un proceso de expansión $\rightarrow$ Nuevos grupos con
+    diferentes *costumbres*; podemos llegar a una mediación o a extinguir sus
+    costumbres, para que ellos sigan las reglas que ya diseñamos.
+
++ Historia del derecho:
+    - Comenzó en Roma, como lo utilizamos nosotros. Tenían dos derechos: uno
+        para los ciudadanos y otro para los extranjeros. Regularon lo inherente
+        a la persona[^Libro1] la persona, la familia, la propiedad y las
+        obligaciones; estas son las cuatro grandes instituciones del derecho
+        romano.
+    - Siglos I a IV. Conquistaron fácilmente Francia, España y Alemania; no fue
+        tan fácil  Britania; se mantuvo por fuera el norte de Europa. Las
+        costumbres de los  núcleos de población fueron arrasadas y Roma impuso
+        las reglas para  entender el derecho. Justiniano recolectó los *Codex*.
+    - En el siglo IV la religión cristiana se volvió obligatoria en el Imperio
+        Romano. Las reglas de los *códex* empezaron a fusionarse con aspectos
+        morales y valores: una fusión entre el derecho y la teología; durante
+        más de 10 siglos fueron los sacerdotes quienes se dedicaron a enseñar el
+        derecho (derecho canónico).
+    - Nosotros recibimos la influencia de este derecho por medio de los
+        conquistadores españoles. En América existían unas reglas y costumbres,
+        pero comienza una transición.[^Libro2] A esta corriente del derecho se
+        le denomina *derecho civil*.
+
+    - Los británicos tienen otro tipo de derecho, llamada *derecho común*,
+        basado en precedentes.
+    - Los escandinavos se rigen por el respeto a la norma, según el profesor.
+        Asimismo, también los países orientales. Cada uno de estos conforma su
+        propia familia de derecho.
+
+    - Cuatro grandes familias:
+
+        * Derecho civil (romanista)
+        * Derecho común (británico)
+        * Derecho oriental
+        * Familia escandinava
+
++ Leer Los grandes sistemas jurídicos contemporáneos, de René David.
+
+#  Derecho como ciencia
+
+> A través del tiempo los seres humanos han diseñado dos corrientes para
+> construir el conocimiento. La primera se denomina idealismo y tiene como
+> característica principal la construcción del conocimiento a través del
+> racionamiento de ideas y con la generación de preguntas y respuestas (Grecia).
+>
+> La segunda corriente nace en el periodo de la ilustración y, contrario al
+> idealismo, esta corriente se basa en la observación, descripción,
+> interpretación y evaluación de los hechos concretos (Descartes, método
+> científico).
+
++ Diversas formas de generación del conocimiento:
+    - *Idealismo*. Lo situamos generalmente en Grecia (Platón, Aristóteles,
+        Sócrates); utilizaban la *dialéctica* y la *mayéutica*. Se crea
+        conocimiento a partir de la concepción de dioses.
+    - *Materialismo*. Identificado normalmente con el siglo de las luces. El
+        conocimiento se crea a partir de la observación de hechos concretos.
+        Se utiliza el *método científico* (Descartes, Compte). Kant.
+
++ Leer La estructura de las revoluciones científicas, de Thomas Khun.
+    - Existe una revolución científica cuando un paradigma logra vencer a un
+        paradigma anterior y se convierte en un nuevo modelo.
+
+# Documentos
+
++ Documento de investigación.
+    - *Ensayo*, su objetivo es dar una opinión.
+    - *Reseña*, su objetivo principal es dar a conocer el libro que se reseña.
+    - *Control de lectura*, incluye un resumen y su objetivo es simplemente
+        estudiar.
+    - *Monografías*, su objetivo es profundizar el conocimiento; son estudios
+        descriptivos. Tiene la misma característica de una *tesina*.
+    - *Tesis*, su objetivo es proponer una solución.
+    - *Artículo de divulgación científica* (su descripción es más bien de un
+        *paper*), tiene como objetivo una publicación de nuevo conocimiento
+        científico.
+
++ Estructura del ensayo
+    - Tipos de ensayos:
+        * Descriptivo: **a)** introducción (tema, objetivo, metodología y
+            estructura), **b)** marco teórico (información fundamental que se
+            debe conocer previamente al desarrollo del tema central; podría
+            contener conceptos, antedentes, filosofía, etc., pero su contenido
+            depende del ensayo mismo), **c)** tema central, **d)** conclusión,
+            **d)** referencias.
+        * Analítico: **a)** introducción (tema, objetivo, metodología, problema
+            y estructura), **b)** marco teórico (*id*), **c)** tema central,
+            **d)** problema, **e)** análisis, **f)** conclusión, **g)** fuentes.
+        * Propositivo: **a)** introducción (tema, objetivo, metodología,
+            problema, solución y estructura), **b)** marco teórico (*id*),
+            **c)** tema central, **d)** problema, **e)** solución,
+            **f)** conclusión, **g)** fuentes.
+    - Lo primero es pensar en el público al que va dirigido el documento.
+    - Introducción: debe decir cuál es el tema del ensayo, cuál es el objetivo,
+        describir la metodología y plantear la estructura del ensayo.
++ Delimitación
+    - Material
+    - Espacial o contexto de observación
+    - Temporal
+
++ **Accidentes aristotélicos**.
+
++ Técnicas y métodos de investigación
+    - Técnicas, son la forma de *interacción* con las fuentes de investigación.
+        Las principales técnicas son documental y trabajo de campo; puede ser
+        mixto.
+    - Métodos, son los *procedimientos* de construcción de la investigación. Los
+        principales métodos son deductivo, comparativo, inductivo e histórico.
+
++ Algunas fuentes de información
+    - [Instituto de investigaciones jurídicas](juridicas.unam.mx)
+    - [Redalyc](redalyc.org)
+    - Para filosofía del derecho, [Isonomía](isonomia.itam.mx)
+    - [Biblioteja Jurídica Miguel de Cervantes](www.cervantesvirtual.com)
+    - Para leyes [SCJN normatividad](scjn.gob.mx/normativa-nacional-internacional),
+        es más confiable que la de la [Cámara de Diputados](dipudados.gob.mx).
+    - Para jurisprudencia, el [Semanario Judial de la Federación](sjf.scjn.gob.mx)
+
++ Índice de un ensayo descriptivo de los derechos fundamentales de la
+CPEUM a partir del 10 de junio de 2011.
+    - Introducción (tema, objetivo, metodología y estructura)
+    - Marco teórico
+
+        * Derechos humanos y *iusnaturalismo*
+        * Garantías y *positivismo*
+        * Distinción entre DDHH y derechos fundamentales
+        * Confusión entre garantías y DDHH en el siglo XX
+        * Condenas de la CIDH contra México
+
+    - Reforma de DDHH de 2011
+
+        * Distinción entre derechos y sus garantías
+        * Fuentes en el ordenamiento mexicano
+
+    - Conclusión
+    - Referencias
+
++ En la CPEUM hay:
+    - Principios
+    - Reglas (el Estado hará...)
+    - Normas (conducta-sanción)
+
++ Silogismo: premisa mayor (norma), premisa menor (hecho) y conclusión (nexo
+    entre el hecho y la norma).
+    
+[^Libro1]: Leer El proceso de Cristo, de Ignacio Burgoa.
+[^Libro2]: Leer Tlacaélel.

@@ -112,8 +112,69 @@ entonces, no es un acto; es un hábito.
         * Usar cifras precisas; además, dificultan que la otra parte pueda
             regatear.
         * Tendemos a creerle más a las personas que percibimos exitosas.
+        * Si hay alguna debilidad, no esperar a que la otra persona la descubra,
+            sino ponerla en la mesa lo antes posible.
+        * Conoce tu caso a la perfección.
 
-    - **Compromiso/consistencia**
-    - **Escasez**
-    - **Gusto**
-    -
+    - **Compromiso/consistencia**. Podemos persuadir mejor a alguien si
+        logramos que haga público un compromiso respecto al tema y, aún más,
+        que lo haga público.
+    - **Escasez**. Podemos señalar lo que una persona perdería si no se hace el
+        compromiso (*sesgo de aversión a la pérdida*); pues puede ser superior
+        el miedo a la pérdida que el goce de lo que podría ganar.
+    - **Gusto**. Se  pueden generar lazos a partir de gustos comunes; busquemos
+        en los demás algo que nos guste, y activamos el mecanismo de la
+        reciprcidad. :)
+    - **Tendencia social**. Las personas actúan tal como perciben que actúan
+        las demás.
+
++ Estrategia de convencimiento:
+    - Ayudar al otro a cantar victoria: no se trata de ganar, sino sólo de
+        obtener lo que queremos.
+
+        * Saber conceder es esencial para desarrollar una actitud conciliadora
+            que predispone a la otra parte a llegar a un mejor acuerdo.
+
+    - Ayudarle a decir la verdad.
+    - Poner muchos asuntos sobre la mesa y no solamente uno.
+
++ **Método de Henry Kissinger**. Planteaba siempre 5 opciones al tomador de
+    decisiones: la primera y la última eran las más extremas; en el medio,
+    estaban las que él prefería.
+
++ Necesidades del abogado
+    - Conoce tu caso a la perfección. Supone haber revisado todo lo que forma
+        parte de la *litis* o tener relevancia en el curso del proceso. Los
+        cursos se ganan con preparación.
+    - Enfocar la persuasión. Ser selectivos en la selección de argumentos; es
+        mejor desarrollar uno a fondo que extraviar al tribunal con muchos
+        argumentos irrelevantes.
+    - Cuidar el lenguaje. La forma de decir las cosas incide en nuestra
+        capacidad persuasiva.
+    - Organizar la forma de presentar las opciones para facilitar que el otro
+        elija la opción que queremos.
+    - Dar opciones, pero no demasiadas (*parálisis por análisis*).
+
++ 10 aspectos de una buena argumentación:
+    1. Argumentar es, siempre, comunicar (comunicación efectiva, escrita u oral).
+    2. Toda buena argumentación parte de un proceso de toma de decisiones
+        (¿demando o no?, ¿utilizo un medio alternativo?, etc.)
+    3. Para argumentar bien no solo hay que conocer el derecho, sino también los
+        hechos alrededor del caso. Los hechos se regien por el principio de
+        cuausalidad (causas físicas, biológicas, químicas, etc.) que deben ser
+        organizadas y expuestas ante el tribunal.
+    4. Una argumentación efectiva descansa en pruebas, no es un concurso de
+        opiniones. "Los procesos judiciales no buscan responder a la pregunta
+        '¿qué pasó?' sino a '¿qué puedes probar?'". Pruebas testimonial,
+        pericial, electrónica, etc.
+    5. Toda buena argumentación supone una buena interpretación.
+    6. Hay que tener en cuenta la diferente estructura de las normas jurídicas
+        que integran el ordenamiento (en unas se aplica la subsunción, en otras
+        la ponderación, etc.).
+    7. Saber desarrollar una **teoría del caso**: elementos fácticos, normativos
+        y probatorios para responder '¿qué paso?'.
+    8. Usar todo el arsenal argumentativo disponible: derecho interno e
+        internacional, la jurisprudencia interamericana.
+    9. Conocer sentencias del juez o tribunal ante el que actuamos e identificar
+        el "estilo judicial".
+    10. Estudio de la argumentación por medio de casos.

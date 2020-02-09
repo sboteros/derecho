@@ -1,0 +1,38 @@
+---
+title: 'Perspectiva de la abogacía'
+subtitle: 'Menos pleitos para un México menos impune'
+author: 'Santiago Botero Sierra'
+date: '7 de febrero de 2020'
+output: pdf_document
+---
+
+Vislumbro que el trabajo de los abogados mexicanos será menos litigioso porque
+comprenderán que su deber es ayudar a sus clientes a resolver sus problemas de
+la forma más eficiente posible. Creo que esta comprensión llevará a una práctica
+profesional honesta que ayudará a disminuir la impunidad que hay en nuestro
+país.
+
+Cuando una persona busca a un abogado es porque no puede resolver un problema
+con su contraparte por sí misma; por lo tanto, en el mejor interés del cliente,
+el abogado debe ayudarle a resolver su problema de la manera más eficiente (es
+decir, a encontrar la solución más eficaz, expedita y barata posible). Actuar de
+esa forma es, para el abogado, una práctica profesional honesta.
+
+La vía del litigio es menos eficiente que la solución amistosa de conflictos,
+pues requiere alegatos, tiempos procesales y otros procedimientos; por su parte,
+el cumplimiento oportuno de las obligaciones es más eficiente que la solución
+amistosa, pues evita el surgimiento del problema mismo. Por lo tanto, una
+práctica profesional honesta implica que el abogado ayude al cliente a cumplir
+sus obligaciones o a buscar un arreglo amistoso antes de iniciar un pleito.
+
+Lamentablemente, en México muchas veces observamos prácticas profesionales
+deshonestas, pues este es un país muy litigioso en el que, usualmente, se
+persiguen pleitos que se podrían resolver amistosamente o que solo buscan
+dilatar el cumplimiento de las obligaciones de una de las partes. Esto genera
+procesos largos e innecesarios que congestionan las instituciones de procuración
+de justicia y distraen recursos que podrían utilizarse para resolver problemas
+que sí las requieran. Con ello, las prácticas profesionales deshonestas
+contribuyen a aumentar los problemas de impunidad.
+
+Por lo tanto, una perspectiva de abogados mexicanos honestos que actúen en
+interés del cliente ayudará a alcanzar un México menos impune.

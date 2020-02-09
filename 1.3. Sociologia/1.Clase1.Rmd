@@ -1,0 +1,157 @@
+---
+title: 'Sociología jurídica'
+subtitle: 'Nayeli Villagrán Suárez'
+author: 'Santiago Botero Sierra'
+date: 'Enero a abril de 2020'
+output: pdf_document
+bibliography: 0.biblio.bib
+---
+
+# Introducción a la asignatura
+
++ Datos de contacto de la profesora: vilagrann@hotmail.com, celular
+    55 2081 3467.
++ Positivización del derecho: causas, comportamientos y exigencias dentro de la
+    estructura social que dan la pauta.
++ Origen, método, objeto y desarrollo de la sociología jurídica.
+
++ Criterios de evaluación
+    - Control de lectura (Doce juicios que cambiaron la historia). Seleccionar
+        un personaje y decir: (1) contexto histórico, (2) contexto sociológico
+        y (3) contexto jurídico. Seleccionar un juicio y entregar un control
+        de lectura de 2 cuartillas para la última clase, escrito a mano.
+    - Trabajo en clase
+    - Examen final: 10 preguntas abierta y 10 preguntas de relación en un
+        cuadro.
+    - 6 tareas.
+
++ Bibliografía recomendada
+    - Sociología general y jurídica, de Juan Abelardo Hernández Franco y José
+        Antonio Lozano Díez.
+    - Sociología general y sociología del derecho, de Juan Fernando Arriola.
+
++ Película: *La vida de David Gale*.
+
++ Doce Juicios que cambiaron la historia.
+    - Sócrates. El *contexto histórico* es el siglo IV y V a.de.C. El
+        *contexto sociológico* es el idealismo. En el *contexto jurídico* es
+        un sistema democrático que contradecía Sócrates, pensando en un
+        sistema regido por filósofos. Lo acusaban de corruptor de jóvenes.
+    - Jesús de Nazareth. La prédica religiosa como delito.
+        El *contexto histórico* fue de 5 a.de.C.  El *contexto sociológico*
+        fue el Imperio Romano. En el *contexto  jurídico*, los judíos no
+        permitían que alguien más participara, por  lo que lo crucificaron;
+        es muy importante sobre asuntos de debido  proceso, antecedentes
+        para figuras jurídicas del derecho romano, el honor, la blasfemia,
+        difamaciones, etc.. Fue un predicador.
+    - Jan Hus. ¿Por qué el papa pidió perdón?
+        El *contexto histórico* entre 1400 y 1500. Había una crisis de la
+        En el *contexto sociológico* hay Iglesia Romana, pues se da cuenta
+        de la riqueza e inmoralidad del clero; da un inicio a la Reforma
+        Eclesiástica; revuelta de los husitas; revueltas entre los checos y
+        la minoría alemana. El *contexto jurídico* es la prohibición de
+        ideas que contradijeran al clero, relaciones clero-Estado,
+        poder absolutista.
+    - Juana de Arco. ¿Loca, guerrera o iluminada?
+        Guerra de los cien años entre Inglaterra y Francia. No la dejan
+        participar en la guerra por ser mujer. No hay separación de Iglesia-
+        Estado. La acusan de herejía, apostasía y blasfemia.
+    - Giordano Bruno. El derecho de saber
+        El *contexto histórico* es el final del siglo XVI, pues sus primeros
+        problemas comenzaron con la comunidad de los  dominicos por leer a
+        Erasmo de Rotterdam en 1575 y murió el 12 de febrero de 1600. El
+        *contexto sociológico* es (i) la transición entre el medioevo y la
+         época del racionalismo y (ii) el cisma de  la Iglesia católica, que
+         generó nuevas religiones e impulsó a la Inquisición. El *contexto
+         jurídico* está relacionado con la libertad de pensamiento.
+    - Galileo Galilei. ¿Es el derecho promotor o detractor de la ciencia?
+        El *contexto histórico* es el renacimiento. Con la creación del
+        telescopio contradijo a la Iglesia pues comprobó la teoría de
+        Copernico. *Jurídicamente* creemos que es precursor de la separación
+        del Estado y la Iglesia; fue pionero del método científico.            
+    - Luis XVI. ¿Rey o tirano?
+        Fue el rey de Francia antes de la Revolución; el gobierno era
+        monárquico - absolutismo. En el *contexto sociológico* tenemos a una
+        sociedad cansada y la Revolución Francesa; el tercer estado buscaba
+        el voto por persona. En el *contexto jurídico* es aprisionado y
+        condenado por traición.
+    - Miguel Hidalgo. ¿Es delito luchar contra la opresión?
+        El *contexto histórico* fue el inicio de la guerra de independencia
+        en México. En el *contexto sociológico* fue sacerdote, teólogo,
+        criolo y tenía derechos limitados; hablaba mal de las órdenes
+        religiosas. En el *contexto jurídico* se reveló ante la conquista de
+        Napoleón; fue procesado por la Inquisición por herejía y apostasía.
+    - Caso Dreyfu y carta de Émile Zola. ¿El amigo del enemigo es también
+        enemigo?
+        1894-1896. Es un general acusado de espionaje, cuando Francia estaba  
+        en preparativos de guerra con Alemania. En el consejo de guerra se
+        le sentenció al exilio. Se le hizo una campaña por ser judío;
+        nacionalismo y antisemitismo en Francia; la evidencia era muy
+        débil y era para otro general. Émile Zola escribió una carta en la
+        que acusa a varias personas de llevar mal el juicio. Jurídicamente,
+        hay asuntos de discriminación y cadena de custodia; análisis de
+        documentos cuestionados (antecedente de grafología); asuntos en
+        derecho militar.
+    - Oscar Wilde. El Estado frente a la intimidad.
+        El *contexto histórico* es la época victoriana tardía. En el
+        *contexto sociológico* era homosexual. En el *contexto jurídico*
+        es un antecedente para el derecho a la privacidad.
+    - Juicio de Nuhremberg.
+        El *contexto histórico* fue de 1945 a 1946. En el *contexto
+        sociológico*, se dio después de la II Guerra Mundial contra los
+        dirigentes nazis por crímenes contra la humanidad; se dictó la
+        pena de muerte. En el *contexto jurídico* derechos humanos,
+        derecho penal internacional, etc.
+    - Al Capone. Fiscales creativos ante grandes desafíos penales.
+        En 1920 a 1923 se dio la ley seca en Estados Unidos. En el contexto
+        sociológico la gente buscaba alcohol. En 1929 fue detenido por
+        tráfico de armas, pero nunca se le pudo juzgar por crimen
+        organizado; aunque se le juzgó por evasión de impuestos. Es
+        antecedente para lavado de dinero.
+
+# Sociedad y método científico
+
++ Sociología, es una palabra compuesta (*societas* y *logos*), es el estudio de
+    la sociedad.
++ Ver *Which way home*, seguir a la Sociedad Mexicana de Sociología en Twitter
+    (@smsociologia) y leer *12 juicios que cambiaron la historia*.
+
+## Socidad, individuo, cultura y derecho.
+## Tipos de relaciones sociales
+## Estructura y organización social
+## Método científico para estudiar la sociedad
+## Principales teorías sociológicas
+
+**Primer entregable**
++ Positivismo
++ Formalismo sociológico
++ Materialismo histórico
++ Funcionalismo
++ Estructuralismo
+
+# Sociología y derecho
+
+## Funciones sociales del derecho
+## Origen y desarrollo de la sociología jurídica
+## Corrientes de la sociología jurídica
+## Efectividad social del derecho
+## Roles sociales y su regulación jurídica
+## Normas jurídicas y eficacia del derecho
+## Pluralismo jurídico y grupos indígenas
+
+# Instituciones jurídicas de la sociedad
+
+## Relación entre instituciones sociales e instituciones jurídicas
+## Constitución (Estado y Constitución)
+## Elementos sociales para la creación de normas
+## Administración e impartición de justicia
+## Procesos políticos
+## Participación ciudadana
+
+# El papel del abogado en la sociedad
+
+## El rol del abogado en la resolución de conflictos sociales
+## Abogacía
+## Responsabilidad social del abogado
+## El rol del abogado como funcionario
+## Deontología del abogado
