@@ -4,6 +4,9 @@ subtitle: 'Edgar S. Cabellero'
 author: 'Santiago Botero Sierra'
 date: 'Enero a marzo de 2020'
 output: pdf_document
+fontsize: 12
+subject: 'Metodología de la enseñanza y la investigación jurídica'
+institute: 'Centro de Estudios Jurídicos Carbonell'
 bibliography: 0.biblio.bib
 ---
 
@@ -154,6 +157,18 @@ bibliography: 0.biblio.bib
     - Temporal
 
 + **Accidentes aristotélicos**.
+        - Las *categorías* son operaciones lógico-fundamentales.
+            * Son un estudio de la expresión humana.
+            * Son producto del intelecto, pues se originan en la mente antes de
+                contener contacto con las cosas materiales.
+            * Para Kant, son formas *a priori* del pensamiento.
+        - 10 categorías aristotélicas: sustancia (es un ente que existe en sí
+            mismo), cantidad (la sustancia está dividida en partes), cualidad
+            (dispone o modifica a la sustancia), relación (orden de una cosa
+            respecto a otra), lugar, tiempo, acción, pasión (recepción de la
+            acción en el sujeto), posición, estado o hábito (modificación que
+            recibe una sustancia en virtud de la aplicación o yuxtaposición a
+            la misma de otra sustancia).
 
 + Técnicas y métodos de investigación
     - Técnicas, son la forma de *interacción* con las fuentes de investigación.
@@ -197,6 +212,6 @@ CPEUM a partir del 10 de junio de 2011.
 
 + Silogismo: premisa mayor (norma), premisa menor (hecho) y conclusión (nexo
     entre el hecho y la norma).
-    
+
 [^Libro1]: Leer El proceso de Cristo, de Ignacio Burgoa.
 [^Libro2]: Leer Tlacaélel.

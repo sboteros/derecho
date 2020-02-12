@@ -1,7 +1,7 @@
 ---
-title: 'Ejemplos de normas'
-subtitle: 'Normas sustantivas, adjetivas y orgánicas'
-author: 'Santiago Botero Sierra'
+title: Ejemplos de normas
+subtitle: Normas sustantivas, adjetivas y orgánicas
+author: Santiago Botero Sierra
 date: '3 de febrero de 2020'
 output: pdf_document
 bibliography: 0.biblio.bib
