@@ -2,6 +2,8 @@
 %% La plantilla original fue tomada de Pandoc
 %% (https://github.com/jgm/pandoc-templates/blob/master/default.latex)
 %% Se hacen modificaciones para añadir una hoja de portada cuando sea necesario.
+%% El diseño de la portada se tomó de Exercises Computational stats
+%% (https://www.overleaf.com/latex/templates/exercices-computational-stats/wfjxckrpgtsd)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
@@ -410,7 +412,33 @@ $if(title)$
 $if(beamer)$
 \frame{\titlepage}
 $else$
+%%%
+%%% Si se le pide portada, la hace y cambia la forma del título; si no, continúa haciendo el título normalmente.
+$if(portada)$
+\begin{titlepage}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}\center
+\textsc{\LARGE $institute$}\\[1.5cm]
+$if(logo)$
+\includegraphics[height=2cm]{$logo$}\\[1cm]
+$endif$
+\textsc{\Large Licenciatura en Derecho}\\[0.5cm]
+\textsc{\large $course$}\\[0.5cm]\HRule \\[0.4cm]
+{ \huge \bfseries $title$}\\{\large $subtitle$}\\[0.4cm]
+\HRule \\[1.5cm]
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Autor:}\\
+\textsc{$for(author)$$author$$sep$ \and $endfor$}\\
+\end{flushleft}
+\end{minipage}\\[1.5cm]
+\Large \emph{Profesor:}\\
+\textsc{$for(teacher)$$teacher$$sep$  \and $endfor$}\\[2cm]
+{\large $date$}\\[1.5cm]
+\vfill
+\end{titlepage}
+$endif$
 \maketitle
+%%%
 $endif$
 $if(abstract)$
 \begin{abstract}

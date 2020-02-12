@@ -3,11 +3,22 @@ title: Ejemplos de normas
 subtitle: Normas sustantivas, adjetivas y orgánicas
 author: Santiago Botero Sierra
 date: '3 de febrero de 2020'
-output: bookdown::pdf_document2:
+output: 
+  bookdown::pdf_document2:
+    template: carbonell_template.tex
     includes:
-        in_header: header.tex
+      in_header: header.tex
+    keep_tex: true
+    keep_md: true
 bibliography: 0.biblio.bib
 lang: 'es'
+subparagraph: yes
+portada: true 
+logo: CEC.pdf
+course: Introducción al estudio del derecho
+institute: Centro de Estudios Jurídicos Carbonell
+teacher: Nombre del Profesor
+graphics: true
 ---
 
 La normatividad del derecho se puede clasificar en:
