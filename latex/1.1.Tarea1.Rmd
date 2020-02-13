@@ -3,7 +3,7 @@ title: Ejemplos de normas
 subtitle: Normas sustantivas, adjetivas y orgánicas
 author: Santiago Botero Sierra
 date: '3 de febrero de 2020'
-output: 
+output:
   bookdown::pdf_document2:
     template: carbonell_template.tex
     includes:
@@ -14,8 +14,8 @@ output:
 bibliography: 0.biblio.bib
 lang: 'es'
 subparagraph: yes
-portada: true 
-logo: CEC.pdf
+portada: true
+logo: CEC.jpg
 course: Introducción al estudio del derecho
 institute: Centro de Estudios Jurídicos Carbonell
 teacher: Nombre del Profesor
@@ -51,6 +51,19 @@ el sector salud).[^Nota1]
 ##### Nivel 5
 
 ###### Nivel 6
+
+\citecase{Lochner v. New York, 198 U.S. 45 (1905)}
+\citecase[Steel Seizure Case]{Youngstown Sheet \& Tube Co. v. Sawyer, 343 U.S. 579 (1952)}
+
+\cite[l]{Lochner}.
+
+\pincite{Lochner}{48}.
+
+\pincite{Steel Seizure Case}{602}.
+
+\pincite{Lochner}{52}.
+
+\See \pincite{Steel Seizure Case}{625}.
 
 La Ley Federal de Competencia Económica (LFCE)[^LFCE] es reglamentaria del
 artículo 28 de la Constitución Política de los Estados Unidos Mexicanos (CPEUM)

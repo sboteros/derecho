@@ -720,18 +720,18 @@
 \def\@bbMiscLongCite#1#2{{\def\pin##1##2{\FillIn{##1}{#2}{##2}}\FullName{#1}}}
 
 %Short-form citation, with and without a pin cite
-\newcommand{\@bbCaseShortCite}[2]{{\em\ShortName{#1}}, \ifdefined\@bbCaseSupra{{\em supra}, }\fi\Reporter{#1}\penalty100\ifempty{#2}{\ \StartPage{#1}}{\ at~#2}}
-\newcommand{\@bbBookShortCite}[2]{\FillIn{}{\@vol}{ }{\BTF\ShortName{#1}}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, at #2}}
+\newcommand{\@bbCaseShortCite}[2]{{\em\ShortName{#1}}, \ifdefined\@bbCaseSupra{{\em supra}, }\fi\Reporter{#1}\penalty100\ifempty{#2}{\ \StartPage{#1}}{\ en ~#2}}
+\newcommand{\@bbBookShortCite}[2]{\FillIn{}{\@vol}{ }{\BTF\ShortName{#1}}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, en #2}}
 \newcommand{\@bbStatuteShortCite}[2]{\ShortName{#1} #2}
-\newcommand{\@bbArticleShortCite}[2]{\ShortName{#1}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, at #2}}
-\newcommand{\@bbInCollectionShortCite}[2]{\ShortName{#1}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, at #2}}
-\newcommand{\@bbInSingleAuthorCollectionShortCite}[2]{\FillIn{}{\@vol}{ }{\BTF\ShortName{#1}}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, at #2}}
-\newcommand{\@bbCollectionShortCite}[2]{\FillIn{}{\@vol}{ }{\BTF\Title{#1}}, \emph{supra}\IfFootnote{ note \SupraNote{#1}},\ifpin{ at #2}}
+\newcommand{\@bbArticleShortCite}[2]{\ShortName{#1}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, en #2}}
+\newcommand{\@bbInCollectionShortCite}[2]{\ShortName{#1}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, en #2}}
+\newcommand{\@bbInSingleAuthorCollectionShortCite}[2]{\FillIn{}{\@vol}{ }{\BTF\ShortName{#1}}, {\em supra}\IfFootnote{ note \SupraNote{#1}}\ifpin{, en #2}}
+\newcommand{\@bbCollectionShortCite}[2]{\FillIn{}{\@vol}{ }{\BTF\Title{#1}}, \emph{supra}\IfFootnote{ note \SupraNote{#1}},\ifpin{ en #2}}
 \newcommand{\@bbMiscShortCite}[2]{\ShortName{#1}\ifpin{ #2}}
 
 %Reporter-number-only citation, with and without a pin cite
 \newcommand{\@bbReporterOnlyCite}[1]{\Reporter{#1} \StartPage{#1}}
-\newcommand{\@bbReporterOnlyPinCite}[2]{\Reporter{#1}\penalty100\ at~#2}
+\newcommand{\@bbReporterOnlyPinCite}[2]{\Reporter{#1}\penalty100\ en ~#2}
 
 %Dispatch a call to the type-specific citation form
 %\newcommand{\@bbIndexCite}[2]{{\protect\frenchspacing\Call{@bb\SrcType{#1}IndexCite}{#1}{#2}}}
@@ -822,7 +822,7 @@
 				%\def\@At{\ifthenelse{\equal{\SrcType{#1}}{Statute}}{~}{~at~}}%
 				%ALTERNATE: Use "at" iff the pin is numeric
 				\def\@At{~}%
-				\IfInteger{\@pin}{\def\@At{~at~}}{}%
+				\IfInteger{\@pin}{\def\@At{~ en ~}}{}%
 %
 				%If the exact page as well (or there is no pincite), just use id; otherwise use Id. with pin cite
 				\ifthenelse{\equal{\@bbLastPinPage}{#2} \or \equal{}{#2} }
@@ -945,7 +945,7 @@
 \newcommand{\Accord}{\@DefSignal{\emph{Acordd}}}
 \newcommand{\Contra}{\@DefSignal{\emph{Contra}}}
 
-\renewcommand{\see}{\@DefSignal{\emph{vea}}}
+\newcommand{\see}{\@DefSignal{\emph{vea}}}
 \newcommand{\seealso}{\@DefSignal{\emph{vea tamb\'en}}}
 \newcommand{\seeeg}{\@DefSignal{\emph{vea, e.g.},}}
 \newcommand{\cf}{\@DefSignal{\emph{cf.\@}}}
