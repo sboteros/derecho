@@ -20,17 +20,17 @@
 \renewcommand\tiny{\@setfontsize\tiny{5}{6}}
 \renewcommand\large{\@setfontsize\large{13}{15}}
 \renewcommand\Large{\@setfontsize\Large{14}{16}}
-\renewcommand{\thesection}{\Roman{section}}
-\renewcommand{\thesubsection}{\Alph{subsection}}
-\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
-\renewcommand{\theparagraph}{\alph{paragraph}}
-\renewcommand{\thesubparagraph}{\roman{subparagraph}}
+\renewcommand{\thesection}{\Roman{section}.}
+\renewcommand{\thesubsection}{\arabic{subsection}.}
+\renewcommand{\thesubsubsection}{\hspace{3em}\Alph{subsubsection}.}
+\renewcommand{\theparagraph}{\hspace{5em}\arabic{paragraph})}
+\renewcommand{\thesubparagraph}{\hspace{7em}\alph{subparagraph})}
 %------
-\titleformat{\section}[block]{\normalfont\normalsize\scshape\center}{\thesection.}{1em}{}
-\titleformat{\subsection}[block]{\normalfont\itshape\center}{\thesubsection.}{1em}{}
-\titleformat{\subsubsection}{\normalfont}{\thesubsubsection.}{1em}{}
-\titleformat{\paragraph}{\normalfont}{\theparagraph.}{1em}{}
-\titleformat{\subparagraph}{\normalfont\small}{\thesubparagraph.}{1em}{}
+\titleformat{\section}[block]{\normalfont\normalsize\scshape\center}{\thesection}{1em}{}
+\titleformat{\subsection}[block]{\normalfont\itshape}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}{\normalfont}{\theparagraph}{1em}{}
+\titleformat{\subparagraph}{\normalfont}{\thesubparagraph}{1em}{}
 \titlespacing{\subparagraph}{0pt}{12pt}{12pt}
 \makeatother
 
@@ -39,7 +39,7 @@
 \renewcommand\cftsubsecfont{\normalfont\normalsize\itshape}
 \renewcommand\cftsubsubsecfont{\normalfont\normalsize}
 \renewcommand\cftparafont{\normalfont\normalsize}
-\renewcommand\cftsubparafont{\normalfont\small}
+\renewcommand\cftsubparafont{\normalfont\normalsize}
 \renewcommand\cftsecpagefont{\normalfont\normalsize}
 \renewcommand\abstractname{\normalfont\normalsize\scshape Resumen}
 

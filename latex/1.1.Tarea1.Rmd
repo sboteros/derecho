@@ -44,6 +44,14 @@ el sector salud).[^Nota1]
 
 ## Norma sustantiva
 
+### Nivel 3
+
+#### Nivel 4
+
+##### Nivel 5
+
+###### Nivel 6
+
 La Ley Federal de Competencia Económica (LFCE)[^LFCE] es reglamentaria del
 artículo 28 de la Constitución Política de los Estados Unidos Mexicanos (CPEUM)
 y tiene "(...) *por objeto promover, proteger y garantizar la libre concurrencia
