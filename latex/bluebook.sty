@@ -41,7 +41,7 @@
 \ProvidesPackage{bluebook}[2011/11/11 Legal Bluebook-style Citations]
 
 \RequirePackage{ifthen}
-\RequirePackage{multind}
+%\RequirePackage{multind} % En desuso, creo que es para IndexType.
 \RequirePackage{xstring}
 \RequirePackage{xspace}
 \RequirePackage{url}
@@ -931,27 +931,27 @@
 		{\globalsetboolean{@bbCapNextSource}{false}\def\@bbSignal{#1 }}%
 }
 
-\newcommand{\See}{\@DefSignal{\emph{See}}}
-\newcommand{\Seealso}{\@DefSignal{\emph{See also}}}
-\newcommand{\Seeeg}{\@DefSignal{\emph{See, e.g.},}}
-\newcommand{\Seegenerally}{\@DefSignal{\emph{See generally}}}
+\newcommand{\See}{\@DefSignal{\emph{Vea}}}
+\newcommand{\Seealso}{\@DefSignal{\emph{Vea tambi\'en}}}
+\newcommand{\Seeeg}{\@DefSignal{\emph{Vea, e.g.},}}
+\newcommand{\Seegenerally}{\@DefSignal{\emph{Vea en general}}}
 \newcommand{\Cf}{\@DefSignal{\emph{Cf.\@}}}
 
-\newcommand{\Butsee}{\@DefSignal{\emph{But see}}}
-\newcommand{\Butseeeg}{\@DefSignal{\emph{But see, e.g.},}}
-\newcommand{\Butcf}{\@DefSignal{\emph{But cf.\@}}}
+\newcommand{\Butsee}{\@DefSignal{\emph{Pero vea}}}
+\newcommand{\Butseeeg}{\@DefSignal{\emph{Pero vea, e.g.},}}
+\newcommand{\Butcf}{\@DefSignal{\emph{Pero cf.\@}}}
 
 \newcommand{\Compare}{\@DefSignal{\emph{Compare}}}
-\newcommand{\Accord}{\@DefSignal{\emph{Accord}}}
+\newcommand{\Accord}{\@DefSignal{\emph{Acordd}}}
 \newcommand{\Contra}{\@DefSignal{\emph{Contra}}}
 
-\renewcommand{\see}{\@DefSignal{\emph{see}}}
-\newcommand{\seealso}{\@DefSignal{\emph{see also}}}
-\newcommand{\seeeg}{\@DefSignal{\emph{see, e.g.},}}
+\renewcommand{\see}{\@DefSignal{\emph{vea}}}
+\newcommand{\seealso}{\@DefSignal{\emph{vea tamb\'en}}}
+\newcommand{\seeeg}{\@DefSignal{\emph{vea, e.g.},}}
 \newcommand{\cf}{\@DefSignal{\emph{cf.\@}}}
 
-\newcommand{\butsee}{\@DefSignal{\emph{but see}}}
-\newcommand{\butseeeg}{\@DefSignal{\emph{but see, e.g.},}}
+\newcommand{\butsee}{\@DefSignal{\emph{pero vea}}}
+\newcommand{\butseeeg}{\@DefSignal{\emph{pero vea, e.g.},}}
 \newcommand{\butcf}{\@DefSignal{\emph{but cf.\@}}}
 
 \newcommand{\compare}{\@defSignal{\emph{Compare}}}
