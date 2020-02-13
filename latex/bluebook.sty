@@ -991,14 +991,14 @@
 %% \noindent
 %%_\Ordinal, \ordinal_ --- Given an integer, convert into a textual ordinal number (through Tenth)
 %%
-\newcommand\Ordinal[1]{\ifcase\value{#1}Zeroth\or First\or Second\or Third\or Fourth\or Fifth \or Sixth\or Seventh\or Eighth\or Ninth\or Tenth\else \error{Counter is too high for ordinal}\fi}
-\newcommand\ordinal[1]{\ifcase\value{#1}zeroth\or first\or second\or third\or fourth\or fifth\or sixth\or seventh\or eighth\or ninth\or tenth\else \error{Counter is too high for ordinal}\fi}
+\newcommand\Ordinal[1]{\ifcase\value{#1}Nulo\or Primero\or Segundo\or Tercero\or Cuarto\or Quinto\or Sexto\or S\'eptimo\or Octavo\or Noveno\or D\'ecimo\else \error{El contador es demasiado grande para ordinales}\fi}
+\newcommand\ordinal[1]{\ifcase\value{#1}nulo\or primero\or segundo\or tercero\or cuarto\or quinto\or sexto\or s\'eptimo\or octavo\or noveno\or d\'ecimo\else \error{El contador es demasiado grande para ordinales}\fi}
 
 %%
 %% \noindent
 %%_\availableat{URL}_ --- Provides a web citation in the text, using the URL package
 %%
-\newcommand{\availableat}[1]{\protect\emph{available at} \protect\url{#1}}
+\newcommand{\availableat}[1]{\protect\emph{disponible en} \protect\url{#1}}
 
 %%
 %% \noindent
