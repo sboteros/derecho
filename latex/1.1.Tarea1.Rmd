@@ -55,15 +55,15 @@ el sector salud).[^Nota1]
 \citecase{Lochner v. New York, 198 U.S. 45 (1905)}
 \citecase[Steel Seizure Case]{Youngstown Sheet \& Tube Co. v. Sawyer, 343 U.S. 579 (1952)}
 
-\cite[l]{Lochner}.
+Hola \cite[l]{Lochner}.
 
-\pincite{Lochner}{48}.
+Amigo mío\pincite{Lochner}{48}.
 
-\pincite{Steel Seizure Case}{602}.
+Yo necesito \pincite{Steel Seizure Case}{602}.
 
-\pincite{Lochner}{52}.
+Despreocuparme \pincite{Lochner}{52}.
 
-\See \pincite{Steel Seizure Case}{625}.
+Por las malditas citas!\See \pincite{Steel Seizure Case}{625}.
 
 La Ley Federal de Competencia Económica (LFCE)[^LFCE] es reglamentaria del
 artículo 28 de la Constitución Política de los Estados Unidos Mexicanos (CPEUM)
