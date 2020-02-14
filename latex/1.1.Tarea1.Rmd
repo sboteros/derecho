@@ -9,6 +9,7 @@ output:
     includes:
       in_header: header.tex
       before_body: before.tex
+      after_body: after.tex
     keep_tex: true
     keep_md: true
 bibliography: 0.biblio.bib

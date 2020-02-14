@@ -1,0 +1,7 @@
+\section{Referencias}
+\write18{makeindex -r -s lawcitations.ist Case}
+\write18{makeindex -L -r -s lawcitations.ist Statute}
+\write18{makeindex -r -s lawcitations.ist Other}
+\iffileexists{Case.ind}{\subsection{Casos}\printindex{Case}}
+\iffileexists{Statute.ind}{\subsection{Legislaci\'on}\printindex{Statute}}
+\iffileexists{Other.ind}{\subsection{Otros}\printindex{Other}}
