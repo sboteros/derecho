@@ -12,7 +12,6 @@ output:
       after_body: after.tex
     keep_tex: true
     keep_md: true
-bibliography: 0.biblio.bib
 lang: 'es'
 subparagraph: yes
 portada: true
@@ -65,6 +64,18 @@ Yo necesito \pincite{Steel Seizure Case}{602}.
 Despreocuparme \pincite{Lochner}{52}.
 
 Por las malditas citas!\See \pincite{Steel Seizure Case}{625}.
+
+\newbook{Prosser and Keaton}{William Lloyd Prosser \& W. Page Keaton}{The Law of Torts}{(2nd ed., 1953)}
+\newbook{Schelling}{Thomas Schelling}{A Process of Residential Segregation: Neighborhood Tipping,{\upshape\it reprinted in} Economic Foundations of Property Law {\upshape 307,}}{(Bruce A. Ackerman ed., 1975)}
+Seguimos \pincite{Schelling}{308} 
+
+Con mas\pincite{Prosser and Keaton}{vol. 2, 15}.
+
+Cosas para \pincite{Prosser and Keaton}{vol. 2, 345}.
+
+Verificar el \pincite{Prosser and Keaton}{vol. 4, 876}.
+
+Funcionamiento de esto\pincite{Schelling}{310}.
 
 La Ley Federal de Competencia Económica (LFCE)[^LFCE] es reglamentaria del
 artículo 28 de la Constitución Política de los Estados Unidos Mexicanos (CPEUM)
