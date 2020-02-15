@@ -672,3 +672,90 @@
 \def\maxsequentialids{99}
 
 \def\forcelongevery{5}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Le pongo que ejecute al final los índices, como lo hace el archivo
+%%% lawbrief.cls
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\@RunMakeIndex}{%
+	\clearpage%
+	\immediate\closeout\Case@idxfile%
+	\immediate\closeout\Statute@idxfile%
+	\immediate\closeout\Other@idxfile%
+	\immediate\write18{makeindex -r -s lawcitations.ist Case}%
+	\immediate\write18{makeindex -L -r -s lawcitations.ist Statute}%
+	\immediate\write18{makeindex -r -s lawcitations.ist Other}%
+}
+
+\AtEndDocument{%
+	\@RunMakeIndex%
+}
+
+\newlength{\indexindentsize}
+\setlength{\indexindentsize}{18pt}
+
+%%
+%%\noindent _\indexrightmargin_ --- Right margin for all-but-the-last lines of toa (default: \the\indexrightmargin)
+%% The current value will preserve .5 inch of space for non-final lines, and ragged margins. To change the spacing on
+%% the last line between the entry and the page numbers, you must edit the style file.
+\newlength{\indexrightmargin}
+\setlength{\indexrightmargin}{.5in plus 1.fil}
+
+%%
+%%\noindent _\passimlimit_ --- Use ``passim'' above this many pages (default: \passimlimit).
+%% Can be changed with \\ _\renewcommand{\passimlimit}{5}_, etc.
+%% Make sure to set this before the index is created (i.e. in the header).
+%%
+\newcommand{\passimlimit}{5}
+
+%\pagenumber is the command to format page numbers in index rows
+%  Each invocation adds the number to @assembledpagenums; incr. @passimcount
+%  \@printpagenums called at end of each row, dumps values
+\def\@pagenums{}
+\newcounter{@passimcount}
+
+\newcommand{\pagenumber}[1]{%
+	\addtocounter{@passimcount}{1}%
+	\ifnum\value{@passimcount}=1%
+		\edef\@pagenums{#1}%
+	\else%
+		\ifnum\value{@passimcount}<\passimlimit%
+			\edef\@pagenums{\@pagenums#1}%
+		\else
+			\def\@pagenums{\emph{passim}}%
+		\fi%
+	\fi%
+	\IfSubStr{#1}{passim}{\setcounter{@passimcount}{\passimlimit}\def\@pagenums{\emph{passim}}}{}%
+}
+
+\newcommand{\@printpagenums}{%
+	\@pagenums%
+	\def\@pagenums{}%
+	\setcounter{@passimcount}{0}%
+}
+
+%%
+%%\noindent _\idxpassim_ --- Used in an index command, forces passim to always be used for a particular cite
+%%
+\newcommand{\idxpassim}[1]{passim}
+
+\renewenvironment{theindex}
+               {\parindent=\indexindentsize%
+                \parskip=10pt plus .3pt%
+				\linepenalty=1000%
+				\hyphenpenalty=10000%
+				\rightskip=\indexrightmargin%
+				\parfillskip=-\indexrightmargin%
+				\setcounter{@passimcount}{0}%
+                \let\item\@idxitem
+                \let\subitem\@idxsubitem}
+               {\@printpagenums\par}
+
+\renewcommand\@idxitem{\@printpagenums \par \hangindent 2\indexindentsize}
+\providecommand\@idxsubitem{\@idxitem \hspace*{20pt}}
+
+\newcommand{\tableofauthorities}{%
+    \iffileexists{Case.ind}{\subsection*{Casos}\printindex{Case}}{{}}
+    \iffileexists{Statute.ind}{\subsection*{Normatividad}\printindex{Statute}}{{}}
+    \iffileexists{Other.ind}{\subsection*{Otros}\printindex{Otros}}{{}}
+}
