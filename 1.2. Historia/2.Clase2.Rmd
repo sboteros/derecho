@@ -1,0 +1,44 @@
+---
+title: "Historia de las instituciones jurídicas"
+subtitle: "María Patricia Lira Alonso"
+author: "Santiago Botero S."
+date: "Enero - abril de 2020"
+output: pdf_document
+bibliography: 0.biblio.bib
+lang: 'es'
+---
+
++ Ronald Dworkin, visión integral del derecho.
++ Tareas:
+    - Ver la película Negación.
+    - Ver el video de la historia del derecho.
+    - Ver otro video sobre cómo se resolvió un caso del TLCAN y cuál fue su
+        antecedente.
+    - Responder qué significa el *mayorazgo*.
+
++ La historia del derecho explica cómo ha evolucionado el derecho y las
+    instituciones jurídicas. El derecho, así como la sociedad, evoluciona en su
+    contenido, lenguaje y tiene sus propios ritmos (normalmente más lentos que
+    los de la sociedad en su conjunto). Esta historia está delimitada en su
+    contenido, espacio y tiempo.
++ La historia del derecho sirve para identificar cómo funcionan las familias
+    jurídicas actuales, cuáles son sus rasgos característicos, y conocer
+    cuáles fueron los 'errores' del pasado para evitar repetirlos.
+
+# Historia del derecho como ciencia
+
++ Estudia el fenómeno jurídico en perspectiva histórica.
++ 4 fenómenos para estudiar, según Klaus Adomeit:
+    - Legislador, a través de sus leyes
+    - Dogmático-jurídico, a través de libros
+    - Jurisprudencia, con las sentencias
+    - Pueblo, con sus puntos de vista.
++ Permite conocer el desenvolvimiento histórico de las instituciones actuales,
+    así como comprender de mejor manera su significado.
++ Métodos de análisis
+    - Histórico o cronológico. Se divide en tres etapas: heurística, vestigios
+        y testimonios.
+    - Sistemático. El análisis parte de una división de sistemas jurídicos y
+        sitúa el hecho en la etapa correspondiente.
+    - Mixto. Sitúa ramas para cada etapa del saber jurídico; es fruto del
+        planteamiento sincrético.

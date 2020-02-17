@@ -29,7 +29,7 @@ Estas anotaciones se basan en [@bernal, cap. I].
 La historia sirve para reincidir en el camino correcto seguido por los
 ancestros, así como para no repetir los errores del pasado. De acuerdo con
 Voltaire, se  trata del "*relato de los hechos que se tienen como verdaderos, al
-contrario de  la fábila*"; por su parte, Henry Marrou la define como "el
+contrario de  la fábula*"; por su parte, Henry Marrou la define como "el
 conocimiento del pasado humano".
 
 Es necesario distinguir entre:
@@ -44,6 +44,9 @@ Para entender la historia, es necesario:
   *acontecimientos históricos* y *acontecimientos del pasado*.
     - A la historia sólo le interesan acontecimientos que han adquirido cierta
       *perdurabilidad*.
+    - El **objeto de estudio** son los hechos humanos pretéritos y
+      trascendentes. El hecho histórico es: humaon, pretérito, trascendente,
+      testimonial.
     - Antiguamente, sólo interesaban acontecimientos políticos, bélicos e
       institucionales; posteriormente, con la escuela de los *Annales* (Fernand
       Braudel) y la *historia total* (marxismo, Pierre Vilar), depende del punto
@@ -102,10 +105,19 @@ La historia del derecho estudia el desarrollo del derecho dentro de una
 coordenada temporal previamente fijada. Esto requiere hacer una delimitación:
 
 + Material (lo jurídico y no lo extrajurídico).
+    - El objeto es la historia del derecho es la fenomenología jurídica del
+      pasado.
     - Distinción entre fuentes escritas (leyes, compilaciones, sentencias,
       etc.) y no escritas (costumbre).
     - Distinguir entre fuentes formales (ley, jurisprudencia, costumbre y
       principios generales) y fuentes históricas.
+
+        * La costumbre es la más antigua fuente formal del derecho.
+        * La costumbre es la "*repretición constante y reiterada del
+          comportamiento, que responde a una necesidad jurídica*". Se encuentra
+          en Ulpiano y el Digesto; se denomina *derecho consuetudinario*.
+        * Hay 3 clases: *secundum legem*, *praeter legem* y *contra legem*.
+
     - Distinguir entre fuentes directas y fuentes indirectas (literatura, cine,
       etc.)
 + Espacial (nacional, continental o universal).
@@ -129,6 +141,11 @@ coordenada temporal previamente fijada. Esto requiere hacer una delimitación:
           secuencia.
         * Porque implica caracterizar: extrar de cada edad denominadores comunes
           y diferenciarlos con periodos anteriores o posteriores.
+
+Los pueblos primigenios consideraban que sus leyes positivas fueron inspiradas
+y protegidas por los dioses. En Roma el ciudadano debía ser leal a su familia,
+patria y dioses. El Derecho es un producto cultural, puesto que el espíritu
+humano va a determinar las modalidades.
 
 ## Sistemas jurídicos contemporános.
 

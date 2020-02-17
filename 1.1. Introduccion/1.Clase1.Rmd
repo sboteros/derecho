@@ -8,12 +8,21 @@ bibliography: biblio.bib
 lang: 'es'
 ---
 
+# Evaluación
+
++ Las actividades de evaluación serán:
+    - Examen final (50%).
+    - Ensayo (30%), el 25 de abril. De cualquier tema que veamos en la clase,
+        entre 2 y 5 cuartillas de longitud, mínimo 3 fuentes bibliográficas y 1
+        hemerográfica.
+    - Exposición y participación en clase (20%).
+
+# ¿Qué es el derecho?
+
 Las *necesidades* son carencias que deben ser satisfecha por medio de un
 *satisfacetor*.
 
 De cada cien delitos en México, si acaso, se sancionan uno o dos.
-
-# ¿Qué es el derecho?
 
 + Para armar una definición desde el método de Aristóteles, hay que decir:
 (i) género próximo y (ii) diferencia específica.

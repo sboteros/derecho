@@ -1,0 +1,100 @@
+---
+title: "Introducción al estudio del derecho"
+subtitle: "Jorge Lara"
+author: "Santiago Botero S."
+date: "Enero - abril de 2020"
+output: pdf_document
+bibliography: biblio.bib
+lang: 'es'
+---
+
++ Tipo penal del *feminicidio*.
+    - Todos los delitos tienen un "bien jurídico tutelado".
+    - "Categorías sospechosas".
+    - Hay razones para hacer un tipo específico (visibilización, acciones
+        requeridas para prevenir, etc.)
+    - El bien jurídico tutelado es la vida de las mujeres, en tanto grupo
+        vulnerable.
+    - Razón de género: Relación sentimental, heridas infamantes, haber recibido
+        amenazas, agresión sexual o exposición del cuerpo (alternativas de
+        acreditación).
+
+# Teleología
+
++ Es el estudio de los fines del derecho.
++ Es importante identificar las finalidades del derecho para poder medir su
+    eficacia.
+    - Justicia. Una definición clásica, de Ulpiano, como punto de partida, es
+        *la voluntad constante y perpetua de darle a cada quien lo que le
+        corresponde* (de  acuerdo a sus méritos, actuar, circunstancias).
+    - Paz y seguridad pública, como fines del derecho (internacional o interno).
+    - Orden.
+    - Seguridad jurídica, es que cada quien sepa a qué atenerse con su conducta.
+        Exige del orden jurídico: claridad, transparencia y verificabiliad.
+    - Equidad. Darle un tratamiento igual a los iguales y propiciar un
+        tratamiento desigual a los desiguales. Un mínimo de derechos.
+    - Certidumbre jurídica. Las normas deben ser redactadas de forma clara y
+        sencilla, para que las personas sepan a qué deben atenerse. Pasa por la
+        división de poderes y la estabilidad del sistema.
+    - Bien común. "*Conjunto de condiciones sociales, culturales y políticas
+        necesarias para el desarrollo pleno de cada uno de los integrantes de
+        la comunidad*".
+
+# Clasificación de las normas
+
++ Toda norma jurídica, es un enunciado prescriptivo que alude a los hechos de
+    la realidad. Por lo tanto, todas tienen dos partes:
+    - Una *hipótesis de derecho* $H$, que es un supuesto.
+    - Una *consecuencia* que *debe de*[^1] actualizarse cuando se presenta $H$.
+    - "Se es A, entonces debe ser B".
++ Esa es la estructura ideal estándar.
++ Las normas de contenido **sustantivo** son aquellas que se refieren al fondo
+    de la cuestión jurídica (los derechos subjetios): derechos y obligaciones.
+
+# Teoria de los tres círculos
+
+En filosofía jurídica se podrían encontrar  muchas escuelas de pensamiento
+jurídico, pero desde García Maynes (y esto  no ha cambiado de forma sustancial),
+hay tres corrientes  filosófico-jurídicas preponderantes:
+
++ *Iusnaturalismo*. Le interesa que la norma esté preñada de valores.
++ *Iuspositivismo*. Le interesa la forma de la norma.
++ *Realismo sociológico*. Le interesa la eficacia de la norma (que la gente  la
+    cumpla, lo que por sí mismo es un valor).
+
++ Visión *iusnaturalista* de forma aristotélico-tomista, con corte religioso.
++ Santo Tomás toma las categorías de Aristóteles y las conjuga con la filosofía
+    cristiana, con lo que le da sentido y estructura a la doctrina cristiana.
+    Con ello, la filosofía judeo-cristiana pasa por un crisol de racionalidad.
++ Sistema de ordalías se dejó de aplicar en el s. XIII.
++ Luego llegó el renacimiento (siglos XVI al XVIII, antes de la revolución
+    científica). Pufendorf, Grossio (el derecho internacional nace de la
+    navegación marítima), ..., Kant. Por ser el derecho internacional un hijo
+    del iusnaturalismo, hoy nos llegan desde el derecho internacional la oleada
+    de los derechos humanos.
++ Con Kant llega el iusnaturalismo racional; sigue siendo una visión
+    sustancialista. Después del iluminismo llegamos al cientificismo del final
+    del s. XVIII, es decir, el *positivismo*.
++ Desde el punto de vista científico, significó la previsibilidad. El correlato
+    jurídico de esto fue el *iuspositivismo*: anhelo de previsiblidad, de darle
+    estabilidad a la norma, a través de la forma.
++ Esto lo elabora y desarrolla Kelsen; su libro más importante es la *Teoría
+    Pura del Derecho*.
++ El problema fue que los grandes juristas de Alemania en la segunda década del
+    siglo XX empezaron a hacer normas perfectas, pero al servicio del III Reich,
+    y sin ser justas.
++ El régimen fascita le hace mucho daño al positivismo; pero Kelsen es tan
+    importante que continúa su influencia.
++ Despues de la Segunda Guerra surge la corriente que tiene una carga más
+    humanista, que algunos le llaman *neoconstitucionalismo*, en el que se
+    tocan ambas corrientes del pensamiento.
+
++ Leer la teoría de la acción comunicativa de Habermas.
++ Principio de ponderación o test de proporcionalidad: Una acción se puede
+    analizar frente a su legitimidad, necesidad, idoneidad y proporcionalidad.
+
+## Iusnaturalismo
+
+
+[^1]: El derecho no establece relaciones de necesidad, como las leyes naturales,
+sino de deber ser; por eso es un enunciado prescriptivo.
