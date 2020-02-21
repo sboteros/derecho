@@ -492,3 +492,7 @@ $include-after$
 
 $endfor$
 \end{document}
+
+<<biber>>=
+system(paste("biber", sub("\\.Rnw$", "", current_input())))
+@

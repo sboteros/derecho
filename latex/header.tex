@@ -1,59 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Versión original tomada de Generic Law Review Article Template
-%% (https://www.overleaf.com/latex/templates/generic-law-review-article-template/kbmpvfbmrkgp)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\usepackage{mathptmx}
-\usepackage{titlesec}
-\usepackage{ragged2e}
-\usepackage{fancyhdr}
-\usepackage[all]{nowidow}
-\usepackage{url}
-\usepackage{tocloft}
-\usepackage{titling}
-\usepackage[lawreview]{bluebook_es} % Toca poner la dirección completa
-
-%------
-\makeatletter
-\renewcommand\normalsize{\@setfontsize\normalsize{12}{14}}
-\renewcommand\small{\@setfontsize\small{10}{12}}
-\renewcommand\scriptsize{\@setfontsize\scriptsize{7}{8}}
-\renewcommand\tiny{\@setfontsize\tiny{5}{6}}
-\renewcommand\large{\@setfontsize\large{13}{15}}
-\renewcommand\Large{\@setfontsize\Large{14}{16}}
-\renewcommand{\thesection}{\Roman{section}.}
-\renewcommand{\thesubsection}{\arabic{subsection}.}
-\renewcommand{\thesubsubsection}{\hspace{3em}\Alph{subsubsection}.}
-\renewcommand{\theparagraph}{\hspace{5em}\arabic{paragraph})}
-\renewcommand{\thesubparagraph}{\hspace{7em}\alph{subparagraph})}
-%------
-\titleformat{\section}[block]{\bfseries\normalsize\scshape\center}{\thesection}{1em}{}
-\titleformat{\subsection}[block]{\bfseries\itshape}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\bfseries}{\thesubsubsection}{1em}{}
-\titleformat{\paragraph}{\bfseries}{\theparagraph}{1em}{}
-\titleformat{\subparagraph}{\bfseries}{\thesubparagraph}{1em}{}
-\titlespacing{\subparagraph}{0pt}{12pt}{12pt}
-\makeatother
-
-\renewcommand\contentsname{\hspace*{\fill}\normalfont\normalsize\scshape \'Indice \hspace*{\fill}}
-\renewcommand\cftsecfont{\normalfont\normalsize\scshape}
-\renewcommand\cftsubsecfont{\normalfont\normalsize\itshape}
-\renewcommand\cftsubsubsecfont{\normalfont\normalsize}
-\renewcommand\cftparafont{\normalfont\normalsize}
-\renewcommand\cftsubparafont{\normalfont\normalsize}
-\renewcommand\cftsecpagefont{\normalfont\normalsize}
-\renewcommand\abstractname{\normalfont\normalsize\scshape Resumen}
-
-\setcounter{secnumdepth}{5}
-\setcounter{tocdepth}{5}
-
-\cftsetindents{section}{3em}{3em}
-\cftsetindents{subsection}{4em}{3em}
-\cftsetindents{subsubsection}{5em}{3em}
-\cftsetindents{paragraph}{6em}{3em}
-\cftsetindents{subparagraph}{7em}{3em}
-
-\makeindex{Case}
-\makeindex{Statute}
-\makeindex{Other}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FIN DEL HEADER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[spanish, mexico]{babel}
+% Adiciona la bibliografía en modo de notas al pie de página.
+\usepackage{csquotes}
+\usepackage[notes, strict, backend=biber, autolang=other, %
+            bibencoding=inputenc]{biblatex-chicago}
+\bibliography{libros}
