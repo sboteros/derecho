@@ -1,0 +1,137 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[latin1]{inputenc}
+\usepackage[american]{babel}
+\usepackage[autostyle]{csquotes}
+\usepackage[document]{ragged2e}
+\usepackage[notes,strict,backend=biber,autolang=other,%
+bibencoding=latin1,booklongxref=false,compresspages,%
+related=true]{biblatex-chicago}
+\usepackage{lmodern}
+\usepackage{gentium}
+\usepackage{ifthen}
+\usepackage{setspace}
+\usepackage{vmargin} \setpapersize{A4}
+\setmarginsrb{1in}{20pt}{1in}{.5in}{1pt}{2pt}{0pt}{2mm}
+\usepackage{url}
+\urlstyle{rm}
+\appto\bibsetup{\sloppy}
+\providecommand{\cmslink}[1]{#1}% If someone prints annotations
+\protected\def\onethird{{\scriptsize\raisebox{.7ex}{1}%
+    \hspace{-0.1em}\raisebox{.2ex}{/}\hspace{-0.03em}3}}
+\usepackage[pdftex,hyperref,svgnames]{xcolor}
+\usepackage[pdftex,colorlinks,urlcolor=DarkSlateGrey,citecolor=MidnightBlue,
+plainpages=false,breaklinks=true,linkcolor=DarkSlateGrey,
+filecolor=Teal]{hyperref}
+%\appto\biburlsetup{\Urlmuskip=0mu plus 4mu\relax}
+\setlength{\dimen\footins}{9.5in}
+\defbibnote{legal}{(U.S.\ unless noted.)}
+\bibliography{legal-test}
+%%\onehalfspacing
+\begin{document}
+
+\section*{Jurisdiction Entries}
+\label{juris}
+
+\subsection*{Long note forms}
+\label{sec:long}
+\begin{enumerate}\setlength{\parskip}{-4pt}
+\item Federal case\autocite[145]{federal:case}
+\item Database case\autocite{database:case}
+\item Lower federal-court case (with Supreme Court
+  action)\autocite{federal:lower:related}
+\item State case with 2 reporters\autocite{state:case:2reps}
+\item Canadian case\autocite{canada:case}
+\item UK case with round brackets\autocite{uk:case:round}
+\item UK case with square brackets\autocite{uk:case:square}
+\end{enumerate}
+
+\subsection*{Short note forms}
+\label{sec:short}
+\begin{enumerate}\setlength{\parskip}{-4pt}
+\setcounter{enumi}{7}
+\item Federal case\autocite[145]{federal:case}
+\item Database case\autocite[3]{database:case}
+\item Lower federal-court case\autocite[215]{federal:lower:related}
+\item The same, to show \emph{ibidem}
+  handling\autocite[212]{federal:lower:related}
+\item State case with 2 reporters\autocite{state:case:2reps}
+\item Canadian case\autocite{canada:case}
+\item UK case with round brackets\autocite{uk:case:round}
+\item UK case with square brackets\autocite{uk:case:square}
+\end{enumerate}
+
+\section*{Legislation Entries}
+\label{legis}
+
+\subsection*{Long note forms}
+\label{legis:long}
+\begin{enumerate}\setlength{\parskip}{-4pt}
+\setcounter{enumi}{15}
+\item Congressional bill\autocite{congress:bill}
+\item Congressional public law\autocite{congress:publiclaw}
+\item Congressional debate post 1873\autocite{congress:debate:new}
+\item Congressional debate in \emph{Congressional
+    Globe}\autocite{congress:debate:globe}
+\item Congressional report\autocite{congress:report}
+\item Congressional hearing\autocite{congress:hearing}
+\item Executive proclamation\autocite{executive:proclamation}
+\item State statute from database\autocite{state:statute:ky}
+\item State statute\autocite{state:statute:okla}
+\item Federal constitution\autocite{constitution:federal}
+\item State constitution\autocite{constitution:arkansas}
+\item Canadian statute\autocite{canada:statute}
+\item UK statute before 1963\autocite{uk:statute:regnal}
+\item UK statute since 1963\autocite{uk:statute}
+\item UK parliamentary debate\autocite{uk:hansard}
+\item UK command paper\autocite{uk:command}
+\item UN resolution\autocite{un:resolution}
+\end{enumerate}
+
+\subsection*{Short note forms}
+\label{legis:short}
+\begin{enumerate}\setlength{\parskip}{-4pt}
+\setcounter{enumi}{32}
+\item Congressional bill\autocite{congress:bill}
+\item Congressional public law\autocite{congress:publiclaw}
+\item Congressional debate post 1873\autocite{congress:debate:new}
+\item Congressional debate in \emph{Congressional
+    Globe}\autocite{congress:debate:globe}
+\item Congressional report\autocite{congress:report}
+\item Congressional hearing\autocite{congress:hearing}
+\item Executive proclamation\autocite{executive:proclamation}
+\item State statute from database\autocite{state:statute:ky}
+\item State statute\autocite{state:statute:okla}
+\item Federal constitution\autocite{constitution:federal}
+\item State constitution\autocite{constitution:arkansas}
+\item Canadian statute\autocite{canada:statute}
+\item UK statute before 1963\autocite{uk:statute:regnal}
+\item UK statute since 1963\autocite{uk:statute}
+\item UK parliamentary debate\autocite{uk:hansard}
+\item UK command paper\autocite[15--16]{uk:command}
+\item UN resolution\autocite{un:resolution}
+\end{enumerate}
+
+\section*{Legal Entry}
+\label{legal}
+
+\begin{enumerate}\setlength{\parskip}{-4pt}
+\setcounter{enumi}{49}
+\item Treaty, long form\autocite[45]{treaty}
+\item Treaty, short form\autocite[46]{treaty}
+\end{enumerate}
+
+\nocite{bluebook}
+
+\printshorthands
+
+\printbiblist[prenote=legal,title=Legal Authority
+Shorthands]{shortjournal}
+
+\printbibliography[notkeyword=original]
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

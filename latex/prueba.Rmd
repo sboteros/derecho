@@ -1,0 +1,16 @@
+---
+title: "Prueba de estilo"
+author: "Santiago Botero S."
+date: "19/2/2020"
+output: 
+    pdf_document:
+        includes:
+            in_header: header.tex
+            in_footer: footer.tex
+        keep_tex: true
+        citation_package: none
+---
+
+Hola!
+Aquí voy a citar por primera vez a \autocite{bernal:hist}; aquí la citaré por
+segunda ocasión.\autocite{bernal:hist}.
