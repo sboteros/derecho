@@ -1,39 +1,45 @@
-#' @title Render an R Markdown file into a PDF
-#' 
-#' @description Use knitr and pandoc to convert an R Markdown file into a
-#' TeX file, and run xelatex (and biber) on the converted file to produce a PDF.
-#'  
-#' @param file the location and name of the R Markdown file to be rendered.
-#' @param template the location and name of the pandoc latex template to use
-#' during the conversion from R Markdown to TeX. 
-#' @param biber logical flag indicating if biber (or biblatex) backend should
-#' be run after xelatex is called.
-#' @param saveTmpFiles logical flag indicating if intermediary files should be 
-#' kept after PDF file is created. If \code{FALSE} the files are deleted.
-#' 
-#' @details 
-#' There's no markdown (yet) that allows for LaTeX preamble to be specified
-#' inside a .md file. To get around this, we have to redefine a Pandoc latex
-#' template using the preamble we'd normally use if we were using the LaTeX or
-#' knitr templates. The template, \code{inst/rmarkdown/thesis_template.latex},
-#' is a modification of the default template found via
-#' \code{pandoc -D latex}. If you need to add more packages to your preamble,
-#' e.g. \code{\\usepackage{amsmath}}, modify \code{thesis_template.latex} 
-#' accordingly.
-#' 
-#' Temporary files (e.g. .md's, .log's, .aux's, etc.) are stored in a temporary 
-#' (sub)directory, \code{tmp/}.
-#' 
-#' @export
-#' 
-#' @return The name of the xelatex rendered PDF.
-#' 
-#' @examples
-#' \dontrun{
-#' setwd("inst/rmarkdown")
-#' rmd2pdf()
-#' }
-rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
+# Cargar los archivos necesarios
+library(stringr)
+library(knitr)
+
+# Función de apoyo: limpieza
+moveLatexFiles <- function(tmpExtensions = c("aux", "bbl", "bcf", "blg", "lof",
+                                             "log", "lot", "run.xml", "toc", "out")) {
+  
+  filesInDir <- 
+    unlist(str_split(list.files(), pattern = "[[:space:]]+"))
+  
+  sapply(filesInDir, function(file) {
+    extension <- str_split(file, pattern="[.]", n=2)[[1]][2]
+    if (extension %in% tmpExtensions) {
+      cat("Removing", file, "to ./tmp/ ...\n")
+      file.remove(file)
+    }
+    invisible(file)
+  })
+  
+  invisible()
+}
+
+# Función de eliminación de archivos innecesarios
+cleanUp <- function(tmpExtensions) {
+  filesInDir <- 
+    unlist(str_split(list.files(), pattern = "[[:space:]]+"))
+  
+  sapply(filesInDir, function(file) {
+    extension <- str_split(file, pattern="[.]", n=2)[[1]][2]
+    if (extension %in% tmpExtensions) {
+      cat("Removing", file, "...\n")
+      file.remove(file)
+    }
+    invisible(file)
+  })
+  
+  invisible()
+}
+
+# Función para hacer el PDF y correr Biber 
+rmd2pdf <- function(file='tarea.Rmd', template='plantilla.tex',
                     biber=TRUE, saveTmpFiles=FALSE) {
   
   if (str_length(Sys.which('xelatex')) == 0) {
@@ -63,7 +69,7 @@ rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
                 n=1)
   
   cat("Making ./tmp/ directory to hold temporary files...\n")
-  system("mkdir tmp")
+  dir.create('./tmp')
   
   mdFile <- str_c("./tmp/", filename, ".md")
   
@@ -97,15 +103,19 @@ rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
   cat("\n\nMove temporary files created from xelatex:\n")
   moveLatexFiles()
   
-  saveExtensions <- c("Rmd", "rmd", "bib", "latex", "cls", "sty", "pdf")
+  # Es más seguro definir una lista restringida de terminaciones para eliminar, 
+  # que de terminaciones para conservar.
+  #saveExtensions <- c("Rmd", "rmd", "bib", "latex", "cls", "sty", "pdf")
+  tmpExtensions = c("aux", "bbl", "bcf", "blg", "lof",
+                    "log", "lot", "run.xml", "toc", "out")
   
   if (xelatexFail) {
     stop("\n\nxelatex failed to compile a PDF from the rendered .tex file...\n")
     stop("Cleaning up temporary files...\n\n")
-    cleanUp(saveExtensions)
+    cleanUp(tmpExtensions)
   } 
   
-  if (!saveTmpFiles) cleanUp(saveExtensions)
+  if (!saveTmpFiles) cleanUp(tmpExtensions)
   
   return(str_c(filename, ".pdf"))
 }
