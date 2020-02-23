@@ -3,7 +3,10 @@ title: Ejemplos de normas
 subtitle: Normas sustantivas, adjetivas y orgánicas
 author: Santiago Botero Sierra
 date: '3 de febrero de 2020'
-output: pdf_document
+output: 
+  pdf_document:
+    number_sections: true
+    keep_tex: true
 bibliography: 0.biblio.bib
 lang: 'es'
 ---

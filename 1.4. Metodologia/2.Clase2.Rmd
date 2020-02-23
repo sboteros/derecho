@@ -1,0 +1,121 @@
+---
+title: 'Metodología de la enseñanza y la investigación jurídica'
+subtitle: 'Edgar S. Cabellero'
+author: 'Santiago Botero Sierra'
+date: 'Enero a marzo de 2020'
+output: pdf_document
+fontsize: 12
+subject: 'Metodología de la enseñanza y la investigación jurídica'
+institute: 'Centro de Estudios Jurídicos Carbonell'
+bibliography: 0.biblio.bib
+---
+
+# Estructura del Estado
+
++ En México hay tres órdenes de gobierno: Federación, Entidades Federativas y
+    Municipio; adicionalmente, hay unos Órganos Constitucionales Autónomos.
+
+    + La Federación tiene un Congreso de la Unión y un Senado, que están regidos
+        por los artículos 73 y 76 de la CPEUM.
+    + Hay 32 Entidades Federativas; todas ellas se rigen por los artículos 117 y
+        124 de la CPEUM. Por su parte, 31 entidades se rigen por el artículo 116
+        y la Ciudad de México se rige por el artículo 122 de la CPEUM. Cada una
+        de las Entidades Federativas goza de *libre configuración legislativa*.
+    + Los municipios se rigen por el artículo 115 de la CPEUM.
+    + Los organismos autónomos son tales como Banxico.
+
++ El artículo 16 de la CPEUM establece el *principio de legalidad* para todo
+    *acto de molestia*:
+    - Fundamentación: Cada actuación de una autoridad debe estar basada en unos
+        artículos que le permitan desarrollarlo.
+    - Motivación: No basta con los artículos, también se requiere una serie de
+        argumentos con los que la autoridad explique su actuación.
+
++ El Poder Judicial de la Federación, según los artículos 103 y 107 de la CPEUM,
+    se divide en:
+    - Suprema Corte de Justicia de la Nación. Tiene un Pleno (11 personas,
+        conoce asuntos constitucionales), una Primera Sala  (5 personas, conoce
+        asuntos civiles y penales) y una Segunda Sala (5 personas, conoce
+        asuntos administrativos y laborales). Las salas pueden conocer amparo en
+        revisión, amparo directo en revisión, contradicción de tesis,
+        inejecución, etc.
+    - Consejo de la Judicatura de la Federación. Conoce asuntos administrativos.
+    - Tribunales Colegiados de Circuito. Son 3 personas que conocen los amparos
+        directos.
+    - Tribunales Unitarios de Circuito. Son 1 persona y conocen de apelación
+        y competencia de los juzgados de distrito.
+    - Jueces de Distrito. Son 1 juez que conoce asuntos de amparo indirecto.
+    - Tribunal Electoral del Poder Judicial de la Federación. Funciona con una
+        sala superior y 6 salas regionales.
+
++ La norma fundamental no contiene conceptos; en principio, contiene normas de
+    manera general. De forma específica, la Constitución contiene: reglas,
+    derechos y principios.
+
+    - Los **principios** sirven como un faro en todo el Estado; el nombre
+        técnico son *mandatos de optimización*. Por ejemplo: "En los Estados
+        Unidos  Mexicanos todas las personas gozarán de los derechos
+        humanos..." (art.  1). Otro ejemplo es el del interés superior de
+        la niñez, porque el Estado tiene la obligación de respectarlo en
+        cualquier materia en la que esté implicado un menor.
+    - Identificar lo que estamos leyendo (reglas, derechos y principios) nos
+        permite seleccionar la metodología para interpretar la norma. Cada uno
+        de estos tiene métodos diferentes de interpretación.
+    - Los 4 principios de la norma jurídica son: heterónoma, coercible,
+        bilateral y externa. Para Kelsen (positivismo), la norma tiene la
+        estructura lógica $A B = C$, donde $A$ es la hipótesis normativa (el
+        hecho que se regula), $B$ la sanción y $C$ la consecuencia jurídica;
+        esta es la estructura característica de la forma de regular los delitos.
+
++ Los criterios para resolver **antinomias**, se utilizan criterior:
+    - *Jerárquico*. La norma superior prevalece sobre la norma inferior.
+    - *Especialidad*. La norma especial prevalece sobre la norma general.
+    - *Competencia*. Es aplicable la norma que otorgue competencia expresa. De
+        forma tradicional, surte competencia la norma del lugar donde se lleve a
+        cabo el acto jurídico.[^Conceptos1]
+
++ Los **accidentes aristotélicos** son:
+    - *Sustancia*. Es un ente que existe en sí mismo y, por lo tanto, tiene
+        cierta independencia y suficiencia.
+    - *Cantidad*. La sustancia está dividida en partes.
+    - *Calidad*. Dispone o modifica la sustancia.
+    - *Relación*. Orden de una cosa respecto de otra.
+    - *Lugar*. Porción de espacio que ocupa un cuerpo.
+    - *Tiempo*.
+    - *Acción*.
+    - *Pasión*. Recepción de la acción en el sujeto.
+    - *Posición*.
+    - *Estado o hábito*. Modificación de una sustancia en función de la
+        aplicación o yuxtaposición a la misma sustancia.
+
+# Método científico
+
++ El método es una serie de pasos o una secuencia que siempre están presentes en
+    la construcción de una investigación. Luego, el método científico es un
+    procedimiento para generar conocimiento.
++ El método jurídico es una secuencia ordenada que lleva a adquirir o generar
+    conocimiento jurídico. Si el principal factor del conocimiento jurídico son
+    las normas, entonces el método jurídico es una serie de pasos encaminados a
+    la producción normativa (visión tradicional o positivista).
++ Leer los preámbulos de las constituciones latinoamericanas.
++ Los pasos que utilizamos en el método científico en el campo del derecho son:
+    - **Reconocimiento de los hechos**. Hay que observar dos tipos de soportes:
+        el racional o teórico y el soporte empírico.
+    - **Descubrir el problema**. Se hace, primero, de forma general mediante la
+        exploración del objeto de estudio.
+    - **Reducir el problema** a través de los criterios de delimitación.
+    - **Formulación de la hipótesis**. De la intuición del problema pueden
+        surgir varias soluciones; a la que se plantea como la probable solución
+        se la elige como *hipótesis central* y a las demás se las llama
+        *hipótesis auxiliares*. Una hipótesis tiene un *antecedente* ($A$) y un
+        *consecuente* ($B$), siempre inician con una *condicionante*: "Si $A$,
+        entonces $B$".
+
++ **Examen 1**
+    - Idealismo y materialismo.
+    - Método científico.
+
+[^Conceptos1]: Un *exhorto* es una comunicación de un juez a otro de un lugar
+donde no tiene competencia, para que el segundo lleve a cabo un acto (como una
+notificación) y se lo retorne. Cuando esto se hace a nivel internacional, se
+llama *carta rogatoria* y lo hace el consulado del lugar.

@@ -1,6 +1,0 @@
-\usepackage[spanish, mexico]{babel}
-% Adiciona la bibliografía en modo de notas al pie de página.
-\usepackage{csquotes}
-\usepackage[notes, strict, backend=biber, autolang=other, %
-            bibencoding=inputenc]{biblatex-chicago}
-\bibliography{libros}

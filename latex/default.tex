@@ -7,7 +7,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
+\PassOptionsToPackage{$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 
 $if(colorlinks)$
@@ -412,9 +412,45 @@ $if(biblatex-chicago)$
 $for(bibliography)$
     \addbibresource{$bibliography$}
 $endfor$
+
+\NewBibliographyString{cbytranslator}
+\NewBibliographyString{cbyeditor}
+\DefineBibliographyStrings{spanish}{%
+  cbyeditor = {ed\adddot},
+  byeditor = {ed\adddot},
+  cbytranslator = {trans\adddot},
+  bytranslator = {trans\adddot},
+}
+
 $endif$
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[autostyle]{csquotes}
+\RequirePackage{titlesec}
+\makeatletter
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\Alph{subsubsection}}
+\renewcommand{\theparagraph}{\roman{paragraph}}
+\renewcommand{\thesubparagraph}{\arabic{subparagraph}}
+\titleformat{\section}[block]{\center}{\thesection.}{1em}{\textbf}
+\titleformat{\subsection}[block]{}{\thesubsection.}{1em}{\textbf}
+\titleformat{\subsubsection}{}{\thesubsubsection.}{1em}{\textbf}
+\titleformat{\paragraph}{}{\theparagraph)}{1em}{\textbf}
+\titleformat{\subparagraph}{}{\thesubparagraph)}{1em}{\textbf}
+\titlespacing{\subsubsection}{2em}{*4}{*1.5}
+\titlespacing{\paragraph}{4em}{*4}{*1.5}
+\titlespacing{\subparagraph}{6em}{*4}{*1.5}
+\makeatother
 
+\renewcommand{\baselinestretch}{1.5}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Página \thepage}
+\lhead{Sección \thesection}
+\rfoot{$for(author)$$author$$sep$ \and $endfor$}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 $if(csl-refs)$
     \newlength{\cslhangindent}
     \setlength{\cslhangindent}{1.5em}
@@ -431,7 +467,7 @@ $endif$
 $if(subtitle)$
     $if(beamer)$
     $else$
-    \usepackage{etoolbox}
+    %\usepackage{etoolbox}
     \makeatletter
     \providecommand{\subtitle}[1]{% add subtitle to \maketitle
       \apptocmd{\@title}{\par {\large #1 \par}}{}{}
@@ -456,10 +492,6 @@ $if(beamer)$
     $endif$
 $endif$
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Aquí añadiré paquetes adicionales
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Aquí inicia el documento.
 \begin{document}
 $if(has-frontmatter)$
@@ -489,7 +521,7 @@ $if(title)$
             $if(author)$
                 \begin{minipage}{0.4\textwidth}
                 \begin{flushleft} \large
-                \emph{Author:}\\
+                \emph{Estudiante:}\\
                 \textsc{$for(author)$$author$$sep$ \and $endfor$}
                 \end{flushleft}
                 \end{minipage}\\[1cm]
@@ -608,7 +640,7 @@ $endif$
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Agregar la bibliografía cuando es biblatex-chicago.
-$if(chicago-latex)$
+$if(biblatex-chicago)$
     $if(beamer)$
     \begin{frame}[allowframebreaks]{$biblio-title$}
       \bibliographytrue

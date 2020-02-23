@@ -7,17 +7,19 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{,colorlinks,filecolor=Teal,citecolor=black,breaklinks=true,urlcolor=DarkSlateBlue,linkcolor=DarkSlateBlue}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 
+    \PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
 %
 \documentclass[
+          12pt,
               spanish,
                 ]{article}
 
 
 
-    \usepackage{lmodern}
+    \usepackage[]{times}
 
 
 \usepackage{amssymb,amsmath}
@@ -64,13 +66,18 @@
               pdfauthor={Santiago Botero Sierra},
               pdflang={es},
               pdfsubject={Metodología jurídica},
-                  hidelinks,
+                  colorlinks=true,
+      linkcolor=Maroon,
+      filecolor=Maroon,
+      citecolor=Blue,
+      urlcolor=Blue,
           pdfcreator={LaTeX via pandoc}%
 }
 \urlstyle{same} % disable monospaced font for URLs
 
 
-
+            \usepackage[left=3cm,right=3cm,top=2.5cm,bottom=2.5cm]{geometry}
+    
 
 
 
@@ -95,7 +102,7 @@
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-    \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+    \setcounter{secnumdepth}{5}
 
     
 
@@ -118,12 +125,48 @@
 %%% desde la terminal.
     \usepackage[notes, strict, backend=biber, autolang=other, bibencoding=inputenc]{biblatex-chicago}
     \addbibresource{libros.bib}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\NewBibliographyString{cbytranslator}
+\NewBibliographyString{cbyeditor}
+\DefineBibliographyStrings{spanish}{%
+  cbyeditor = {ed\adddot},
+  byeditor = {ed\adddot},
+  cbytranslator = {trans\adddot},
+  bytranslator = {trans\adddot},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[autostyle]{csquotes}
+\RequirePackage{titlesec}
+\makeatletter
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\Alph{subsubsection}}
+\renewcommand{\theparagraph}{\roman{paragraph}}
+\renewcommand{\thesubparagraph}{\arabic{subparagraph}}
+\titleformat{\section}[block]{\center}{\thesection.}{1em}{\textbf}
+\titleformat{\subsection}[block]{}{\thesubsection.}{1em}{\textbf}
+\titleformat{\subsubsection}{}{\thesubsubsection.}{1em}{\textbf}
+\titleformat{\paragraph}{}{\theparagraph)}{1em}{\textbf}
+\titleformat{\subparagraph}{}{\thesubparagraph)}{1em}{\textbf}
+\titlespacing{\subsubsection}{2em}{*4}{*1.5}
+\titlespacing{\paragraph}{4em}{*4}{*1.5}
+\titlespacing{\subparagraph}{6em}{*4}{*1.5}
+\makeatother
+
+\renewcommand{\baselinestretch}{1.5}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Página \thepage}
+\lhead{Sección \thesection}
+\rfoot{Santiago Botero Sierra}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     \title{Prueba de estilo}
 
-        \usepackage{etoolbox}
+        %\usepackage{etoolbox}
     \makeatletter
     \providecommand{\subtitle}[1]{% add subtitle to \maketitle
       \apptocmd{\@title}{\par {\large #1 \par}}{}{}
@@ -135,10 +178,6 @@
 \date{19/2/2020}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Aquí añadiré paquetes adicionales
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Aquí inicia el documento.
 \begin{document}
 
@@ -159,7 +198,7 @@
             \HRule \\[1cm]
                             \begin{minipage}{0.4\textwidth}
                 \begin{flushleft} \large
-                \emph{Author:}\\
+                \emph{Estudiante:}\\
                 \textsc{Santiago Botero Sierra}
                 \end{flushleft}
                 \end{minipage}\\[1cm]
@@ -184,15 +223,31 @@
 
 
 
-Hola! Aquí voy a citar por primera vez a \autocite{bernal:hist}; aquí la
-citaré por segunda ocasión.\autocite{bernal:hist}.
+\hypertarget{nivel-1}{%
+\section{Nivel 1}\label{nivel-1}}
+
+\hypertarget{nivel-2}{%
+\subsection{Nivel 2}\label{nivel-2}}
+
+\hypertarget{nivel-3}{%
+\subsubsection{Nivel 3}\label{nivel-3}}
+
+\hypertarget{nivel-4}{%
+\paragraph{Nivel 4}\label{nivel-4}}
+
+\hypertarget{nivel-5}{%
+\subparagraph{Nivel 5}\label{nivel-5}}
+
+Hola! Aquí voy a citar por primera vez a \textcite{bernal:hist}; aquí la
+citaré por segunda ocasión.\autocite{bernal:hist}
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Agregar la bibliografía cuando es biblatex-chicago.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+        \printbibliography
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \end{document}

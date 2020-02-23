@@ -1,0 +1,48 @@
+---
+title: 'Sociología jurídica'
+subtitle: 'Nayeli Villagrán Suárez'
+author: 'Santiago Botero Sierra'
+date: 'Enero a abril de 2020'
+output: pdf_document
+bibliography: 0.biblio.bib
+---
+
+# Entregables
+
++ *Ficha técnica de teoría sociológica (grupal)*. Sobre un autor: quién es, cuál
+    es su escuela, cuáles son sus aportaciones y cuáles son sus principales
+    obras. Extensión de una hoja por autor.
++ *Análisis sociológico jurídico de entidad federativa (individual)*.
+    Seleccionar  un estado, municipio o delegación y realizar un análisis breve
+    del contexto sociológico que se ha desarrollado en esa  región y cuáles
+    ordenamientos jurídicos han tenido un impacto en esa región. Por ejemplo:
+    cuál es el contexto histórico-cultural de Tlaxcala y por qué  tiene un
+    problema de trata de personas; cuál es el marco jurídico que  regula el
+    asunto de trata de personas. Escribir una cuartilla a mano. **7 de marzo**.
++ *Mis roles sociales*. Cuáles son mis roles sociales, mi regulación jurídica
+    que establece obligaciones y derechos. Una cuartilla a mano.
+    **28 de marzo**.
++ *Control de lectura*. El decálogo del abogado, de Abarrolli, de la Barra
+    Nacional de Abogados. No es necesario leer todo el libro, sino un capítulo-
+    artículo. Escribir una cuartilla con una opinión sobre el artículo y
+    escribir por qué decidí estudiar derecho. **2 de mayo**.
++ David Gale.
++ Consolidado de preguntas.
+
+# Cuestionario
+
+1. Definición de sociología.
+2. La sociología jurídica se encarga de: la relación del derecho con la sociedad
+    y visceversa.
+3. Mencione la relación de la sociología con otras ciencias o disciplinas.
+4. Explique con sus propias palabras la función social del derecho.
+5. Elementos que conforman una cultura.
+6. ¿Cuál es la utilidad de la estadística en el estudio de la sociología
+    jurídica?
+7. Respecto al juicio seleccionado de su control de lectura, explique la
+    relevancia jurídica que tiene en la actualidad.
+8. Mencione los derechos y deberes de los abogados de acuerdo con el Código
+    Deontológico de la Abogacía Mexicana.
+9. Explique qué entiende por rol social y cite un ejemplo con su regulación
+    jurídica.
+10. Cuadro respecto a corrientes sociológicas.
