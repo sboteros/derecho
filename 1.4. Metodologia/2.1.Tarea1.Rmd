@@ -8,7 +8,7 @@ date: "23 de febrero de 2020"
 
 \fullcite{lib:cavernas}.
 
-# Lon L. Fuller
+# Lon L. Fuller {#fuller}
 
 Fuller (1902--1978) fue un teórico del pensamiento jurídico[^Pensamiento]
 estadounidense que se desempeñó en  la docencia a partir de 1926. Durante la
@@ -31,26 +31,157 @@ sobre los límites del positivismo; asimismo, contribuyó con análisis sobre el
 proceso legal, donde afirmó que los tribunales se hallan preparados para
 realizar el tipo de análisis de la política y el propósito que él promovió para
 interpretar doctrinas como la consideración. En este periodo, la más conocida
-de sus aportaciones es el \citetitle{lib:cavernas},\autocite{lib:cavernas} que
+de sus aportaciones es \citetitle{lib:cavernas},\autocite{lib:cavernas} que
 se analiza en este documento.\autocite{art:fuller}
 
 # Miradas sobre el caso
 
-## Truepenny
+\newcommand{\Ley}{\textsc{Ley}}
 
-## Foster
+\citetitle{lib:cavernas} es una deliberación ficticia de una Suprema Corte (SC)
+que analiza el caso de unos individuos condenados por asesinato. Ellos se
+encontraban aislados en una caverna y las labores de rescate tardarían, al
+menos, 10 días; pero las probabilidades de que sobrevivieran durante ese tiempo
+eran escasas, por lo  que decidieron que uno de ellos, seleccionado
+aleatoriamente mediante una tirada de dados, serviría como alimento de los
+demás. Cuando fueron rescatados, se sometieron al juicio que los condenó por
+violar la ley, que dice que  "[q]*uienquiera privare intencionalmente de la vida
+a otro, será castigado con  la muerte*" (\Ley); tanto el jurado como el juez
+solicitaron al Poder Ejecutivo (PE) la conmutación de la pena, que también goza
+de amplia aceptación en la opinión pública y en la mayor parte de la
+SC.\autocite[9--16]{lib:cavernas} Al encontrarse divididas las posiciones de los
+ministros respecto al caso, la condena a la pena de muerte de los acusados es
+confirmada.\autocite[78]{lib:cavernas}. A continuación, se resumen los
+argumentos de los jueces que  participaron en la deliberación.
 
-## Tatting
+## Presidente Truepenny
 
-## Keen
+El presidente de la SC considera que la letra de la \Ley no permite otro castigo
+diferente para el delito, por lo que propone que la SC ratifique la condena a
+los acusados y envíe una petición de conmutación de la pena al PE, como lo
+hicieron previamente el juez inferior y el jurado. Afirma que, "[s]*i* [hubuiere
+una forma de clemencia del PE]*, se hará justicia, sin menoscabo de la letra ni
+del espíritu de nuestra ley y sin ofrecer estímulo a su
+transgresión*".\autocite[16--18]{lib:cavernas}
 
-## Handy
+## Ministro Foster[^Foster]
+
+Foster propone la revocación de la sentencia mediante dos vías argumentativas:
+que el derecho positivo no es aplicable a la situación analizada, desde una
+visión *iusnaturalista*;\autocite[18--27]{lib:cavernas} y, suponiendo sin
+conceder que eso no sea así, que una interpretación de los objetivos de la
+legislación penal[^Consideracion]  permitiría encuadrar el caso en una excepción
+a la aplicación de la \Ley, sin  violarla.\autocite[27--32]{lib:cavernas}
+
+En la argumentación *iusnaturalista*, Foster señala que el *derecho positivo*
+presupone la coexistencia de los hombres en sociedad y que, como estos hombres
+dejaron de vivir en sociedad, pasaron de un *estado de sociedad civil* a un
+*estado de naturaleza* e hicieron un contrato sobre lo que debían hacer (es
+decir, una nueva Constitución que regiría para su situación particular); plantea
+que de este tipo de contratos  surge la legitimidad de la existencia misma del
+derecho positivo, pues el  *contrato social* es aquel que harían hombres
+razonables en estado de naturaleza para poder convivir pacíficamente entre sí.
+Por lo tanto, al aplicar el principio de que cuando cesa la razón de la ley,
+cesa la ley (*cessante ratione legis, cessat ipsa lex*), entonces estos hombres
+no estarían regidos por el derecho positivo  que la SC
+aplica.\autocite[18--27]{lib:cavernas}
+
+Por otra parte, suponiendo que sí les aplicaba el derecho positivo, sería
+necesario que la SC interprete la \Ley a la luz de su propósito evidente.
+Plantea que la legislación penal tiene un propósito preventivo y asimila la
+excepción de la *defensa propia* con este, pues castigar a alguien que quite la
+vida a otro en defensa propia no prevendrá otros casos en el
+futuro.[^Legislador] \autocite[27--32]{lib:cavernas} Luego, mediante esta
+interpretación del sentido de la \Ley, debe declararse este caso como una
+excepción.
+
+## Ministro Tatting
+
+El ministro Tatting renuncia a decidir sobre el caso, pues las soluciones
+jurídicas, condenatorias de los acusados, chocan contra su deseo de hallar una
+pena menor; hubiera preferido que el fiscal no los acusase por homicidio, pues
+de esa forma no tendrían que resolver en derecho la pena capital. Su
+argumentación tiene dos elementos: las dificultades y ausencias lógicas del
+*estado de naturaleza* señalado por Foster; y la inadecuación de implementar una
+excepción al caso.\autocite[32--46]{lib:cavernas}
+
+La tesis sobre el *estado de naturaleza* esgrimida por Foster, afirma, tiene
+incoherencias lógicas sobre el momento en que comenzó a aplicar y sobre las
+consecuencias que tiene. En primer lugar, no es claro el momento en que estos
+hombres hubiesen pasado de un *estado de sociedad civil* a uno de *naturaleza*.
+Además, incluso la voluntad de contratar (un nuevo *contrato social*) no podría
+estar por encima de valores como la vida en dicho estado, pues ello lo haría
+odioso.\autocite[32--37]{lib:cavernas}
+
+Por otra parte, una ley no tiene un único propósito al cual servir; en el caso
+de la ley penal, si bien un propósito es la prevención, otros son "*proveer un
+escape ordenado a la instintiva necesidad humana de retribución*" y
+"*rehabilitar al delincuente*". Incluso, la excepción de la *defensa propia* que
+mayor arraigo tiene en la doctrina no es la prevención, commo afirmó Foster,
+sino la intencionalidad;[^Intencionalidad] pero en este caso, los acusados
+actuaron intencionalmente y con mucha deliberación. Finalmente, plantea que,
+aunque a su parecer una condena sí tendría un efecto preventivo, señala que la
+dificultad de aceptar este caso como un principio de excepción radica en su
+naturaleza *sui generis*, que generarían dificultades de decisión sobre *litis*
+futuras, que es un control de la solidez de los
+principios.\autocite[38--46]{lib:cavernas}
+
+## Ministro Keen
+
+Keen señala que el texto de la \Ley es claro cuando se abandonan los aspectos
+morales, que no deberían estar presentes en la decisión del juez, y se cumple
+con el deber de aplicarla: estos hombres privaron de la vida  a otro y lo
+hicieron de forma intencional, por lo tanto deben recibir la pena  establecida
+por ello. En su contra-argumentación de Foster, señala el principio  de
+*primacía del legislativo*, el método de los jueces militantes (que suponen  un
+propósito a las leyes por el placer de llenar las supuestas lagunas) y la
+dificultad para imaginar un propósito determinado en las
+leyes.\autocite[46--60]{lib:cavernas}
+
+## Ministro Handy
+
+Handy realiza una argumentación basada en el *realismo jurídico*, según la cual
+debe debe absolverse a los acusados a la luz del *sentido común*, pues "(...)
+*todos los  funcionarios públicos, incluidos los jueces, cumplirían mejor su
+tarea si  trataran a las formas y a los conceptos abstractos como instrumentos*".
+Plantea que la opinión pública desea la absolución de los acusados y llama la
+atención de los peligros de disociar al gobierno de la opinión pública; que los
+formalismos legales no son la única forma de liberarse de una acusación, como
+se concluye de las argumentaciones de Truepenny y Tatting;[^Formalismos] y que
+existe la probabilidad de que el PE no conmute la pena, aunque él mismo
+preferiría no seguir las formas y reunirse con su titular para planear una
+salida del asunto.\autocite[60--77]{lib:cavernas}
 
 # La voluntad de vivir
 
 [^Pensamiento]: Estudia la forma de pensamiento, argumentación y persuasión de
-los profesionales del Derecho. \autocite{art:fuller}
+los profesionales del Derecho. \autocite[166]{art:fuller}.
 
 [^Policy]: Consideraciones sobre las condiciones sociales, los propósitos
 funcionales, los objetivos sociales y los compromisos éticos del
-derecho.\autocite{art:fuller}
+derecho, \autocite[168]{art:fuller}.
+
+[^Foster]: En la introducción, Genaro Carrió (uno de los traductores), afirma:
+"*Sólo cabría reprochar a Fuller, me parece, haber puesto mucha luminosidad
+en la argumentación de Foster, y bastante menos en la de los otros. ¿Será
+prueba ello de que, como piensan algunos, Foster es menos una caricatura que un
+autorretrato?*" \autocite[6]{lib:cavernas}.
+
+[^Consideracion]: Observe que esta línea argumentativa inserta el análisis de
+la política en la argumentación jurídica, de acuerdo con la *teoría de la
+consideración* propuesta por el mismo Fuller, como se analizó en la sección
+\ref{fuller}.
+
+[^Legislador]: Al  respecto, señala que interpretar la \Ley acorde con su
+propósito no es suplantar al legislador sino hacer efectiva su voluntad: "*La
+corrección de obvios errores u omisiones legislativas no significa suplantar la
+voluntad del legislador, sino hacerla efectiva*". \autocite[32]{lib:cavernas}.
+
+[^Intencionalidad]: Note que, en ausencia de intención, no se viola el texto de
+la \Ley.
+
+[^Formalismos]: Señala que hay 4 vías para escapar a la pena: que el juez
+determine que no hay crimen bajo la ley vigente, que el fiscal decida no pedir
+el procesamiento, que el jurado emita un veredicto absolutorio y que el PE
+conmute la pena; dice que únicamente la primera sigue los formalismos señalados
+para un proceso legal, \autocite[67--68]{lib:cavernas}
