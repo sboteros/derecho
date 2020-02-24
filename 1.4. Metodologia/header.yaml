@@ -1,0 +1,15 @@
+teacher: Édgar Caballero
+subject: Metodología jurídica
+bibliography: [../latex/libros.bib, ../latex/articulos.bib]
+lang: es
+colorlinks: true
+hyperrefoptions: [colorlinks,filecolor=Teal,citecolor=black,breaklinks=true,urlcolor=DarkSlateBlue, linkcolor=DarkSlateBlue]
+geometry: [left=3cm, right=3cm, top=2.5cm, bottom=2.5cm]
+fontsize: 12pt
+fontfamily: times
+graphics: true
+biblatex-chicago: true
+cover: true
+major: Licenciatura en derecho
+institute: Centro de Estudios Carbonell
+logo: ../latex/CEC.jpg

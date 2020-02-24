@@ -1,0 +1,56 @@
+---
+title: El caso de los exploradores de las cavernas
+subtitle: Múltiples miradas sobre un mismo problema
+homework: Control de lectura
+author: Santiago Botero Sierra
+date: "23 de febrero de 2020"
+---
+
+\fullcite{lib:cavernas}.
+
+# Lon L. Fuller
+
+Fuller (1902--1978) fue un teórico del pensamiento jurídico[^Pensamiento]
+estadounidense que se desempeñó en  la docencia a partir de 1926. Durante la
+década de 1940 hubo una revuelta intelectual hacia el razonamiento jurídico
+clásico del siglo XIX, basado en la exégesis, y una mayor sensibilidad hacia la
+*policy* (política);[^Policy] sin embargo, los realistas habían sido radicales y
+sub-enfatizaron el derecho y las formas legales. Por ello, la influencia
+académica de Fuller se debe a un método para "*gestionar la transición del
+realismo jurídico a la corriente  central del pensamiento jurídico
+estadounidense*".\autocite{art:fuller}
+
+En "Consideration and Form" (1942), propuso la *doctrina de la
+consideración* que inserta a la política dentro del análisis jurídico, pues
+valora el peso de diversas políticas en casos particulares en la interpretación
+de reglas particulares. Esto tiene aplicación para el análisis de contratos, en
+donde defendió el uso del "*principio de la autonomía privada*", en contraste con
+la clásica "*teoría de la voluntad*". Después de la Segunda Guerra Mundial, se
+centró en debatir con los filósofos del Derecho, en especial con H.L.A. Hart,
+sobre los límites del positivismo; asimismo, contribuyó con análisis sobre el
+proceso legal, donde afirmó que los tribunales se hallan preparados para
+realizar el tipo de análisis de la política y el propósito que él promovió para
+interpretar doctrinas como la consideración. En este periodo, la más conocida
+de sus aportaciones es el \citetitle{lib:cavernas},\autocite{lib:cavernas} que
+se analiza en este documento.\autocite{art:fuller}
+
+# Miradas sobre el caso
+
+## Truepenny
+
+## Foster
+
+## Tatting
+
+## Keen
+
+## Handy
+
+# La voluntad de vivir
+
+[^Pensamiento]: Estudia la forma de pensamiento, argumentación y persuasión de
+los profesionales del Derecho. \autocite{art:fuller}
+
+[^Policy]: Consideraciones sobre las condiciones sociales, los propósitos
+funcionales, los objetivos sociales y los compromisos éticos del
+derecho.\autocite{art:fuller}
