@@ -449,7 +449,7 @@ $endif$
 \fancyhf{}
 \rhead{Página \thepage}
 \lhead{Sección \thesection}
-\rfoot{$for(author)$$author$$sep$ \and $endfor$}
+\rfoot{$for(author)$$author$$sep$, $endfor$}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 $if(csl-refs)$
     \newlength{\cslhangindent}
@@ -477,12 +477,12 @@ $if(subtitle)$
 \subtitle{$subtitle$}
 $endif$
 
-\author{$for(author)$$author$$sep$ \and $endfor$}
+\author{$for(author)$$author$$sep$, $endfor$}
 \date{$date$}
 
 $if(beamer)$
     $if(institute)$
-    \institute{$for(institute)$$institute$$sep$ \and $endfor$}
+    \institute{$for(institute)$$institute$$sep$, $endfor$}
     $endif$
     $if(titlegraphic)$
     \titlegraphic{\includegraphics{$titlegraphic$}}
@@ -522,7 +522,7 @@ $if(title)$
                 \begin{minipage}{0.4\textwidth}
                 \begin{flushleft} \large
                 \emph{Estudiante:}\\
-                \textsc{$for(author)$$author$$sep$ \and $endfor$}
+                \textsc{$for(author)$$author$$sep$, $endfor$}
                 \end{flushleft}
                 \end{minipage}\\[1cm]
             $endif$
@@ -530,7 +530,7 @@ $if(title)$
                 \begin{minipage}{0.4\textwidth}
                 \begin{flushright} \large
                 \emph{Profesor:}\\
-                \textsc{$for(teacher)$$teacher$$sep$ \and $endfor$}
+                \textsc{$for(teacher)$$teacher$$sep$, $endfor$}
                 \end{flushright}
                 \end{minipage}\\[1cm]
             $endif$
@@ -540,7 +540,7 @@ $if(title)$
             \begin{flushright}
                 \textbf{$if(title)$$title$$endif$}\\
                 \textbf{$if(subtitle)$$subtitle$$endif$}\\
-                \textbf{$if(author)$$for(author)$$author$$sep$ \and $endfor$$endif$}
+                \textbf{$if(author)$$for(author)$$author$$sep$, $endfor$$endif$}
             \end{flushright}
             $if(abstract)$
                 \begin{abstract}

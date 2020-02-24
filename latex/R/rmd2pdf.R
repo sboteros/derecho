@@ -40,6 +40,7 @@ cleanUp <- function(tmpExtensions) {
 
 # Función para hacer el PDF y correr Biber 
 rmd2pdf <- function(file='prueba.Rmd', template='default.tex',
+                    arguments = ' --metadata-file=header.yaml',
                     biber=TRUE, saveTmpFiles=FALSE) {
   if (str_length(Sys.which('xelatex')) == 0) {
     stop(str_c('Must have xelatex installed and accesible from the command line',
@@ -80,7 +81,7 @@ rmd2pdf <- function(file='prueba.Rmd', template='default.tex',
   # make pandoc command string
   pandocCmd <- str_c("pandoc ", shQuote(mdFile),
                      " -t latex -o ", shQuote(texFile),
-                     " --self-contained --number-sections",
+                     " --self-contained --number-sections", arguments,
                      " --template=", shQuote(template))
   
   cat("pandoc'ing", mdFile, "into", texFile, "...\n")
