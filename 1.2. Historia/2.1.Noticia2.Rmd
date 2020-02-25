@@ -1,0 +1,64 @@
+---
+title: Falta de ética de la prensa amarillista mexicana en casos de feminicidio
+subtitle: La ausencia de comportamientos éticos exige regulación
+homework: Comentario de prensa
+author: Santiago Botero Sierra
+date: "24 de febrero de 2020"
+---
+
+La noticia \citetitle{prensa:escamilla} explica que la publicación de las fotos
+del cuerpo desmembrado de Ingrid Escamilla (1995--2020), por diversos periódicos
+"de la nota roja"[^Periodicos] generó una ola de indignación en México; además,
+la exhibición de  las fotografías reveló posibles fallas en su cadena de
+custodia, por las que se  investiga a 6 personas. Ingrid Escamilla fue asesinada
+por su presunta expareja, de nombre Francisco Robledo, el 8 de febrero pasado.
+La noticia también señala el contexto de violencia feminicida que se vive en
+México, el supuesto debate legislativo en torno a la tipificación del
+feminicidio y una serie de comentarios del  presidente Andrés Manuel López
+Obrador sobre la supuesta manipulación de  diversos medios de comunicación para
+desacreditar su labor de gobierno a partir  del problema de los
+feminicidios.\autocite{prensa:escamilla}
+
+Este debate pone de relieve una pregunta que muchos nos hacemos en la actualidad
+con respecto a la información tendenciosa que circula por redes sociales y al
+manejo de los  contenidos de diversos medios informativos que pueden ser
+parcializados, faltar a la verdad o adolecer de diversas consideraciones
+éticas, aparentemente de forma impune: ¿cómo debiera regularse a los medios
+informativos sin incurrir en formas de censura previa?
+
+En México la *censura previa* se encuentra prohibida en el artículo 7 de la
+Constitución, que establece que "[n]*inguna ley ni autoridad puede
+establecer la previa censura, ni coartar la libertad de difusión, que no tiene
+más límites que los previstos en el primer párrafo del artículo 6 de esta
+Constitución*". A su vez, el primer párrafo del artículo 6 establece que podrán
+ser objeto de inquisión judicial o administrativa las manifestaciones que
+ataquen a la moral, la vida privada o los derechos de terceros; la provocación
+de delitos; o la perturbación del orden público.\autocite{constitucion}
+
+En el  caso analizado en \citetitle{prensa:escamilla}, la publicación de
+imágenes con  contenidos degradantes como el cuerpo mutilado de Ingrid Escamilla
+viola la  vida privada de ella (aunque ella misma ya murió y no puede reclamar)
+y vulnera  los derechos de sus familiares; por lo tanto, creo que este caso
+encuadra en  la excepción constitucional establecida en el artículo 6 y podría
+ser objeto de  escrutinio por parte de las autoridades.[^Audiencias]
+Adicionalmente, la sola  publicación de este contenido también refleja una falta
+ética de los medios de  comunicación y los periodistas responsables, pues uno de
+los principios éticos del periodismo es el "*deber de ser conscientes del
+impacto de* [sus] *palabras e imágenes en las vidas de
+otros*".\autocite[][\textit{traducción libre}]{prensa:etica}
+
+Considero que la ausencia de controles éticos mínimos para el manejo de
+información que atenta contra la dignidad humana en general, y para el
+cubrimiento de noticias relacionadas con violencia de género en particular,
+dentro de determinados  periódicos amarillistas mexicanos, exige que las
+autoridades jurisdiccionales investiguen y sancionen a dichos medios por
+transgresiones al artículo 6 de la Constitución.
+
+[^Periodicos]: Estos periódicos publicaron fotografías en primera plana: Pásala,
+bajo el título La culpa la tuvo cupido; y La Prensa, bajo el título Descarnada.
+
+[^Audiencias]: Asimismo, si estas escenas se hubiesen presentado por medios que
+utilicen el espectro radioeléctrico, entonces también violentarían el derecho
+que tienen las audiencias "[a]*l respeto de los derechos humanos, el interés
+superior de la niñez, la igualdad de género y la no discriminación* (...)"
+establecido en el artículo 256, inciso IX, de la \autocite{LFTR}.

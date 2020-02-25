@@ -425,6 +425,7 @@ $endfor$
 $endif$
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[autostyle]{csquotes}
+%%% Sobre los formatos de los títulos
 \RequirePackage{titlesec}
 \makeatletter
 \renewcommand{\thesection}{\Roman{section}}
@@ -442,6 +443,7 @@ $endif$
 \titlespacing{\subparagraph}{6em}{*4}{*1.5}
 \makeatother
 
+%%% Sobre el header y el footer
 \renewcommand{\baselinestretch}{1.5}
 \usepackage{fancyhdr}
 
@@ -450,6 +452,14 @@ $endif$
 \rhead{Página \thepage}
 \lhead{Sección \thesection}
 \rfoot{$for(author)$$author$$sep$, $endfor$}
+
+%%% Sobre las notas al pie de página
+\let\oldfootnotesize\footnotesize
+\renewcommand*{\footnotesize}{\oldfootnotesize\scriptsize}
+\makeatletter
+\def\footnoterule{\kern-3\p@
+  \hrule \@width 2in \kern 2.6\p@} % the \hrule is .4pt high
+\makeatother
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 $if(csl-refs)$
     \newlength{\cslhangindent}

@@ -10,29 +10,33 @@ date: "23 de febrero de 2020"
 
 # Lon L. Fuller {#fuller}
 
-Fuller (1902--1978) fue un teórico del pensamiento jurídico[^Pensamiento]
-estadounidense que se desempeñó en  la docencia a partir de 1926. Durante la
-década de 1940 hubo una revuelta intelectual hacia el razonamiento jurídico
-clásico del siglo XIX, basado en la exégesis, y una mayor sensibilidad hacia la
-*policy* (política);[^Policy] sin embargo, los realistas habían sido radicales y
+Fuller (1902--1978) fue un teórico del pensamiento jurídico estadounidense que
+se desempeñó en  la docencia a partir de 1926.\autocite[El pensamiento jurídico
+estudia la forma de pensamiento, argumentación y persuasión de los profesionales
+del Derecho.][166]{art:fuller} Durante la década de 1940 hubo una revuelta
+intelectual contra el razonamiento jurídico clásico del siglo XIX, basado en la
+exégesis, y una mayor sensibilidad hacia la *policy*
+(política);\autocite[Consideraciones sobre las condiciones sociales, los
+propósitos funcionales, los objetivos sociales y los compromisos éticos del
+derecho,][168]{art:fuller} sin embargo, los realistas habían sido radicales y
 sub-enfatizaron el derecho y las formas legales. Por ello, la influencia
 académica de Fuller se debe a un método para "*gestionar la transición del
 realismo jurídico a la corriente  central del pensamiento jurídico
 estadounidense*".\autocite{art:fuller}
 
-En "Consideration and Form" (1942), propuso la *doctrina de la
-consideración* que inserta a la política dentro del análisis jurídico, pues
-valora el peso de diversas políticas en casos particulares en la interpretación
-de reglas particulares. Esto tiene aplicación para el análisis de contratos, en
-donde defendió el uso del "*principio de la autonomía privada*", en contraste con
-la clásica "*teoría de la voluntad*". Después de la Segunda Guerra Mundial, se
+En "Consideration and Form" (1942), propuso la *doctrina de la consideración*,
+que inserta a la política dentro del análisis jurídico, pues valora el peso de
+diversas políticas en casos particulares para la interpretación de reglas
+específicas. Esto tiene aplicación para el análisis de contratos, en donde
+defendió el uso del "*principio de la autonomía privada*", en contraste con la
+clásica "*teoría de la voluntad*". Después de la Segunda Guerra Mundial, se
 centró en debatir con los filósofos del Derecho, en especial con H.L.A. Hart,
 sobre los límites del positivismo; asimismo, contribuyó con análisis sobre el
 proceso legal, donde afirmó que los tribunales se hallan preparados para
 realizar el tipo de análisis de la política y el propósito que él promovió para
-interpretar doctrinas como la consideración. En este periodo, la más conocida
-de sus aportaciones es \citetitle{lib:cavernas},\autocite{lib:cavernas} que
-se analiza en este documento.\autocite{art:fuller}
+interpretar doctrinas (como la consideración). En este periodo, la más conocida de
+sus aportaciones es \citetitle{lib:cavernas},\autocite{lib:cavernas} que se
+analiza en este documento.\autocite{art:fuller}
 
 # Miradas sobre el caso
 
@@ -42,16 +46,16 @@ se analiza en este documento.\autocite{art:fuller}
 que analiza el caso de unos individuos condenados por asesinato. Ellos se
 encontraban aislados en una caverna y las labores de rescate tardarían, al
 menos, 10 días; pero las probabilidades de que sobrevivieran durante ese tiempo
-eran escasas, por lo  que decidieron que uno de ellos, seleccionado
+eran escasas, por lo  que decidieron que alguno, seleccionado
 aleatoriamente mediante una tirada de dados, serviría como alimento de los
 demás. Cuando fueron rescatados, se sometieron al juicio que los condenó por
 violar la ley, que dice que  "[q]*uienquiera privare intencionalmente de la vida
 a otro, será castigado con  la muerte*" (\Ley); tanto el jurado como el juez
 solicitaron al Poder Ejecutivo (PE) la conmutación de la pena, que también goza
 de amplia aceptación en la opinión pública y en la mayor parte de la
-SC.\autocite[9--16]{lib:cavernas} Al encontrarse divididas las posiciones de los
-ministros respecto al caso, la condena a la pena de muerte de los acusados es
-confirmada.\autocite[78]{lib:cavernas}. A continuación, se resumen los
+SC\autocite[9--16]{lib:cavernas}. Al encontrarse divididas las posiciones de los
+ministros respecto al caso, la condena a la pena de muerte de los acusados fue
+confirmada.\autocite[78]{lib:cavernas} A continuación, se resumen los
 argumentos de los jueces que  participaron en la deliberación.
 
 ## Presidente Truepenny
@@ -82,18 +86,16 @@ que de este tipo de contratos  surge la legitimidad de la existencia misma del
 derecho positivo, pues el  *contrato social* es aquel que harían hombres
 razonables en estado de naturaleza para poder convivir pacíficamente entre sí.
 Por lo tanto, al aplicar el principio de que cuando cesa la razón de la ley,
-cesa la ley (*cessante ratione legis, cessat ipsa lex*), entonces estos hombres
-no estarían regidos por el derecho positivo  que la SC
+cesa la ley misma (*cessante ratione legis, cessat ipsa lex*), entonces estos
+hombres no estarían regidos por el derecho positivo  que la SC
 aplica.\autocite[18--27]{lib:cavernas}
 
 Por otra parte, suponiendo que sí les aplicaba el derecho positivo, sería
 necesario que la SC interprete la \Ley a la luz de su propósito evidente.
 Plantea que la legislación penal tiene un propósito preventivo y asimila la
 excepción de la *defensa propia* con este, pues castigar a alguien que quite la
-vida a otro en defensa propia no prevendrá otros casos en el
-futuro.[^Legislador] \autocite[27--32]{lib:cavernas} Luego, mediante esta
-interpretación del sentido de la \Ley, debe declararse este caso como una
-excepción.
+vida a otro en defensa propia no prevendrá otros casos en el futuro.[^Interpretacion] Luego, mediante esta interpretación
+del sentido de la \Ley, debe declararse este caso como una excepción.
 
 ## Ministro Tatting
 
@@ -117,71 +119,122 @@ Por otra parte, una ley no tiene un único propósito al cual servir; en el caso
 de la ley penal, si bien un propósito es la prevención, otros son "*proveer un
 escape ordenado a la instintiva necesidad humana de retribución*" y
 "*rehabilitar al delincuente*". Incluso, la excepción de la *defensa propia* que
-mayor arraigo tiene en la doctrina no es la prevención, commo afirmó Foster,
-sino la intencionalidad;[^Intencionalidad] pero en este caso, los acusados
+mayor arraigo tiene en la doctrina no es la prevención, como afirmó Foster,
+sino la intencionalidad;[^Intencionalidad] pero, en este caso los acusados
 actuaron intencionalmente y con mucha deliberación. Finalmente, plantea que,
 aunque a su parecer una condena sí tendría un efecto preventivo, señala que la
 dificultad de aceptar este caso como un principio de excepción radica en su
-naturaleza *sui generis*, que generarían dificultades de decisión sobre *litis*
+naturaleza *sui generis*, que generaría dificultades de decisión sobre *litis*
 futuras, que es un control de la solidez de los
 principios.\autocite[38--46]{lib:cavernas}
 
 ## Ministro Keen
 
-Keen señala que el texto de la \Ley es claro cuando se abandonan los aspectos
-morales, que no deberían estar presentes en la decisión del juez, y se cumple
-con el deber de aplicarla: estos hombres privaron de la vida  a otro y lo
-hicieron de forma intencional, por lo tanto deben recibir la pena  establecida
-por ello. En su contra-argumentación de Foster, señala el principio  de
-*primacía del legislativo*, el método de los jueces militantes (que suponen  un
-propósito a las leyes por el placer de llenar las supuestas lagunas) y la
-dificultad para imaginar un propósito determinado en las
-leyes.\autocite[46--60]{lib:cavernas}
+Keen realiza una argumentación *iuspositivista* al señalar que el texto de la
+\Ley es claro cuando se abandonan los aspectos morales, que no deberían estar
+presentes en la decisión del juez, y se cumple con el deber de aplicarla: estos
+hombres privaron de la vida  a otro y lo hicieron de forma intencional, por lo
+tanto deben recibir la pena  establecida por ello. En su contra-argumentación de
+Foster, señala el principio  de *primacía del legislativo*, denuncia el método
+de los jueces militantes (que suponen  un propósito a las leyes por el placer de
+llenar las supuestas lagunas) y plantea las dificultades para imaginar un
+propósito determinado en las leyes.\autocite[46--60]{lib:cavernas}
 
 ## Ministro Handy
 
 Handy realiza una argumentación basada en el *realismo jurídico*, según la cual
-debe debe absolverse a los acusados a la luz del *sentido común*, pues "(...)
+debe absolverse a los acusados a la luz del *sentido común*, pues "(...)
 *todos los  funcionarios públicos, incluidos los jueces, cumplirían mejor su
-tarea si  trataran a las formas y a los conceptos abstractos como instrumentos*".
-Plantea que la opinión pública desea la absolución de los acusados y llama la
-atención de los peligros de disociar al gobierno de la opinión pública; que los
-formalismos legales no son la única forma de liberarse de una acusación, como
-se concluye de las argumentaciones de Truepenny y Tatting;[^Formalismos] y que
-existe la probabilidad de que el PE no conmute la pena, aunque él mismo
-preferiría no seguir las formas y reunirse con su titular para planear una
-salida del asunto.\autocite[60--77]{lib:cavernas}
+tarea si  trataran a las formas y a los conceptos abstractos como
+instrumentos*". Plantea que la opinión pública desea la absolución de los
+acusados y llama la atención de los peligros de disociar al gobierno de la
+opinión pública; que los formalismos legales no son la única forma de liberarse
+de una acusación, como se concluye de las argumentaciones de Truepenny y
+Tatting;\autocite[Señala que hay 4 vías para escapar a la pena: que el juez
+determine que no hay crimen bajo la ley vigente, que el fiscal decida no pedir
+el procesamiento, que el jurado emita un veredicto absolutorio y que el PE
+conmute la pena; dice que únicamente la primera sigue los formalismos señalados
+para un proceso legal,][67--68]{lib:cavernas} y que existe la probabilidad de
+que el PE no conmute la pena, aunque él mismo preferiría no seguir las formas y
+reunirse con su titular para planear una salida del
+asunto.\autocite[60--77]{lib:cavernas}
 
-# La voluntad de vivir
+# Voluntad, ponderación y pena de muerte
 
-[^Pensamiento]: Estudia la forma de pensamiento, argumentación y persuasión de
-los profesionales del Derecho. \autocite[166]{art:fuller}.
+El caso en análisis invita a reflexionar sobre el límite que tiene la voluntad o
+la intencionalidad en nuestras acciones, la importancia de permitir a los jueces
+ponderar los elementos de cada caso concreto para modular la pena y la necesidad
+de eliminar la pena de muerte de todos los sistemas jurídicos.
 
-[^Policy]: Consideraciones sobre las condiciones sociales, los propósitos
-funcionales, los objetivos sociales y los compromisos éticos del
-derecho, \autocite[168]{art:fuller}.
+Cuando afirmamos que una persona realiza la acción $x_1$ de forma voluntaria,
+consideramos que pudo elegir entre diferentes acciones de un conjunto con más
+elementos que $x_1$ ($x \in \{x_1, ..., x_n\}$), pues de lo contrario no
+podríamos hablar de que la persona pudo hacer ejercicio de su libre albedrío y
+tomar una decisión racional. En este caso, considero evidente que los individuos
+involucrados no pudieron haber actuado de forma *intencional* ya que no contaban
+con alternativas viables que les permitieran elegir un curso de acción diferente
+al que llevaron a cabo: la única alternativa que pudieron haber elegido hubiese
+sido el perecer y a ningún hombre debiera obligársele a tomar esa
+decisión.[^Muerte] En ese sentido, la argumentación de Foster sobre la excepción
+de la *defensa propia* es bastante  interesante, pues estamos naturalmente
+inclinados a defender nuestra  propia existencia ante situaciones que la
+amenacen.
 
-[^Foster]: En la introducción, Genaro Carrió (uno de los traductores), afirma:
-"*Sólo cabría reprochar a Fuller, me parece, haber puesto mucha luminosidad
-en la argumentación de Foster, y bastante menos en la de los otros. ¿Será
-prueba ello de que, como piensan algunos, Foster es menos una caricatura que un
-autorretrato?*" \autocite[6]{lib:cavernas}.
+Por otra parte, el texto llama la atención sobre la discrecionalidad que deben
+tener los jueces para modular la pena en atención a los casos particulares. Un
+elemento que llama la atención en este caso es que el papel de los operadores
+jurídicos se limita a determinar si el delito fue cometido o no, pero la sanción
+por el mismo ya se encuentra predeterminada en la legislación. Creo que esto es
+un error de técnica legislativa, pues impide al juez, que conoce los pormenores
+del caso concreto, resolver en derecho la sanción más adecuada para la
+infracción cometida. Este caso es opuesto al señalado por el ministro Keen (de
+los jueces que, supuestamente, buscan suplantar la labor del poder legislativo),
+en el que los legisladores buscan suplantar la labor jurisprudencial y limitarla
+a constatar la existencia fáctica de los hechos. Este asunto cobra especial
+relevancia actualmente, cuando hay preocupación por el surgimiento de populismos
+de diversa índole en el mundo y un *populismo punitivo* que toma provecho de
+los factores sociales que lo causan.
+
+Finalmente, quiero llamar la atención sobre la deseabilidad de eliminar la
+pena de muerte y otras penas crueles que afectan la dignidad humana,
+pues resarcir los posibles errores de inferencia de los operadores jurídicos es
+imposible en estos casos. En efecto, es bien sabido que al inferir la verdad de
+un hecho podemos cometer dos clases de errores: falsos positivos y falsos
+negativos;[^Inferencia] el primero de ellos es cuando se condena a una persona
+que en realidad es inocente del delito. Ante la probabilidad de falsos
+positivos, que el Estado asesine a alguien o le cause un daño irreparable es un
+riesgo que no se debe correr en sociedades liberales, que respetan al individuo
+y erigen su importancia hasta el centro de la razón misma de su existencia, como
+en las sociedades democráticas. Particularmente en este caso, dadas la división
+división de criterios en la SC y la ausencia de *sentido común* de la pena
+(como lo señaló Handy), parece que nos encontramos ante un falso positivo
+judicial.
 
 [^Consideracion]: Observe que esta línea argumentativa inserta el análisis de
 la política en la argumentación jurídica, de acuerdo con la *teoría de la
 consideración* propuesta por el mismo Fuller, como se analizó en la sección
 \ref{fuller}.
 
-[^Legislador]: Al  respecto, señala que interpretar la \Ley acorde con su
-propósito no es suplantar al legislador sino hacer efectiva su voluntad: "*La
-corrección de obvios errores u omisiones legislativas no significa suplantar la
-voluntad del legislador, sino hacerla efectiva*". \autocite[32]{lib:cavernas}.
-
 [^Intencionalidad]: Note que, en ausencia de intención, no se viola el texto de
 la \Ley.
 
-[^Formalismos]: Señala que hay 4 vías para escapar a la pena: que el juez
-determine que no hay crimen bajo la ley vigente, que el fiscal decida no pedir
-el procesamiento, que el jurado emita un veredicto absolutorio y que el PE
-conmute la pena; dice que únicamente la primera sigue los formalismos señalados
-para un proceso legal, \autocite[67--68]{lib:cavernas}
+[^Muerte]: Aunque tampoco debiera obligársele a tomar la decisión de continuar
+viviendo cuando las circunstancias a las que se enfrenta hacen que pierda lo que
+considera una *vida digna* y se encuentra en pleno goce de sus facultades
+mentales; por ejemplo, toda persona debiera poder elegir libremente si desea
+asistencia médica para morir ante una enfermedad incurable y dolorosa.
+
+[^Inferencia]: En el lenguaje usual de inferencia estadística se conocen como
+errores de tipo I y tipo II.
+
+[^Foster]: En la introducción, Genaro Carrió (uno de los traductores), afirma:
+"*Sólo cabría reprochar a Fuller, me parece, haber puesto mucha luminosidad en
+la argumentación de Foster, y bastante menos en la de los otros. ¿Será prueba
+ello de que, como piensan algunos, Foster es menos una caricatura que un
+autorretrato?*", \cite[6]{lib:cavernas}.
+
+[^Interpretacion]: Al respecto, señala que interpretar la \Ley acorde con su
+propósito no es suplantar al legislador sino hacer efectiva su voluntad: "*La
+corrección de obvios errores u omisiones legislativas no significa suplantar la
+voluntad del legislador, sino hacerla efectiva*",
+\autocite[27--32]{lib:cavernas}
