@@ -6,6 +6,20 @@ author: Santiago Botero Sierra
 date: "24 de febrero de 2020"
 ---
 
+\begin{flushright}
+\begin{minipage}{0.6\textwidth}
+{\itshape
+Lo que tanto se sufre sin sueño y por la sangre
+se escucha que palpita solamente la rabia,
+que en los tuétanos tiembla despabilado el odio
+y en las médulas arde continua la venganza.
+Las palabras entonces no sirven, son palabras.}
+Nocturno (fragmento), Rafael Alberti.
+\end{minipage}
+\end{flushright}
+
+# La exhibición del cuerpo de Ingrid Escamilla
+
 La noticia \citetitle{prensa:escamilla} explica que la publicación de las fotos
 del cuerpo desmembrado de Ingrid Escamilla (1995--2020), por diversos periódicos
 "de la nota roja"[^Periodicos] generó una ola de indignación en México; además,
@@ -18,6 +32,8 @@ feminicidio y una serie de comentarios del  presidente Andrés Manuel López
 Obrador sobre la supuesta manipulación de  diversos medios de comunicación para
 desacreditar su labor de gobierno a partir  del problema de los
 feminicidios.\autocite{prensa:escamilla}
+
+# Censura y derechos de terceros
 
 Este debate pone de relieve una pregunta que muchos nos hacemos en la actualidad
 con respecto a la información tendenciosa que circula por redes sociales y al
@@ -34,6 +50,8 @@ Constitución*". A su vez, el primer párrafo del artículo 6 establece que podr
 ser objeto de inquisión judicial o administrativa las manifestaciones que
 ataquen a la moral, la vida privada o los derechos de terceros; la provocación
 de delitos; o la perturbación del orden público.\autocite{constitucion}
+
+# Necesidad de regulación
 
 En el  caso analizado en \citetitle{prensa:escamilla}, la publicación de
 imágenes con  contenidos degradantes como el cuerpo mutilado de Ingrid Escamilla

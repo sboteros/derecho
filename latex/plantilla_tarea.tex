@@ -390,6 +390,10 @@ $if(dir)$
     \fi
 $endif$
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Paquete para manejo de acrónimos, antes de bibliografía
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 $if(natbib)$
     \usepackage[$natbiboptions$]{natbib}
     \bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
@@ -415,11 +419,15 @@ $endfor$
 
 \NewBibliographyString{cbytranslator}
 \NewBibliographyString{cbyeditor}
+\NewBibliographyString{subverbo}
+\NewBibliographyString{coords}
 \DefineBibliographyStrings{spanish}{%
   cbyeditor = {ed\adddot},
   byeditor = {ed\adddot},
   cbytranslator = {trad\adddot},
   bytranslator = {trad\adddot},
+  subverbo = {sub~voce},
+  coords = {coordinadores},
 }
 
 $endif$
@@ -443,15 +451,24 @@ $endif$
 \titlespacing{\subparagraph}{6em}{*4}{*1.5}
 \makeatother
 
-%%% Sobre el header y el footer
-\renewcommand{\baselinestretch}{1.5}
-\usepackage{fancyhdr}
+%%% Interlineado
+\usepackage{setspace}
+\onehalfspacing
 
+%%% Sobre el header y el footer
+\usepackage{fancyhdr}
+\setlength\headheight{14.5pt}
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{Página \thepage}
-\lhead{Sección \thesection}
-\rfoot{$for(author)$$author$$sep$, $endfor$}
+\fancyhead[R]{Página \thepage}
+\fancyhead[L]{$if(subject)$$subject$$endif$}
+\fancyfoot[R]{$for(author)$$author$$sep$, $endfor$}
+$if(licencia)$
+\fancyfoot[L]{\setlength{\unitlength}{1mm}
+\begin{picture}(0,0)
+\put(5,0){\includegraphics[width=2cm]{$licencia$}}
+\end{picture}}
+$endif$
 
 %%% Sobre las notas al pie de página
 \let\oldfootnotesize\footnotesize
@@ -539,7 +556,7 @@ $if(title)$
             $if(teacher)$
                 \begin{minipage}{0.4\textwidth}
                 \begin{flushright} \large
-                \emph{Profesor:}\\
+                \emph{Docente:}\\
                 \textsc{$for(teacher)$$teacher$$sep$, $endfor$}
                 \end{flushright}
                 \end{minipage}\\[1cm]
@@ -549,8 +566,8 @@ $if(title)$
             \end{titlepage}
             \begin{flushright}
                 \textbf{$if(title)$$title$$endif$}\\
-                \textbf{$if(subtitle)$$subtitle$$endif$}\\
-                \textbf{$if(author)$$for(author)$$author$$sep$, $endfor$$endif$}
+                \textit{$if(subtitle)$$subtitle$$endif$}\\
+                $if(author)$$for(author)$$author$$sep$, $endfor$$endif$
             \end{flushright}
             $if(abstract)$
                 \begin{abstract}

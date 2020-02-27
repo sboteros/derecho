@@ -2,25 +2,6 @@
 library(stringr)
 library(knitr)
 
-# Función de apoyo: limpieza
-moveLatexFiles <- function(tmpExtensions = c("aux", "bbl", "bcf", "blg", "lof",
-                                             "log", "lot", "run.xml", "toc", "out")) {
-  
-  filesInDir <- 
-    unlist(str_split(list.files(), pattern = "[[:space:]]+"))
-  
-  sapply(filesInDir, function(file) {
-    extension <- str_split(file, pattern="[.]", n=2)[[1]][2]
-    if (extension %in% tmpExtensions) {
-      cat("Removing", file, "to ./tmp/ ...\n")
-      file.remove(file)
-    }
-    invisible(file)
-  })
-  
-  invisible()
-}
-
 # Función de eliminación de archivos innecesarios
 cleanUp <- function(tmpExtensions) {
   filesInDir <- 
@@ -41,7 +22,7 @@ cleanUp <- function(tmpExtensions) {
 # Función para hacer el PDF y correr Biber 
 rmd2pdf <- function(file='prueba.Rmd', template='../latex/plantilla_tarea.tex',
                     arguments = ' --metadata-file=header.yaml',
-                    biber=TRUE, saveTmpFiles=FALSE) {
+                    biber=TRUE, rmTmpFiles=TRUE) {
   if (str_length(Sys.which('xelatex')) == 0) {
     stop(str_c('Must have xelatex installed and accesible from the command line',
                ' to run this function.')
@@ -101,12 +82,8 @@ rmd2pdf <- function(file='prueba.Rmd', template='../latex/plantilla_tarea.tex',
     xelatexFail <- system(xelatexCmd)
   }
   
-  cat("\n\nMove temporary files created from xelatex:\n")
-  moveLatexFiles()
-  
   # Es más seguro definir una lista restringida de terminaciones para eliminar, 
   # que de terminaciones para conservar.
-  #saveExtensions <- c("Rmd", "rmd", "bib", "latex", "cls", "sty", "pdf")
   tmpExtensions = c("aux", "bbl", "bcf", "blg", "lof",
                     "log", "lot", "run.xml", "toc", "out")
   
@@ -116,7 +93,7 @@ rmd2pdf <- function(file='prueba.Rmd', template='../latex/plantilla_tarea.tex',
     cleanUp(tmpExtensions)
   } 
   
-  if (!saveTmpFiles) cleanUp(tmpExtensions)
+  if (rmTmpFiles) cleanUp(tmpExtensions)
   
   return(str_c(filename, ".pdf"))
 }

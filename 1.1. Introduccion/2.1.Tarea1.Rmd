@@ -1,0 +1,221 @@
+---
+title: Iusnaturalismo racionalista hasta el siglo XVII
+subtitle: Revoluciones burguesas y aportaciones de Grocio y Puffendorf
+homework: Control de lectura
+author: Santiago Botero Sierra
+date: "26 de febrero de 2020"
+---
+
+\begin{flushright}
+\begin{minipage}{0.6\textwidth}
+\itshape
+¿Cómo pudo suceder que la doctrina del Derecho Natural que Grocio había
+elevado hasta las más altas regiones de la abstracción, y que había asumido
+desde el comienzo el carácter de un principio más bien científico que
+práctico, se convirtiera en una doctrina revolucionaria que cambió el aspecto
+del mundo?
+\end{minipage}
+\end{flushright}
+
+\fullcite{lib:iusrac}.
+
+# Sobre el autor
+
+El doctor en Filosofía (Universidad Complutense de Madrid, 1978) Eusebio
+Fernández García es profesor emérito del Departamento de Derecho Internacional,
+Eclesiástico y Filosofía del Derecho de la Universidad Carlos III de Madrid
+desde 1989. En su trayectoria académica, ha sido director del Instituto de
+Derechos Humanos "Bartolomé de las Casas", Vicerrector de Extensión
+Universitaria de la  Universidad de Cantabria e investigador principal de la
+Fundación Gregorio Peces-Barba, entre otras ocupaciones. Su producción académica
+incluye la coordinación de \citetitle{lib:histddff} y el libro "Marxismo,
+democracia y derechos humanos", entre otros trabajos.\autocite{cv:efg}
+
+# Argumentos
+
+\newcommand{\iusnaturalismo}{\textsc{\textit{Iusnaturalismo}}}
+
+\citetitle{lib:iusrac} plantea que el derecho natural racionalista
+(\iusnaturalismo) es la filosofía de los derechos naturales del hombre y tuvo
+una influencia preponderante en las revoluciones burguesas; para sustentarlo,
+expone sus principales características y la forma en  que se adaptaron a la
+condición histórica de la burguesía. Posteriormente, analiza el pensamiento del
+padre de esta corriente filosófica, Hugo Grocio, y de su principal exponente en
+Alemania, Samuel Pufendorf.\autocite{lib:iusrac} A continuación se presentan los
+principales elementos de la lectura.
+
+## Derecho natural racionalista y revoluciones burguesas {#burgesia}
+
+\citeauthor{lib:iusrac} se pregunta cuáles fueron las causas de que el
+\iusnaturalismo, a pesar de ser una doctrina tan abstracta, haya sido la base
+teórica que inspiró las revoluciones burguesas en Estados Unidos y Europa. Al
+respecto, relaciona sus características sobresalientes con el momento histórico
+de la burguesía, como se sintetiza a
+continuación.\autocite[573--585]{lib:iusrac}
+
+1. **Secularización**. El \iusnaturalismo es un hito en la historia de la
+secularización del mundo occidental que, después de la *Reforma protestante*,
+buscó un concepto unitario de Derecho Natural aceptado por todos los hombres,
+independientemente de su credo, por lo que se independizó de las ideas
+religiosas y se basó en la razón humana, que es universal y de validez
+imperecedera.\autocite[573--576]{lib:iusrac}
+
+2. **Método cartesiano**. Para "(...) *construir un sistema de Derecho Natural
+basado en la naturaleza racional y social del hombre* (...)" el \iusnaturalismo
+utilizó el método científico del momento, basado en el deductivismo
+cartesiano.\autocite[576--577]{lib:iusrac} \label{descartes}
+
+3. **Herencia escolástica**. \citeauthor{lib:iusrac} afirma que, pese a la
+asunción de nuevas influencias teóricas e ideológicas, la influencia de la
+escolástica y, particularmente, de la Segunda Escolástica
+española,[^escolastica] persistirá  en el
+\iusnaturalismo.\autocite[577--578]{lib:iusrac}
+
+4. **Método**. En relación con el inciso \ref{descartes}, el método que unifica
+a los autores del \iusnaturalismo permitió que, por primera vez en la historia,
+se redujera la reflexión de la conducta humana (el derecho, la moral y la
+política) a una ciencia demostrativa que partiría de axiomas y utilizaría la
+lógica para llegar a sus conclusiones de forma
+deductiva.\autocite[578--580]{lib:iusrac} Según \citeauthor{lib:iusrac}:
+
+> "*En el ámbito de la filosofía jurídica esto significaba que, partiendo de
+> algunos pocos principios de absoluta claridad y evidencia, captados a través
+> de la meditación de la naturaleza del hombre, sería posible deducir un sistema
+> jurídico completo. Este es el orgulloso y esperanzado programa del
+> racionalismo*".\autocite[580]{lib:iusrac}
+
+5. **Ética universal y mínima**. Las ideas sobre la naturaleza y la razón humana
+predominantes en el \iusnaturalismo permiten construir una ética social
+universal, porque se obtiene de la razón común a todos los hombres, y mínima,
+porque pretende su validez sin negar las diferencias culturales o religiosas.
+\autocite[580--581]{lib:iusrac}
+
+6. **Teoría de los derechos naturales**. \citeauthor{lib:iusrac} señala que, de
+la autonomía lograda por la razón humana, se pasará al reconocimiento de la
+autonomía individual y, de allí, hacia "(...) *la adquisición de la idea de que
+los individuos tienen unos derechos naturales que le son innatos*": es decir,
+de un Derecho Natural en sentido objetivo hacia unos derechos naturales en
+sentido subjetivo. Esto es, en sí mismo, el sustento ideológico de las
+revoluciones burguesas, que ya entienden como verdades evidentes la existencia
+de los derechos de cada individuo: "[e]*n vísperas de las revoluciones americana
+y francesa, la teoría del Derecho Natural se había convertido en una teoría de
+los 'derechos naturales'*"\autocite[Passerin D'Entrèves en ][583]{lib:iusrac}.
+Al respecto, D'Entrèves señala que, en el  desarrollo conceptual del
+\iusnaturalismo, va habiendo un desplazamiento desde  el significado objetivo
+del Derecho Natural hacia el sentido subjetivo del mismo.[^DerSubjetivo]
+A partir de allí, se pasa a la idea del *contrato* como sustento moral del
+orden jurídico-político.\autocite[581--584]{lib:iusrac}
+
+7. **Burgesía e iusnaturalismo**. Finalmente, \citeauthor{lib:iusrac} señala
+que, una vez que la burguesía ilustrada europea asumió las concepciones del
+\iusnaturalismo, estas se convirtieron en el pensamiento casi predominante en el
+mundo jurídico, económico y político de la edad moderna. Al respecto, resalta
+que "[l]*a teoría moderna de los derechos naturales venía a refrendar, esta vez
+sobre bases filosófico-jurídicas, la necesidad histórica de una clase* [la
+burguesía] *para la cual la propiedad, el trabajo y la ambición personal
+constituyen los verdaderos engranajes de la vida
+social*".\autocite[584--585]{lib:iusrac}
+
+## Hugo Grocio {#grocio}
+
+\citeauthor{lib:iusrac} plantea que Grocio fue el fundador del \iusnaturalismo y
+que su campo de análisis se extendió a las ideas sociales, políticas, morales,
+jurídicas en general y, particularmente, al Derecho Internacional. Este pensador
+parte de que la idea de la razón (universal y permanente) tiene su correlato en
+la sociabilidad humana (*appetitus societatis*), por lo que el \iusnaturalismo y
+la razón "(...) *cumplen una necesaria función en pro de la convivencia mutua y
+pacífica de los hombres*".\autocite[585--587]{lib:iusrac}
+
+A partir de estas ideas, Grocio desarrolla una serie de conclusiones respecto al
+\iusnaturalismo, en las que sobresalen la tolerancia y libertad religiosas; el
+derecho de propiedad;[^Propiedad] y el matrimonio. Por su parte, las
+conclusiones que obtiene con respecto a las libertades civiles y políticas
+conducen a un absolutismo, pues rechaza la soberanía popular y el derecho de
+resistencia (aunque "[...] *acepta la libertad del pueblo de elegir la forma de
+gobierno que quiera*"), y apoya la esclavitud y la sumisión de algunos
+pueblos.\autocite[587--589]{lib:iusrac}
+
+## Samuel Pufendorf
+
+De forma similar a Grocio (véase la sección \ref{grocio}), para Pufendorf la
+idea del  \iusnaturalismo va ligada a la de socialibidad y conservación de la
+vida humana. Él parte de una visión antropológica que sitúa a todos los hombres
+como seres libres, morales y dignos. De allí sigue una idea de universalidad e
+igualdad de la que emana el derecho natural y las características de las normas
+que de él se obtienen: "(...) *todas las normas necesariamente requeridas en
+cualquier caso para la sociabilidad son preceptos del Derecho Natural*[ y]
+*todas las posibilidades generales de impedir tal proceso de formación social
+son impedidas por el Derecho Natural*".\autocite[590--592]{lib:iusrac}
+
+Asimismo, de esos mismos conceptos (humanidad, dignidad y sociabilidad), se
+derivan una serie de derechos naturales ("*los bienes que afectan inmediatamente
+a la persona*") como la vida, la salud, la integridad corporal, el honor y la
+libertad; así como los que sean adquiridos por cualquier institución o contrato,
+la libertad de conciencia religiosa y el derecho a la propiedad privada. Con
+respecto a las libertades civiles y políticas, si bien Pufendorf rechaza el
+derecho de resistencia, impone deberes al soberano con respecto a los derechos
+naturales del individuo, con lo que se muestra más próximo a un absolutismo
+moderado.\autocite[592--595]{lib:iusrac}
+
+# Polemización sobre la universalidad y racionalidad del iusnaturalismo
+
+La confianza en el racionalismo y en el método cartesiano que tenían los
+pensadores del \iusnaturalismo hacía creer que partiendo de un sistema de
+axiomas básico se llegaría a una conclusión común por medio de procedimientos
+lógicos. Al respecto, llama la atención la divergencia de opiniones entre
+Grocio y Pusendorf con respecto a materias como la esclavitud y el derecho de
+rebelión o de elegir la forma de gobierno. Si se considera que los axiomas
+comunes de los que parten son la racionalidad y el *appetitus societatis* y que
+ambos utilizan el método del deductivismo cartesiano, la única explicación
+plausible para dichas divergencias sería que alguno de los dos errara en la
+aplicación de las herramientas lógico-deductivas o que el conjunto de axiomas
+utilizado es incompleto para explicar la existencia del derecho natural.
+
+Hoy en día, a diferencia de lo que sucedía hasta la primera mitad del siglo XX,
+podemos preguntarnos además por los límites del racionalismo mecanicista
+cartesiano y la posibilidad de llegar a conclusiones a partir de él. En efecto,
+a partir de los principios de  indeterminación[^Indeterminacion] y
+superposición[^Superposicion] de la física cuántica, hemos relativizado la fe en
+la razón que existía desde la época del iluminismo, en el tiempo en que se
+formaron las  ideas del \iusnaturalismo. ¿Podemos tener la esperanza de que un
+conjunto de  axiomas mínimo y el uso de las reglas lógicas nos revelarán la
+naturaleza del derecho y de los derechos que corresponden al ser humano en su
+complejidad? ¿O  era esta una concepción ingenua de los pensadores clásicos?
+
+Finalmente, quiero llamar la atención sobre el individualismo metodológico y el
+papel de sustento ideológico que tuvieron las ideas del \iusnaturalismo para las
+revoluciones burguesas. ¿El concepto de "derechos humanos", de un conjunto de
+derechos que nos corresponde a todos los hombres por el solo hecho de serlo, es
+suficientemente universal como para ser neutral al sistema político vigente? ¿O
+sus conclusiones únicamente son evidentes en un sistema capitalista y
+occidental, basado en el individualismo metodológico mismo?
+
+[^escolastica]: José Vericat, señala que "[la neoescolástica barroca] *determina
+en buena parte el transfondo conceptual sobre el que se tejerá la modernidad
+filosófica y política, a través de Wolf, hasta Kant*", en
+\autocite[pie de página 14]{lib:iusrac}.
+
+[^DerSubjetivo]: Incluso afirma que "[e]*l ius naturale del filósofo político
+moderno no es ya la lex naturales del moralista medieval, ni el ius naturale del
+jurista romano*". \autocite[Passerin D'Entrèves en ][583]{lib:iusrac}.
+
+[^Propiedad]: Observe la relación que tiene este derecho con el carácter de las
+revoluciones burguesas analizado en la sección \ref{burgesia}. Al respecto,
+Arnaldo Córdova señala que "*la doctrina de Grocio* (...) *constituye el primer
+intento moderno para fundamentar el concepto de propiedad* (...) *derecho
+natural del individuo*", \autocite[588]{lib:iusrac}.
+
+[^Indeterminacion]: El principio de incertidumbre o de indeterminación de
+Heisenberg establece que no es posible conocer la velocidad y la posición
+exactas de un objeto de forma simultánea: "[l]*os conceptos mismos de posición y
+velocidad exactas juntos, de hecho, no tienen significado en la
+naturaleza*"; este mismo principio se cumple en las mediciones de otros pares
+observables como energía y tiempo. \autocite{ency:uncertainty}.
+
+[^Superposicion]: El principio de superposición reconoce la posibilidad de que
+un objeto no necesariamente tiene un estado claramente definido; por ejemplo, en
+computación cuántica un qubit no es necesariamente 0 o 1, como un bit en la
+computación normal, sino que también puede ser 0 y 1 simultáneamente.
+\autocite{ency:quantcom}. Una versión conocida popularmente de este principio es
+el Gato de Shrödinger, en donde un gato está simultáneamente vivo y muerto antes
+de ser observado por el investigador.

@@ -1,6 +1,6 @@
 teacher: María Patricia Lira Alonso
 subject: Historia de las instituciones jurídicas
-bibliography: [../latex/libros.bib, ../latex/articulos.bib, ../latex/prensa.bib, ../latex/legislacion.bib]
+bibliography: [../latex/libros.bib, ../latex/articulos.bib, ../latex/prensa.bib, ../latex/legislacion.bib, ../latex/otros.bib]
 lang: es
 colorlinks: true
 hyperrefoptions: [colorlinks,filecolor=Teal,citecolor=black,breaklinks=true,urlcolor=DarkSlateBlue, linkcolor=DarkSlateBlue]
@@ -13,3 +13,4 @@ cover: true
 major: Licenciatura en derecho
 institute: Centro de Estudios Jurídicos Carbonell
 logo: ../latex/CEC.png
+licencia: ../latex/ccbyncsa.png
