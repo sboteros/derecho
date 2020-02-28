@@ -8,12 +8,12 @@ date: "24 de febrero de 2020"
 
 \begin{flushright}
 \begin{minipage}{0.6\textwidth}
-{\itshape
-Lo que tanto se sufre sin sueño y por la sangre
-se escucha que palpita solamente la rabia,
-que en los tuétanos tiembla despabilado el odio
-y en las médulas arde continua la venganza.
-Las palabras entonces no sirven, son palabras.}
+{\itshape \singlespacing
+Lo que tanto se sufre sin sueño y por la sangre\\
+se escucha que palpita solamente la rabia,\\
+que en los tuétanos tiembla despabilado el odio\\
+y en las médulas arde continua la venganza.\\
+Las palabras entonces no sirven, son palabras.}\\
 Nocturno (fragmento), Rafael Alberti.
 \end{minipage}
 \end{flushright}

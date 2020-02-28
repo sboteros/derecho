@@ -421,13 +421,17 @@ $endfor$
 \NewBibliographyString{cbyeditor}
 \NewBibliographyString{subverbo}
 \NewBibliographyString{coords}
+\NewBibliographyString{by}
+\NewBibliographyString{cbycompiler}
 \DefineBibliographyStrings{spanish}{%
   cbyeditor = {ed\adddot},
   byeditor = {ed\adddot},
   cbytranslator = {trad\adddot},
   bytranslator = {trad\adddot},
-  subverbo = {sub~voce},
+  subverbo = {\textit{sub~voce}},
   coords = {coordinadores},
+  by = {por},
+  cbycompiler = {comp\adddot}
 }
 
 $endif$
@@ -541,7 +545,7 @@ $if(title)$
             $if(major)$\textsc{\Large $major$}\\$endif$
             $if(subject)$\textsc{\large $subject$}\\[0.5cm]$endif$
             \HRule \\[0.4cm]
-            $if(homework)$$homework$$endif$\\[0.2cm]
+            $if(homework)$$homework$\\[0.2cm]$endif$
             $if(title)${ \huge \bfseries $title$}\\[0.2cm]$endif$
             $if(subtitle)${\large $subtitle$}\\[0.4cm]$endif$
             \HRule \\[1cm]
@@ -565,8 +569,8 @@ $if(title)$
             \vfill
             \end{titlepage}
             \begin{flushright}
-                \textbf{$if(title)$$title$$endif$}\\
-                \textit{$if(subtitle)$$subtitle$$endif$}\\
+                $if(title)$\textbf{$title$}\\$endif$
+                $if(subtitle)$\textit{$subtitle$}\\$endif$
                 $if(author)$$for(author)$$author$$sep$, $endfor$$endif$
             \end{flushright}
             $if(abstract)$

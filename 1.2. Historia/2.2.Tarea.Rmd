@@ -1,0 +1,70 @@
+---
+title: Tarea 2
+author: Santiago Botero Sierra
+date: 27 de febrero de 2020
+---
+
+# Importancia de la historia del derecho
+
+De acuerdo con \citeauthor{ent:histder}, la historia del derecho es importante
+para los abogados, ya que:\autocite{ent:histder}
+
++ Estimula la conciencia crítica en el abogado.
++ Es una herramienta de argumentación jurídica que permite hacer un mejor
+    planteamiento de los casos.
++ Es un instrumento eficiente para el trabajo jurídico de un litigante (véase la
+    sección \ref{casos}).
++ Las herramientas históricas permiten realizar la visión del abogado como un
+    profesional integral o un  consejero, lo que exije que este vaya más allá del
+    manejo de la legislación  o la jurisprudencia.
+- Conocer únicamente la legislación y nada más que ella, pone al abogado
+    en una situación de desventaja, pues esta cambia; lo que hay que
+    conocer son las doctrinas y las líneas de pensamiento, así como el
+    transfondo histórico que explica e, incluso, predice esos cambios.
+
+# Resolución de casos {#casos}
+
+\citeauthor{ent:histder} plantea que los códigos antiguos pueden servir para
+clarificar términos y mejorar la argumentación, por lo que se utilizan
+actualmente en litigios civiles. Por ejemplo, señala que los "Motivos y
+concordancias del Código Civil Español" (1852), de Florencio García Goyena, se
+siguen utilizando actualmente en el litigio para darle al juez elementos de
+interpretación de los términos.\autocite{ent:histder}
+
+Asimismo, señala que para determinar la naturaleza jurídica de los llamados
+paneles del primer caso de antidumping del capítulo 19 del  Tratado de Libre
+Comercio de América del Norte (TLCAN) se  utilizó un argumento de las "Siete
+Partidas" (s. XIII), de Alfonso X, que permitió definirlos como tribunales
+arbitrales *ad hoc*.\autocite{ent:histder}
+
+Al respecto, en el caso en mención se señala que el artículo 14 de la
+Constitución\autocite{constitucion} se establece, para los juicios del orden
+civil, que a falta de la letra o la interpretación jurídica de ley, la sentencia
+se fundará en los principios generales del derecho; en dicho caso se señala que
+estos principios pueden encontrarse en obras como el "Corpus Iuris Civilis",
+el "Corpus Iuris Canonici", las "Siete Partidas de Alfonso X" y los brocados de
+las obras de glosadores y postglosadores. Adicionalmente, se señala que existen
+tesis jurisprudenciales en las que no se limita su aplicación a los juicios
+civiles y que su tarea no se agota en la integración de los principios legales
+sino que "(...) *alcanza sobre todo a la labor de interpretacion de la ley y
+aplicación del derecho* (...) *pues* [los principios generales del
+derecho] *son la manifestación auténtica, prístina, de las aspiraciones de
+justicia de una comunidad*".\autocite{legal:antidumping190401}
+
+# Definición y características del mayorazgo
+
+Régimen especial de una masa patrimonial que no podía ser enajenada ni gravada
+y que tenía que ser transmitida *mortis causa* de acuerdo con las indicaciones
+del fundador del mayorazgo, tenía su razón de ser en la
+protección de los bienes de las grandes casas. Estos bienes tenían el carácter de *bienes 
+vinculados*.[^Vinculados] Aunque no se sabe a ciencia cierta su origen, este se
+sitúa en el siglo XIII (o principios del XIV), se regula por primera vez en las
+"Leyes de Toro" (1505), y se suprime por las Cortes Liberales de 1820 como parte
+del plan de desamortización. La erección de un mayorazgo tenía
+carácter perpetuo y requería licencia real; la sucesión se llevaba a cabo
+siguiente el orden de suceder de la Corona (sucesión regular), salvo disposición
+en contrario de su fundador (sucesión irregular).\autocite{dic:mayorazgo}
+
+[^Vinculados]: Otros bienes vinculados eran los que adquirieran las
+corporaciones civiles o eclesiásticas que, por ese hecho, salían del comercio;
+por ello, se decía que pasaban a *manos muertas*.
