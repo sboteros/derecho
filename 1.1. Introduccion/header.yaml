@@ -1,6 +1,6 @@
 teacher: Jorge Alberto Lara Rivera
 subject: Introducción al estudio del derecho
-bibliography: [../latex/libros.bib, ../latex/articulos.bib, ../latex/prensa.bib, ../latex/legislacion.bib, ../latex/otros.bib]
+bibliography: [../tools/biblio/libros.bib, ../tools/biblio/articulos.bib, ../tools/biblio/prensa.bib, ../tools/biblio/legislacion.bib, ../tools/biblio/otros.bib]
 lang: es
 colorlinks: true
 hyperrefoptions: [colorlinks,filecolor=Teal,citecolor=black,breaklinks=true,urlcolor=DarkSlateBlue, linkcolor=DarkSlateBlue]
@@ -8,9 +8,9 @@ geometry: [left=3cm, right=3cm, top=2.5cm, bottom=2.5cm]
 fontsize: 12pt
 fontfamily: times
 graphics: true
-biblatex-chicago: true
+bibtools/biblio-chicago: true
 cover: true
 major: Licenciatura en derecho
 institute: Centro de Estudios Jurídicos Carbonell
-logo: ../latex/CEC.png
-licencia: ../latex/ccbyncsa.png
+logo: ../tools/latex/CEC.png
+licencia: ../tools/latex/ccbyncsa.png

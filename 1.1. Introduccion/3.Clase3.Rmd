@@ -1,0 +1,77 @@
+---
+title: Clase 3
+subtitle: Iusnaturalismo racionalista
+author: Santiago Botero Sierra
+date: 29 de febrero de 2020
+---
+
+# Iuspositivismo racionalista
+
++ Tránsito de la Edad Media al Renacimiento; los feudos se convierten en
+    principados; los principados se unen y forman los actuales estados-nación.
++ Importancia de la religión para la construcción de los estados nación; así
+    como de otros elementos culturales.
++ El choque de civilizaciones; Samuel Hunttington.
++ El Estado-Nación es la expresión política de la centralización.
+
+# Fuentes del derecho
+
++ Mecanismos, procedimientos, documentos, que contienen normas jurídicas que
+    han tenido vigencia y/o son vigentes.
++ Tipos de fuentes:
+    - **Históricas**. Son aquellos documentos que en un momento dado tuvieron
+        vigencia y fueron aplicadas en alguna etapa del devenir histórico de la
+        humanidad.
+
+        *Principio de plenitud hermética del derecho*: no existe ni existirá
+        conflicto humano de trascendencia jurídica que no pueda ser resuelto por
+        el derecho. Esto está en el artículo 14 constitucional.
+
+    - **Reales**. Fuentes que derivan en la necesidad de creación del derecho.
+        Todos los fenómenos de la naturaleza o el hombre que impelen una cierta
+        realidad que hay que regular.
+
+    - **Formales**. La definición resalta la "forma de hacer el derecho", que es
+        justo lo que preconiza el iuspositivismo. La más importante de todas
+        es el procedimiento legislativo.
+
+        Concepto de la *reserva de ley*. Algunas materias del fenómeno social,
+        para que sean norma, tienen que pasar por una ley (pueden ser reglamento
+        o algo inferior). La ley es una disposición de categoría superior, pero
+        que compromete a otros poderes: el procedimiento legislativo implica una
+        colaboración entre el Ejecutivo y el Legislativo. La *reserva de ley*
+        está en el artículo 73 de la Constitución.
+
+        La función más importante del Legislativo es controlar y fiscalizar al
+        Ejecutivo. El parlamento nace con la función de revisión, de la
+        revolución contra Juan Sin Tierra: *No taxation without representation*.
+
+## Procedimiento legislativo
+
+El acrónimo que se forma con las etapas es "IDASPI":
+
++ **Iniciativa**. El procedimiento legislativo está establecido en el
+    artículo 72 de la Constitución, que inicia con una iniciativa de ley que la
+    pueden presentar los que dicen en el artículo 71. Hay un Legislativo
+    bicameral, los Diputados tienen representación popular, y los Senadores son
+    representantes de los estados. *En cuestiones de sangre y dinero el pueblo
+    decide primero*: la Cámara de Diputados es cámara de origen en
+    reclutamiento de tropas y en materia de impuestos. El Senado tiene la
+    facultad exclusiva de ratificar los tratados internacionales; no tenemos una
+    representación proporcional por estado (hay 3 de mayoría relativa por
+    estado, 32 de primera minoría --el partido que quede de segundo-- y  32 de
+    representación proporcional --plurinominales--).
+
++ **Discusión**. Una vez que se da la iniciativa, se da la discusión en ambas
+    Cámaras: de origen y de revisión. Si la revisora rechaza la ley la regresa
+    a la cárama de origen para que vuelva a discutir. La discusión se hace en el
+    sistema de comisiones: cada Cámara se organiza en comisiones o grupos de
+    trabajo especializados. A veces hacen *parlamento abierto*, en donde se
+    invita a otras personas a discutir en las comisiones. Puede haber decisiones
+    tan importantes que se trabajen comisiones conjuntas de Diputados y Cámara,
+    eso se llama *conferencia parlamentaria*.
+
++ **Aprobación**. El presidente puede hacer un veto total o parcial.
++ **Promulgación**.
++ **Inicio de vigencia**. Puede significar que una ley tenga o no *vacatio
+    legis*.

@@ -1,0 +1,61 @@
+---
+title: Clase 3
+subtitle: Fuentes formales, reales e históricas
+author: Santiago Botero Sierra
+date: 29 de febrero de 2020
+---
+
++ Preguntas
+    - Trama, ¿en qué radica la problemática que se desarrolla?
+    - ¿En qué contexto histórico se desarrolla la problemática?
+    - ¿Se hace apreciación de elementos documentales? ¿De qué tipo de fuentes?
+    - Sentencia, cuáles son los derechos que están en juego.
+
++ Tarea
+    - Leer y comentar el decálogo del abogado.
+    - Análisis de los personajes: axiológico como deontológico.
+    - Cuadro de clasificación en las familias jurídicas.
+
+# Sistemas jurídicos
+
++ Conjunto de instituciones gubernamentales, normas.
++ Normas jurídicas objetivas en vigor en determinado lugar y época
+    (García-Maynez).
++ Cada nación tiene su propio sistema jurídico, pero se agrupan en familias
+    considerando sus afinidades y elementos comunes.
+    - Neorromanista
+    - *Common law*
+    - Sistemas religiosos
+    - Mixta o hídrida
+    - Socialista
+
+# Hecho histórico-jurídico
+
++ Objeto histórico $\Rightarrow$ Hecho histórico: el actual del hombre en otras
+    épocas.
++ Sólo son hechos históricos los que han influido de algún modo en los
+    acontecimientos posteriores.
++ Hecho histórico-jurídico: humano,  pretérito, naturaleza normativa y
+    trascendente.
+    - Fuentes: reales, formales e históricas.
+    - También pueden clasificarse por: su relación con el historiador,
+        inmediatez, naturaleza o presentación.
++ Los hechos históricos son: únicos, inmodificables y testimoniales.
+
+# El derecho mexicano
+
++ Disciplina que estudia de manera sistemática, crítica e interpretativa los
+    fenómenos jurídicos del pasado que han contribuido a formar las
+    características del derecho de la nación mexicano.
++ La asignatura es: informativa, formativa, vinculatoria, integral, comprensiva,
+    y jurídica.
++ Cronología:
+    - Prehispánico (preclásico, 1500 a.C. -- 1521)
+    - Indiano (1492--1810).
+    - Independiente (1492--1810)
+    - Insurgente (1821--1857)
+    - Reforma (1857--1876)
+    - Porfirista (1876--1911)
+    - Revolucionario (1910--1917)
+    - Derecho pos revolucionario (1917--)
++ Periodización

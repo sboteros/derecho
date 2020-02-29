@@ -1,0 +1,71 @@
+---
+title: Caso Ayotzinapa - Fabricación de culpables
+author: Santiago Botero Sierra
+date: 28 de febrero de 2020
+---
+
++ Fabricación de culpables en los párrafos 334 y ss. en el caso de Campo
+    Algodonero.
++ Amparo en revisión 203/2017 y acumulados. Es una sentencia ejemplar por varias
+    cosas, pero la que nos interesa en este curso es que está plagada de
+    referencias a la jurisprudencia interamericana.
++ *Litis*. Recurso de revisión de un agente del Ministerio Público que, en
+    origen, fue producto de una serie de impugnaciones que buscaban combatir un
+    *auto de  término constitucional* y su ejecución por parte del juez.
++ En casos de alta complejidad, la investigación no debe enfocarse de manera
+    aislada, dividida y fragmentada; sino considerar los elementos contextuales
+    (circunstancias históricas, materiales, temporales y espaciales); esto
+    surge de la jurisprudencia interamericana.
++ Se omitió llamar a las víctimas, lo que afecta los derechos de seguridad
+    jurídica de los imputados originales ya que lo que se resolviera no
+    adquiriría el estatus de cosa juzgada al ser impugnado por las víctimas.
+    - Víctimas: familiares de las personas desaparecidas, fallecidas o quienes
+        sufrieron lesiones de tal gravedad que les impiden asistir por sí
+        mismos a las instancias competentes.
++ Demora en la puesta a disposición.
++ *Tortura*. Tesis 2008504 2008502; caso Gómez Paquiyauri contra Perú.
+    - Las pruebas que presentó la autoridad fueron 21; de ellas 19 son
+        declaraciones, de las que 16 son autoincriminatorias y 3 no admiten
+        responsabilidad, pero declaran contra otras personas. ¿Toda persona
+        detenida o localizada reconoce espontáneamente su participación, pese
+        a tener derecho a no declarar y a no autoincriminarse, incluso cuando
+        fueron detenidos por otras cosas?
+    - Precedente de Cabrera y Montiel, sobre la falta de veracidad de
+        declaraciones obtenidas mediante coacción.
+    - La presencia de lesiones en los detenidos hace obligatorio para la
+        autoridad investigar su origen de forma inmediata, imparcial,
+        independiente y minuciosa. Ver amparos directos en revisión 2871/2015 y
+        90/2014.
+    - En este caso: las lesiones aparecen durante la detención o aumentan
+        durante los periodos de interrogatorio; ningun detenido quiere
+        querellarse por ellas.
+    - ONU: De 63 personas detenidas, 51 presentaba indicios de haber sido
+        torturada y 34 de ellas "fuertes indicios".
+    - No se les aplica el *Protocolo de Estambul* (hasta 26 meses); es decir,
+        la demora fue excesiva pese a que la investigación tiene que ser
+        inmediata.
++ Derecho a una defensa adecuada.
+    - Elementos indicadores de la vulneración: no desplegar una mínima actividad
+        probatoria, inactividad argumentativa, carencia de conocimiento
+        técnico-jurídico del proceso penal, falta de interposición de recursos,
+        indebida fundamentación de los recursos, abandono de la defensa. Esto lo
+        dice el Caso Ruano Torres y otros contra el Salvador.
+
++ Resumen de violaciones
+    - Órdenes de localización, sin que se les pida consentimiento para llevarlos
+        al MP
+    - Demora en puesta a disposición
+    - Acuerdos de retención antes de tomarles la declaración.
+    - Lesiones en la mayoría de detenidos y presentados.
+    - Incremento de lesiones a partir de la puesta a disposición del MP
+    - Omisión de investigar la tortura de forma inmediara, seria, independiente
+        y minuciosa.
+    - Deficiencias en el procesamiento de escenas del crimen.
+    - Falta de agotamiento de líneas de investigación y de acciones efectivas.
+
+    $\Rightarrow$ La investigación no fue inmediata, efectiva, independiente e
+    imparcial. Existen cuestionamientos por las torturas a los detenidos, cuyas
+    confesiones sostienen la teoría del caso de la fiscalía.
++ Como el MP tendría que investigar a sus elementos y eso impediría una
+    investigación imparcial, entonces erdena una *Comisión de la Verdad*,
+    encabezada por los familiares y acompañada por la CNDH.
