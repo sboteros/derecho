@@ -20,7 +20,7 @@ cleanUp <- function(tmpExtensions) {
 }
 
 # Función para hacer el PDF y correr Biber 
-rmd2pdf <- function(file='prueba.Rmd', template='../latex/plantilla_tarea.tex',
+rmd2pdf <- function(file='prueba.Rmd', template='../tools/latex/plantilla_tarea.tex',
                     arguments = ' --metadata-file=header.yaml',
                     biber=TRUE, rmTmpFiles=TRUE) {
   if (str_length(Sys.which('xelatex')) == 0) {

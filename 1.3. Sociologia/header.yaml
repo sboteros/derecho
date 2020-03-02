@@ -1,6 +1,6 @@
-teacher: María Patricia Lira Alonso
-subject: Historia de las instituciones jurídicas
-bibliography: [../tools/biblio/libros.bib, ../tools/biblio/articulos.bib, ../tools/biblio/prensa.bib, ../tools/biblio/legislacion.bib, ../tools/biblio/otros.bib, ../tools/data.bib]
+teacher: Nayeli Villagrán Suárez
+subject: Sociología jurídica
+bibliography: [../tools/biblio/libros.bib, ../tools/biblio/articulos.bib, ../tools/biblio/prensa.bib, ../tools/biblio/legislacion.bib, ../tools/biblio/otros.bib, ../tools/biblio/data.bib]
 lang: es
 colorlinks: true
 hyperrefoptions: [colorlinks,filecolor=Teal,citecolor=black,breaklinks=true,urlcolor=DarkSlateBlue, linkcolor=DarkSlateBlue]
