@@ -108,7 +108,7 @@ habitantes. De estos, 130 eran hablantes de lenguas
 indígenas (Náhuatl y Mazateco). \autocites{data:coneval, otro:huiloapan}. Una
 versión reproducible de este documento, en la que se encuentran los detalles de
 las cifras presentadas se encuentra disponible en
-https://github.com/sboteros/derecho/blob/master/1.3.%20Sociologia/2.2.Tarea2.Rmd;
+https://github.com/sboteros/derecho/blob/master/1.3.Sociologia/2.2.Tarea2.Rmd;
 para la elaboración de este análisis se utilizó el software `R` versión
 `r paste(version[['major']], version[['minor']], sep = '.')`, así como las
 librerías `tidyverse` versión `r packageVersion('tidyverse')`, `zoo` versión
@@ -198,10 +198,15 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
         knitr::kable(row.names = FALSE, col.names = c('Indicador', 'Valor'),
               caption = 'Indicadores de rezago económico',
               format.args = list(big.mark = ','),
-              format = 'latex', longtable = TRUE) %>%
+              format = 'latex', longtable = TRUE, escape = FALSE) %>%
         kable_styling(latex_options = c('hold_position', 'repeat_header'),
                       repeat_header_text = "\\textit{(continuación)}") %>%
-        column_spec(1, width = '9cm') %>% column_spec(2, width = '3cm')
+        column_spec(1, width = '9cm') %>% column_spec(2, width = '3cm') %>%
+        row_spec(0, bold = TRUE) %>%
+        footnote(general = '\\\\shortcite{data:coneval}.',
+                 general_title = 'Fuente:',
+                 escape = FALSE, footnote_as_chunk = TRUE,
+                 threeparttable = TRUE)
 ```
 
 ## Carpetas de investigación por cada 100 habitantes {#carpetas}
@@ -210,14 +215,22 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
     delictuosos %>% select(-(orden:Clave_Ent)) %>% head(10) %>%
         mutate(proporcion = round(proporcion, 2)) %>%
         knitr::kable(col.names = c('Entidad', 'Municipio',
-                                   'Número de investigaciones', 'Población',
-                                   'Proporción'),
+                                   'Número de investigaciones\\textsuperscript{a}',
+                                   'Población\\textsuperscript{b}',
+                                   'Proporción\\textsuperscript{c}'),
                      row.names = FALSE, format.args = list(big.mar = ','),
                      caption = 'Carpetas de investigación por cada 100 habitantes, 2019',
-                     format = 'latex', longtable = TRUE) %>%
+                     format = 'latex', longtable = TRUE, escape = FALSE) %>%
         kable_styling(latex_options = c('hold_position', 'repeat_header'),
                       repeat_header_text = "\\textit{(continuación)}") %>%
-        column_spec(1:5, width = '2.4cm')
+        column_spec(c(1:2, 4:5), width = '2.4cm') %>%
+        column_spec(3, width = '2.9cm') %>% row_spec(0, bold = TRUE) %>%
+        footnote(alphabet_title = 'Fuentes:',
+                 alphabet = c('\\\\shortcite{data:seguridad}.',
+                              '\\\\shortcite{data:coneval}.',
+                              'Elaboración propia.'),
+                               escape = FALSE, footnote_as_chunk = TRUE,
+                               threeparttable = TRUE)
 ```
 
 ## Principales categorías de delitos en Huiloapan {#delitos_huiloapan}
@@ -232,10 +245,14 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
         knitr::kable(col.names = c('Tipo de Delito', 'Número de investigaciones'),
                      row.names = FALSE, format.args = list(big.mar = ','),
                      caption = 'Carpetas de investigación en Huiloapan, 2019',
-                     format = 'latex', longtable = TRUE) %>%
+                     format = 'latex', longtable = TRUE, escape = FALSE) %>%
         kable_styling(latex_options = c('hold_position', 'repeat_header'),
                       repeat_header_text = "\\textit{(continuación)}") %>%
-        column_spec(1:2, width = '6cm')
+        column_spec(1:2, width = '6cm') %>% row_spec(0, bold = TRUE) %>%
+        footnote(general = '\\\\shortcite{data:seguridad}.',
+                 general_title = 'Fuente:',
+                 escape = FALSE, footnote_as_chunk = TRUE,
+                 threeparttable = TRUE)
 ```
 
 ## Municipios con mayor proporción de feminicidios {#feminicidas}
@@ -245,12 +262,19 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
         mutate(proporcion = round(proporcion, 2)) %>%
         filter(valor >= 5000) %>% head(10) %>%
         knitr::kable(col.names = c('Entidad', 'Municipio',
-                                   'Número de feminicidios', 'Población',
-                                   'Proporción'),
+                                   'Número de feminicidios\\textsuperscript{a}',
+                                   'Población\\textsuperscript{b}',
+                                   'Proporción\\textsuperscript{c}'),
                      row.names = FALSE, format.args = list(big.mar = ','),
                      caption = 'Feminicidios por cada 100,000 habitantes, 2019',
-                     format = 'latex', longtable = TRUE) %>%
+                     format = 'latex', longtable = TRUE, escape = FALSE) %>%
         kable_styling(latex_options = c('hold_position', 'repeat_header'),
                       repeat_header_text = "\\textit{(continuación)}") %>%
-        column_spec(1:5, width = '2.4cm')
+        column_spec(1:5, width = '2.4cm') %>% row_spec(0, bold = TRUE) %>%
+        footnote(alphabet_title = 'Fuentes:',
+                 alphabet = c('\\\\shortcite{data:seguridad}.',
+                              '\\\\shortcite{data:coneval}.',
+                              'Elaboración propia.'),
+                              escape = FALSE, footnote_as_chunk = TRUE,
+                              threeparttable = TRUE)
 ```
