@@ -67,20 +67,20 @@ Mujeres (fragmento). Silvio Rodríguez
         mutate(orden = parse_integer(orden)) %>%
         arrange(orden) %>% select(-orden)
 
-    # Construcción de porcentaje de carpetas por habitantes
-    delictuosos <- victimas %>%
+    # Construcción de proporción de carpetas por cada 1,000 habitantes
+    delictuosos <- victimas %>% filter(ano == 2019) %>%
         group_by(Clave_Ent, Entidad, Cve..Municipio, Municipio) %>%
         summarise(cantidad = sum(cantidad, na.rm = TRUE)) %>%
         merge(pobreza %>% filter(indicador == 'poblacion') %>%
                   select(clave_municipio, valor),
               by.x = 'Cve..Municipio', by.y = 'clave_municipio',
               all.x = TRUE, all.y = FALSE) %>%
-        mutate(proporcion = cantidad * 100 / valor) %>%
+        mutate(proporcion = cantidad * 1000 / valor) %>%
         arrange(-proporcion) %>%
         rownames_to_column('orden')
 
-    # Construcción de proporción de feminicidios por cada 100.000 habitantes
-    feminicidios <- victimas %>%
+    # Construcción de proporción de feminicidios por cada 100,000 habitantes
+    feminicidios <- victimas %>% filter(ano == 2019) %>%
         filter(Tipo.de.delito == 'Feminicidio') %>%
         group_by(Clave_Ent, Entidad, Cve..Municipio, Municipio) %>%
         summarise(cantidad = sum(cantidad, na.rm = TRUE)) %>%
@@ -114,7 +114,7 @@ para la elaboración de este análisis se utilizó el software `R` versión
 librerías `tidyverse` versión `r packageVersion('tidyverse')`, `zoo` versión
 `r packageVersion('zoo')` y `kableExtra` versión
 `r packageVersion('kableExtra')`.
-\autocites{soft:R, soft:tidyverse, soft:zoo, soft:kableExtra}
+\autocites{soft:R, soft:tidyverse, soft:zoo, soft:kableExtra}.
 
 Económicamente, Huiloapan es rezagado, allí el
 `r pobreza %>% filter(clave_municipio == 30074 & indicador == 'pobreza') %>% pull('valor')`%
@@ -123,8 +123,8 @@ de la población se encuentra en situación de pobreza y el
 sufre al menos una carencia. Estos indicadores son preocupantes, pues significan
 que se encuentra por debajo de la media; por ejemplo, en términos de pobreza se
 ubica en la posición
-`r pobreza %>% filter(indicador == 'pobreza') %>% arrange(-valor) %>% rownames_to_column('posicion') %>% filter(clave_municipio == 30074) %>% pull('posicion') %>% as.integer %>% formato` entre un total de
-`r pobreza %>% pull(clave_municipio) %>% unique %>% length %>% formato`
+`r pobreza %>% filter(indicador == 'pobreza') %>% arrange(-valor) %>% rownames_to_column('posicion') %>% filter(clave_municipio == 30074) %>% pull('posicion') %>% as.integer %>% formato`
+entre un total de `r pobreza %>% pull(clave_municipio) %>% unique %>% length %>% formato`
 municipios.[^Huiloapan]
 
 [^Huiloapan]: En el apéndice \ref{coneval} se observan los principales
@@ -134,19 +134,19 @@ Huiloapan no es un lugar particularmente violento, o al menos no uno en donde
 los hechos violentos se investiguen por las autoridades: durante el año 2019 se
 abrieron allí
 `r delictuosos %>% filter(Cve..Municipio == 30074) %>% pull('proporcion') %>% round`
-carpetas de investigación por cada 100 habitantes relacionadas con la
+carpetas de investigación por cada 1,000 habitantes relacionadas con la
 comisión de diversos delitos. Esto lo ubicó en el lugar
 `r delictuosos %>% filter(Cve..Municipio == 30074) %>% pull('orden') %>% as.integer %>% formato`
 entre los municipios con mayor proporción de investigaciones abiertas en
-proporción con el  número de sus habitantes.[^Carpetas] Sin embargo, los
+relación con el  número de sus habitantes.[^Carpetas] Sin embargo, los
 principales delitos por los que se abrieron investigaciones durante el año 2019
-se relacionan con hechos violentos, tales como robo, violencia familiar y
-homicidio.[^delitos_huiloapan]
+se relacionan con hechos violentos, tales como robo, homicidio y 
+amenazas.[^delitos_huiloapan]
 
 [^Carpetas]: A manera de referencia, en el apéndice \ref{carpetas} se muestra la
-proporción de carpetas de investigación abiertas por cada 100 habitantes durante
-el 2019, en los diez municipios con mayor
-proporción. Elaboracion propia, \autocites{data:coneval, data:seguridad}.
+proporción de carpetas de investigación abiertas por cada 1,000 habitantes
+durante el 2019, en los diez municipios con mayor proporción. Elaboracion
+propia, \autocites{data:coneval, data:seguridad}.
 
 [^delitos_huiloapan]: En el apéndice \ref{delitos_huiloapan} se
 observan los 10 tipos de delitos con mayor número de investigaciones
@@ -157,7 +157,7 @@ gasolinera; sin embargo, a las 5 de la mañana del sábado 18 de mayo, fue
 acribillada mientras dormía, aparentemente con un fusil de asalto AR-15. Algunas
 versiones apuntan a que los sujetos que la mataron ingresaron a la casa para
 cometer el crimen, otras simplemente indican que estos se movilizaban en un
-vehículo cuyas señas de desconocen y dispararon hacia la vivienda. Los elementos
+vehículo cuyas señas se desconocen y dispararon hacia la vivienda. Los elementos
 policiales se demoraron unas dos horas en llegar al lugar para practicar el
 levantamiento del cadáver.\autocites{prensa:feminicidionatali1, prensa:feminicidionatali2}
 Las imágenes de *Google Maps* no llegan hasta el lugar donde fue asesinada, muy
@@ -174,10 +174,10 @@ hechos. \autocites{prensa:feminicidionatali1, prensa:feminicidionatali2}.
 
 El feminicidio de Natalí podría parecer similar a los
 `r feminicidios %>% pull(cantidad) %>% sum(na.rm = TRUE) %>% formato`
-casos, de otras desconocidas gigantes, por las que se abrieron carpetas
-de investigación en México el año pasado. Sin embargo, junto con los
-feminicidios de otras dos mujeres más en el mismo municipio, este caso sí otorga
-una característica especial a Huiloapan: con una proporción de más de
+casos, de otras desconocidas gigantes, por las que se abrieron carpetas de
+investigación en México el año pasado. Sin embargo, junto con los feminicidios
+de otra mujer en el mismo municipio, este caso sí otorga una característica
+especial a Huiloapan: con una proporción de más de
 `r feminicidios %>% filter(Cve..Municipio == 30074) %>% pull(proporcion) %>% floor`
 feminicidios por cada 100,000 habitantes, fue el municipio más violento para las
 mujeres durante el año pasado.[^Feminicidas]
@@ -209,7 +209,7 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
                  threeparttable = TRUE)
 ```
 
-## Carpetas de investigación por cada 100 habitantes {#carpetas}
+## Carpetas de investigación por cada 1,000 habitantes {#carpetas}
 
 ```{r carpetas}
     delictuosos %>% select(-(orden:Clave_Ent)) %>% head(10) %>%
@@ -219,7 +219,7 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
                                    'Población\\textsuperscript{b}',
                                    'Proporción\\textsuperscript{c}'),
                      row.names = FALSE, format.args = list(big.mar = ','),
-                     caption = 'Carpetas de investigación por cada 100 habitantes, 2019',
+                     caption = 'Carpetas de investigación por cada 1,000 habitantes, 2019',
                      format = 'latex', longtable = TRUE, escape = FALSE) %>%
         kable_styling(latex_options = c('hold_position', 'repeat_header'),
                       repeat_header_text = "\\textit{(continuación)}") %>%
@@ -237,7 +237,7 @@ Elaboracion propia,\autocites{data:coneval, data:seguridad}.
 
 ```{r delitos_huiloapan}
     victimas %>%
-        filter(Cve..Municipio == 30074) %>%
+        filter(Cve..Municipio == 30074 & ano == 2019) %>%
         group_by(Tipo.de.delito) %>%
         summarise(cantidad = sum(cantidad, na.rm = TRUE)) %>%
         arrange(-cantidad) %>%
