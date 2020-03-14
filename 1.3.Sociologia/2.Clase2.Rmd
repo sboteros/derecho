@@ -1,17 +1,11 @@
 ---
-title: 'Sociología jurídica'
-subtitle: 'Nayeli Villagrán Suárez'
-author: 'Santiago Botero Sierra'
-date: 'Enero a abril de 2020'
-output: pdf_document
-bibliography: 0.biblio.bib
+title: Clase No. 2
+author: Santiago Botero Sierra
+date: 22 de febrero de 2020
 ---
 
 # Entregables
 
-+ *Ficha técnica de teoría sociológica (grupal)*. Sobre un autor: quién es, cuál
-    es su escuela, cuáles son sus aportaciones y cuáles son sus principales
-    obras. Extensión de una hoja por autor.
 + *Análisis sociológico jurídico de entidad federativa (individual)*.
     Seleccionar  un estado, municipio o delegación y realizar un análisis breve
     del contexto sociológico que se ha desarrollado en esa  región y cuáles
@@ -22,11 +16,17 @@ bibliography: 0.biblio.bib
 + *Mis roles sociales*. Cuáles son mis roles sociales, mi regulación jurídica
     que establece obligaciones y derechos. Una cuartilla a mano.
     **28 de marzo**.
++ *Ficha técnica de teoría sociológica (grupal)*. Sobre un autor: quién es, cuál
+    es su escuela, cuáles son sus aportaciones y cuáles son sus principales
+    obras. Extensión de una hoja por autor. **28 de marzo**.
++ *Control de lectura*. 12 juicios que cambiaron la historia. **18 de abril**.
 + *Control de lectura*. El decálogo del abogado, de Abarrolli, de la Barra
     Nacional de Abogados. No es necesario leer todo el libro, sino un capítulo-
     artículo. Escribir una cuartilla con una opinión sobre el artículo y
-    escribir por qué decidí estudiar derecho. **2 de mayo**.
-+ David Gale.
+    escribir por qué decidí estudiar derecho. **2 de mayo**, probablemente sea
+    el 18 de abril. (Actividad complementaria).
++ *Análisis de la película de David Gale*. **2 de mayo**, probablemente sea el
+    18 de abril (Actividad complementaria).
 + Consolidado de preguntas.
 
 # Cuestionario

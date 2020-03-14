@@ -1,0 +1,166 @@
+---
+title: Autores de filosofía del derecho
+author: Santiago Botero Sierra
+date: 13 de marzo de 2019
+---
+
+# Positivismo
+
+## Hans Kelsen
+
+Kelsen analizó el concepto de *imputación* y su estructura formal en la ley; a
+partir de él, así como de su relación con el concepto de *causalidad* en las
+ciencias naturales, es posible alcanzar el conocimiento de la ley. La imputación
+puede ser *central*, que explica la ley como expresión de la voluntad del estado
+y establece sus principios jerárquicos;[^ImpCentral] o *periférica*, que
+establece un enlace entre dos hechos del tipo "$A \Rightarrow$ debe ser $B$"
+(similar a la causalidad, $A \Rightarrow B$).\autocite{ency:kelsen}
+
+[^ImpCentral]: Vínculos formales entre las leyes basados en la *competencia*,
+que permiten distinguir a las normas jurídicas de las  morales, basadas en el
+contenido.
+
+## Joseph Raz
+
+Raz distinguió la naturaleza de las *razones de la acción*, así como la
+*autoridad de las normas jurídicas* para hacer que prevalezcan determinadas
+razones.  Distingue las razones de primer orden, que aplican a los sujetos en
+ausencia de consideraciones institucionales y normativas, y las de segundo
+orden, que "*(...) son razones para relacionar, actuar sobre o balancear razones
+de primer orden (...)*"; las normas jurídicas son razones de segundo orden
+institucionalmente aceptadas que excluyen o tienen derecho preferente para no
+actuar con base en normas de primer orden.[^Exclusion] Por su parte, la
+autoridad de las  normas jurídicas las distingue de otras normas de segundo
+orden, como las  morales, y se fundamenta en el reclamo que hace la ley para
+regular las vidas  de los sujetos de forma comprensiva, suprema y
+abierta.\autocite[Traducción libre. ][]{ency:raz}
+
+[^Exclusion]: Las razones que provee la ley para tener derecho preferente se
+basan en las tesis de dependencia (de razones que aplican a los sujetos y que se
+fundamentan en las circunstancias), de preferencia (reflejan o reemplazan
+razones de primer orden) y de justificación normal (llevarán a los sujetos a
+actuar, más probablemente, sobre un balance de razones de primer orden).
+
+## H.L.A. Hart
+
+Hart planteó que las decisiones judiciales tienen un carácter performativo
+(crean, más que describen, una realidad) y que el razonamiento legal es
+esencialmente anulable. Asimismo, realizó una distinción entre el hábito y las
+reglas legales: mientras el primero es una descripción, el segundo tiene un rol
+normativo de descripción, justificación o base para criticar las desviación; con
+base en ello, hace un planteamiento hermenéutico en donde la ley no tiene
+únicamente un carácter de coerción sino que genera una actitud interna en los
+ciudadanos que les da razones actuar.\autocite{ency:hart}
+
+# Naturalismo
+
+## Tomás de Aquino
+
+Para Aquino la ley es una norma de acción y su etimología deriva de la palabra
+*ligare*. Distingue tres tipos de ley: eterna, que deriva de la razón divina y
+lleva a las cosas hacia su propio fin; natural, que muestra la presencia de la
+ley eterna en la mente humana; y humana, que deriva de la razón práctica del
+gobierno y contribuye a dar al hombre lo que le hace falta para su
+supervivencia. La ley natural está basada en tres fundamentos: la vida es un
+valor humano fundamental, hay una relación inter-generacional para mantener la
+especie humana y el conocimiento es un bien humano fundamental; a partir de allí
+no se derivan reglas de acción particulares, sino bienes humanos protegidos por
+la ley natural; los preceptos son cuasiconclusiones ligadas a estos bienes, pero
+pueden no ser igualmente conocidos por todos y estar sujetos a excepciones en
+casos particulares. Por su parte, la ley humana parte de tres tesis: la fuerza
+coerciva deriva de ser el resultado de la razón que lleva las cosas a su fin,
+que es el florecimiento humano y el bien común; en el caso del bien común, la
+orden proviene de la comunidad política y puede emitirse por toda ella o por
+quien la representa (justificación de la autoridad política); y, la ley debe ser
+pública mediante la promulgación.\autocite{ency:aquino}
+
+## Hugo Grocio
+
+\citeauthor{lib:iusrac} plantea que Grocio fue el fundador del derecho natural
+racionalista y que su campo de análisis se extendió a las ideas sociales,
+políticas, morales, jurídicas en general y, particularmente, al Derecho
+Internacional. Este pensador parte de que la idea de la razón (universal y
+permanente) tiene su correlato en la sociabilidad humana (*appetitus
+societatis*), por lo que el derecho natural racionalista y la razón "(...)
+*cumplen una necesaria función en pro de la convivencia mutua y pacífica de los
+hombres*".\autocite[585--587]{lib:iusrac}
+
+# Realismo nórdico[^Realismo]
+
+[^Realismo]: El realismo nórdico se basa en las ideas de Hägerström, quien
+rechaza la metafísica sobre las ideas de lo bueno y lo malo, y plantea que no
+existen relaciones fuera de la realidad a partir de un modelo basado en la
+botánica. Esta concepción sobre el conocimiento fue seguida por Lundstedt, Ross
+y Olivecrona; las ideas jurídicas de estos últimos se presentan en esta sección.
+
+## Alf Ross
+
+Ross plantea, al igual que Olivecrona (véase \ref{olivecrona}), que las leyes
+son imperativos, a los que llama directivas, en términos de ideas sobre el
+comportamiento humano usados por las autoridades legales para comunicar
+conocimiento sobre esas ideas e influir sobre el comportamiento humano. Para
+Ross, estas directivas o declaraciones no tienen un significado representativo
+sino la intención de ejercer influencia. La preocupación de Ross es sobre el
+significado de las proposiciones jurídicas (mediante la apelación al positivismo
+lógico y al principio de verificación), sobre las que concluye que, para ser
+científicas, deben ser predictivas del comportamiento de los jueces al decidir
+casos; esto lo acerca al realismo norteamericano (al contrario de Olivecrona,
+*cf.* \ref{olivecrona}). Asimismo, plantea que el razonamiento judicial no es
+un asunto de argumentación sino de persuación.\autocite{ency:escandinavia}
+
+## Karl Olivecrona {#olivecrona}
+
+Olivecrona introduce una clasificación de las teorías legales entre
+voluntaristas y no voluntaristas: tanto las teorías iuspositivistas como las
+iusnaturalistas son voluntaristas porque remiten la creación de la norma al
+deseo de la autoridad suprema (el Estado o Dios, respectivamente); y propone
+una teoría no voluntarista (teoría realista de la ley). La teoría que propone
+interpreta a las reglas legales como imperativos independientes (relaciones
+impersonales entre seres humanos), que deben ser distinguidos de las órdenes
+(relaciones personales); los imperativos son ideas sobre el comportamiento
+humano usados por las autoridades legales para comunicar  conocimiento sobre
+esas ideas e influir sobre el comportamiento humano. En este sentido, interpreta
+que "[l]*a ley consiste en reglas sobre el uso de la fuerza por las autoridades
+legales para causar el comportamiento apropiado entre los seres humanos como un
+efecto*". Asimismo, rechaza la idea de los realistas americanos de que la tarea
+de la ciencia legal es predecir las decisiones de los jueces y plantea que esta
+es ofrecer información sobre los propios patrones de
+comportamiento.\autocite[Traducción libre. ][]{ency:escandinavia}
+
+# Neopositivismo
+
+## Luigi Ferrajoli
+
+Ferrajoli es un autor neoconstitucionalista que plantea un modelo garantista con
+tres  niveles: normativo, relacionado con la limitación del poder; de teoría del
+derecho, relacionado con una concepcion iuspositivista crítica que fortalece el
+papel de los jueces; y de filosofía política, que plante la crítica de los
+ordenamientos jurídicos con base en criterios
+ético-políticos.\autocite{art:ferrajoli}
+
+## Gustavo Zagrebelsky
+
+De acuerdo con \citeauthor{lib:estuconst}, Zagrebelsky entiende que en los
+ordenamientos constitucionales contemporáneos hay una conexión entre derecho y
+moral que genera una obligación moral de obedecer la Constitución y las leyes
+conformes con ella. Asimismo, plantea que la idea del derecho sólo puede ser
+entendida mediante la participación en la práctica social del derecho, que es
+una combinación de juicios de hecho y de valores; en ese sentido, la teoría que
+propone es más una *iuris-prudentia* que una
+*scientia iuris*.\autocite[46, 56]{lib:estuconst}
+
+## Ronald Dworkin
+
+La doctrina legal de Dworkin se centra en analizar qué determina la doctrina de
+un sistema legal, para lo que propone una interpretación moral de la ley
+denominada *interpretación constructiva* y plantea la *ley como integridad*. La
+interpretación constructiva se requiere cuando operadores jurídicos competentes
+tienen desacuerdos sobre lo que significa la ley, por lo que resolverlos "*es
+cuestión de imponer un propósito a un objeto o práctica en orden de hacerlo el
+mejor ejemplo posible de la forma o género del cual es tomado como
+perteneciente*"; para ello, en el caso de la ley, se requiere un análisis moral
+sobre lo que es valioso sobre la regla de la ley y sobre lo que hace a la
+práctica legal moralmente mejor. La ley como integridad entiende que la ley
+busca regular el comportamiento colectivo y, por lo tanto, el estándar relevante
+para analizarla es el por qué la práctica de gobernanza es
+valiosa.\autocite[Traducción libre. ][]{ency:dworkin}

@@ -1,0 +1,159 @@
+---
+title: Clase No. 3
+author: Santiago Botero Sierra
+date: 7 de marzo de 2020
+---
+
+# Tipos de leyes
+
++ Orden jurídico mexicano.
+    - Ley General: Regula un artículo constitucional.
+    - Ley Federal. Ver los artículos 308 y 73 de la CPEUM. Este último establece
+        los asuntos sobre los que la Federación puede hacer leyes.
+    - Ley Orgánica. Regula la estructura de una institución del Estado.
+    - Ley Local. Son leyes residuales, es decir, todas aquellas que no están en
+        el artículo 73 de la CPEUM (artículo 124); a esto se le llama *libertad
+        de configuración legislativa*. Para 31 entidades, esto se establece en
+        116, 117 y 124; para la Ciudad de Mëxico, en los artículos 122 y 124.
+    - Leyes (o bandos) municipales. Sus temas están establecidos en el artículo
+        115 de la Constitución.
+
++ Principio de supremacía constitucional.
+    - Está establecida en el artículo 133 de la Constitución; es una copia del
+        artículo 6.2. de la constitución norteamericana.
+    - Se ha ido transformando a través de la jurisprudencia.
+    - Lecturas del 133:
+
+        * La visión clásica del artículo 133 (las leyes federales y los tratados
+            internacionales se encuentran subordinados a la Constitución) estuvo
+            aplicable desde 1997 hasta 1992; aquí se entendió como
+            independientes los tratados y las leyes federales.
+        * Entre 1992 y 1999 se  tuvo la concepción de que en la cúspide está la
+            Constitución, por debajo   y al mismo nivel, las leyes federales y
+            los tratados internacionales;  aquí por primera vez se le da
+            relación entre sí a los tratados internacionales y a las leyes
+            federales. Este fue el último criterio de la IX Época (1995-2011)
+        * Entre 1999 y 2007, los tratados están por encima de las leyes
+            federales.
+        * Entre 2007 y 2011 (último criterio de la IX Época) está organizado con
+            la Constitución en la cúspide; por debajo y en igual jerarquía, las
+            leyes generales y los tratados internacionales; y por debajo, las
+            leyes federales y las leyes estatales. Amparo Directo en Revisión
+            120/2002, Caso McCain.
+        * A partir del 2011: Bloque de constitucionalidad; están al mismo nivel
+            los tratados internacionales en materia de DDHH y la Constitución.
+            Lo que hace el artículo 1 de la Contitución es situar 2 fuentes para
+            los DDHH: una nacional, la Constitución; y una internacional, los
+            tratados internacionales. El *bloque extendido* dice que: (a) en la
+            fuente nacional está la  Constitución, pero también la
+            jurisprudenci; (b) en la fuente internacional hay 210 tratados
+            internacionales en materia de  derechos humanos, otros tratados
+            generales que en alguna de sus partes reconozca un DDHH, las
+            sentencias de la Corte IDH (que a la fecha son 292 sentencias), las
+            25 opiniones consultivas de la Corte  IDH (interpretación de algún
+            tratado en el cual es competente, a  solicitud de un Estado parte),
+            lo que proviene del sistema universal de DDHH (Declaración Universal
+            y carta de la ONU, que tiene 9 tratados internacionales en materia
+            de DDHH) y un tribunal.
+
++ *Épocas*.
+    + Son la temporalidad en la que se divide la divide la jurisprudencia
+        del Semanario Judicial de la Federación.
+    + Las primeras 5 épocas son
+        históricas, que va de 1857 a 1917, esta jurisprudencia ya no tiene
+        vigencia; la X Época empezó con la reforma de DDHH del 2011.
+    + En la práctica, ya no se utiliza la jurisprudencia de la V a la VIII
+        Época, pues antes se interpretava la ley de una manera diferente, se
+        construía con el significado gramatical de la ley.
+    + La jurisprudencia en materia laboral es muy protectora en la VII Época,
+        pues se dio todo el movimiento social obrero; en la X ya tenemos muchas
+        restricciones.
+    + El cambio de la VIII a la IX Época fue la  reforma integral a la
+        Constitución del 31 de diciembre de 1994; leer el  libro *Curso básico
+        de derecho procesal constitucional* para saber cómo la  SCJN se
+        convirtió en un tribunal constitucional. Había mucha incertidumbre  en
+        la sociedad por temas de corrupción en la SCJN, era una corte desbordada
+        de trabajo. La Reforma: (a) redujo el número de ministros (de 25 a 11),
+        (b) quitaron  los cargos vitalicios (a 15 años), (c) se redujeron las
+        salas (de 5 a 2), (d) se  creó un órgano para administrar al poder
+        judicial (Consejo de la Judicatura Federal), que nació como un órgano
+        autónomo pero se reformó en 1999 para que  lo presidiera el presidente
+        de la Corte; (e) tradicionalmente, en la SCJN sólo se conocían juicios
+        de amparo, pero se crearon la *controversia constitucional* y la *acción
+        de inconstitucionalidad*, este segundo fue el principal proceso de la
+        corte durante la IX Época porque permitió que se reconocieran derechos
+        humanos (por ejemplo, el matrimonio igualitaria y el aborto nacieron de
+        acciones de inconstitucionalidad), estas acciones están reguladas en el
+        artículo 105, fracción II, de la Constitución.
+
++ Aborto: ver la acción de inconstitucionalidad 196/2010.
++ El Tribunal Internacional de Justicia, la Corte de la Haya, resuelve
+    controversias entre los estados. Los órganos de la ONU son: Asamblea
+    General, Secretaría, Consejo Fiduciario, Consejo Económico, la Corte
+    Internacional de Justicia (Tribunal de la Haya) y el Consejo de Seguridad.
++ La Corte Penal Internacional es un tribunal autónomo, que deriva del Estatuto
+    de Roma (que también es un tratado que emana de la ONU, pero no pertenece a
+    la estructura de la ONU), y que se encarga de analizar crímenes de lesa
+    humanidad.
+
+# Procedimiento legislativo
+
++ Quienes pueden modificar la Constitución son los órganos que están en el
+    artículo 71 de la Constitución.
++ El procedimiento legislativo está establecido en el artículo 72. Este artículo
+    está desarrollado en la Ley Orgánica del Congreso de la Unión.
+
++ Iniciativa.
+    - Tiene: rubro, fundamentación, observación, problema y solución; es decir,
+        se utiliza el método científico para plantear la iniciativa.
+    - Quien hace la iniciativa podría enviársela de forma indistinta al Senado
+        o a la Cámara de Diputados.
+    - El presidente se la turna a la comisión correspondiente.
+    - La comisión estudia y formula un dictamen, que tiene que ser enlistado
+        para primera lectura; esto se le pide al presidente.
+    - El presidente turna la lectura; si está publicada en la Gaceta
+        Parlamentaria, se puede dispensar la lectura.
+    - Después viene la discusión; si no se aprueba por las 2/3 partes, entonces  
+        se le vuelve a enviar a la comisión para que la vuelva a hacer.
+    - Entonces la comisión la vuelve a estudiar y la vuelve a presentar, en el
+        siguiente periodo legislativo.
+    - Si se aprueba, entonces se envía a la otra cámara del Congreso; en esta
+        se hace lo mismo que en la primera.
+    - Si es una ley ordinaria, entonces pasa a sanción. Si no lo es, entonces
+        la deben aprobar los presidentes de los 32 Congresos; a ellos les llega
+        siguen el mismo proceso.
+    - La cámara revisora recibe los documentos de los Congresos, que son 17 los
+        que se necesitan. Cuando haya 17, entonces se lo envía al presidente del
+        Ejecutivo.
+    - Posteriormente, el Presidente sanciona la ley.
+
++ Normalmente se enseña con el "IDASPI", pero cambia en la práctica.
+    - Existen Comisiones ordinarias y extraordinarias.
+    - Dentro de las Comisiones también hay una sesión de discusión.
+    - Los dictámenes se tienen que notificar con al menos 24 horas antes de las
+        sesiones.
+
++ Debido proceso Legislativo
+    - La iniciativa debe contener la firma autógrafa de la persona o personas
+        que la presentan.
+    - Existen dos tipos de violaciones al procedimiento legislativo:
+
+        * La *violación material* atiende a la sustancia de la modificación.
+        * La *violación formal* se da en el procedimiento legislativo. Por
+            ejemplo: publicación en la Gaceta, discusión adecuada (no hacer
+            caso a una moción de discusión, que no le den la palabra a la
+            minoría, que no haya quórum, etc.)
+
++ Se hace control de constitucionalidad: cuando construyen el dictamen y cuando
+    este se va a discusión; estos son los momentos cuando un legislador protege
+    la Constitución y los tratados internacionales. Los diputados usan la
+    postura epistemológica del *positivismo*.
+    - El juez interpreta si los diputados lo hacen mal: choque entre
+        positivistas y racionalistas.
+
++ Siguiente sesión: estado constitucional de derecho, control de validez de las
+    normas y forma en la que los tratados internacionales modifican los sistemas
+    jurídicos positivistas.
++ **Tarea**. Leer una sentencia de la Corte IDH; caso Olmedo Bustos versus
+    Chile. Esta sentencia se conoce como *La última tentación de Cristo*; ordena
+    que Chile modifique su Constitución.
