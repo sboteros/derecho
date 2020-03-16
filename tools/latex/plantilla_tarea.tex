@@ -427,7 +427,7 @@ $endif$
 %%% ese programa no acepta Biber, por lo que hay que ejecutar este archivo
 %%% desde la terminal.
 $if(biblatex-chicago)$
-    \usepackage[notes, strict, backend=biber, autolang=other, bibencoding=inputenc]{biblatex-chicago}
+    \usepackage[notes, strict, backend=biber, autolang=other, bibencoding=inputenc, supranotes=true]{biblatex-chicago}
 $for(bibliography)$
     \addbibresource{$bibliography$}
 $endfor$
@@ -436,17 +436,21 @@ $endfor$
 \NewBibliographyString{cbyeditor}
 \NewBibliographyString{subverbo}
 \NewBibliographyString{subverbis}
+\NewBibliographyString{director}
 \NewBibliographyString{coords}
 \NewBibliographyString{by}
 \NewBibliographyString{cbycompiler}
+\NewBibliographyString{cbycoordinador}
 \DefineBibliographyStrings{spanish}{%
   cbyeditor = {ed\adddot},
   byeditor = {ed\adddot},
   cbytranslator = {trad\adddot},
   bytranslator = {trad\adddot},
   subverbo = {\textit{sub~voce}},
-  subverbis = {\textit{sub~voce}},
+  subverbis = {\textit{sub~vocibus}},
+  director = {director},
   coords = {coordinadores},
+  cbycoordinador = {coordinado por},
   by = {por},
   cbycompiler = {comp\adddot}
 }
@@ -586,7 +590,7 @@ $if(title)$
             \vfill
             \end{titlepage}
             \begin{flushright}
-                $if(title)$\textbf{$title$}\\$endif$
+                $if(title)$\textbf{$title$}$if(thanks)$\footnote{$thanks$}$endif$\\$endif$
                 $if(subtitle)$\textit{$subtitle$}\\$endif$
                 $if(author)$$for(author)$$author$$sep$, $endfor$$endif$
             \end{flushright}

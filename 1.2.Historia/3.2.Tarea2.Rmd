@@ -1,0 +1,75 @@
+---
+title: Análisis de los personajes de Negación
+subtitle: Elementos axiológicos y deontológicos
+author: Santiago Botero Sierra
+date: 15 de marzo de 2020
+---
+
+# Introducción
+
+La deontología es la parte de la ética que trata de los deberes, especialmente
+de los que rigen el ejercicio de una profesión; por su parte, la axiología es la
+teoría filosófica de los valores.\autocites{def:axio_deon}
+
+La película \citetitle{vid:negacion} narra la historia de un juicio que surge
+cuando un negacionista del holocausto judío bajo el régimen nazi, David Irving,
+acusó a Penguin Books y a la historiadora Deborah Lipstadt porque en el libro
+*Denying the Holocaust—The Growing Assault on Truth and Memory* se le señala con
+el adjetivo de *negacionista*. En el juicio participaron los abogados Anthony
+Juluis y Richard Rampton como defensores.\autocite{vid:negacion}
+
+# Análisis de personajes principales
+
+## Deborah Lipstadt
+
+Es una historiadora judía que ha analizado el holocausto. Desde el punto de
+vista axiológico, defiende el derecho a conocer la verdad sobre los hechos
+ocurridos durante el holocausto judío en la Segunda Guerra Mundial (SGM); esta
+posición parte de reconocer que existen hechos y opiniones y que, sobre los
+primeros, no es posible establecer discusiones sino determinar las
+características en los que ocurrieron. Desde el punto de vista deontológico,
+un historiador debe analizar los datos con los que cuenta y escribir sus
+análisis sobre ellos sin tergiversar lo que dicen las
+fuentes.\autocite{vid:negacionistas}
+
+## David Irving
+
+Es un aficionado a la historia que ha analizado los hechos de la SGM y ha
+pretendido negar la existencia de un holocausto a partir de controvertir la
+cantidad de víctimas; y señalar que los medios asociados con el
+exterminio en los campos de concentración no podrían haber ocasionado esa
+cantidad de muertes y que, en todo caso, estas no reflejarían una intención
+genocida.[^Irving] Desde el punto de vista axiológico, él considera que la
+verdad puede ser relativizada y que, en ausencia de pruebas que demuestren lo
+contrario, una persona puede referir cualquier cosa sobre un hecho particular.
+Desde el punto de vista deontológico, muestra una falta ética a la profesión del
+historiador ya que, a partir de una preconcepción de la conclusión a la que
+deseaba llegar (debido a sus posiciones ideológicas), sesgó la información que
+utilizó y tergiversó a sus fuentes mediante aseveraciones que no se desprenden
+de los documentos que consultó para elaborar sus
+documentos.\autocites{vid:negacionistas, vid:negacion}
+
+[^Irving]: Libro *Hitler's war and the war path* de David Irving citado por
+\autocite{art:negacionistas}
+
+## Anthony Julius
+
+Es un abogado británico que ha defendido algunos casos importantes en Reino
+Unido, algunos relacionados con la familia real británica. Desde un punto de
+vista axiológico, defiende el derecho a la justicia y a la seguridad jurídica.
+Desde un punto de vista deontológico considera que el deber del abogado es ganar
+los casos para sus clientes, para lo cual debe preparar una defensa adecuada y
+definir la estrategia que mejor convenga a sus intereses, incluso mediante
+maniobras en las que el cliente mismo pueda no estar de
+acuerdo.\autocite{vid:negacion}
+
+## Richard Rampton
+
+Es un abogado británico que jugó un papel importante en el juicio de David
+Irving y Deborah Lipstadt, pues desenmascaró el sesgo del primero en sus
+análisis pseudo-históricos. Desde un punto de vista axiológico, durante el
+juicio busca desenmascarar las mentiras que fueron vertidas por David Irving en
+sus análisis de la SGM. Desde un punto de vista dentológico, considera que el
+abogado debe buscar las fuentes que sustentan su caso y ello requiere un
+análisis profundo sobre la actuación de la contraparte en el
+juicio.\autocite{vid:negacion}

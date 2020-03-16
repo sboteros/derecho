@@ -1,0 +1,274 @@
+---
+title: Lineamientos deontológicos de la abogacía
+homework: Control de lectura
+author: Santiago Botero Sierra
+date: 16 de marzo de 2020
+thanks: (1) El autor de este documento es funcionario de la Comisión Federal de
+        Competencia Económica (Cofece), pero cualquier opinión vertida sobre
+        este documento es personal, no debe entenderse ni ser usada como un
+        consejo particular en ningún asunto, no muestra la posición oficial de
+        la Cofece sobre las materias de que se opine, y no compromete la
+        posición oficial de la Cofece en ningún asunto pasado, presente o
+        futuro sobre hechos que pudieran parecer relacionados. (2) Este mismo
+        documento también fue presentado en la asignatura de Historia de las
+        Instituciones Jurídicas.
+---
+
+\fullcite{lib:coddeon}.
+
+# American Bar Association Rule of Law Initiative
+
+La Asociación Estadounidense de Abogados (ABA, por sus siglas en inglés) se
+fundó en 1878 y emprendió la Iniciativa para el Imperio de la Ley (ROLI, por sus
+siglas en inglés) en 1990; esta iniciativa arrancó en los países del antiguo
+bloque soviético, pero hoy se extiende a más de cien países, en donde "(...) *ha
+avanzado la justicia, oportunidad económica y dignidad humana a través del
+imperio de la ley*". En su actuación, ABA ROLI busca reformas institucionales
+duraderas y su principal actividad se concentra en el acceso público al sistema
+legal y la transparencia.\autocite[Traducción libre, ][5--7]{rep:abaroli}
+
+En México, así como en Perú, los programas ABA ROLI se centran en la transición
+del modelo inquisitorial al modelo acusatorio, por lo que tiene un programa de
+formación de Nuevos Abogados para la Justicia Mexicana, desde 2013. Asimismo,
+cuenta con un programa de transparencia y apertura de la información, así como
+actividades de justicia restaurativa en comunidades afectadas por la violencia
+y la impunidad.\autocite[39, 43--45]{rep:abaroli}
+
+# Lineamientos
+
+Los lineamientos parten del hecho de que diversas "*profesiones jurídicas*"
+tienen establecidos los requisitos para su ejercicio, pero la abogacía
+no.[^Profesiones] Dada la función social del abogado, es necesario contar con
+una regulación adecuada de su ejercicio profesional y esto no se limita al
+cumplimiento de las leyes, sino que se atiende mejor con la deontología; por
+ello, es importante que la misma profesión se autorregule a través de la
+colegiación obligatoria.\autocite[xviii--xx, 5]{lib:coddeon} En el documento se
+analizan diversos aspectos relacionados con la colegiación y con el
+comportamiento de los abogados, que se describen a continuación.
+
+[^Profesiones]: Entre las profesiones jurídicas se encuentran la abogacía, el
+notariado, la correduría, la asesoría o consejo jurídico, la asistencia, la
+intervención en la prevención y solución de conflictos y la
+academia. \autocite[3]{lib:coddeon}.
+
+## Colegiación
+
+Los colegios de abogados son esenciales para garantizar la libertad e
+independencia del abogado, así como para cumplir diversos fines relacionados con
+la profesión, que requieren la colegiación obligatoria. Entre los colegios  de
+abogados se constituirá el Consejo General de la Abogacía Mexicana como  entidad
+de derecho público.[^FinColegio]
+
+Una función de los colegios es disciplinar a los abogados bajo los principios de
+debido proceso y derecho a la defensa, por lo que podrán imponer diversas
+sanciones.[^Sanciones] Asimismo, los lineamientos establecen obligaciones de los
+colegiados con el colegio,[^Colegiados] y se señalan algunos elementos con
+respecto a la educación continua, la certificación de los abogados y el papel
+que juegan los colegios en la misma.\autocite[27, 39--40]{lib:coddeon}
+
+[^FinColegio]: Entre los fines de los colegios se encuentran: la ordenación del
+ejercicio, la representación de la profesión, la defensa de los colegiados, la
+formación, el control deontológico, la defensa del Estado social y democrático
+de derecho, la colaboración con el aparato de justicia, la garantía de
+indepedencia y libertad del abogado y la procuración de armonía entre los
+colegiados, \autocite[xxi--xxii, 4--5, 9--10]{lib:coddeon}.
+
+[^Sanciones]: Las sanciones pueden ir desde la amonestación privada hasta la
+expulsión del colegio con recomendación de revocación de la cédula profesional a
+la autoridad competente, \autocite[7--8]{lib:coddeon}.
+
+[^Colegiados]: Entre las obligaciones de los colegiados con el colegio se
+encuentran: cumplir con los estatutos, respetar a los órganos de gobierno,
+contribuir con el mantenimiento económico del colegio y poner en su conocimiento
+los agravios contra abogados derivados del ejercicio de sus funciones,
+\autocite[27]{lib:coddeon}.
+
+## Código deontológico
+
+El abogado debe actuar con prudencia en el ejercicio profesional, para lo que ha
+de actuar en ciencia (desempeñar su actividad con la mayor perfección técnica
+posible) y en conciencia (actuar conforme a lo justo y recto); justicia, en la
+búsqueda de que cada quien tenga lo que le corresponde; fortaleza en la defensa
+del derecho y la justicia; y templanza, por lo que ha de procurar orden en sí
+mismo.\autocite[xx--xxi]{lib:coddeon} Los derechos y deberes del abogado
+son:
+
++ **Independencia**. El abogado requiere independencia de cualquier presión, que
+    podría provenir de sus propios intereses o de influencias exteriores. Para
+    mantener la independencia, el  abogado tiene incompatiblidades en el
+    ejercicio de su profesión.[^Incompatibilidades]
++ **Libertad de defensa**, pues las limitaciones a este derecho atentan contra
+    el derecho de defensa y tutela judicial efectiva. El abogado tiene derecho
+    de aceptar o rechazar cualquier asunto sin necesidad de justificarse, y
+    podrá cesar su intervención cuando surjan discrepancias con el
+    cliente.[^Cese]
++ **Honor profesional**. El abogado tiene el derecho y el deber de combatir
+    la conducta reprochable de jueces, funcionarios y colegas; debe tener
+    presente  que la esencia de la profesión es la consagración a los intereses
+    del cliente;  los abogados novatos tienen el derecho a recibir orientación y
+    consejo de los  experimentados, y estos de prestar su ayuda
+    desinteresadamente. Entre las faltas a la dignidad profesional se encuentran
+    algunas formas de publicidad.[^Publicidad]
++ El abogado debe obrar con honradez y buena fe. El abogado no puede aceptar un
+    asunto si no se considera competente para
+    dirigirlo.\autocite[15, 31]{lib:coddeon}
++ **Relación con el cliente**. La probidad, honradez, rectitud e integridad son
+    obligaciones profesionales  del abogado, pues permiten el establecimiento de
+    relaciones de confianza con  los clientes. Los lineamientos establecen
+    diversas obligaciones que el abogado debe observar en su relación con el
+    cliente.[^Clientes]
++ **Secreto profesional**. Es tanto un derecho como una obligación del abogado
+    en la relación con su cliente. El deber de sigilo del abogado es amplio y
+    genérico; se relaciona con el derecho a la intimidad del cliente y a no
+    declarar en su contra; el abogado debe abstenerse de presentar en
+    juicio, aportar a tribunales o facilitarle a su cliente las conversaciones
+    con su contraparte, salvo con autorización expresa. Este deber no se limita
+    al abogado, sino que también se extiende a los miembros de su despacho y no
+    tiene fecha de caducidad.\autocite[15--18]{lib:coddeon}
++ **Deferencia ante las autoridades**. El abogado, sin menoscabo del
+    mantenimiento y la defensa de su independencia, debe mantener una actitud
+    deferente ante jueces, magistrados, autoridades, árbitros y cualquier
+    persona con funciones judiciales o cuasijudiciales; así como tener
+    disposición a prestar su apoyo a la
+    magistratura.\autocite[28, 41]{lib:coddeon}
++ **Responsabilidad social**. El abogado debe promover y apoyar el acceso a la
+    justicia de personas, colectivos o comunidades en situación de desventaja o
+    exclusión social o con necesidad de recursos; apoyar iniciativas inspiradas
+    en el pluralismo político y la participación ciudadana en asuntos públicos;
+    y asesorar y defender gratuitamente a las personas en situación de
+    indigencia.\autocite[41--42]{lib:coddeon}
+
+Los lineamientos prescriben conductas entre los colegiados que incluyen: la
+*competencia desleal*, relacionada principalmente con lo señalado en el numeral
+sobre el honor profesional; la solicitud de la venia (que no podrá denegarse)
+para sustituir a un abogado y las obligaciones mutuas entre los abogados cuando
+eso sucede; la prohibición de  faltar al respeto a la parte contraria en un
+juicio o al abogado sustituido; las  limitaciones a la asociación entre
+abogados, aunque en general estas son  recomendables; y las relaciones con otros
+profesionales.\autocite[23--25]{lib:coddeon}
+
+Asimismo, se incluyen disposiciones sobre los honorarios, que dan cuenta del
+derecho del abogado a recibir una compensación digna y adecuada por sus
+servicios. El documento establece que "[l]*a cuantía de los honorarios*
+***podrá*** *ser libremente convenida entre el cliente y el abogado, con respeto
+a las normas deontológicas* ***y sobre competencia desleal***" (énfasis
+añadido), establece parámetros recomendados para la estimación de su monto
+(entre los que se encuentran "(...) *los factores orientadores del colegio en
+cuyo ámbito actúe*") y recomienda no utilizar metas de facturación en las
+asociaciones. Adicionalmente, señala que los pactos de cuota litis sólo son
+admisibles cuando el cliente no puede cubrir los honorarios del abogado de otra
+forma y establece diversas limitaciones sobre ellos. Además, se imponen
+previsiones con respecto al manejo de fondos y a las controversias con el
+cliente por el pago de los honorarios.\autocite[33--37]{lib:coddeon}
+
+[^Incompatibilidades]: Entre las incompatibilidades en el ejercicio de la
+abogacía se encuentran: desempeñar cualquier actividad que pueda suponer
+menosprecio de la libertad, independencia o libertad que son inherentes a la
+abogacía; desempeñar funciones públicas; ejercer profesiones jurídicas
+incompatibles con la abogacía, de acuerdo con su normativa particular; mantener
+vínculos profesionales con cargos o profesiones incompatibles; ejercer la
+abogacía cuando se está incurso en una causal de incompatibilidad; compartir
+locales o servicios profesionales si afectan la salvaguarda del secreto
+profesional o pueden generar la violación de otro deber; y mantener
+asociaciones profesionales que impidan el correcto ejercicio de la abogacía,
+\autocite[13, 18--19, 31]{lib:coddeon}.
+
+[^Cese]: No obstante, debe realizar los actos necesarios para evitar que el
+cliente quede en indefensión jurídica, \autocite[14, 29--30]{lib:coddeon}.
+
+[^Publicidad]: Entre las faltas a la dignidad profesional relacionadas con la
+publicidad se encuentran: la solicitud directa o indirecta de clientela; la
+publicidad de información de un litigio subjudice, salvo para rectificar cuando
+la moral o la justicia lo demandan; el desahogo habitual de consultas o la
+emisión de opiniones sobre casos que le sean planteados por medios masivos,
+salvo en emisiones con un fin eminentemente social; la incitación directa o
+indirecta a litigar, salvo cuando los lazos de parentesco o íntima amistad lo
+induzcan a obrar así; y la remuneración directa o indirecta a personas que estén
+en condiciones apropiadas para recomendarlo,
+\autocite[14--15, 19--21, 28--29, 41]{lib:coddeon}.
+
+[^Clientes]: En su relación con el cliente,  el abogado: solo podrá encargarse
+de un asunto por mandato del cliente, encargo de otro abogado o designación
+colegial; debe identificarse ante la persona a la que asesora o defiende; no
+puede aceptar la defensa de intereses contrapuestos a los que esté defendiendo,
+debe renunciar a ambos clientes cuando sus intereses se contraponen y debe
+abstenerse de ocupar los asuntos de varios clientes cuando pueden surgir
+conflictos de interés entre ellos; no puede aceptar encargos que impliquen
+actuar contra un cliente previo, exista el riesgo de violación del secreto
+profesional o de este pudiera resultar un beneficio para el nuevo cliente; debe
+poner en conocimiento del cliente, si este lo solicita, su opinión sobre las
+posibilidades de éxito del asunto, el importe aproximado de los servicios, la
+posibilidad de obtener asesoría gratuita por parte del colegio según sus
+circunstancias personales y económicas, las situaciones que pudieran afectar su
+independencia y la evolución del asunto encomendado; y mantener a disposición
+del cliente la documentación recibida de él, \autocite[15, 29--32]{lib:coddeon}.
+
+# Necesidad de opinión de la Cofece {#opinion}
+
+El artículo 28 constitucional establece diversas salvaguardas que, *grosso
+modo*, *inter alia*,  tienden a garantizar el derecho de las personas a gozar de
+mercados competidos en México y asigna responsabilidades a la Cofece para
+salvaguardarlos. Entre otros, se definen las prácticas monopólicas absolutas,
+entre los cuales puede considerarse "(...) *el intercambio de información* (...)
+*cuando (i) se realice entre agentes económicos competidores; y (ii) tenga por
+objeto o efecto fijar precios, manipular la oferta o demanda de bienes o
+servicios, dividirse el mercado o concertar posturas en licitaciones o
+concursos*".\autocite[5]{guia:intercambioinfo}
+
+La Cofece reconoce que las cámaras empresariales o asociaciones de
+profesionales, como el colegio propuesto en  el documento analizado, atienden
+propósitos legítimos (como la autorregulación y la adopción de códigos de ética)
+y pueden ayudar a la promoción y protección de la competencia y la apertura de
+los mercados.[^BeneficiosCamaras] Sin embargo, también pueden entrañar riesgos
+al proceso de competencia que podrían considerarse causa objetiva para el inicio
+de investigaciones por parte de la Cofece, especialmente cuando la
+administración y gestión se  realiza por los propios agentes económicos
+competidores entre sí.\autocite[21--22]{guia:intercambioinfo}
+
+Entre las actividades sospechosas de las cámaras se encuentran las "[r]*eglas
+diseñadas para contener o disuadir que los miembros compitan uno con otro*[;]
+*por ejemplo, la fijación de precios* (...) [o] *la emisión de códigos de
+conducta con reglas que desincentiven comportamientos competitivos de los
+miembros*".[^Precios] Al respecto, en los lineamientos se observan diversas
+recomendaciones que podrían representar un riesgo al proceso de competencia y
+libre concurrencia en los mercados de abogacía en México, tales como:
+
++ Los lineamientos sobre *competencia desleal*, que son un título desafortunado,
+    especialmente aquellos relacionados con la necesidad de contar con una
+    *venia* del abogado sustituido para prestar los servicios al cliente.
++ Las restricciones sobre la publicidad, que impedirían reducir asimetrías de
+    información propias de esta clase de mercados (tales como el porcentaje de
+    éxito de un abogado) o impedirían que nuevos abogados, que aún no tienen una
+    base de clientes definida, puedan promocionar sus servicios entre el público
+    en general.
++ La inclusión de la sugerencia de que la cuantía de los honorarios no sea
+    libremente convenida entre el cliente y el abogado,[^Negociacion] así como
+    la referencia a "(...) *los factores orientadores del colegio*".
+
+[^BeneficiosCamaras]: Entre los beneficios se encuentran: mejora en la
+planeación de la producción y las estrategias de mercado; autorregulación;
+promoción de la industria; mejora en la tecnología; representación; crédito; y
+ética.
+
+[^Precios]: Al respecto, se señala que "[l]*a asociación no debe sugerir,
+recomendar, avalar, criticar ni* ***discutir de forma alguna información
+estratégica, como precios*** (...)" y "(...) *no debe castigar o negar de
+ninguna forma, ni condicionar, la membresía* (...) *como represalia ante
+decisiones comerciales tales como* ***precios,*** *descuentos, objetivos,
+términos y condiciones*, ***promoción y publicidad,*** *u
+otros*" (énfasis añadido), \autocite[22--23]{guia:intercambioinfo}
+
+[^Negociacion]: "*La cuantía de los honorarios* ***podrá*** *ser libremente
+convenida entre el cliente y el abogado* (...)" (énfasis añadido),
+\autocite[33]{lib:coddeon}.
+
+# Conclusión
+
+Aunque son una necesidad para establecer mecanismos vincultantes que permitan el
+ejercicio ético y leal de la abogacía en México, los lineamientos deontológicos
+propuestos podrían superar los ámbitos legítimos de su aplicación e incurrir en
+causales que podrían representar riesgos para la protección de los mercados
+competidos establecidos en el artículo 28 de la Constitución. Por lo tanto,
+sería recomendable que, antes de adoptar estas medidas, los interesados se
+acerquen a la Cofece para solicitar una "orientación general no vincultante"
+sobre el asunto.

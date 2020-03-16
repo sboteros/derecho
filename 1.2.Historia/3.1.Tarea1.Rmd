@@ -1,0 +1,89 @@
+---
+title: Película Negación
+homework: Trabajo Grupal
+author:
+    - Santiago Botero Sierra
+    - Paloma
+    - Cristian García
+    - Gabriela Rodríguez
+    - Mitzi
+    - Otro
+date: 15 de marzo de 2020
+---
+
+\fullcite{vid:negacion}.
+
+# Problemática de la película
+
+Un negacionista del holocausto judío bajo el régimen nazi, David Irving, acusó a
+Penguin Books y a la historia Deborah Lipstadt porque en el libro *Denying the
+Holocaust—The Growing Assault on Truth and Memory* se le señala con el adjetivo
+de *negacionista*. La controversia fue interpuesta en el Reino Unido, por lo que
+correspondió a los demandados soportar la carga de la prueba para desacreditar
+el cargo de difamación; esto es contrario a muchos otros países, en donde la
+carga de la prueba corresponde a quien dice ser afectado.\autocite{vid:negacion}
+
+# Contexto histórico
+
+El juicio se desarrolló en 1994, pero los hechos sobre los que versa la negación
+del holocausto ocurrieron durante la Segunda Guerra Mundial (SGM). De acuerdo
+con  \citeauthor{art:neonazis}, desde el final de la SGM se comenzaron a
+reorganizar los reductos del nazismo en Alemania y Austria, este proceso se
+expandió hacia los países que los combatieron (como Francia y Reino Unido, entre
+otros) y tuvo un auge en Europa del Este después de la caída del bloque
+soviético (como respuesta a la incongruencia entre las fronteras políticas y las
+diferencias étnicas, religiosas, de lenguaje, etc.; así como la represión de las
+identidades nacionales en la antigua Unión de Repúblicas Socialistas  Soviéticas
+--URSS).\autocite{art:neonazis} Adicional a su expresión política, también
+surgieron subculturas como los *skinheads*, nacidos en Reino Unido al final de
+la década de los sesenta del siglo pasado, que enarbolan ideologías neonazis. El
+juicio que relata \citetitle{vid:negacion} se presentó en este contexto
+histórico de reorganización de los movimientos neonazis, así como los eventos
+posteriores a la caída de la URSS; es necesario tener presente que los
+negacionistas como David Irving, son un sustento moral de los neonazis que
+permite presentar la ideología fascista como aceptable.
+
+Aunque el juicio se desarrolla en esta época, los elementos que se analizan en
+él se refieren a los acontecimientos de la SGM. En esa época surgió el fascismo
+en Alemania e Italia, los países perdedores en la Primera Guerra Mundial (PGM).
+El  contexto histórico en el que surgió el movimiento nacional-socialista alemán
+y  el fascismo italiano se relaciona con la sensación de derrota tras la PGM,
+así como las cláusulas del Tratado de Versalles de 1919, que incluyó las
+indemnizaciones que estos países debieron asumir como consecuencia de esta
+derrota (en las que se incluye, muy significativamente, la restitución de
+Alsacia y  Lorena hacia Francia) y que fue una de las causas de la
+hiperinflación alemana en la década de los años veinte del siglo pasado.
+
+# Fuentes utilizadas por los personajes
+
+Durante el juicio se utilizaron fundamentalmente análisis periciales para
+determinar si la acusación de difamación tenía sustento; pero en el trasfondo de
+estas pruebas periciales hay un análisis de fuentes documentales para determinar
+la validez de los enunciados. Las fuentes periciales en historia concluyeron que
+David Irving realizó manifestaciones ideológicamente sesgadas para negar la
+existencia de un plan de exterminio de los judíos (y otras víctimas del régimen
+nazi) y la responsabilidad de Adolf Hitler en él, así como para refutar las
+estimaciones del número de víctimas del régimen nazi durante la SGM. Para ello,
+de acuerdo con Deborah Irving, la protagonista de la historia, realizaron un
+análisis documental a partir de las notas al pie de página de los documentos
+escritos por David Irving que demostró el sesgo y la ausencia de fuentes en sus
+aseveraciones, pues lo que decían los documentos que citaba era diferente a su
+explicación en los textos que escribía y estas diferencias eran sesgadas en
+favor del régimen nazi en estos tres elementos.\autocite{vid:negacionistas} Es
+importante resaltar que otras fuentes con las que se cuenta para documentar el
+exterminio del régimen nazi son los testimonios de los sobrevivientes[^Testigos]
+y vestigios arqueológicos que fueron parcialmente destruidos por los mismos
+nazis en los momentos finales de la SGM; pues fotografías y otros documentos
+fueron destruidos por los nazis, lo que contribuye al pseudo-argumento de la
+inexistencia de registros por parte de los negacionistas.
+
+[^Testigos]: Debido a una estrategia de defensa jurídica se optó por no utilizar
+esta fuente durante el juicio.
+
+# Sentencia y derechos en juego
+
+La sentencia determinó que Penguin Books y Deborah Lipstadt no incurrieron en
+calumnia contra David Irving. Los derechos en juego en este juicio son, por una
+parte, el derecho al buen nombre, la libertad de expresión y la libertad de
+credo; por otra, el derecho a la verdad histórica y al ejercicio de las
+profesiones.

@@ -5,17 +5,6 @@ author: Santiago Botero Sierra
 date: 29 de febrero de 2020
 ---
 
-+ Preguntas
-    - Trama, ¿en qué radica la problemática que se desarrolla?
-    - ¿En qué contexto histórico se desarrolla la problemática?
-    - ¿Se hace apreciación de elementos documentales? ¿De qué tipo de fuentes?
-    - Sentencia, cuáles son los derechos que están en juego.
-
-+ Tarea
-    - Leer y comentar el decálogo del abogado.
-    - Análisis de los personajes: axiológico como deontológico.
-    - Cuadro de clasificación en las familias jurídicas.
-
 # Sistemas jurídicos
 
 + Conjunto de instituciones gubernamentales, normas.

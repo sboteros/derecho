@@ -1,0 +1,53 @@
+---
+title: Poder Judicial de la Federación
+author: Santiago Botero Sierra
+date: 14 de marzo de 2020
+---
+
++ Estructura del PJF.
++ Hay constituciones rígidas y flexibles, según la dificultad del proceso de
+    reforma. En México hay una constitución rígida, pues el proceso de reforma
+    incluye una discusión del Congreso y la aprobación de los estados.
++ Diferencia entre normas: reglas y principios; necesidad de interpretación en
+    los principios.
++ Diferencia entre derechos humanos y derechos fundamentales.
+    - Dogmática jurídica: ¿cuáles son los DDHH?
+    - Teoría de la justicia o filosofía política: ¿cuáles deberían ser los DDHH?
+    - Teoría del derecho: ¿qué son los DDHH?
+
+        * Son los bienes básicos que permiten a una persona lograr el plan de
+            vida que desee.
+        * Están por encima del mercado y la política.
+        * Son triunfos frente (contra) la mayoría.
+
+    - Sociología jurídica: ¿cómo se han aplicado o garantizado los DDHH?
++ Principio de taxatividad en materia penal (norma jurídica redactada en forma
+    de regla) significa que se debe encuadrar el hecho en el tipo penal.
++ Reforma siguiente al PJF: sistema de precedentes en lugar de jurisprudencia.
++ Los DDHH pueden ser explícitos o implícitos; los implícitos son un producto de
+    interpretación judicial.
+
++ Principios constituciones de interpretación:
+    - Igualdad y no discriminación.
+    - Principio pro persona.
+    - Bloque de constitucionalidad.
+    - Interpretación conforme.
+    - Control de convencionalidad.
++ El principio de Igualdad tiene como fines: (i) proteger y valorizar las
+    diferencias; y, (ii) eliminar o, cuando menos reducir, las desigualdades.
++ Acciones afirmativas: acción temporal para reducir o mitigar las desigualdades
+    estructurales.
++ Discriminación: trato diferenciado no justificado.
+    - Directa: Cuando un individuo recibe un trato menos favorable que otro en
+        situación similar por alguna causa relacionada con categorías
+        sospechosas de discriminación.
+    - Indirecta: Se refiere a leyes, políticas o prácticas en apariencia neutras
+        pero que influyen de manera desproporcionada en el ejercicio de los
+        derechos humanos.
++ Tipos de derechos:
+    - De Igualdad
+    - De libertad
+    - De seguridad juridica
+    - Sociales, económicos, culturales y ambientales
+    - Colectivos
+    

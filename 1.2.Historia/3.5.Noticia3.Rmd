@@ -1,0 +1,39 @@
+---
+title: Paro de mujeres del 9 de marzo de 2020
+subtitle: Impacto económico
+author: Santiago Botero Sierra
+homework: Comentario de prensa
+date: 16 de marzo de 2020
+---
+
+```{r setup, include=FALSE}
+    library(tidyverse)
+```
+
+# Noticia
+
+La noticia \citetitle{prensa:paromujeres} señala que José Manuel López Campos,
+presidente de la Confederación de Cámaras Nacionales de Comercio, estimó que el
+impacto económico del paro de mujeres que se desarrolló el 9 de marzo en México
+ascendió a $30,000 millones de pesos (mdp) en el sector terciario. Explicó que
+la participación de las  mujeres en los sectores productivos asciende al 40% del
+total y que, de estas,  el 70% se sumaron al paro.
+
+# Análisis
+
+El impacto económico, únicamente en el sector terciario de la economía, podría
+estar sobrevaluado en la nota de prensa comentada. A precios de 2013, el
+Producto Interno Bruto nacional en todos los sectores de la economía ascendió a
+$18,506,693 mdp;[^PIB] si se supone que cada día aporta aproximadamente el mismo
+valor económico a la economía nacional (lo que es una simplificación), entonces
+la cifra señalada representa el `r round(30000*100/(18506693/365),2)`%
+del total, lo que parece ser una proporción demasiado alta en consideración a
+que el porcentaje de la población económicamente activa que dejó de asistir a
+sus labores en dicha jornada fue del `r round(0.4*0.7*100, 2)`%
+del total. Es una lástima que en la nota de prensa no se presenten los
+aspectos metodológicos para contrastar la cifra, que ayudarían a cuantificar el
+impacto de esta jornada tan importante.
+
+[^PIB]: Cifras disponibles en
+\href{https://www.inegi.org.mx/temas/pib/}{https://www.inegi.org.mx/temas/pib/},
+consultado a 16 de marzo de 2020.
