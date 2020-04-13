@@ -1,0 +1,149 @@
+---
+title: Max Weber
+author:
+    - Santiago Botero Sierra
+    - Paloma Cuenca Cossio
+    - Mitzin Nashelly Flores Pazaran
+    - Cristian García Flores
+    - Gabriela Pineda Rodríguez
+date: 27 de marzo de 2020
+---
+
+Este documento está basado en la sección "3.3. Max Weber y la sociología
+comprensiva" de \citetitle{lib:hernandez}.
+
+# Max Weber
+
+- Vivió entre 1864 y 1920.
+- Estudió derecho en la Universidad de Heidelberg.
+- Fundador de la escuela de la *sociología comprensiva*.
+
+# Escuela de la Sociología Comprensiva
+
+- Weber buscó un método científico para las ciencias sociales que emulara el
+    enfoque *causal-funcional* de las naturales.
+- Distinción de ciencias (antecedentes de Windelband --W-, Dilthey --D- y
+    Rickert --R):
+    + *Naturales*. Llamadas *nomotécnicas*, pues estudian leyes de la naturaleza
+        (W), que son procesos externos (D) y organizan los datos en función de
+        ellas (R). "*La verdad de las ciencias empíricas* (...) *se crea al
+        somoter las relaciones captadas comprensivamente a* (...) *reglas de
+        atribución causal* (...): ***sólo lo que es causalmente explicado es
+        científicamente tratado***" (énfasis añadido).
+    + *Idiográficas*, *del espíritu* o *de la cultura*. Estudian formas
+        individuales y constituyen *ciencias de la cultura* (W); estudian
+        contenidos, que son el *espíritu del hombre*, para lo que se distingue
+        entre la vida íntima (*erlebnis*) y su expresión exterior (*ausdruck*)
+        (D); y estudian los productos culturales o las instituciones, para lo
+        que organizan los datos en función de la comprensión de los individuos
+        que implican juicios de valor de caracter universal (R).
+
+# Principales aportaciones
+
+- Propone una **ciencia social positiva**.
+    + Sin valoraciones sobre lo que dirige la *acción humana*.
+    + La *acción* "(...) *es el proceder humano mediante el cual el agente
+        asocia a un comportamiento un significado*".
+
+        * Acontece en un momento específico y concreto.
+        * El actual es singular y tiene características específicas.
+        * Cada *fenómeno social* es un *individuo histórico* (de aquí en
+            adelante, *fenómeno*).
+
+        * Distingue 4 *acciones*: (i) *racional instrumental*, *zweckrational*,
+            que se entiende a sí misma como medio para conseguir un fin
+            (mediante el cálculo y la elección de los medios adecuados); (ii)
+            *valor racional*, *wertrational*, que se realiza por el
+            convencimiento del valor que tiene en sí misma; (iii) tradicional;
+            y, (iv) emotiva-racional.
+
+    + La *significación* es lo que hace un individuo al poner frente a la
+        realidad una serie de valores pensados subjetivamente por él.
+    + La *acción social* es el comportamiento mediante el que:
+        - Una persona, siguiente como guía la acción de otra, significa su
+            acción; o,
+        - Varias personas ordenan sus acciones al seguir la guía de otra.
+    + El *significado cultural* es dotar de significado un fenómeno en relación
+        con algún *valor cultural* para dotarlo de significado o sentido.
+
+- Dota a esta ciencia social de objetos de estudio, en relación con los
+    *fenómenos de la vida social*:
+    + "[C]*omprender la organización de los fenómenos concretos de la vida
+        social y su significado cultural*".
+    + "[E]*xplicar por qué estos fenómenos se constituyen como individuales e
+        indivisibles en su singularidad*"; es decir, por qué ocurrieron como
+        lo hicieron y no de otro modo.
+- La diferencia de la *política social*, que es valorativa y comentativa de la
+    *legislación social*.
+- La labor del científico social es *comprender* por qué un sujeto realiza una
+    determinada acción o significa al mundo de una manera.
+    + *Comprender* es explicar los motivos de la acción.
+    + Necesita un modelo lógico que "(...) *sólo estudie causas concretas para*
+        [las acciones]*, pues sólo se buscan los motivos que dirigen
+        determinadas acciones*". Luego, no se buscan leyes generales.
+
+        - El *tipo ideal* o *concepto-tipo* es la variable para este modelo
+            lógico.
+
+            * Es una construcción metal que toma algunos aspectos del *fenómeno*.
+            * No son causas reales, sino *fenómenos* posibles. Es una imagen
+                mental, no la realidad; es un concepto límite con "(...)
+                *determinados  elementos significativos del contenido empírico*
+                [de la realidad]".
+            * Es una formalización que permite una imputación causal, pero sólo
+                *de orden significativo*.
+
+        - La *causalidad*, a diferencia de la de las ciencias naturales, es
+            "(...) *la probabilidad de que un acontecimiento sea seguido o
+            acompañado por otro*".
+
+            * Los *hechos de la conciencia* se caracterizan por contener
+                *significaciones* que arrastran o *implican* a otras; en ese
+                sentido se habla de la *causalidad*, no en el sentido de las
+                ciencias naturales (pues una significación no es una *causa* de
+                otras en el sentido de las ciencias naturales).
+            * Kelsen las llama *imputaciones*.
+
+        - El establecimiento de causa y efecto, no sirve para formular una ley
+            general para el futuro (el *fenómeno* es un *individuo histórico*).
+
+- Propone una **sociología del derecho**
+    + El derecho es una *acción racional-instrumental*.
+    + Es "(...) *el estudio de las probabilidades del comportamiento social, a
+        partir de un cuerpo de reglas legales establecidas por legisladores de
+        una determinada sociedad*".
+
+        * No estudia el orden jurídico ni normativo; no le interesa la dogmática
+            jurídica.
+        * Estudia las motivaciones del actuar humano real. Le interesa la
+            representación que tienen los sujetos de la dogmática jurídica
+            ("(...) *es decir, la imagen mental que tienen los ciudadanos del
+            orden debido y sus leyes*")
+
+    + Distingue *formas de administración de la justicia* históricas, sólo una
+        es una *acción racional-instrumental* y las demás son *acciones
+        tradicionales*:
+
+        * Concepción formal (de caracter *racional-instrumental*).
+        * Tradición sagrada (costumbres y usos).
+        * Revelación (justicia carismática, oráculos, ordalía, etc.).
+        * Justicia de los cadíes (juicios informales y usa valoraciones éticas
+            concretas).
+        * Justicia empírica (juicios formales mediante analogías conforme a
+            precedentes concretos).
+
+    + Denuncia la imposibilidad de un derecho racional en la Europa de su época,
+        debido a intereses políticos.
+    + Sólo interesan las leyes positivas (como en Kelsen), pues lo fundamental
+        es la coacción (la constumbre es una convención, mientras que la norma
+        coercitiva es una ley).
+    +
+
+# Principales obras
+
+- *La objetividad del conocimiento en la ciencia social y en la política social*,
+    ensayo donde plantea la necesidad de separar el conocimiento científico
+    objetivo de los juicios de valor (contrario a Rickert).
++ *La ética protestante y el espíritu del capitalismo*, donde "(...) *plantea
+    que los presupuestos teológicos que conlleva el pensamiento calvinista son
+    la causa del capitalismo en Europa*".

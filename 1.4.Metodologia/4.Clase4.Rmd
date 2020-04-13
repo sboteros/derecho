@@ -1,0 +1,81 @@
+---
+title: Clase 4
+author: Santiago Botero Sierra
+date: 28 de marzo de 2020
+---
+
+# Hans Kelsen
+
++ *Sein* (ser) y *sollen* (deber ser).
++ Restricción de libertades
+    - Artículo 29 de la Constitución
+    - Se ha utilizado sólo por Lázaro Cárdenas, durante la Segunda Guerra
+        Mundial.
+    - La SCJN revisa de oficio los decretos que se emitan.
+    - Nos enviará una opinión consultiva de la CIDH sobre la restricción de las
+        libertades; no se pueden suspender los que haya en el segundo artículo.
++ La dinámica social siempre adelanta al derecho.
++ ¿Cómo puede un iuspositivista resolver un asunto que aún no esté positivizado
+    en la norma, si no puede salir de ella por definición? Según Kelsen, la
+    norma no contempla un supuesto en razón de que no fue la  voluntad del
+    regulador el regularlo.
++ Uno de los principios del positivismo es que la norma se cumple por el simple
+    hecho de ser una norma.
++ La nuestra es una Constitución cuya esencia se encuentra en el positivismo.
++ Plantea que el Derecho es un sistema de normas (no de hechos naturales); "el
+    derecho es norma y sólo norma".
+
++ Deber ser: Sólo las personas que tengan claro cuáles son los valores morales
+    y éticos que deben regir su vida dentro de la sociedad, son capaces de
+    llevar adelante una vida enmarcada dentro del deber ser.
++ Ser: Las personas que no poseen valores morales y éticos o los que posean,
+    nada tengan que ver con la sociedad en la que conviven, serán aquellos que
+    primen al ser.
++ Uno de los objetivos principales del derecho es regular la conducta de las
+    personas en la sociedad.
+
++ Teoría pura del derecho:
+    - La ciencia del derecho debe expulsar de su óptica todo elemento ajeno
+        al contenido puramente normativo del derecho.
+    - Las normas jurídicas se construyen alejadas de la presencia moral. Son
+        normas jurídicas y basta que sean creadas por el legislador para
+        cumplirlas.
+
++ Cuando la teoría pura del derecho es aplicada de forma irracional y no
+    considera elementos éticos y morales, puede producir que se cumplan las
+    normas al costo de que se vulnere la dignidad de las personas.
+
++ Caso Yarce contra Colombia, Operación Orión.
+
+# Normatimismo o formalismo
+
++ Se puede sintetizar en tres conclusiones:
+    - Unidad normativa: todas las normas derivan de una norma fundamental.
+        Derecho como sistema; todas las normas tienen un grado de interrelación
+        o de interdependencia. Todos los poderes nacen desde la Constitución y
+        tienen un cierto grado de interrelación.
+    - Unidad entre Estado y Derecho. El estado como creador del Derecho.
+
+        * Tres pincipios clásicos del estado moderno (primero es el derecho y
+            luego el Estado): (i) principio de soberanía  popular (artículo 39
+            de la CPEUM), (ii) principio de la división de poderes (artículo 49
+            de la CPEUM), a través del derecho le damos nacimiento a un Estado;
+            (iii) principio de supremacía constitucional (artículo 133 de la
+            CPEUM).
+        * Tres elementos del Estado (cuando el Estado surge, el derecho se 
+            convierte en uno de sus elementos): (i) población (artículo 1,
+            30), (ii) territorio (artículo 42),  (iii) gobierno (artículo 40),
+            y (iv) orden jurídico (norma  fundamental, leyes federales, leyes
+            locales, bandos, circulares,  NOM y normas individualizadas).
+        * Juicio de Carbonell para un puesto en el Instituto Federal Electoral.
+            La norma que limite cosas para los ciudadanos mexicanos nacimientos,
+            se resuelve con el *test de proporcionalidad*.
+
+    - Unidad del ordenamiento jurídico. Relación entre las normas jurídicas.
+
+# Validez de la norma
+
++ Una norma es válida cuando tiene fuerza obligatoria.
++ La validez constituye la existencia de las normas.
++ El concepto de validez es diferente al de eficacia. Pueden haber normas
+    válidaz pero no eficaces.

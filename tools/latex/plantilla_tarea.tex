@@ -446,8 +446,8 @@ $endfor$
   byeditor = {ed\adddot},
   cbytranslator = {trad\adddot},
   bytranslator = {trad\adddot},
-  subverbo = {\textit{sub~voce}},
-  subverbis = {\textit{sub~vocibus}},
+  subverbo = {\textit{s.v.}},
+  subverbis = {\textit{s.vv.}},
   director = {director},
   coords = {coordinadores},
   cbycoordinador = {coordinado por},
@@ -589,11 +589,13 @@ $if(title)$
             {\large $if(date)$$date$$else$\today$endif$}
             \vfill
             \end{titlepage}
+            $if(inicio)$
             \begin{flushright}
                 $if(title)$\textbf{$title$}$if(thanks)$\footnote{$thanks$}$endif$\\$endif$
                 $if(subtitle)$\textit{$subtitle$}\\$endif$
                 $if(author)$$for(author)$$author$$sep$, $endfor$$endif$
             \end{flushright}
+            $endif$
             $if(abstract)$
                 \begin{abstract}
                 $abstract$

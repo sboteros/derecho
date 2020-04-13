@@ -1,0 +1,30 @@
+---
+title: Principios generales del derecho
+author: Santiago Botero Sierra
+date: 23 de marzo de 2020
+---
+
+Los principios generales del derecho son una ideología directiva que sirve de
+base y fundamento de las leyes y permite que el juez resuelva casos cuando la
+ley calla con respecto al caso particular. Estos principios tienen un valor de
+justicia tal que permite que sean considerados como fundamento y base del
+derecho positivo.\autocite{prensa:pringral} Para los juicios civiles, el
+artículo 14, último párrafo, de la Constitución establece que se utilizarán:
+
+> "*En los juicios del orden civil, la sentencia definitiva deberá ser conforme
+> a la letra o a la interpretación jurídica de la ley, y a falta de ésta se 
+> fundará en los principios generales del derecho*".\autocite{constitucion}
+
+A continuación se presentan 10 principios generales del
+derecho:\autocite{prensa:pringral}
+
++ Lo accesorio sigue la suerte de lo principal.
++ Quien puede lo más, puede lo menos.
++ No se puede obligar a lo imposible.
++ Se entiende que hace la cosa aquel a cuyo nombre se hace.
++ No se puede alegar en beneficio la propia torpeza.
++ Lo que no está prohibido está permitido.
++ Donde la ley no distingue no cabe distinción alguna.
++ El que afirma está obligado a probar.
++ A confesión de parte, relevo de prueba.
++ Le más pequeña variación en el hecho hace variar el derecho.
