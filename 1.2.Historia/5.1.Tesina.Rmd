@@ -387,25 +387,25 @@ algunas de sus  colonias***" (énfasis añadido). Este documento consta de 466
 folios de 40 por 29 centímetros divididos en siete partes, que contienen
 regulación respecto a:\autocite{web:7partidas}
 
-1. Derecho canónico.
-2. Derecho nobiliario.
-3. Derecho procesal y administración de la justicia.
-4. Derecho civil, en especial derecho familiar y relaciones humanas.
-5. Derecho mercantil.
-6. Derecho sucesorio.
+1. Derecho canónico;
+2. Derecho nobiliario;
+3. Derecho procesal y administración de la justicia;
+4. Derecho civil, en especial derecho familiar y las relaciones humanas;
+5. Derecho mercantil;
+6. Derecho sucesorio; y,
 7. Derecho penal.
 
-Al respecto, esta legislación había situado al rey como una persona designada
-por Dios para mantener la justicia y asegurar los derechos de cada quien en la
-comunidad política, en tanto era el corazón y el alma del pueblo; en este
-sentido, se identifica una relación entre rey (señor) y vasallo de forma
-correlativa, "[p]*orque no habría señor sin vasallos, ni vasallos sin señor*".
-Asimismo, había reconocido previamente una protección especial por parte del rey
-hacia personas con vulnerabilidad: menores, rústicos, pobres, viudas y
-huérfanos. En específico, \citeauthor{art:pacto} señala que "[s]*egún* Las Siete
-Partidas, *'personas coitadas' merecían 'mercet et piedat por razón de la
-mesquindat ó miseria en que vive[n]' y no debían sufrir 'fuerza nin tuerto de
-los otros que son más poderosos que ellos'*."\autocite[73, 79, 91]{art:pacto}
+Esta legislación situó al rey como una persona designada por Dios para mantener
+la justicia y asegurar los derechos de cada quien en la comunidad política, en
+tanto era el corazón y el alma del pueblo; en este sentido, se identifica una
+relación correlativa entre rey (señor) y vasallo, "[p]*orque no habría señor sin
+vasallos, ni vasallos sin señor*". Además, en ella se reconoce una
+protección especial por parte del rey hacia personas con vulnerabilidad
+(menores, rústicos, pobres, viudas y huérfanos). En específico,
+\citeauthor{art:pacto} señala que "[s]*egún* Las Siete Partidas, *'personas
+coitadas' merecían 'mercet et piedat por razón de la mesquindat ó miseria en que
+vive[n]' y no debían sufrir 'fuerza nin tuerto de los otros que son más
+poderosos que ellos'*".\autocite[73, 79, 91]{art:pacto}
 
 ## Revuelta de los comuneros
 
@@ -432,7 +432,7 @@ alzamiento se encuentran:\autocite{ency:habsburgs}
 
 + Los municipios conservaron su autonomía, de forma que los *corregidores*
     fueron incapaces de ejercitar control real efectivo sobre algunos concejos
-    municipales.
+    municipales; y,
 + Los municipios pudieron ejercer cierto control sobre la administración
     tributaria pues, aunque no volvieron a cuestionar la autoridad real,
     mantuvieron la idea de que tenían derecho a posponer el pago de impuestos
@@ -461,8 +461,8 @@ mediante el Concordato de Viena, \autocite[94]{lib:bernal}.
 Las *Ordenanzas Reales para el buen regimiento y tratamiento de los Yndios*,
 aprobadas en Burgos el 17 de diciembre de 1512 y promulgadas el 27 del mismo mes
 y año, fueron disposiciones de gobernación que contienen regulación sobre la
-materia del "buen regimiento y tratamiento de los Indios". En ellas se
-reconocieron la libertad de los indios y legitimaron las
+materia del "*buen regimiento y tratamiento de los Indios*". En ellas se
+reconoció la libertad de los indios y se legitimaron las
 encomiendas.[^Encomienda] Entre las responsabilidades que asignaron a los
 encomenderos se encuentran construir casas e iglesias para los indios, enseñar
 la religión, prohibir el  castigo con palo o látigo, prohibir el
@@ -476,51 +476,51 @@ capacidad' intelectual*¨ (énfasis añadido), por lo que se los podía discipli
 \autocite[73]{art:pacto}.
 
 De acuerdo con \citeauthor{art:burgos}, lo novedoso de este cuerpo legislativo
-es que son el primer cuerpo general que se redactó para las Indias, que
-constituyen la primera regulación sobre el tratamiento legal de los indios en
-el Nuevo Mundo y que son el primer texto en donde se reconocen y polemizan los
+es que es el primer cuerpo general que se redactó para las Indias, que
+constituye la primera regulación sobre el tratamiento legal de los indios en
+el Nuevo Mundo y que es el primer texto en donde se reconocen y polemizan los
 que ahora se conocen como derechos humanos. Al respecto, en esta legislación se
 analizaron aspectos como "(...) *la naturaleza del indio, su condición de ser
 humano o no, si tenía alma, sus derechos, tanto espirituales como materiales,
 como por ejemplo el derecho de propiedad, sus condiciones de vida, de trabajo,
-etc.*".\autocite[17--21]{art:burgos}
+etc.*"\autocite[17--21]{art:burgos}
 
 Este cuerpo legislativo consta de 35 leyes, en donde se
 regulan:\autocite[18]{art:burgos}
 
 + El régimen de los indios con respecto a sus condiciones de vida y trabajo,
-    derechos, limitaciones al uso de su mano de obra, etcétera.
+    derechos, limitaciones al uso de su mano de obra, etcétera;
 + La protección legal del indio a partir del reconocimiento de su condición de
-    hombre libre titual de derechos como la la libertad y la propiedad.
+    hombre libre titular de derechos, como la la libertad y la propiedad;
 + Provisiones respecto a la evangelización del indio, tales como construcción de
     iglesias, obligaciones de culto y responsabilidades de los encomenderos al
-    respecto.
+    respecto;
 + Obligaciones materiales del encomendero en aspectos tales como alimentación,
-    vivienda y vestido, entre otros.
+    vivienda y vestido, entre otros; y,
 + Obligaciones y derechos del indio en cuanto al trabajo debido al encomendero.
 
 Estas disposiciones, aunque tuvieron un carácter general, fueron enviadas
-originalmente a las autoridades de la Española y San Juan de Puerto Rico. Fueron
+originalmente a las autoridades de la isla de La Española, en donde actualmente
+se ubican Haití y República Dominicana, y San Juan de Puerto Rico. Fueron
 derogadas por disposiciones posteriores o quedaron sin vigencia, por
 ejemplo:\autocite[19]{art:burgos}
 
-+ Quedaron derogadas por una disposición de 1523 enviada a Hernán Cortés.
-+ Perdieron sustantividad cuando se adicionó un texto de de Valladolid de 1513.
++ Quedaron derogadas por una disposición de 1523 enviada a Hernán Cortés;
++ Perdieron sustantividad cuando se adicionó un texto de Valladolid de 1513;
 + Fueron modificadas y ampliadas en las Ordenanzas de Zaragoza de 1518, en los
     que se realizaron rectificaciones al estatuto indiano en los asuntos
     regulados por estas leyes (libertad personal, encomiendas, trabajos
-    forzados y excepciones que consentían la esclavitud).
+    forzados y excepciones que consentían la esclavitud); y,
 + Fueron derogadas con la promulgación de las Leyes Nuevas de 1542.
 
 ## Extinción indígena en La Española
 
-La isla de La Española, en donde actualmente se ubican Haití y República
-Dominicana estaba habitada por los indios taínos cuando los españoles, al mando
-de Cristobal Colón, establecieron el primer asentamiento en La Isabela en 1494.
-A partir de ese momento, los españoles comenzaron un proceso de esclavización
-para extraer oro y atender plantaciones que hizo que los cultivos tradicionales
-de los indígenas fuesen desatendidos y estos comenzaran a sufrir
-hambrunas.\autocite{prensa:tainos}
+La isla de La Española estaba habitada por los indios taínos cuando los
+españoles, al mando de Cristobal Colón, establecieron el primer asentamiento en
+La Isabela en 1494. A partir de ese momento, los españoles comenzaron un proceso
+de esclavización para extraer oro y atender plantaciones, que tuvo por
+consecuencia que los cultivos tradicionales de los indígenas fuesen desatendidos
+y estos comenzaran a sufrir hambrunas.\autocite{prensa:tainos}
 
 En 1518 Carlos V instruyó que los indios del Caribe fuesen considerados sus
 vasallos sin necesidad de estar encomendados, siempre que tuviesen capacidad y
@@ -531,19 +531,20 @@ la separación de incentivos entre los Reyes y los encomenderos: mientras que a
 los primeros les interesaba la libertad de los indios como mecanismo para evitar
 el surgimiento de una aristocracia americana con pretensiones de autonomía, a
 los segundos les movían intereses codiciosos que reconocían escasos límites en
-el tratamiento de los indios.\autocite[66]{art:pacto}
+el tratamiento de los indios (véase el capítulo
+\ref{disociacion}).\autocite[66]{art:pacto}
 
-Como consecuencia, este primer contacto tuvo efectos desastrozos pues a inicios
+Como consecuencia, este primer contacto tuvo efectos desastrozos: a inicios
 del siglo XVI habían muerto más de tres millones de indios taínos (el 85% de la
 población) y para 1519 ya no había ninguno según  los recuentos del gobernador
 de la isla. Esta extinción se debió a diversos  factores, tales
 como:\autocite{prensa:tainos}
 
-+ La hambruna.
-+ Las enfermedades europeas para las que los indígenas no tenían inmunidad,
-    tales como la viruela y el sarampión.
-+ Los suicidios de los indios taínos que querían evitar ser subyugados.
-+ Los asesinatos de indios que murieron luchando contra los españoles.
++ La hambruna;
++ Las enfermedades europeas, para las que los indígenas no tenían inmunidad,
+    tales como la viruela y el sarampión;
++ Los suicidios de los indios taínos que querían evitar ser subyugados;
++ Los asesinatos de indios que murieron luchando contra los españoles; y,
 + La incorporación de las mujeres taínas como esposas de los españoles y el
     nacimiento del mestizaje.
 
@@ -551,8 +552,8 @@ La extinción de los indios taínos en las antillas pesó sobre el ánimo de Her
 Cortés después de la conquista de Tenochtitlán en 1521, pues "[t]*emía que los
 conquistadores acabaran con los indios tal como lo habían hecho en La
 Española*"; sin embargo, terminó recomendando al rey que se implementara el
-sistema de la encomienda en México. Al respecto, las consecuencias fueron las
-esperados:\autocite[67]{art:pacto}
+sistema de la encomienda en la Nueva España. Al respecto, las consecuencias
+fueron las esperados:\autocite[67]{art:pacto}
 
 > "*A medida que los encomenderos subyugaron los principados o señoríos
 indígenas, iba subiendo el número de muertos por motivos de violencia,
