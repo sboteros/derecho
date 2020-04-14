@@ -88,7 +88,16 @@ establecimiento de instituciones extractoras de rentas en el Nuevo Mundo.
 
 # Disociación entre factores económicos e ideológicos {#disociacion}
 
-## Factores materiales tendientes a la explotación del indio
+En el Nuevo Mundo confluyeron incentivos e intereses en contraposición que
+tendían tanto a la protección como a la explotación del indio.
+La disociación entre los factores ideológicos que sustentan una protección del
+indio y los factores materiales que generan incentivos para su explotación se
+debe a que las Indias atraían a diversos roles sociales: al aventurero, con las
+promesas del oro; al soldado, con la hazaña bélica; y al cristiano, llamado por
+la fe que se iba a predicar.\autocite[5]{art:burgos} En este capítulo se
+analizan los factores en pugna.
+
+## Factores materiales tendientes a la explotación del indio {#material}
 
 Aunque los indígenas gozaban de acceso a la justicia (como se analizará en la
 sección \ref{ideologico} *infra*), fueron explotados por los españoles que
@@ -165,25 +174,22 @@ otro modo estas serían injustas.\autocite[6]{art:burgos}
 Al respecto, \citeauthor{art:burgos} señala que existían dos tendencias
 impulsoras del proceso de colonización del Nuevo Mundo: una de caracter
 mercantil, pulsada por individuos en busca de fortuna que se dedicaron a la
-explotación económica de las nuevas tierras, y una de caracter evangelizador, a
-propósito de las bulas alejandrinas, impulsada especialmente por la \corona que
-intentó evitar el surgimiento de una nueva nobleza en el Nuevo
+explotación económica de las nuevas tierras (véase la sección \ref{material}
+*supra*), y una de caracter evangelizador, a propósito de las bulas
+alejandrinas, impulsada especialmente por la \corona. Uno de los objetivos de la
+\corona para impulsar dicho caracter evangelizador fue evitar el surgimiento de
+una nueva nobleza con pretensiones de autonomía en el Nuevo
 Mundo.\autocite[24--25]{art:burgos}
-
-La disociación entre los factores ideológicos que sustentan una protección del
-indio y los factores materiales que generan incentivos para su explotación se
-debe a que las Indias atraían a diversos roles sociales: al aventurero, con las
-promesas del oro; al soldado, con la hazaña bélica; y al cristiano, llamado por
-la fe que se iba a predicar.\autocite[5]{art:burgos}
 
 # Idea de pacto {#escolastica}
 
 En este capítulo se desarrolla la idea del elemento ideológico señalado en el
-capítulo \ref{disociacion} cuya tendencia fue el desarrollo de una protección
-por parte de la \corona con respecto a los súbditos indios del Nuevo Mundo. Para
-ello se señalan las ideas de la \escolastica, se expone el pensamiento de Santo
-Tomás de Aquino que le sirvió de sustento y se señalan algunos de los
-principales exponentes de esta corriente del pensamiento renacentista.
+capítulo \ref{disociacion}, *supra* cuya tendencia fue el desarrollo de una
+protección por parte de la \corona con respecto a los súbditos indios del Nuevo
+Mundo. Para ello se señalan las ideas de la \escolastica, se expone el
+pensamiento de Santo Tomás de Aquino que le sirvió de sustento y se señalan
+algunos de los principales exponentes de esta corriente del pensamiento
+renacentista.
 
 La \escolastica fue una corriente de pensamiento teológico-jurídico que surgió
 en España durante el renacimiento. Esta corriente se considera como precursora
@@ -274,17 +280,17 @@ aquellas que:\autocite[79--80]{art:pacto}
 
 [^LeyJusta]: Las leyes justas son aquellas que dan a cada uno lo suyo en
 consideración al lugar que cada miembro de la comunidad tiene en  el conjunto,
-según la máxima agustiniana.
+según la máxima agustiniana, \autocite[80]{art:pacto}.
 
 ## Principales exponentes de la \escolastica
 
 ### Francisco Suárez
 
 Suárez señala que el hombre no debe estar sólo pues es un animal social que
-tiende a vivir en un comunidad de una forma natural y recta. De acuerdo tanto
-con Cicerón como con Aristóteles, la *civitas* es la congregación perfecta de
-los hombres que agrada a Dios y que reune a los hombres en un cuerpo moral
-gobernado, en el que sus miembros se ayudan mutuamente con un fin
+tiende a vivir en comunidad de una forma natural y recta. De acuerdo tanto con
+Cicerón como con Aristóteles, la *civitas* es la congregación perfecta de los
+hombres que agrada a Dios y que los reune en un cuerpo moral gobernado, en el
+que sus miembros se ayudan mutuamente con un fin
 político.\autocite[76]{art:pacto}
 
 Francisco Suárez proponía aludir a un "pacto" entre el rey y su reino y afirmaba
@@ -302,7 +308,8 @@ justa [y] para ser justa es preciso que tienda a un fin bueno relacionado con el
 bien común*".\autocite[76]{art:pacto}
 
 [^Coaccion]: El superior no podría mover al súbdito mediante la coacción, ya que
-la sociedad no puede coaccionarse a sí misma ni a sus partes.
+la sociedad no puede coaccionarse a sí misma ni a sus partes,
+\autocite[76]{art:pacto}.
 
 Para Suárez, los principios que generaban la sociabilidad humana no se
 limitaban a un solo pueblo, sino que se extendían a todos los hombres de forma
@@ -314,7 +321,7 @@ naciones.\autocite[78]{art:pacto}
 ### Diego de Saavedra Fajardo
 
 De forma similar a Francisco Suárez, Diego de Saavedra consideraba que un
-principe justo no requería el uso de la violencia para gobernar a sus súbditos,
+príncipe justo no requería el uso de la violencia para gobernar a sus súbditos,
 pues estos consentían ser regidos por un rey que gobernaba mediante las leyes y
 no de forma violenta.\autocite[61]{art:pacto}
 
@@ -336,22 +343,21 @@ de las leyes de Indias*".\autocite[137--138]{lib:bernal}
 # Antecedentes {#antecedentes}
 
 Hubo diversos factores históricos que determinaron, además del factor ideológico
-desarrollado en el capítulo \ref{escolastica}, la emergencia de una protección
-integral hacia los indios en la sociedad novohispana. Entre estos factores se
-encuentran:
+desarrollado en el capítulo \ref{escolastica}, *supra*, la emergencia de una
+protección legal hacia los indios en la sociedad novohispana. Entre estos
+factores se encuentran:
 
 + La legislación castellana contemplaba la responsabilidad real de prestar
-    atención especial a los más desfavorecidos desde la expedición de las Siete
+    atención especial a los más desfavorecidos, desde la expedición de las Siete
     Partidas de Alfonso X;
++ La expedición de las Leyes de Burgos, que constiyeron un elemento de protección
+    de los indios pese a haber establecido el sistema de encomienda como una
+    forma de utilización del trabajo indígena por parte de los colonizadores;
 + Esta obligación fue profundizada con las demandas emanadas de la revolución
     de los comuneros en los momentos previos a la conquista de Nueva España;
     además, esta revolución incentivó a la \corona a buscar elementos
     para impedir la emergencia de una aristocracia autonomista en el Nuevo
-    Mundo mediante un sistema más protector de los indios en contraposición con
-    los colonos;
-+ La expedición de las Leyes de Burgos, que constiyeron un elemento de protección
-    de los indios, aunque establecieron el sistema de encomienda como una forma
-    de utilización del trabajo indígena por parte de los colonizadores; y,
+    Mundo mediante un sistema más protector de los indios; y,
 + La extinción de los indios taínos por parte de los colonos liderados por
     Colón en La Española, que generó preocupaciones en los funcionarios
     peninsulares sobre la protección que requerían los indios con respecto a la
@@ -359,11 +365,11 @@ encuentran:
 
 ## Siete partidas
 
-Como fue observado previamente, las bulas alejandrinas donaron el Nuevo Mundo a
-la \corona; por lo tanto, "(...) *la legislación aplicable o preferentemente
-utilizada para justificar el proceso del descubrimiento y colonización era la
-castellana, especialmente las Partidas de Alfonso X el
-Sabio*".\autocite[21]{art:burgos}
+Como fue observado en el capítulo \ref{disociacion}, *supra*, las bulas
+alejandrinas donaron el Nuevo Mundo a la \corona; por lo tanto, "(...) *la
+legislación aplicable o preferentemente utilizada para justificar el proceso del
+descubrimiento y colonización era la castellana, especialmente las Partidas de
+Alfonso X el Sabio*".\autocite[21]{art:burgos}
 
 En este sentido, la legislación aplicable fue  el resultado de un proceso de
 unificación del derecho producto de la reconquista,  que fue culminado por el
@@ -406,55 +412,6 @@ protección especial por parte del rey hacia personas con vulnerabilidad
 coitadas' merecían 'mercet et piedat por razón de la mesquindat ó miseria en que
 vive[n]' y no debían sufrir 'fuerza nin tuerto de los otros que son más
 poderosos que ellos'*".\autocite[73, 79, 91]{art:pacto}
-
-## Revuelta de los comuneros
-
-El 28 de junio de 1519 fue electo emperador del Sacro Imperio Romano Germánico
-Carlos V y se preparó para marchar  hacia Alemania, por lo que su canciller
-convocó a las Cortes de Castilla para requerirles dinero. Esto generó un
-malestar inmediado en los pueblos, algunos  de los cuales solicitaron discutir
-diferentes agravios antes de proveer fondos e, incluso, asesinaron a uno de los
-delegados a dichas Cortes.\autocite{ency:habsburgs}
-
-Bajo el liderazgo toledano, los pueblos formaron un gobierno revolucionario y
-reclamaron el derecho de las Cortes a constituirse como asamblea y discutir
-cualquier asunto relacionado con el bienestar del reino. La revuelta comunera,
-bajo el liderazgo de Juan de Padilla, se expandió rápidamente por Castilla y
-los nobles no actuaron inicialmente para contenerla, pues en la carrera de
-Carlos V por obtener la corona imperial (que la nobleza consideraba inferior al
-título de rey de Castilla)[^SacroImperio] habían recibido agravios. No
-obstante, cuando el movimiento comunero comenzó a afectar los intereses de la
-nobleza, esta organizó un ejército y los derrotó el 23 de abril de
-1521.\autocite{ency:habsburgs}
-
-Aunque el movimiento comunero fue derrotado, entre los efectos de este
-alzamiento se encuentran:\autocite{ency:habsburgs}
-
-+ Los municipios conservaron su autonomía, de forma que los *corregidores*
-    fueron incapaces de ejercitar control real efectivo sobre algunos concejos
-    municipales; y,
-+ Los municipios pudieron ejercer cierto control sobre la administración
-    tributaria pues, aunque no volvieron a cuestionar la autoridad real,
-    mantuvieron la idea de que tenían derecho a posponer el pago de impuestos
-    hasta que sus demandas fuesen atendidas. Este control de los municipios se
-    hizo patente cuando fue sustituida la *alcabala* por el *encabezamiento*.
-
-Este alzamiento hizo que Carlos V promulgara reformas que atendieran las
-demandas del movimiento comunero, que "(...) *crearon una nueva base para el
-ejercicio del poder real y la expansión del imperio español*", entre las que
-resaltan la autonomía de los municipios y la obligación del monarca de
-administrar el reino con base en  el bien común y juzgar atendiendo a diversos
-criterios de justicia. En este aspecto, la reforma judicial de 1522  incluyó un
-sistema de apelación en la administración de justicia y un mandato para que las
-justicias locales se sujetasen a procedimientos de  combate a la corrupción.
-\autocite[65--66]{art:pacto}
-
-[^SacroImperio]: El *Imperio Sacro Romano de la Nación Germánica* se consolidó
-con la llegada al poder de los Habsburgo en 1273 y consistió en la idea de un
-gobierno (*reich*) conjunto del mundo cristiano por parte del Papa y el
-emperador (césaro-papismo). No obstante, el emperador se convirtió en una figura
-más bien protocolaria a partir de 1488, cuando los señores feudales toman poder
-mediante el Concordato de Viena, \autocite[94]{lib:bernal}.
 
 ## Leyes de Burgos
 
@@ -507,11 +464,60 @@ ejemplo:\autocite[19]{art:burgos}
 
 + Quedaron derogadas por una disposición de 1523 enviada a Hernán Cortés;
 + Perdieron sustantividad cuando se adicionó un texto de Valladolid de 1513;
-+ Fueron modificadas y ampliadas en las Ordenanzas de Zaragoza de 1518, en los
++ Fueron modificadas y ampliadas en las Ordenanzas de Zaragoza de 1518, en las
     que se realizaron rectificaciones al estatuto indiano en los asuntos
     regulados por estas leyes (libertad personal, encomiendas, trabajos
     forzados y excepciones que consentían la esclavitud); y,
 + Fueron derogadas con la promulgación de las Leyes Nuevas de 1542.
+
+## Revuelta de los comuneros
+
+El 28 de junio de 1519 Carlos V fue electo emperador del Sacro Imperio Romano
+Germánico y se preparó para marchar  hacia Alemania, por lo que su canciller
+convocó a las Cortes de Castilla para requerirles dinero. Esto generó un
+malestar inmediado en los pueblos, algunos  de los cuales solicitaron discutir
+diferentes agravios antes de proveer fondos e, incluso, asesinaron a uno de los
+delegados a dichas Cortes.\autocite{ency:habsburgs}
+
+Bajo el liderazgo toledano, los pueblos formaron un gobierno revolucionario y
+reclamaron el derecho de las Cortes a constituirse como asamblea y discutir
+cualquier asunto relacionado con el bienestar del reino. La revuelta comunera,
+bajo el liderazgo de Juan de Padilla, se expandió rápidamente por Castilla y
+los nobles no actuaron inicialmente para contenerla, pues en la carrera de
+Carlos V por obtener la corona imperial (que la nobleza consideraba inferior al
+título de rey de Castilla)[^SacroImperio] habían recibido agravios. No
+obstante, cuando el movimiento comunero comenzó a afectar los intereses de la
+nobleza, esta organizó un ejército y los derrotó el 23 de abril de
+1521.\autocite{ency:habsburgs}
+
+Aunque el movimiento comunero fue derrotado, entre los efectos de este
+alzamiento se encuentran:\autocite{ency:habsburgs}
+
++ Los municipios conservaron su autonomía, de forma que los *corregidores*
+    fueron incapaces de ejercitar control real efectivo sobre algunos concejos
+    municipales; y,
++ Los municipios pudieron ejercer cierto control sobre la administración
+    tributaria pues, aunque no volvieron a cuestionar la autoridad real,
+    mantuvieron la idea de que tenían derecho a posponer el pago de impuestos
+    hasta que sus demandas fuesen atendidas. Este control de los municipios se
+    hizo patente cuando fue sustituida la *alcabala* por el *encabezamiento*.
+
+Este alzamiento hizo que Carlos V promulgara reformas que atendieran las
+demandas del movimiento comunero, que "(...) *crearon una nueva base para el
+ejercicio del poder real y la expansión del imperio español*", entre las que
+resaltan la autonomía de los municipios y la obligación del monarca de
+administrar el reino con base en  el bien común y juzgar atendiendo a diversos
+criterios de justicia. En este aspecto, la reforma judicial de 1522  incluyó un
+sistema de apelación en la administración de justicia y un mandato para que las
+justicias locales se sujetasen a procedimientos de  combate a la corrupción.
+\autocite[65--66]{art:pacto}
+
+[^SacroImperio]: El *Imperio Sacro Romano de la Nación Germánica* se consolidó
+con la llegada al poder de los Habsburgo en 1273 y consistió en la idea de un
+gobierno (*reich*) conjunto del mundo cristiano por parte del Papa y el
+emperador (césaro-papismo). No obstante, el emperador se convirtió en una figura
+más bien protocolaria a partir de 1488, cuando los señores feudales toman poder
+mediante el Concordato de Viena, \autocite[94]{lib:bernal}.
 
 ## Extinción indígena en La Española
 
@@ -524,15 +530,15 @@ y estos comenzaran a sufrir hambrunas.\autocite{prensa:tainos}
 
 En 1518 Carlos V instruyó que los indios del Caribe fuesen considerados sus
 vasallos sin necesidad de estar encomendados, siempre que tuviesen capacidad y
-habilidad para vivir políticamente en pueblos. No  obstante, tanto este
-pronunciamiento como las leyes de Burgos no se hicieron  cumplir por parte de
+habilidad para vivir políticamente en pueblos. No  obstante, ni este
+pronunciamiento ni las leyes de Burgos se hicieron  cumplir por parte de
 los colonizadores debido a la ausencia de un mecanismo legal. Asimismo, resalta
 la separación de incentivos entre los Reyes y los encomenderos: mientras que a
 los primeros les interesaba la libertad de los indios como mecanismo para evitar
 el surgimiento de una aristocracia americana con pretensiones de autonomía, a
 los segundos les movían intereses codiciosos que reconocían escasos límites en
-el tratamiento de los indios (véase el capítulo
-\ref{disociacion}).\autocite[66]{art:pacto}
+el tratamiento de los indios (véase el capítulo \ref{disociacion},
+*supra*).\autocite[66]{art:pacto}
 
 Como consecuencia, este primer contacto tuvo efectos desastrozos: a inicios
 del siglo XVI habían muerto más de tres millones de indios taínos (el 85% de la
@@ -548,16 +554,14 @@ como:\autocite{prensa:tainos}
 + La incorporación de las mujeres taínas como esposas de los españoles y el
     nacimiento del mestizaje.
 
-La extinción de los indios taínos en las antillas pesó sobre el ánimo de Hernán
+La extinción de los indios taínos en Las Antillas pesó sobre el ánimo de Hernán
 Cortés después de la conquista de Tenochtitlán en 1521, pues "[t]*emía que los
 conquistadores acabaran con los indios tal como lo habían hecho en La
 Española*"; sin embargo, terminó recomendando al rey que se implementara el
-sistema de la encomienda en la Nueva España. Al respecto, las consecuencias
-fueron las esperados:\autocite[67]{art:pacto}
-
-> "*A medida que los encomenderos subyugaron los principados o señoríos
+sistema de la encomienda en la Nueva España. Al respecto, la consecuencia
+fue que "[a] *medida que los encomenderos subyugaron los principados o señoríos
 indígenas, iba subiendo el número de muertos por motivos de violencia,
-sobreexplotación y enfermedad.*"\autocite[67]{art:pacto}
+sobreexplotación y enfermedad*".\autocite[67]{art:pacto}
 
 # Derecho indiano como expresión del pacto entre el rey y los vasallos {#pacto}
 
@@ -567,24 +571,26 @@ el Nuevo Mundo, tales como "*pragmáticas, ordenanzas, reales cédulas,
 provisiones, instrucciones, capítulos de carta, autos acordados, capitulaciones,
 decretos, reglamentos y todo tipo de mandamientos de gobernación*". En sentido
 amplio, se refiere al sistema jurídico que estuvo vigente durante el periodo de
-dominación española; que incluye el derecho aplicado en las Indias aunque no
-haya sido dictado para ellas, pues el derecho privado en el Nuevo Mundo fue
-regulado casi en su totalidad por las leyes de Castilla y, de forma subsidiaria,
-por el derecho indígena cuando no se contraponía a la religión católica o a la
-propia legislación indiana.\autocite[150--151]{lib:bernal}
+dominación española que incluye el derecho aplicado en las Indias aunque no
+haya sido dictado para ellas, por ejemplo:\autocite[150--151]{lib:bernal}
 
-De acuerdo con \citeauthor{lib:bernal} el derecho indiano contiene disposiciones
-indianas peninsulares, indianas criollas, castellanas, indígenas y canónicas.
-Al respecto, sus características son:\autocite[151--153]{lib:bernal}
++ El derecho privado en el Nuevo Mundo fue regulado, casi en su totalidad, por
+    las leyes de Castilla; y,
++ De forma subsidiaria, el derecho indígena cuando no se contraponía a la
+    religión católica o a la propia legislación indiana.
+
+De acuerdo con \citeauthor{lib:bernal}, el derecho indiano contiene
+disposiciones indianas peninsulares, indianas criollas, castellanas, indígenas y
+canónicas. Al respecto, sus características son:\autocite[151--153]{lib:bernal}
 
 + Un derecho eminentemente público, si nos limitamos a la definición estricta de
-    derecho indiano, destubadi al buen gobierno temporal y espiritual de las
-    Indias.
-+ Un derecho casuista y particularista.
+    derecho indiano, destinado al buen gobierno temporal y espiritual de las
+    Indias;
++ Un derecho casuista y particularista;
 + Un derecho flexible, que permitía que una norma no se aplicase inmediatamente
     si podía dañar a la sociedad indiana por la existencia de vicios de
-    obrepción o subrepción de las autoridades metropolitanas.
-+ Una finalidad evangelizadora.
+    obrepción o subrepción de las autoridades metropolitanas;
++ Una finalidad evangelizadora; y,
 + Un derecho proteccionista.
 
 De acuerdo con \citeauthor{art:pacto}, a lo largo de los siglos XVI y XVII se
@@ -594,41 +600,41 @@ sistema de justicia.\autocite[60]{art:pacto}
 
 Esta legislación protectora de los  indios surge de los intereses de la \corona
 con respecto a la expansión de la religión católica, por una parte, y a evitar
-el surgimiento de una aristrocracia criolla autonomista. Al respecto, se
-insistió en establecer procesos breves para que los indios pudiesen llevar a
-cabo pleitos privados contra los excesos de los caciques, mediante  unos
-reglamentos enviados a los gobernadores provinciales en 1530. Asimismo, se mandó
-elaborar una relación de las comunidades novohispanas para la administración de
-justicia, con el establecimiento del virreinato en 1535.\autocite[67]{art:pacto}
+el surgimiento de una aristrocracia criolla autonomista, como fue observado en
+el capítulo \ref{disociacion}, *supra*. Al respecto, mediante  unos reglamentos
+enviados a los gobernadores provinciales en 1530, se insistió en establecer
+procesos breves para que los indios pudiesen llevar a cabo pleitos privados
+contra los excesos de los caciques. Asimismo, se mandó elaborar una relación de
+las comunidades novohispanas para la administración de justicia, con el
+establecimiento del virreinato en 1535.\autocite[67]{art:pacto}
 
-Asimismo, este aparato legal tenía la tarea de equilibrar la explotación y la
-protección de los macehuales[^Macehuales] para que no se repitiera el desastre
-de La Española, pues había diversos intereses en
-juego:\autocite[71--72]{art:pacto}
+Este aparato legal tenía la tarea de equilibrar la explotación y la protección
+de los macehuales[^Macehuales] para que no se repitiera el desastre de La
+Española, pues había diversos intereses en juego:\autocite[71--72]{art:pacto}
 
-+ El deseo de mano de obra barata por parte de mineros y encomenderos.
-+ La deseabilidad de siervos dóciles que buscaban los oficiales.
++ El deseo de mano de obra barata por parte de mineros y encomenderos;
++ La deseabilidad de siervos dóciles que buscaban los oficiales;
 + Los doctrineros que buscaban ampliar la fe católica en el Nuevo Mundo y, en
     buena medida, se convirtieron en defensores de los indígenas contra las
-    prácticas de mineros y encomenderos.
+    prácticas de mineros y encomenderos;
 + El poder que otorgaba el control de la mano de obra indígena a los caciques
-    indígenas.
+    indígenas;
 + La necesidad de una base tributaria que sostuviera el proyecto colonizador de
-    la \corona.
+    la \corona; y,
 + El deseo de sobrevivencia de los propios macehuales.
 
 [^Macehuales]: De acuerdo con \citeauthor{art:pacto}, los macehuales eran la
 gente del común entre los indios. Al respecto, aunque esta palabra no está
 definida en el diccionario (mecegual ni mazegual), este término refiere a una
 categoría social indígena inferior a la de "Indio principal",
-\autocite{def:mezehual}.
+\autocite{def:mazehual}.
 
 La doctrina sobre la protección especial del rey hacia los miserables, que se
-estableció desde las Siete Partidas, se amplió hacia los indios hasta
-incluirlos, como todo un pueblo, dentro del ámbito de dicho termino. Al
-respecto, "[d]*espués de 1570, fueron aumentando las referencias* [a los
-indígenas como miserables] *junto con una expandida conciencia de que los indios
-habían menester de privilegios especiales ante la
+estableció desde las Siete Partidas en el derecho castellano, se amplió hacia
+los indios hasta incluirlos, como todo un pueblo, dentro del ámbito de dicho
+termino. Al respecto, "[d]*espués de 1570, fueron aumentando las referencias* [a
+los indígenas como miserables] *junto con una expandida conciencia de que los
+indios habían menester de privilegios especiales ante la
 justicia*".\autocite[73]{art:pacto} Su aplicación en las Indias se desarrolló
 con el principio de *favor indiarum*, según el cual las autoridades españolas
 debían proteger al indígena del abuso de  los conquistadores y
@@ -640,19 +646,18 @@ Una consecuencia de la abreviación de los procesos de los pleitos privados en
 las cortes novohispanas fue que se comenzaron a disputar las relaciones sociales
 y las estructuras de poder indígenas existentes hasta entonces, así como
 cuestiones relativas a la posesión de las tierras, el pago de los tributos y los
-privilegios. Con el paso del  tiempo, incluso los indios de menor jerarquía
-(macehuales) accedieron al sistema  de justicia española para obtener ventajas
-contra la nobleza  indígena.\autocite[68]{art:pacto} Esto generó situaciones
-inéditas, pues
+privilegios. Con el paso del  tiempo, incluso los indios macehuales accedieron
+al sistema  de justicia española para obtener ventajas contra la nobleza
+indígena.\autocite[68]{art:pacto} Esto generó situaciones inéditas, pues
 
 > "(...) *las peticiones y el litigio ante jueces españoles ayudaron a disolver
 las articulaciones políticas del mundo indígena, dejando no tanto un caos, sino
 una situación desquiciada e híbrida de nuevas posibilidades, resultado de la
 combinación del sistema legal español con elementos y expectativas desmontados
-de sistemas indígenas preexistentes.*"\autocite[68]{pacto}
+de sistemas indígenas preexistentes*."\autocite[68]{art:pacto}
 
 Al respecto, \citeauthor{art:pacto} señala que los caciques indígenas buscaron
-continuar el podería del que habían gozado gracias al mando de los indígenas en
+continuar el poderío del que habían gozado gracias al mando de los indígenas en
 una nueva realidad "(...) *que había hecho trizas el antiguo pacto social y
 político de las sociedades autóctonas*".\autocite[72]{art:pacto}
 
@@ -660,45 +665,45 @@ político de las sociedades autóctonas*".\autocite[72]{art:pacto}
 
 Durante el primer periodo del siglo XVI, aunque los indios eran reconocidos como
 vasallos del rey y tenían derecho a acudir a la justicia, en la práctica había
-problemas en el acceso que hacían que fuese incosistente o nulo. El problema era
-lo suficientemente grave como para que "(...) *hacia 1580 se temía en círculos
-oficiales que la incorporación de los indios a la cultura legal española estaba
-a punto de fallar*".\autocite[74]{art:pacto}
+problemas en el acceso; por lo que este era incosistente o nulo. El problema era
+lo suficientemente grave como para que "(...) *hacia 1580 se tem*[iera] *en
+círculos oficiales que la incorporación de los indios a la cultura legal
+española estaba a punto de fallar*".\autocite[74]{art:pacto}
 
 Como solución a este problema, el virrey Luis de Valasco II estableció el
 \juzgado entre 1590 y 1592, en el que se reconoció institucionalmente el estado
 miserable de los indios. De acuerdo con los registros de la época, el \juzgado
 fue acogido por los indios con entusiasmo, pues centenas de individuos y
-comunidades presentaron peticiones y, tanto los nobles como los macehuales
+comunidades presentaron peticiones y, tanto los nobles como los macehuales,
 "[a]*prendieron las tácticas y el lenguaje del litigio y* (...) *adaptaron y
 ampliaron ideas legales, como el amparo, la libertad, la posesión, la costumbre
 y el bien común*". Entre las acciones que ejercitaron los  indios en el
 \juzgado, se encuentran:\autocite[74--75, 83]{art:pacto}
 
-+ Peticiones de amparo ante jueces del juzgado y la Audiencia.
-+ Litigios sobre tierras y posesión.
-+ Litigios sobre libertad y condiciones de trabajo.
-+ Disputas sobre tributos y diezmos.
-+ Controversias sobre el gobierno de los pueblos y las autonomías locales.
-+ Alegatos sobre címenes comunes y corrientes
++ Peticiones de amparo ante jueces del \juzgado y la Audiencia;
++ Litigios sobre tierras y posesión;
++ Litigios sobre libertad y condiciones de trabajo;
++ Disputas sobre tributos y diezmos;
++ Controversias sobre el gobierno de los pueblos y las autonomías locales; y,
++ Alegatos sobre címenes comunes y corrientes.
 
 La protección especial del rey a los vasallos indígenas mediante el \juzgado
-representó la concreción de la idea de "pacto" propugnada por la segunda
-escolástica española con respecto a la comunidad política y operó un elemento
-ideológico en la población indígena que "(...) *articul*[ó] *una respuesta
-política a sus circunstancias, aceptando su dependencia en relación con el rey,
-no como sumisos, sino* ***como súbditos insistentes en sus derechos y
-conscientes de las mutuas obligaciones entre monarca y vasallos***" (énfasis
-añadido).\autocite[79, 83]{art:pacto}
+representó la concreción de la idea de "pacto" propugnada por la \escolastica
+con respecto a la comunidad política (véase el capítulo \ref{escolastica},
+*supra*) y operó un elemento ideológico en la población indígena que "(...)
+*articul*[ó] *una respuesta política a sus circunstancias, aceptando su
+dependencia en relación con el rey, no como sumisos, sino* ***como súbditos
+insistentes en sus derechos y conscientes de las mutuas obligaciones entre
+monarca y vasallos***" (énfasis  añadido).\autocite[79, 83]{art:pacto}
 
-No obstante, la acción del \juzgado se constituyó en el vehículo mediante el
-que se comunicaron los vasallos indígenas con el rey, y mediante el cual el rey
+Al respecto, la acción del \juzgado se constituyó en el vehículo mediante el
+que se comunicaron los vasallos indígenas con el rey y mediante el cual el rey
 prodigó justicia y protección sobre los más desfavorecidos. A través de él,
 todos los aquejados de injusticias en la Nueva España podían buscar remedio si
 fallaba la justicia local.\autocite[82]{art:pacto}
 
 De acuerdo con \citeauthor{art:pacto}, hacia mediados del siglo XVII la imagen
-del rey en la imaginación india estaba encarnada en el derecho  de forma que
+del rey en la imaginación india estaba encarnada en el derecho, de forma que
 la confluencia de "(...) *la persona real, la letra de la ley, la protección
 del derecho, el poder del juez y el espíritu de la justicia*" se constituían en
 una estructura política e ideológica que protegía a los vasallos más vulnerables
@@ -709,12 +714,12 @@ Monroy.\autocite[89]{art:pacto}
 
 ## Presencia del rey en el Nuevo Mundo
 
-No obstante, esta  idea del "pacto" representó una ficción ya que no podría
-existir un pacto en sentido  estricto pues los indios no tenían representación
-en las cortes ni llegaron  físicamente a la corte real para presentar quejas o
-discutir los efectos de los  reales decretos sobre las obligaciones tributarias
-de los vasallos como  súbditos. Sin embargo, la presencia del rey en la Nueva
-España sí era sentida por la población:\autocite[79, 83--84]{art:pacto}
+La idea del "pacto" representó una ficción, ya que no podría existir un pacto en
+sentido  estricto pues los indios no tenían representación en las cortes ni
+llegaron  físicamente a la corte real para presentar quejas o discutir los
+efectos de los  reales decretos sobre sus obligaciones tributarias. Sin embargo,
+la presencia del rey en la Nueva España sí era sentida por la
+población:\autocite[79, 83--84]{art:pacto}
 
 > "*Su presencia* [del rey] *era virtual, hablada, aludida, simbolizada,
 imaginada, emblematizada, referida y representada en todos los cantos del día a
@@ -725,23 +730,24 @@ por pregones, anunciadas en misa y fijadas en las portadas de las iglesias; en
 discusiones de cabildos de indios; en peticiones, pleitos y litigios presentados
 ante alcaldes mayores o llevados a México* [(al \juzgado)]*; en mandamientos
 amparando a un partido contra los excesos y abusos de otro; y hasta en la
-horca*."\autocite[84]{art:pacto}
+horca*".\autocite[84]{art:pacto}
 
 ### Legislación indiana
 
 Uno de los lazos que unían al rey con sus vasallos indígenas era la legislación
-indiana (cédulas, ordenanzas y provisiones reales) sobre el bien tratamiento de
-los indios, que se emitió en los siglos XVI y XVII que partió de la premisa de
-la existencia de una única sociedad novohispana conformada por dos repúblicas
-(la de los españoles y los indios). Entre estas cédulas se encuentran:
+indiana (cédulas, ordenanzas y provisiones reales) sobre el buen tratamiento de
+los indios, que se emitió en los siglos XVI y XVII. Esta legislación partió de
+la premisa de la existencia de una única sociedad novohispana conformada por dos
+repúblicas (la de los españoles y los indios). Entre estas cédulas se
+encuentran:\autocite[84--86]{art:pacto}
 
 + La que se leyó en el púlpito de todas las iglesias en 1542, por mandato de
-    Carlos V, con la publicación de las Nuevas Leyes.
+    Carlos V, con la publicación de las Nuevas Leyes;
 + La que se pregonó en todas las cabeceras del reino en 1609, por orden de
     Felipe III, mediante la que se prohibió el servicio personal de los indios a
-    los españoles.
+    los españoles; y,
 + La que recibieron los naturales de Tistlantzingo en 1633, de manos del virrey,
-    en la que se abolían los repartimientos para que los indios pudiesen elegir
+    en la que se abolían los repartimientos y se permitía a los indios elegir
     libremente servir a quien mejor considerasen. En el mismo sentido, en ese
     mismo año los indios de Xochimilco demandaron que la prohibición del
     servicio personal fuese  exhibida en el tianguis.
@@ -749,9 +755,9 @@ la existencia de una única sociedad novohispana conformada por dos repúblicas
 ### Posesión de tierras
 
 La presencia real también se manifestó en los rituales de posesión de tierras
-que escucharon indios y españoles congregados poor toda Nueva España durante el
-siglo XVII, en los que "en nombre de Su Majestad" el alcalde mayor u otro
-oficial ponía a la persona en posesión se la propiedad. En este ritual "(...)
+que escucharon indios y españoles congregados por toda Nueva España durante el
+siglo XVII, en los que "*en nombre de Su Majestad*" el alcalde mayor u otro
+oficial ponía a la persona en posesión de la propiedad. En este ritual "(...)
 *un demandante recorría los bordes de la parcela, arrancaba hierbas, tiraba
 piedras y simbólicamente despojaba a un intruso*".\autocite[86]{art:pacto}
 
@@ -759,53 +765,54 @@ piedras y simbólicamente despojaba a un intruso*".\autocite[86]{art:pacto}
 
 Asimismo, el rey era visible en la sociedad novohispana en el contexto político
 local mediante la autoridad que confería la vara real a diversos oficiales
-virreinales (gobernadores, alcaldes, regidores, alguaciles y otros oficiales)
-que portaban la vara real como emblema de su cargo y autoridad de forma tal que,
-de acuerdo con el relato de Diego de Covarrubias, hasta el más bajo de estos
-funcionarios representaba al rey y era consciente de la conexión real que
-señalaba.\autocite[87]{art:pacto}
+virreinales (gobernadores, alcaldes, regidores, alguaciles y otros) que portaban
+la vara real como emblema de su cargo y autoridad de forma tal que, de acuerdo
+con el relato de Diego de Covarrubias, hasta el más bajo de estos funcionarios
+representaba al rey y era consciente de la conexión real que
+entrañaba.\autocite[87]{art:pacto}
 
 ## Sumisión indígena
 
 El correlato de la protección real de los vasallos es la sumisión indígena al
 rey, que se expresó de forma preponderante en el pago de los tributos. En
 efecto, la obligación tributaria fue utilizada por los indios en sus querellas
-ante el \juzgado como base para buscar protección y símbolo de su relación con
-la \corona. Asimismo, la solicitud que se hacía sobre tierras o cuestiones
-análogas insistía en la necesidad de recibir dichas garantías para poder pagar
-los tributos y servicios a Su Majestad, por ejemplo:\autocite[89--93]{art:pacto}
+ante el \juzgado como base para buscar protección y como símbolo de su relación
+con la \corona. Asimismo, las solicitudes que hacían los indios sobre tierras o
+cuestiones análogas insistían en la necesidad de recibir dichas garantías para
+poder pagar los tributos y servicios a Su Majestad, por
+ejemplo:\autocite[89--93]{art:pacto}
 
 + En 1687 los indios de Cuernavaca se quejaron de que un hacendado español les
     quitó las tierras y, por lo tanto, no tenían en "(...) *donde buscar el
-    tributo*".
+    tributo*";
 + Durante la rebelión de Tehuantepec de 1661 y 1662, los indios de San Pedro de
     Tlapalcatepec enviaron una misiva al obispo de Oaxaca en la que enfatizaron
     que "(...) *se gobernaban bien, asistían a misa, obedecían la ley, pagaban
     el tributo y no estaban alzados contra el rey*" y que eran "(...) *leales
-    vasallos de su Magestad*".
-+ En una carta enviada por al virrey por el gobernador indio de Cuautla en 1714,
-    se solicita la protección del rey para la restitución de unas tierras pues
+    vasallos de su Magestad*"; y,
++ En una carta enviada al virrey por el gobernador indio de Cuautla en 1714
+    se solicita la protección del rey para la restitución de unas tierras, pues
     se declararon "(...) *leales vasallos de su Magestad*".
 
 # Conclusión
 
-Con base en lo expuesto previamente se observa que en la Nueva España se
+Con base en lo expuesto previamente, se observa que en la Nueva España se
 concretó la idea \escolastica de un pacto entre el rey y los vasallos indígenas.
-Este pacto no sólo se debió a factores ideológicos y religiosos de la época,
-sino que también tuvo un impulso en los intereses tanto de la \corona como de
-los vasallos indígenas. Por una parte, la \corona necesitaba evitar el
-surgimiento de una élite autonomista como la que había amenazado su poderío
-durante la revolución comunera, en el periodo inmediato anterior. Por la otra,
-los indígenas se encontraban ante un proceso de desintegración de sus
-estructuras prehispánicas y ante la amenaza de instituciones extractivas
-coloniales que se esperan en una zona como México, con un desarrollo económico y
-una densidad poblacional como las que tenía en el periodo inmediato anterior a
-la conquista, lo que demandó que los indígenas más desfavorecidos intentaran
-buscar los mejores medios para su propia defensa.
+Este pacto no sólo se debió a factores ideológicos y religiosos, sino que
+también tuvo un impulso en los intereses tanto de la \corona como de los
+vasallos indígenas. Por una parte, la \corona necesitaba evitar el surgimiento
+de una élite autonomista como la que había amenazado su poderío durante la
+revolución comunera, en el periodo inmediato anterior. Por la otra, los
+indígenas más desfavorecidos intentaron buscar los mejores medios para su
+defensa, pues se encontraban en una etapa de derrumbre de sus estructuras
+prehispánicas y ante la amenaza de instituciones extractivas coloniales que se
+esperan en una zona como lo que hoy es México, con alto desarrollo económico y
+gran densidad poblacional en el periodo inmediato anterior a la conquista.
 
-Esos intereses de los vasallos y la \corona confluyeron en la idea del pacto que
-se materializó con un entramado legal y jurídico protector de los indígenas. En
-este entramado, se desarrolló la idea de la minoría de edad y la desventaja del
-indígena que demandaba una especial atención del rey, que se expresó en la
-legislación indiana, por una parte; y la adopción por parte de los indígenas del
-lenguaje jurídico español y su integración a la cultura jurídica novohispana.
+Esos intereses de los vasallos y la \corona confluyeron en la idea del pacto,
+que se materializó con un entramado legal y jurídico protector de los indígenas.
+En este entramado, se desarrolló la idea de la minoría de edad y la desventaja
+del indígena que demandaba una especial atención del rey. Esto se expresó en la
+legislación indiana, por una parte; y en la adopción por parte de los indígenas
+del lenguaje jurídico español y su integración a la cultura jurídica
+novohispana, por la otra.

@@ -1,0 +1,73 @@
+---
+title: Paga del indio novohispano en el siglo XVI
+subtitle: Salarios de la encomienda
+author: Santiago Botero Sierra
+date: 13 de abril de 2020
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+    knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+    library(tidyverse)
+    library(zoo)
+    library(kableExtra)
+
+    formato <- function(x) format(x, big.mark = ',')
+
+    library(tidyverse)
+    salario <- bind_cols(ano = c(1560, 1570, 1580, 1590),
+                     salario = c(22.5, 25.5, 25.5, 34),
+                     prop_comida = c(63, 53, 42, 32)) %>%
+    mutate(val_comida = salario * prop_comida / 100,
+           trim_comida = val_comida * 90,
+           conversion = 11252 / trim_comida,
+           salario = salario * conversion)
+```
+
+De acuerdo con \citeauthor{art:encomienda}, hacia 1549 los salarios normales por
+un día de alquiler de trabajo no cualificado fueron fijados por el gobierno en
+la Nueva España en 8.5 maravedís (mv.), y fueron incrementando hasta llegar a
+22.5 mv. en la década de 1590. La misma fuente estimó los salarios del maíz en
+la sociedad novohispana durante este periodo y, al considerar que se requerirían
+aproximadamente 3 kilogramos (0.06 fanegas) de maíz para alimentar a una
+familia, estimó el porcentaje del salario que gastaría un peón novohispano en
+alimentación.\autocite[45--47, 55--56]{art:encomienda} En la siguiente tabla se
+muestra dicha información.
+
+```{r gasto}
+    salario %>% select(ano, salario, prop_comida) %>%
+        knitr::kable(row.names = FALSE,
+              col.names = c('Década', 'Salario peón (mv.)',
+                            'Gasto en comida (%)'),
+              caption = 'Gasto en comida del peón novohispano en encomienda',
+              format.args = list(big.mark = ','),
+              format = 'latex', longtable = TRUE, escape = FALSE) %>%
+         kable_styling(latex_options = c('hold_position', 'repeat_header'),
+                       repeat_header_text = "\\textit{(continuación)}")
+```
+
+Con base en dichos datos, se puede estimar el gasto trimestral del peón
+novohispano en alimentación: para ello, se calcula el gasto diario (obteniendo
+el porcentaje del salario) y se multiplica este valor por 90, para obtener el
+gasto trimestral. En el año 2018, el gasto promedio trimestral de los hogares
+en el rubro de alimentos ascendió a $11,252.\autocite{web:enoe}. Con base en
+esta información, se divide dicha cifra por el gasto en trimestral en maravedís
+durante el periodo novohispano; de esta forma se obtiene una cifra expresada en
+pesos por maravedí. Finalmente se multiplica el salario en maravedí por esta
+cifra, con lo que se obtiene una estimación del salario diario de un peón
+novohispano dado en encomienda expresado en pesos mexicanos corrientes de 2018.
+Esta información se muestra en la siguiente tabla.
+
+```{r salario}
+    salario %>% select(ano, val_comida, trim_comida, conversion, salario) %>%
+        knitr::kable(row.names = FALSE,
+              col.names = c('Década', 'Gasto diario en alimentos (mv.)',
+                            'Gasto trimestral en alimentos (mv.)',
+                            'Conversión ($/mv.)', 'Salario peón ($)'),
+              caption = 'Salario del peón novohispano en encomienda expresado en pesos mexicanos corrientes de 2018 con base en el gasto de los hogares en alimentación',
+              format.args = list(big.mark = ','),
+              format = 'latex', longtable = TRUE, escape = FALSE) %>%
+         kable_styling(latex_options = c('hold_position', 'repeat_header'),
+                       repeat_header_text = "\\textit{(continuación)}")
+```
