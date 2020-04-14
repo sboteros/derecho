@@ -1,0 +1,59 @@
+---
+title: Instituciones jurídicas en la telenovela Hernán
+author: Santiago Botero Sierra
+date: 13 de abril de 2020
+output: pdf_document
+---
+
+*Hernán* es una telenovela de TV Azteca emitida en el 2019 que narra una
+historia épica sobre la llegada a Hernán Cortés y un grupo de conquistadores al
+territorio de lo que hoy es México. Aunque esta telenovela no analiza las
+instituciones jurídicas hispanas ni novohispanas, se pueden observar
+marginalmente algunas de ellas, tales como:
+
++ El pueblo puede darse sus propias leyes, de acuerdo con la séptima partida del
+    rey Alfonso X, El Sabio. De acuerdo con lo señalado en la telenovela, "(...)
+    *el pueblo es el ayuntamiento de todos los hombres de una comunidad*" y, por
+    lo tanto, puede forjar sus propias leyes. Con base en esta legislación, se
+    fundó la Villa de Vera-Cruz por la comunidad que arribó con Cortés al actual
+    territorio mexicano.\autocite[30:38--31:52]{episode:hernan2}
+
++ El Quinto Real era un impuesto correspondiente al 20% de la fortuna obtenida
+    durante la conquista, que debía ser entregada al rey de España; este mismo
+    gravamen se aplicaba en la extracción de metales.\autocite[cap. 3]{lib:iva}
+    Este impuesto se menciona de forma reiterada en el episodio
+    \citetitle{episode:hernan2}, en el minuto 6 del episodio
+    \citetitle{episode:hernan6} y en los minutos 4, 5 y 27 del episodio
+    \citetitle{episode:hernan8}.
+
++ Por razones políticas Hernán Cortés buscó contraer matrimonio con una hija de
+    Moctezuma, para lo cual solicitó consejo sacerdotal para disolver el vínculo
+    matrimonial que ya tenía. Al respecto, se le informó que el matrimonio es
+    indisoluble, salvo por causales como falta de consumación, vínculos
+    consanguíneos, desaparición del cónyugue, locura o falta de libertad al
+    momento de establecer el vínculo.\autocite[11:05--13:27]{episode:hernan6}
+
++ En el episodio \citetitle{episode:hernan7} se muestra el juicio de la familia
+    Jiménez en Medellín (España) por el delito de herejía, pues profesaban la fe
+    musulmana. Al respecto, es  importante señalar que "[e]*l largo período de
+    lucha contra el Islam*  [durante los siglos XII al XVI] *había impreso en el
+    carácter español un  odio al infiel y había infundido en la sangre un
+    espíritu guerrero animado por el fervor religioso. La conquista de Granada
+    constituye el último episodio de aquella cruzada secular*
+    (...)".\autocite[4--5]{art:burgos}
+
++ Las *capitulaciones* fueron una institución mediante la cual la Corona de
+    Castilla permitió que inversionistas privados llevaran a cabo el
+    descubrimiento del Nuevo Mundo. De acuerdo con \citeauthor{art:burgos},
+    "(...) *en una apuesta arriesgada,* [la Corona] *abrió las fronteras y dio
+    aliento a la iniciativa y al valor de los súbditos que desearan emprender
+    los riesgos y buscar la gloria de las conquistas*" siempre y cuando estas
+    personas estuviesen "(...) *deseosas de la conversión de los
+    indios*".\autocite[9]{art:burgos} Al respecto, en *Hernán* se observa a
+    Nicolás de Ovando[^Ovando] mientras organiza su expedición a las
+    Indias.\autocite[15:06--16:15]{episode:hernan7}
+
+[^Ovando]: Nicolás de Ovando fue un lídel militar que fundó el primer
+asentamiento estable en Santo Domingo, por lo que fue el primer gobernador real
+de  las Indias Orientales; asimismo, fue el primero en aplicar el sistema de la
+encomienda, \autocite{ency:ovando}.

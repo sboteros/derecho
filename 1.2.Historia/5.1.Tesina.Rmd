@@ -308,8 +308,11 @@ justa [y] para ser justa es preciso que tienda a un fin bueno relacionado con el
 bien común*".\autocite[76]{art:pacto}
 
 [^Coaccion]: El superior no podría mover al súbdito mediante la coacción, ya que
-la sociedad no puede coaccionarse a sí misma ni a sus partes,
-\autocite[76]{art:pacto}.
+la sociedad no puede coaccionarse a sí misma ni a sus partes. De forma similar a
+Francisco Suárez, Diego de Saavedra consideraba que un príncipe justo no
+requería el uso de la violencia para gobernar a sus súbditos, pues estos
+consentían ser regidos por un rey que gobernaba mediante las leyes y no de forma
+violenta, \autocite[61, 76]{art:pacto}.
 
 Para Suárez, los principios que generaban la sociabilidad humana no se
 limitaban a un solo pueblo, sino que se extendían a todos los hombres de forma
@@ -317,13 +320,6 @@ universal. No obstante, el "pacto" que unía la comunidad con el soberano no
 podía ser uno para todos los pueblos, sino que la unidad humana se expresaba
 por medio de las buenas costumbres y la convivencia entre las
 naciones.\autocite[78]{art:pacto}
-
-### Diego de Saavedra Fajardo
-
-De forma similar a Francisco Suárez, Diego de Saavedra consideraba que un
-príncipe justo no requería el uso de la violencia para gobernar a sus súbditos,
-pues estos consentían ser regidos por un rey que gobernaba mediante las leyes y
-no de forma violenta.\autocite[61]{art:pacto}
 
 ### Francisco de Vitoria
 
