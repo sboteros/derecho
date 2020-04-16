@@ -1,6 +1,6 @@
 ---
-title: Juicio de Luis XVI y Juicios de Núremberg
-subtitle: Doce juicios que cambiaron la historia
+title: Legalidad y justicia revolucionaria
+subtitle: Jucio de Luis XVI y legalidad revolucionaria
 homework: Control de lectura
 author: Santiago Botero Sierra
 date: 14 de abril de 2020
@@ -22,34 +22,40 @@ funciones se encuentran:\autocite[considerando VI]{decreto:incacipe}
 En el año 2011 el INACIPE convocó a diversos profesionales ("*litigantes,
 neurocientíficos, historiadores y activistas sociales*") y llevó a cabo páneles
 y mesas redondas para discutir sobre una selección de juicios, entre los que  se
-encuentra el juicio de Luis XVI[^Luis].\autocite[xii]{lib:12juicios}
+encuentra el juicio de Luis XVI.[^Luis]
 
-[^Luis]: En la mesa participaron Juan Carlos Gómez, por parte del INCACIPE, y
+[^Luis]: En la mesa participaron Juan Carlos Gómez, por parte del INACIPE, y
 el profesor Raúl Pérez Johnston, abogado litigante constitucionalista,
-\autocite[75]{lib:12juicios}.
+\autocite[xii, 75]{lib:12juicios}.
 
 # Juicio de Luis XVI
+
+En esta sección de se describen los principales hechos del Juicio de Luis XVI
+según el capítulo "*Luis XVI. ¿Rey o tirano*" del libro
+\citetitle{lib:12juicios}.\autocite[75--92]{lib:12juicios}
 
 \newcommand{\aliados}{\textsc{Aliados}}
 \newcommand{\fuerzas}{\textsc{Fuerzas}}
 \newcommand{\rey}{\textsc{Rey}}
-\newcommand{\asamblea}{\textsc{Asamblea}}
+\newcommand{\convencion}{\textsc{Convención}}
 \newcommand{\declaracion}{\textsc{Declaración}}
 \newcommand{\revolucion}{\textsc{Revolución}}
+\newcommand{\defensa}{\textsc{Defensa}}
+\newcommand{\constitucion}{\textsc{Constitución}}
 
 ## Antecedente
 
 El juicio contra Luis XVI (el \rey) fue novedoso en su época. El antecedente fue
 el juicio contra Carlos II en Inglaterra, quien fue juzgado por el Parlamento
-británico y decapitado en el siglo XVII por los puritanos encabezados por Oliver
-Cromwell.\autocite[76, 85]{lib:12juicios}
+británico en el siglo XVII por los puritanos, encabezados por Oliver Cromwell;
+como consecuencia de esto fue decapitado.\autocite[76, 85]{lib:12juicios}
 
 ## Juicio
 
 Antes de la Revolución Francesa (\revolucion), el rey "(...) *ejercía un poder
 soberano y absoluto como monarca por derecho divino*". Sin embargo, después de
 la *Declaración de los Derechos del Hombre y del Ciudadano* (\declaracion) hubo
-cambios legislativos que fueron vetados por el monarca,[^Derechos] y que
+cambios legislativos que fueron vetados por el \rey,[^Derechos] y que
 desencadenaron una guerra en 1791,[^Contenciosos] auspiciada por varias
 monarquías europeas que "(...)  *juzgaban que las ideas sobre los derechos del
 hombre eran en extremo peligrosas  y subversivas*". Entre los sucesos que
@@ -66,81 +72,84 @@ y el clero antes de la \revolucion,
 
 + La masacre de Champ-de-Mars, en la que el \rey envió a los soldados a
     controlar una manifestación pacífica de republicanos, que resultó en la
-    muerte de decenas de civiles.
+    muerte de decenas de civiles;
 + Una declaración del duque de Brunskwick (general en jefe de los \aliados) en
     la "(...) *que amenazaba a todos aquellos que pudiesen poner en riesgo la
-    seguridad de la familia real*".[^Brunskwick]
-+ La batalla de Valmy, en septiembre de 1792, que ganaron las \fuerzas.
-+ El asalto del Palacio de las Tullerías por parte de las \fuerzas en agosto de
-    1792, que obligó al \rey a refugiarse en la Asamblea Nacional Constituyente
-    o Convención Nacional (\asamblea). Los documentos con los que se desarrolló
-    el juicio fueron obtenidos de la oficina del \rey durante este asalto, pero
-    "(...) *no encontraron pruebas contundentes*" por lo que se anunció el
-    hallazdgo de "(...) *una caja de metal* [en un armario de la recámara real]
-    *que contenía documentos adicionales, obviamente todos falsos, redactados a
-    modo para incriminar al* [\rey]".
-+ El \rey y su familia huyeron hacia las fronteras orientales del reino, pero
-    fueron descubiertos en una escala en el camino; por lo tanto, fueron
-    detenidos y reconducidos hacia París el 16 de octubre de 1792.
+    seguridad de la familia real*";[^Brunskwick]
++ El asalto al Palacio de las Tullerías por parte de las \fuerzas en agosto de
+    1792, que obligó al \rey a refugiarse en la Convención Nacional o Asamblea
+    Nacional (\convencion).[^Convencion] Los documentos con los que se
+    desarrolló el juicio fueron obtenidos de la oficina del \rey durante este
+    asalto, pero los revolucionarios "(...) *no encontraron pruebas
+    contundentes*", por lo que se anunció el hallazgo de "(...) *una caja de
+    metal* [en un armario de la recámara real] *que contenía documentos
+    adicionales, obviamente todos falsos, redactados a modo para incriminar al*
+    [\rey]";
++ La batalla de Valmy, en septiembre de 1792, que ganaron las \fuerzas; y,
++ La huida del \rey y su familia hacia las fronteras orientales del reino, y su
+    posterior detención y reconducción a París el 16 de octubre de 1792, después
+    de ser descubiertos en una escala en el camino.
 
-[^Brunskwick]: De acuerdo con el autor, "[e]*l manifiesto del duque de
-Brunskwick es muy fundamkental, ya que da sentido a la guerra contra Francia,
-muy ligado a la preservación y seguridad de la familia real. Los nombres
+[^Brunskwick]: De acuerdo con Pérez Johnston, "[e]*l manifiesto del duque de
+Brunskwick es muy fundamental, ya que da sentido a la guerra contra Francia,
+muy ligado a la preservación y seguridad de la familia real. Los nobles
 franceses que salieron huyendo de Francia en 1791, 1792 y, sobre todo, en 1793,
 cuando empieza ya el terror revolucionario, buscan en la familia real el
 estandarte para poder regresar a Francia y restablecer el antiguo régimen*",
-\autocite[86]{lib:12juicios}
+\autocite[86]{lib:12juicios}.
 
-+ Los jacobinos o montañeses
-+ Los girondinos o revolucionarios moderados, conformada por federalistas de las
-    provincias.
-+ La planicie, diputados moderados conservadores sin filiación política
-    claramente marcada.
+[^Convencion]: La composición política de la \convencion se dividió en tres
+fuerzas: (i) los jacobinos o montañeses, revolucionarios radicales; (ii) los
+girondinos o revolucionarios moderados, conformada por federalistas de las
+provincias; y, (iii) la planicie, diputados moderados conservadores sin
+filiación política claramente marcada, \autocite[82]{lib:12juicios}.
 
-Sin embargo, el artículo 2 de la Constitución de 1791 establecía que el \rey era
-sagrado e  intocable y, por ende no podría estar sujeto a jurisdicción
-ordinaria. Al respecto, se determinó que la \asamblea no era un tribunal y, por
-lo tanto, se  propuso procesarlo "(...) *sin convertirlo en un juicio
-propiamente*". De esta forma, el 5 de diciembre de 1972 se condujo al \rey ante
-la \asamblea y se le  leyó el *acta constitutuva* en donde se le fincaron
-alrededor de 33 cargos cuyo proceso inició el 11 de diciembre de
-1792.\autocite[75, 78]{lib:12juicios}
+Pese a su detención, el artículo 2 de la Constitución de 1791 (\constitucion)
+establecía que el \rey era sagrado e  intocable y, por ende, no podría estar
+sujeto a jurisdicción ordinaria. Al respecto, se determinó que la \convencion no
+era un tribunal y, por lo tanto, se  propuso procesarlo "(...) *sin convertirlo
+en un juicio propiamente*". De esta forma, el 5 de diciembre de 1792 se condujo
+al \rey ante la \convencion y se le  leyó el *acta constitutiva*, en la que se
+le fincaron alrededor de 33 cargos. A partir de estos sucesos, el proceso contra
+el \rey inició el 11 de diciembre de 1792.\autocite[75, 78]{lib:12juicios}
 
-\newcommand{\defensa}{\textsc{Defensa}}
+Durante el procedimiento, el \rey contó con 3 abogados defensores (Fran\c{c}ois
+Denis Tronchet, Guillaume-Chrétien de Lamoignon y Raimon Desèze, \defensa)
+nombrados el 6 de diciembre de 1792. La \defensa se encontró con diversos
+obstáculos, entre ellos que no se le permitió el contacto irrestricto con el
+\rey pues el sitio de reclusión del monarca se encontraba en una zona controlada
+por la Comuna de París, y que "(...) *las sesiones* [de la \convencion] *se
+convirtieron en una romería* (...) [donde se] *arrojaban objetos a la sala*".
+Los principales argumentos que fueron expuestos durante el "juicio" por la
+\defensa, que se argumentaron entre el 27 de diciembre de 1792 y el 7 de enero
+de 1793, fueron:\autocite[75--76, 80--81]
 
-Durante el procedimiento, el \rey contó con 3 abogados defensores[Fran\~cois
-Denis Tronchet, Guillaume-Chrétien de Lamoignon y Raimon Desèze, \defensa]
-nombrados el 6 de diciembre de 1792, que  se encontraron con diversos
-obstáculos, entre ellos que no se permitió el contacto irrestricto entre la
-\defensa y el \rey, pues el sitio de reclusión del monarca se encontraba en una
-zona controlada por la Comuna de París y que "(...) *las sesiones* [de la
-\asamblea] *se convirtieron en una romería* (...) [donde se] *arrojaban objetos
-a la sala*". Los argumentos principales de la \defensa, que fueron expuestos
-entre el 27 de diociembre de 1792 y el 7 de enero de 1793 durante el juicio
-fueron:\autocite[75--76, 80--81]
-
-+ La inviolabilidad del \rey mientras se hallaba en el cargo.
++ La inviolabilidad del \rey mientras se hallaba en el cargo;
 + La irretroactividad de los supuestos delitos antes de la entrada en vigor de
-    la Constitución de 1791; y,
-+ La desvirtuación de los cargos imputados a partir de la Constitución de 1791,
+    la \constitucion; y,
++ La desvirtuación de los cargos imputados a partir de la \constitucion,
     en el entendido de que los actos de los que se acusaba al \rey eran
-    responsabilidad de terceros (el capitán que decidió abrir fuego o los
-    ministros y miembros del gabinete)
+    responsabilidad de terceros.[^Terceros]
 
-A partir del 15 de enero se inició la votación sobre los asuntos relacionados
-con la culpabilidad del rey:\autocite[75, 83--84]{lib:12juicios}
+[^Terceros]: Por ejemplo, el capitán que decidió abrir fuego o los ministros y
+miembros del gabinete.
 
-+ Se consideró que fue "(...) *culpable de conspiración contra la libertad
-    pública y de los ataques contra la seguridad general del estado*".
-+ Se rechazó la ratificación popular de la sentencia.
-+ Se determinó que el castigo que merecía el \rey era la pena de muerte; este
-    asunto fue muy debatido y únicamente fue apoyado por la mitad más uno de los
-    miembros de la \asamblea.[^Muerte] Esta pena fue ejecutada el 21 de enero de
-    1793, cuando el \rey fue pasado por la guillotina.
+A partir del 15 de enero de 1793 se inició la votación sobre los asuntos
+relacionados con la culpabilidad del \rey:\autocite[75, 83--84]{lib:12juicios}
 
-[^Muerte]: En la jurisdicción ordinaria, la pena de muerte requería el voto de
-las dos terceras partes de los jueces; por ello, la \defensa intenta establecer
-sin éxito una analogía en favor del \rey, \autocite[81]{lib:12juicios}
++ Se encontró que fue "(...) *culpable de conspiración contra la libertad
+    pública y de los ataques contra la seguridad general del estado*";
++ Se votó contra la ratificación popular de la sentencia; y,
++ Se determinó que el castigo que merecía el \rey era la pena de
+    muerte.[^Muerte]
+
+[^Muerte]: La pena capital fue un asunto muy debatido y únicamente fue apoyado
+por la mitad más uno de los miembros de la \convencion. En la jurisdicción
+ordinaria, la pena de muerte requería el voto de las dos terceras partes de los
+jueces; por ello, la \defensa intentó establecer, sin éxito, una analogía en
+favor del \rey, \autocite[81]{lib:12juicios}.
+
+Finalmente, el 21 de enero de 1793, el \rey fue pasado por la guillotina.
 
 ## Secuelas
 
@@ -148,100 +157,134 @@ El juicio contra el \rey fue un "(...) *caso emblemático, ya que es una de las
 primeras ocasiones en que el pueblo se percata de que es capaz de afectar a sus
 gobernantes, tanto en el sentido físico como en el político*". No obstante, la
 forma en la que fue desarrollado ocasionó un sentimiento de antipatía hacia lo
-republicano que retresó la evolución de instituciones constitucionales y de
-derecho público que generó que hubiera "(...) *que esperar hasta el siglo XX
-para que surgieran instituciones de carácter democrát5ico que influyeron en la
-caída de las últimas monarquías absolutas, en particular el imperio
-astro-húngaro* [sic]; *cayó entonces el imperio alemán, y el zar fue fusilado
-durante la Revolución rusa. Pero pasó más de un siglo antes de que se
-concretara*[n] *este tipo de movimientos*".\autocite[76, 85--86]{lib:12juicios}
+republicano que retrasó la evolución de instituciones constitucionales y de
+derecho público.\autocite[76, 85]{lib:12juicios} La consecuencia de esto fue que
+hubiera
 
-# Justicia revolucionaria e ideal de justicia
+> "(...) *que esperar hasta el siglo XX para que surgieran instituciones de
+> carácter democrát5ico que influyeron en la caída de las últimas monarquías
+> absolutas, en particular el imperio astro-húngaro* [sic]; *cayó entonces el
+> imperio alemán, y el zar fue fusilado durante la Revolución rusa. Pero pasó
+> más de un siglo antes de que se concretara*[n] *este tipo de
+> movimientos*".\autocite[85--86]{lib:12juicios}
 
-De acuerdo con Raúl Pérez, "(...) *no había fundamentos constitucionales para
-ejercer esta clase de juicio político que no estaba previsto en la Constitución
-de 1791*", que fue inspirado por una "razón de Estado" ya que, según
-Robespierre, el \rey debía morir para que la \revolucion viviera. Este académico
-considera que una enseñanza del juicio contra el \rey es que
+# Justicia revolucionaria, iusnaturalismo y legalidad
+
+De acuerdo con Pérez Johnston, "(...) *no había fundamentos constitucionales
+para ejercer esta clase de juicio político que no estaba previsto en la*
+[\constitucion]". Más que una aplicación recta del procedimiento penal, este
+juicio fue inspirado por una "razón de Estado" ya que, según Robespierre, el
+\rey debía morir para que la \revolucion viviera.\autocite[85]{lib:12juicios}
+Pérez Johnston considera que una enseñanza del juicio contra el \rey es que
 
 > "(...) *es mucho más fácil condenar a alguien en una asamblea política
-numeroza que en un juzgado* (...). *Las circunstancias del juicio a Luis XVI
-enseñan que muchas veces un juicio ante una asamble popular puede ser mucho más
-efectivo cuando* ***uno quiere condenar a alguien,*** *que en un* ***tribunal en
-el que hay mayor deliberación y discusión de tipo jurídico***"
+> numerosa que en un juzgado* (...). *Las circunstancias del juicio a Luis XVI
+> enseñan que muchas veces un juicio ante una asamblea popular puede ser mucho
+> más efectivo cuando* ***uno quiere condenar a alguien,*** *que en un*
+> ***tribunal en el que hay mayor deliberación y discusión de tipo jurídico***"
+> (énfasis añadido).\autocite[85]{lib:12juicios}
+
+Aunque esta opinión es correcta en un sentido estricto, no considera las
+circunstancias particulares de una situación revolucionaria como la \revolucion.
+En efecto, una "[r]*evolución, en ciencias sociales y políticas, es una*
+***alteración*** *mayor, abrupta y, por lo tanto, típicamente violenta,* ***del
+gobierno y sus asociaciones y estructuras asociadas***" (énfasis
+añadido);\autocite{ency:revolution} lo que incluye al derecho y su aplicación.
+Por lo tanto, no es apropiado pensar en una aplicación estricta de la ley penal
+durante una revolución, típicamente violenta, sino que se deben considerar ideas
+de justicia de caracter *iusnaturalista* que, lógicamente, van más allá del
+derecho positivo vigente en la situación pre-revolucionaria.
+
+Asimismo, es necesario considerar que uno de los objetivos de una revolución es
+formar a los operadores del Estado pos-revolucionario que, típicamente, no se
+encontraban integrados en la situación pre-revolucionaria. En ese sentido, es
+entendible que, en una situación de caracter educativo y de empoderamiento,
+estos operadores no apliquen criterios técnicos previamente establecidos. En
+particular, los llamados a ser los nuevos operadores jurídicos en la situación
+pos-revolucionaria no aplicarían inicialmente la ley escrita de forma rigurosa o
+técnica, sino criterios de justicia más generales.
 
 Al respecto, es interesante observar cómo se aplicaron los ideales de justicia
-en otras experiencias revolucionarias, en las que las ideas sobre el derecho
-natural y las expectativas populares con respecto a la revolución que se
-pretendía hacer tuvieron mucho más peso que la ley escrita; y en donde las
-razones de Estado justificaron la aplicación de las penas. Asimismo, el interés
-de estas experiencias por empoderar y reeducar a las masas hizo que tuvieran una
-alta participación popular,[^Participacion] aún cuando no hubiese una formación
-técnica en  aplicación de las penas previas. Al respecto,
-\citeauthor{art:revjust} señala  que:
+en otras experiencias revolucionarias del siglo XX, en las cuales se
+desarrollaron revoluciones comunistas en diversos países. En ellas, las razones
+de Estado justificaron la aplicación de las penas. Asimismo, el interés de estas
+experiencias por empoderar y reeducar a las masas hizo que tuvieran una alta
+participación popular,[^Participacion] aún cuando no hubiese una formación
+técnica previa en aplicación de las penas. Al respecto, \citeauthor{art:revjust}
+señala que:
 
 > "*La idea del Che de un 'Hombre Nuevo Socialista' o la de Mao de una 'Nueva
 > Moralidad Socialista' explícitamente requerían la cooperación de instituciones
-> penales-judiciales intensamente politizadas con preocupaciones con un alcance
-> más allá del adjuticativo y punitivo, para incluir también* ***la educación
-> popular y la integración social*** *sobre líneas específicamente socialistas.
-> Aunque este compromiso amplio de la transformación de la práctica social*
-> ***ha producido sancionamientos severos de los contrarrevolucionarios,***
+> penales-judiciales intensamente politizadas con* ***preocupaciones con un
+> alcance más allá del adjuticativo y punitivo,*** *para incluir también* ***la
+> educación popular y la integración social*** *sobre líneas específicamente
+> socialistas. Aunque este compromiso amplio de la transformación de la práctica
+> social* ***ha producido sanciones severas de los contrarrevolucionarios,***
 > *también ha permitido a las instituciones judiciales-penales* ***entrar y
-> liderar las luchas populares por el cambio
-> social***".\autocite[71]{art:revjust}
+> liderar las luchas populares por el cambio social***" (traducción libre,
+> énfasis añadido).\autocite[71]{art:revjust}
 
-[^Participacion]: Entre las técnicas desarrolladas por los comunistas para
-incorporar a las masas a participar en la judicatura se encontraron los juicios
-de masas, las jurados populares, las cortes de cuicuito y las investigaciones en
-sitio, los tribunales especiales, las cortes de camaradas, entre otras,
-\autocite[474]{art:justpop}.
+[^Participacion]: Entre las técnicas desarrolladas por los comunistas, en la
+experiencia china, para incorporar a las masas a participar en la judicatura se
+encontraron los juicios de masas, las jurados populares, las cortes de cuicuito
+y las investigaciones en sitio, los tribunales especiales, las cortes de
+camaradas, entre otras, \autocite[474]{art:justpop}.
 
-Por ejemplo, en el primer period de evolución de la Justicia Popular china
+Por ejemplo, en el primer periodo de evolución de la Justicia Popular china
 (1921--1927), el empoderamiento "(...) *del campesinado no solo necesitaba
-aliento para desmantelas los grilletes mentales, sino también participación en
-el asesinato y la destrucción para cortar las vías de retirada*", por lo que la
-movilización popular fue llevada a cabo mediante el terror, el extremismo y los
-excesos. Sobre este asunto, se señala que:\autocite[481--482]{art:justpop}
+aliento para desmantelar los grilletes mentales, sino también participación en
+el asesinato y la destrucción para cortar las vías de retirada*" (traducción
+libre). Eso hizo que la movilización popular fuera llevada a cabo mediante el
+terror, el extremismo y los excesos. Sobre este asunto, \citeauthor{art:justpop}
+señala que:\autocite[481--482]{art:justpop}
 
 > "*Los juicios de masas fueron una técnica importante para la lucha de clases.*
 > ***Fueron parte de una revolución cultural*** *que los comunistas agitaron en
 > el campo* ***para transformar la mentalidad rural,*** *de manera que se
 > permitiera que tomara reaíces la convicción de que los campesinos eran ahora
-> 'los dueños de la sociedad'*".\autocite[482]{art:justpop}
+> 'los dueños de la sociedad'*" (traducción libre, énfasis
+> añadido).\autocite[482]{art:justpop}
 
 El periodo para alcanzar una administración de justicia más racional en la China
-revolucionaria fue largo y dependiente de la situación táctica de la guerra
-popular, pero para 1942 ya había alcanzado una forma más madura, en la que los
-juicios de masas adquirieron una fórmula más regulada y "[e]*l dictado de la
-sentencia debía citar explícitamkente las leyes y regulaciones en vez de
-sucumbir al llanto popular por las ejecuciones*". Al respecto, se señala
-que:\autocite[486--487]{art:justpop}
+revolucionaria fue largo y dependió de la situación táctica de la guerra
+popular. Sin embargo, para 1942 ya había alcanzado una forma más madura, en la
+que los juicios de masas adquirieron una fórmula más regulada y "[e]*l dictado
+de la sentencia debía citar explícitamkente las leyes y regulaciones en vez de
+sucumbir al llanto popular por las ejecuciones*" (traducción libre). Al
+respecto, se señala que:\autocite[486--487]{art:justpop}
 
 > "*A partir de 1943, Ma Xiwu saltó a la prominencia al adaptar la línea
 > política de masas madurada a la práctica judicial, donde el iba
 > incansablemente a las masas por información, opinión y evidencia, toda la que
 > era sistematizada en una decisión final, en conjunto con la observancia de la
-> ley, que fue conocido como el Estilo Ma Xiwu*".\autocite[487]{art:justpop}
+> ley, que fue conocido como el Estilo Ma Xiwu*" (traducción
+> libre).\autocite[487]{art:justpop}
 
 # Conclusión
 
 La aplicación de la justicia en los periodos de quiebre institucional que
 caracteriza a las revoluciones es un asunto polémico e interesante. Por una
 parte, los castigos a diferentes personas por las prácticas realizadas en el
-periodo pre-revolucionario carecen de validez legal desde el aspecto iuspositiva
-ya que no violaron las leyes vigentes al momento de cometer dichas prácticas.
-Por la otra, parece que dichas prácticas no podrían quedar sin castigo, pues
-parecen ilegítimas en atención a los ideales revolucionarios que comienzan a
-tomar forma durante el quiebre institucional y se necesita formar a los nuevos
-operadores de justicia que habrán de aplicar el nuevo paradigma; en ese sentido,
-un aspecto más iusnaturalista del derecho para liderar la aplicación de la
-justicia.
+periodo pre-revolucionario carecen de validez legal desde el aspecto
+iuspositiva, pues estos individuos no violaron las leyes vigentes al momento de
+cometer dichas prácticas. Por otra parte, parece que dichas prácticas no podrían
+quedar sin castigo, pues parecen ilegítimas en atención a los ideales
+revolucionarios que comienzan a tomar forma durante el quiebre institucional y
+es la sensación de injusticia con respecto a ellas la que genera el propio
+estado revolucionario.
 
-Es dificil aventurar una respuesta adecuada para este problema, pues se trata de
-periodos de quiebre que son difíciles de evaluar con base en las experiencias y
-las prácticas de los periodos normales. Por otra parte, es un asunto complejo el
-uso de la violencia y las prácticas barbáricas que pueden emerger durante estos
+Asimismo, durante el periodo revolucionario e inmediato pos-revolucionario, se
+necesita formar a los nuevos operadores de justicia que habrán de aplicar el
+nuevo paradigma y que, típicamente, se encontraban desempoderados en el periodo
+pre-revolucionario. En ese sentido, una aplicación del derecho menos formal o
+técnica y con un sentido más  *iusnaturalista* sería necesaria en el periodo de
+formación de los nuevos operadores jurídicos.
+
+Es dificil aventurar una respuesta adecuada para el problema sobre la justicia y
+la legalidad en una situación revolucionaria, pues se trata de periodos de
+quiebre que son difíciles de evaluar con base en las experiencias y las
+prácticas de los periodos normales. Por otra parte, es un asunto complejo el uso
+de la violencia y las prácticas barbáricas que pueden emerger durante estos
 periodos, en los que los llamados a ser operadores jurídicos del nuevo orden de
 cosas deben formarse para ello. ¿Se justifica que tomen conciencia de sí mismos
 y de su poder aplicando justicia de una forma poco regulada?
