@@ -1,6 +1,6 @@
 ---
 title: Legalidad y justicia revolucionaria
-subtitle: Jucio de Luis XVI y legalidad revolucionaria
+subtitle: Juicio de Luis XVI, ¿legal o legítimo?
 homework: Control de lectura
 author: Santiago Botero Sierra
 date: 14 de abril de 2020
@@ -11,7 +11,7 @@ date: 14 de abril de 2020
 El Instituto Nacional de Ciencias Penales (INACIPE) es un centro público de
 investigación en el ámbito de la criminalística, la criminología, el derecho
 penal, la política criminal y la victimología.\autocite{web:inacipe} Entre sus
-funciones se encuentran:\autocite[considerando VI]{decreto:incacipe}
+funciones se encuentran:\autocite[considerando VI]{decreto:inacipe}
 
 + Formar y profesionalizar servidores públicos en las áreas de seguridad
     pública, procuración y administración de justicia, y ejecución de sanciones;
@@ -19,7 +19,7 @@ funciones se encuentran:\autocite[considerando VI]{decreto:incacipe}
 + Realizar investigaciones sobre problemas nacionales en dichas áreas, así como
     informar y difundir conocimientos sobre ellas.
 
-En el año 2011 el INACIPE convocó a diversos profesionales ("*litigantes,
+En 2011 el INACIPE convocó a diversos profesionales ("*litigantes,
 neurocientíficos, historiadores y activistas sociales*") y llevó a cabo páneles
 y mesas redondas para discutir sobre una selección de juicios, entre los que  se
 encuentra el juicio de Luis XVI.[^Luis]
@@ -30,10 +30,6 @@ el profesor Raúl Pérez Johnston, abogado litigante constitucionalista,
 
 # Juicio de Luis XVI
 
-En esta sección de se describen los principales hechos del Juicio de Luis XVI
-según el capítulo "*Luis XVI. ¿Rey o tirano*" del libro
-\citetitle{lib:12juicios}.\autocite[75--92]{lib:12juicios}
-
 \newcommand{\aliados}{\textsc{Aliados}}
 \newcommand{\fuerzas}{\textsc{Fuerzas}}
 \newcommand{\rey}{\textsc{Rey}}
@@ -43,12 +39,16 @@ según el capítulo "*Luis XVI. ¿Rey o tirano*" del libro
 \newcommand{\defensa}{\textsc{Defensa}}
 \newcommand{\constitucion}{\textsc{Constitución}}
 
+En esta sección se describen los principales hechos del juicio de Luis XVI
+(el \rey) según el capítulo "*Luis XVI. ¿Rey o tirano*" del libro
+\citetitle{lib:12juicios}.\autocite[75--92]{lib:12juicios}
+
 ## Antecedente
 
-El juicio contra Luis XVI (el \rey) fue novedoso en su época. El antecedente fue
-el juicio contra Carlos II en Inglaterra, quien fue juzgado por el Parlamento
-británico en el siglo XVII por los puritanos, encabezados por Oliver Cromwell;
-como consecuencia de esto fue decapitado.\autocite[76, 85]{lib:12juicios}
+El juicio contra el \rey fue novedoso en su época. El antecedente fue el juicio
+del siglo XVII contra Carlos II en Inglaterra, quien fue juzgado por los
+puritanos (encabezados por Oliver Cromwell) en el parlamento británico; como
+consecuencia de esto fue decapitado.\autocite[76, 85]{lib:12juicios}
 
 ## Juicio
 
@@ -65,7 +65,7 @@ ocurrieron durante  la guerra, se encuentran:\autocite[76--77]{lib:12juicios}
 apoyo a la monarquía francesa, contra las fuerzas nacionales francesas
 (\fuerzas), de caracter revolucionario.
 
-[^Derechos]: La \declaración provocó cambios legislativos en materias fiscal y
+[^Derechos]: La \declaracion provocó cambios legislativos en materias fiscal y
 de privilegios, que atentaron contra los estatutos de los que gozaban la nobleza
 y el clero antes de la \revolucion,
 \autocite[76--77, 80--81, 86]{lib:12juicios}.
@@ -113,16 +113,16 @@ al \rey ante la \convencion y se le  leyó el *acta constitutiva*, en la que se
 le fincaron alrededor de 33 cargos. A partir de estos sucesos, el proceso contra
 el \rey inició el 11 de diciembre de 1792.\autocite[75, 78]{lib:12juicios}
 
-Durante el procedimiento, el \rey contó con 3 abogados defensores (Fran\c{c}ois
+Durante el proceso, el \rey contó con 3 abogados defensores (Fran\c{c}ois
 Denis Tronchet, Guillaume-Chrétien de Lamoignon y Raimon Desèze, \defensa)
 nombrados el 6 de diciembre de 1792. La \defensa se encontró con diversos
 obstáculos, entre ellos que no se le permitió el contacto irrestricto con el
 \rey pues el sitio de reclusión del monarca se encontraba en una zona controlada
 por la Comuna de París, y que "(...) *las sesiones* [de la \convencion] *se
 convirtieron en una romería* (...) [donde se] *arrojaban objetos a la sala*".
-Los principales argumentos que fueron expuestos durante el "juicio" por la
-\defensa, que se argumentaron entre el 27 de diciembre de 1792 y el 7 de enero
-de 1793, fueron:\autocite[75--76, 80--81]
+Los principales argumentos que fueron expuestos por la \defensa durante el
+"juicio", que se argumentaron entre el 27 de diciembre de 1792 y el 7 de enero
+de 1793, fueron:\autocite[75--76, 80--81]{lib:12juicios}
 
 + La inviolabilidad del \rey mientras se hallaba en el cargo;
 + La irretroactividad de los supuestos delitos antes de la entrada en vigor de
@@ -162,7 +162,7 @@ derecho público.\autocite[76, 85]{lib:12juicios} La consecuencia de esto fue qu
 hubiera
 
 > "(...) *que esperar hasta el siglo XX para que surgieran instituciones de
-> carácter democrát5ico que influyeron en la caída de las últimas monarquías
+> carácter democrático que influyeron en la caída de las últimas monarquías
 > absolutas, en particular el imperio astro-húngaro* [sic]; *cayó entonces el
 > imperio alemán, y el zar fue fusilado durante la Revolución rusa. Pero pasó
 > más de un siglo antes de que se concretara*[n] *este tipo de
@@ -188,24 +188,24 @@ Aunque esta opinión es correcta en un sentido estricto, no considera las
 circunstancias particulares de una situación revolucionaria como la \revolucion.
 En efecto, una "[r]*evolución, en ciencias sociales y políticas, es una*
 ***alteración*** *mayor, abrupta y, por lo tanto, típicamente violenta,* ***del
-gobierno y sus asociaciones y estructuras asociadas***" (énfasis
-añadido);\autocite{ency:revolution} lo que incluye al derecho y su aplicación.
-Por lo tanto, no es apropiado pensar en una aplicación estricta de la ley penal
-durante una revolución, típicamente violenta, sino que se deben considerar ideas
-de justicia de caracter *iusnaturalista* que, lógicamente, van más allá del
-derecho positivo vigente en la situación pre-revolucionaria.
+gobierno y sus asociaciones y estructuras asociadas***" (traducción libre,
+énfasis añadido);\autocite{ency:revolution} lo que incluye al derecho y su
+aplicación. Por lo tanto, no es apropiado pensar en una aplicación estricta de
+la ley penal durante una revolución, típicamente violenta, sino que se deben
+considerar ideas *iusnaturalistas* de justicia que, lógicamente, van más allá
+del derecho positivo vigente en la situación pre-revolucionaria.
 
 Asimismo, es necesario considerar que uno de los objetivos de una revolución es
 formar a los operadores del Estado pos-revolucionario que, típicamente, no se
 encontraban integrados en la situación pre-revolucionaria. En ese sentido, es
-entendible que, en una situación de caracter educativo y de empoderamiento,
-estos operadores no apliquen criterios técnicos previamente establecidos. En
+entendible que, en con un propósito educativo y de empoderamiento, estos
+operadores no apliquen criterios técnicos previamente establecidos. En
 particular, los llamados a ser los nuevos operadores jurídicos en la situación
 pos-revolucionaria no aplicarían inicialmente la ley escrita de forma rigurosa o
 técnica, sino criterios de justicia más generales.
 
 Al respecto, es interesante observar cómo se aplicaron los ideales de justicia
-en otras experiencias revolucionarias del siglo XX, en las cuales se
+en otras experiencias revolucionarias del siglo XX, periodo en el que se
 desarrollaron revoluciones comunistas en diversos países. En ellas, las razones
 de Estado justificaron la aplicación de las penas. Asimismo, el interés de estas
 experiencias por empoderar y reeducar a las masas hizo que tuvieran una alta
@@ -226,11 +226,11 @@ señala que:
 
 [^Participacion]: Entre las técnicas desarrolladas por los comunistas, en la
 experiencia china, para incorporar a las masas a participar en la judicatura se
-encontraron los juicios de masas, las jurados populares, las cortes de cuicuito
+encontraron los juicios de masas, las jurados populares, las cortes de curcuito
 y las investigaciones en sitio, los tribunales especiales, las cortes de
-camaradas, entre otras, \autocite[474]{art:justpop}.
+camaradas, entre otras. \autocite[474]{art:justpop}.
 
-Por ejemplo, en el primer periodo de evolución de la Justicia Popular china
+Por ejemplo, en el primer periodo de evolución de la Justicia Popular China
 (1921--1927), el empoderamiento "(...) *del campesinado no solo necesitaba
 aliento para desmantelar los grilletes mentales, sino también participación en
 el asesinato y la destrucción para cortar las vías de retirada*" (traducción
@@ -241,7 +241,7 @@ señala que:\autocite[481--482]{art:justpop}
 > "*Los juicios de masas fueron una técnica importante para la lucha de clases.*
 > ***Fueron parte de una revolución cultural*** *que los comunistas agitaron en
 > el campo* ***para transformar la mentalidad rural,*** *de manera que se
-> permitiera que tomara reaíces la convicción de que los campesinos eran ahora
+> permitiera que tomara raíces la convicción de que los campesinos eran ahora
 > 'los dueños de la sociedad'*" (traducción libre, énfasis
 > añadido).\autocite[482]{art:justpop}
 
@@ -249,29 +249,29 @@ El periodo para alcanzar una administración de justicia más racional en la Chi
 revolucionaria fue largo y dependió de la situación táctica de la guerra
 popular. Sin embargo, para 1942 ya había alcanzado una forma más madura, en la
 que los juicios de masas adquirieron una fórmula más regulada y "[e]*l dictado
-de la sentencia debía citar explícitamkente las leyes y regulaciones en vez de
+de la sentencia debía citar explícitamente las leyes y regulaciones en vez de
 sucumbir al llanto popular por las ejecuciones*" (traducción libre). Al
-respecto, se señala que:\autocite[486--487]{art:justpop}
+respecto, \citeauthor{art:justpop} señala que:\autocite[486--487]{art:justpop}
 
 > "*A partir de 1943, Ma Xiwu saltó a la prominencia al adaptar la línea
-> política de masas madurada a la práctica judicial, donde el iba
-> incansablemente a las masas por información, opinión y evidencia, toda la que
+> política de masas madurada a la práctica judicial, en la que él iba
+> incansablemente a las masas por información, opinión y evidencia, toda la cual
 > era sistematizada en una decisión final, en conjunto con la observancia de la
-> ley, que fue conocido como el Estilo Ma Xiwu*" (traducción
+> ley, lo que fue conocido como el Estilo Ma Xiwu*" (traducción
 > libre).\autocite[487]{art:justpop}
 
 # Conclusión
 
 La aplicación de la justicia en los periodos de quiebre institucional que
-caracteriza a las revoluciones es un asunto polémico e interesante. Por una
+caracterizan a las revoluciones es un asunto polémico e interesante. Por una
 parte, los castigos a diferentes personas por las prácticas realizadas en el
-periodo pre-revolucionario carecen de validez legal desde el aspecto
-iuspositiva, pues estos individuos no violaron las leyes vigentes al momento de
-cometer dichas prácticas. Por otra parte, parece que dichas prácticas no podrían
-quedar sin castigo, pues parecen ilegítimas en atención a los ideales
-revolucionarios que comienzan a tomar forma durante el quiebre institucional y
-es la sensación de injusticia con respecto a ellas la que genera el propio
-estado revolucionario.
+periodo pre-revolucionario carecen de validez legal desde el punto de vista
+*iuspositiva*, pues estos individuos no violaron las leyes vigentes al momento
+de cometer dichas prácticas. Por otra parte, parece que estas no podrían quedar
+sin castigo, pues se antojan ilegítimas en atención a los ideales
+revolucionarios que comienzan a tomar forma durante el quiebre institucional y,
+además,  es la sensación de injusticia con respecto a ellas la que genera el
+propio estado revolucionario.
 
 Asimismo, durante el periodo revolucionario e inmediato pos-revolucionario, se
 necesita formar a los nuevos operadores de justicia que habrán de aplicar el
@@ -284,7 +284,8 @@ Es dificil aventurar una respuesta adecuada para el problema sobre la justicia y
 la legalidad en una situación revolucionaria, pues se trata de periodos de
 quiebre que son difíciles de evaluar con base en las experiencias y las
 prácticas de los periodos normales. Por otra parte, es un asunto complejo el uso
-de la violencia y las prácticas barbáricas que pueden emerger durante estos
+de la violencia y las prácticas "barbáricas" que pueden emerger durante estos
 periodos, en los que los llamados a ser operadores jurídicos del nuevo orden de
 cosas deben formarse para ello. ¿Se justifica que tomen conciencia de sí mismos
-y de su poder aplicando justicia de una forma poco regulada?
+y de su poder aplicando justicia de una forma poco regulada? Más que "legal",
+¿este tipo de justicia podría considerarse "legítima"?
