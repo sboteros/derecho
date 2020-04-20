@@ -1,0 +1,33 @@
+---
+title: Pérdida de empleos durante la pandemia del Covid en México
+author: Santiago Botero Sierra
+date: 19 de abril de 2020
+homework: Comentario de prensa
+---
+
+# Noticia
+
+\citetitle{prensa:empleos_covid} señala que Luisa María Alcalde, titular de la
+Secretaría del Trabajo y Previsión Social (STPS) informó el 8 de abril que se
+han perdido  más de 346 mil empleos durante la etapa de la pandemia por el
+coronavirus  en México. Manifestó que "(...) *son las empresas grandes las que
+más han*  ***despedido a los trabajadores***" y que el 56% de estos recortes se
+ubica en 6 entidades federativas.\autocite{prensa:empleos_covid}
+
+# Análisis
+
+Aunque el 30 de marzo de 2020 el canciller Marcelo Ebrard informó que la
+declaratoria de emergencia sanitaria por causas de fuerza mayor, implica una
+garantía legal sobre el salario y el empleo de los
+trabajadores,\autocite[50:40--52:40]{prensa:covid20200330} es evidente que
+sí hubo una afectación al empleo, según se informa en
+\citetitle{prensa:empleos_covid}.
+
+Al respecto, es interesante señalar que la  regulación citada por el Canciller
+el 30 de marzo está vigente y es moralmente válida, pero lo que se observa es
+una falta de eficacia de la norma, que no ha impedido que se pierdan empleos.
+Esto se explica porque no se han anunciado medidas económicas eficacez que
+generen los incentivos adecuados a las empresas para que estas no despidan a los
+trabajadores: la economía como ciencia analiza este tipo de incentivos y puede
+dar recomendaciones para que la norma recupere su eficacia, como las señaladas
+en el artículo \citetitle{prensa:levy_covid}.

@@ -1,0 +1,221 @@
+---
+title: Claves para la argumentación
+subtitle: La importancia de no utilizar falacias
+homework: Control de lectura
+author: Santiago Botero Sierra
+date: 18 de abril de 2020
+---
+
+# Anthony Weston
+
+\citeauthor{lib:argumentacion} se graduó como filósofo en 1976 y  estudió el
+doctorado en la Escuela de Filosofía de la Universidad de Michigan en 1982.
+Desde 1992 es profesor de filosofía y estudios ambientales en la Universidad de
+Elon, en donde ha tenido diversos reconocimientos, tales como el Premio
+Daniels--Daniely a la Excelencia en la Enseñanza (2002) y el Premio al Erudito
+Distinguido (2007). Entre sus obras se encuentran se encuentran  unos cincuenta
+artículos en revistas filosóficas y relacionadas, así como unos quince
+libros.\autocite{web:weston} Entre sus libros está
+\citetitle{lib:argumentacion}, que se presenta en este trabajo.
+
+# Las claves de la argumentación
+
+De acuerdo con \citeauthor{lib:argumentacion}, "(...) *'dar un argumento'
+significa* ofrecer un conjunto de razones o de pruebas en apoyo de una
+conclusión" (énfasis en el original). Los argumentos son importantes pues
+permiten informarse sobre qué opiniones son mejores que otras, por lo que son un
+medio de indagación, y sustentar las razones para explicar y defender la propia
+posición. Sin embargo, al momento de escribir un ensayo argumentativo muchos
+estudiantes simplemente afirman sus propias opiniones, sin proveer argumentos
+sólidos que las respalden: "[e]*scriben un ensayo, pero no un
+argumento*".\autocite[11--13]{lib:argumentacion}
+
+A raíz de este problema, el  libro \citetitle{lib:argumentacion} busca, en
+primer lugar, plantear las características de un buen argumento y los errores
+más usualmente cometidos y, en segundo lugar, dar recomendaciones prácticas
+sobre la forma y la estructura de un ensayo argumentativo. A continuación, se
+resumen los principales elementos señalados en \citetitle{lib:argumentacion}.
+
+## Reglas generales de un argumento
+
+Al momento de plantear un argumento, según \citeauthor{lib:argumentacion}, es
+necesario:
+
++ Distinguir entre premisas y conclusión: las primeras son las razones que
+    dan sustento a la segunda, que es la afirmación en la cual el autor del
+    ensayo argumentativo está a favor;[^Nota1]
++ Presentar las ideas en un orden natural, bien sea exponiendo primero la
+    conclusión y después las premisas o a la inversa, para lo cual el argumento
+    puede ser reordenado tantas veces como sea
+    necesario;\autocite[21--24]{lib:argumentacion}
++ Partir de premisas fiables y, de ser necesario, dar argumentos cortos para
+    defender aquellas premisas que puedan generar
+    dudas;\autocite[24--25]{lib:argumentacion}
++ Ser concreto y conciso;\autocite[25--26]{lib:argumentacion}
++ Evitar el uso de un lenguaje emotivo ("[s]*i usted no puede imaginar cómo
+    podría alguien sostener el punto de vista que usted está atacando, es
+    porque todavía no lo ha entendido
+    bien*");\autocite[26--27]{lib:argumentacion} y,
++ Usar términos consistentes a lo largo de todo el ensayo argumentativo, ya que
+    quien escribe un ensayo argumentativo puede tener la  tentación de caer en
+    la *falacia de la ambigüedad*, que ocurre cuando se  utiliza una misma
+    palabra con más de un significado; esta se puedeevitar mediante el uso de
+    definiciones.[^Nota2]
+
+[^Nota1]: Cuando los argumentos se  utilizan únicamente como un medio de
+indagación, se puede comenzar  exponiendo únicamente la conclusión que se quiere
+defender, \autocite[19--21]{lib:argumentacion}.
+
+[^Nota2]: "*A veces estamos tentados a dar respuestas equívocas utilizando una
+palabra clave de manera* vaga. *Una buena manera de evitar la ambigüedad es*
+definir *cuidadosamente cualquier término que usted introduzca: luego, tenga
+cuidado de utilizarlo sólo como usted lo ha definido*" (énfasis en el original),
+\autocite[29--31]{lib:argumentacion}.
+
+Posteriormente, \citeauthor{lib:argumentacion} señala algunas características y
+requisitos específicos de diversas clases de argumentos, entre los que se
+encuentran:\autocite[33--95]{lib:argumentacion}
+
++ **Argumentos mediante ejemplos**. Cuando se utilizan ejemplos para argumentar,
+    es necesario que quien escribe se pregunte si hay más de un ejemplo, ya que
+    un ejemplo ofrece muy poco apoyo para sustentar una generalización. Para
+    generalizar, se requiere seleccionar una muestra de ejemplos que se
+    representativa del conjunto de la población sobre la que se pretende
+    sustentar el argumento,[^Representatividad] así como dar la  información de
+    contexto relevante sobre los ejemplos mismos. Además, es  necesario
+    determinar si existen contraejemplos que pudieran refutar la  conclusión que
+    se defiende.[^Contraejemplo]
++ **Argumentos por analogía**. Se encuentran cuando un argumento acentúa las
+    semejanzas con otros casos; en este caso se requiere que la analogía sea
+    similar al caso bajo análisis "*de una manera
+    relevante*".\autocite[47--53]{lib:argumentacion}
++ **Argumentos de autoridad**. Son aquellos en donde se afirma que la
+    conclusión es verdadera porque la dijo una fuente que debe saberlo. Al
+    respecto, es necesario que la fuente sea correctamente citada, que sea
+    cualificada para realizar la afirmación[^Autoridad] y que sea
+    imparcial.[^Imparcialidad] De cualquier modo, es necesario que quien escribe
+    el ensayo argumentativo compruebe la información de las fuentes si esta es
+    fácilmente verificable, y evite basarse en una única fuente cuando las
+    autoridades sobre la materia no se pueden poner de acuerdo sobre el
+    asunto.[^Acuerdo] Finalmente, es importante evitar la falacia *ad hominem*,
+    que intenta desacreditar un argumento atacando a la persona que lo emite;
+    ello es inapropiado pues "[l]*as supuestas autoridades pueden ser
+    descalificadas si no están bien informadas, no son imparciales, o en su
+    mayor parte no están de acuerdo*", pero no por atributos de su
+    persona.\autocite[55--65]{lib:argumentacion}
++ **Argumentos sobre las causas**. En este caso, es necesario determinar si la
+    conclusión que se está argumentando explica una causa o simplemente una
+    correlación entre dos variables. Para que un argumento sea causal se
+    requiere que explique el mecanismo mediante el cual se llega desde la causa
+    hasta el efecto y que la causa sea la más probable (pues podría haber causas
+    alternativas o complejidades del problema que admitan otras causas). Esto se
+    debe a que puede haber problemas para hallar las causas o explicaciones
+    incompletas, tales como que los hechos correlacionados no necesariamente
+    están relacionados, pueden tener una causa en común (en lugar de que uno
+    explique al otro), no tienen definida *a priori* la dirección de la
+    causalidad o que la causa encontrada no es la única que provoca el
+    efecto.\autocite[67--78]{lib:argumentacion}
++ **Argumentos deductivos**. Son argumentos estructurados de una forma lógica
+    tal que cuando estos son organizados de forma *válida*, si las premisas
+    sobre las que se basan son ciertas, entonces su conclusión también es, *a
+    fortiori*, cierta . Las formas en las que se estructuran los argumentos
+    deductivos son:\autocite[79--95]{lib:argumentacion}
+
+    - *Modus ponens*: Si $p$ entonces $q$ (esta premisa necesita ser
+        lógicamente válida). Se afirma $p$ (esta premisa requiere ser
+        demostrada). Por lo tanto, $q$.
+    - *Modus tollens*: Si $p$ entonces $q$ (esta premisa necesita ser
+        lógicamente válida). Se niega $q$ (esta premisa requiere ser
+        demostrada). Por lo tanto, también se niega $p$.
+    - *Silogismo hipotético*. Si $p$ entonces $q$ y si $q$ entonces $r$ (estas
+        premisas necesitan ser lógicamente válidas). Por lo tanto, si $p$
+        entonces $r$.
+    - *Silogismo disyuntivo*. $p$ o $q$ (esta premisa requiere ser
+        lógicamente válida). Se niega $p$ (esta premisa requiere ser
+        demostrada). Por lo tanto, $q$.[^Conjuncion]
+    - *Dilema*. $p$ o $q$ y si $p$ entonces $r$ y si $q$ entonces $s$ (estas
+        premisas deben ser lógicamente válidas). Por lo tanto, $r$ o $s$.
+    - *Reductio ad absurdum*. Para probar $p$ se asume que es falso y de la
+        falsedad se obtiene la conclusión $q$ (esta premisa requiere ser
+        demostrada), pero $q$ es falso; por lo tanto, se concluye $p$.
+
+[^Representatividad]: \citeauthor{lib:argumentacion} previene que "[l]*os tipos
+de ejemplos en los que usted, probablemente, piensa de inmediado, es probable
+que estén sesgados*"; esto es, que posiblemente no sean representativos del
+problema bajo análisis, \autocite[40]{lib:argumentacion}.
+
+[^Contraejemplo]: Cuando se encuentran contraejemplos puede suceder que: se
+requiera revisar la generalización, se desee cuestionar el supuesto
+contraejemplo o se necesite argüir que el supuesto contraejemplo es conforme con
+la generalización pretendida, \autocite[33--45]{lib:argumentacion}.
+
+[^Autoridad]: \citeauthor{lib:argumentacion} previene que "[s]*i usted tiene que
+confiar en una autoridad que posea informaciones incompletas, reconozca el
+problema*[, d]*eje que sus líderes u oyentes decidan si una autoridad incompleta
+es mejor que ninguna en absoluto* [y (...)] ***desconfíe de las supuestas
+autoridades que pretenden saber*** *lo que de ninguna manera pueden saber*"
+(énfasis añadido), \autocite[60]{lib:argumentacion}.
+
+[^Imparcialidad]: Respecto a la imparcialidad, pueden existir grupos o personas
+que sean menos confiables pues tengan interés sobre alguna disputa; las personas
+relacionadas con ellas también serían menos confiables; e, incluso, una persona
+imparcial puede ver genuinamente la realidad de una forma sesgada,
+\autocite[61]{lib:argumentacion}.
+
+[^Acuerdo]:  \citeauthor{lib:argumentacion} señala que "[l]*as autoridades se
+ponen de acuerdo en cuestiones empíricamente específicas* [que] *en principio*
+[son] *fácil*[es] *de verificar. Pero cuando las cuestiones son más amplias y
+más intangibles, resulta más difícil encontrar autoridades que estén de
+acuerdo*", \autocite[61]{lib:argumentacion}.
+
+[^Conjuncion]: \citeauthor{lib:argumentacion} previene que "[e]*n castellano, la
+letra 'o' puede tener dos significados diferentes. Normalmente, '$p$ o $q$'
+significa que al menos una de las dos, $p$ o $q$, es verdadera y posiblemente
+ambas. Este es el sentido 'inclusivo' de la palabra 'o', que es el que
+normalmente se presume en lógica. Sin embargo, a veces, utilizamos 'o' en
+sentido 'exclusivo', según el cual '$p$ o $q$' significa que de las dos $p$ o
+$q$ es verdad, pero* no *ambas* (...). *Los silogismos disyuntivos son válidos
+con idependencia del sentido de 'o' que se utilice* (...). *Pero lo que se puede
+deducir (si lo hay)* además *de una afirmación como '$p$ o $q$'* (...) *depende
+del sentido de 'o' en la premisa específica '$p$ o $q$' que esté considerando*",
+\autocite[87]{lib:argumentacion}.
+
+Una vez definidas las reglas generales, así como las especificidades de los
+argumentos que se utilizan en un ensayo argumentativo, que es "(...) *una
+elaboración de un argumento corto, o de una serie de argumentos cortos
+vinculados entre sí por una construcción más extensa*",
+\citeauthor{lib:argumentacion} aconseja sobre la escritura de estos
+ensayos:\autocite[97--121]{lib:argumentacion}
+
++ Antes de escribir el ensayo, es necesario (i) explorar los argumentos sobre
+    cada uno de los aspectos relacionados con el asunto de que se trate, (ii)
+    cuestionar y defender las premisas de cada argumento, y (iii) revisar y
+    reconsiderar los argumentos en el ensayo;
++ Al estructurar el ensayo, es necesario explicar el problema, formular una
+    afirmación con respecto al problema, desarrollar completamente los
+    argumentos que sustentan la afirmación, examinar las objeciones y
+    anticiparse a ellas, y mostrar que la afirmación es la mejor de las
+    alternativas plausibles para atender al problema; y,
++ Al escribir el ensayo, es necesario seguir el esquema del paso anterior,
+    formular una introducción breve, exponer cada uno de los argumentos, ser
+    claro en el desarrollo del asunto, contrastar las posibles objeciones con
+    argumentos sólidos y considerar los alcances de la afirmación (para no
+    afirmar más de lo que se ha probado).
+
+Por último, el autor explica algunas de las principales falacias que se
+encuentran generalmente en la argumentación y que conducen al error porque
+violan una o más de las reglas de los buenos argumentos que se señalaron
+previamente(para los argumentos en general, y para tipos específicos de
+argumentos). Entre estas falacias se encuentran las generalizaciones indebidas o
+la omisión de alternativas que puedan explicar la conclusión. Asimismo, hay
+falacias para argumentos específicos, de las cuales
+\citeauthor{lib:argumentacion} lista 21.\autocite[123--134]{lib:argumentacion}
+
+# Conclusión
+
+\citetitle{lib:argumentacion} es un excelente texto para cualquier persona que
+busque argumentar con criterios técnicos en cualquier materia, desde estudiantes
+de niveles básicos hasta profesionales en cualquier nivel de especialización,
+pues da consejos prácticos sobre la calidad de los argumentos que utilizamos,
+errores comunes de inferencia, la correcta estructura de los silogismos lógicos
+y las falacias más comunes.

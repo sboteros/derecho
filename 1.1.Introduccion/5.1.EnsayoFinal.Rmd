@@ -1,0 +1,34 @@
+---
+title: Preservación del empleo en crisis económicas
+subtitle: De la validez xxx a la validez xxx
+author: Santiago Botero Sierra
+date: 17 de abril de 2020
+---
+
+\newcommand{\coronavirus}{\textsc{Coronavirus}}
+
+Actualmente el mundo está experimentando un fenómeno atípico, ocasionado por la pandemia del virus SARS-CoV-2 que ocasiona la enfermedad del Covid-19 (\coronavirus). Este fenómeno, de causas naturales, tiene un impacto negativo en la actividad económica, por lo que puede ocasionar desempleo. Aunque existen normas tendientes a evitar el desempleo de las personas en México durante eventos de este tipo, es claro que  
+
+De acuerdo con \citeauthor[6, 11]{tesis:martin}, "[u]*na epidemia es un* acontecimiento *en el cual una enfermedad afecta a un* número inesperado de individuos *de una población específica, en un tiempo y lugar determinado*" (énfasis añadido);
+
+Una recesión económica es una caída en el nivel de producción de una economía,
+que está relacionada con un aumento en el nivel de desempleo. Las recesiones
+pueden deberse a eventos externos (*choques*) que modifican la demanda o la
+oferta de bienes y servicios, y "*disrumpen la economía moviendo la producción y
+el empleo más allá de sus niveles naturales*" (traducción libre). Cuando se
+presenta una recesión económica se hace necesario utilizar las políticas
+monetaria y fiscal, que "(...) *pueden estabilizar la economía o, si son
+conducidas pobremente, pueden hacer el problema de la inestabilidad económica
+aún peor*" (traducción libre).\autocite[273, 294]{lib:mankiw}
+
+De acuerdo con \citeauthor{prensa:levy_coronavirus}, la pandemia causada por el coronavirus genera la "(...) *certeza de que habrá una recesión* [económica] *mundial*" y, particularmente, en México. Esta recesión es compleja ya que tiene componentes de choques en la demanda (tanto externa como interna)[^Demanda] y en la oferta[^Oferta].\autocite{prensa:levy_coronavirus} Como en las demás crisis económicas, esta generará desempleo y una caída en los ingresos de quienes trabajan por cuenta propia.
+
++ Echar del trabajo está prohibido en esta circunstancia
++ Esa norma es moralmente válida
++ Economía normativa y positiva
++ Se han perdido empleos
+    - Esto es moralmente inválido
+    - Sin embargo se espera por los incentivos positivos económicos de los agentes
++ El Estado puede hacer que la norma moralmente válida sea eficaz
+    - Política pública
++ Por lo tanto, se espera que el Estado brinde los incentivos adecuados
