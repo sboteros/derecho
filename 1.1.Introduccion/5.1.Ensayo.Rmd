@@ -1,0 +1,220 @@
+---
+title: Legislación laboral mexicana en medio de la crisis del Covid
+subtitle: Validez formal, intrínseca y eficacia
+author: Santiago Botero Sierra
+date: 25 de abril de 2020
+---
+
+\newcommand{\coronavirus}{\textsc{Coronavirus}}
+\newcommand{\procuraduria}{\textsc{Procuraduría}}
+\newcommand{\emergencia}{\textsc{Emergencia}}
+
+Una de las consecuencias de la epidemia provocada por el virus Sars-Cov-2
+(\coronavirus) en México, así como en otros países, es el llamado a la población
+para aislarse  preventivamente; esto tiene unas consecuencias importantes en la
+vida laboral de  las personas.
+
+El confinamiento de la población es necesario en esta  circunstancia puesto que
+la *tasa básica de reproducción* ($R_0$) del \coronavirus se estima en 2.9
+(con un 95% de confianza entre 2.2 y 4.1), lo que genera un  comportamiento
+explosivo de los contagios que tiene la potencialidad de saturar los sistemas
+sanitarios.[^r0] Por lo tanto, las tasas de mortalidad tenderían a aumentar en
+condiciones naturales. Como consecuencia, surge la necesidad de disminuir $R_0$
+a un nivel inferior a 1, para que el número de contagios permanezca
+controlado.\autocite[3:15--4:18]{vid:coronavirus1} No obstante, cuando un
+individuo particular desea desplazarse en la calle, en ausencia de medidas
+apropiadas, no considera el impacto potencial que su actividad tendrá sobre
+terceras personas no relacionadas (esto se denomina una *externalidad*
+económica).[^Externalidad]
+
+De esta situación surge el racional para el  establecimiento de una política
+pública que limite la movilidad de la población en el territorio. Al respecto,
+en el país "[s]*e declar*[ó] *como*  ***emergencia sanitaria por causa de fuerza
+mayor,*** *a la epidemia de  enfermadad generada por el* [\coronavirus]"
+(énfasis añadido)\autocite[Acuerdo Primero]{decreto:covid1} (\emergencia) y
+
+> "*[s]e orden*[ó] *la* ***suspensión inmediata,*** *del 30 de marzo al 30 de*
+> [mayo] *de 2020,* ***de las actividades no esenciales,*** *con la finalidad de
+> mitigar la dispersión y transmisión del* [\coronavirus] *en la comunidad, para
+> disminuir la carga de enfermedad, sus complicaciones y la muerte por COVID-19
+> en la población residente en el territorio nacional*" (énfasis
+> añadido).[^Decretos]
+
+En esta tesitura, en el \citetitle{prensa:covid20200330}, el canciller Marcelo
+Ebrard señaló que la legislación laboral protege el ingreso de los trabajadores
+durante la \emergencia;\autocite[50:48--52:37]{prensa:covid20200330} asimismo,
+la Procuraduría Federal de la Defensa del Trabajo (\procuraduria) había afirmado
+que "(...) *no existe fundamento legal para separar trabajadores o modificar
+unilateralmente las condiciones de trabajo*".\autocite{prensa:covid_laboral} De
+lo anterior, se desprende que la legislación mexicana brinda seguridad frente al
+ingreso y al empleo de los trabajadores durante la \emergencia.
+
+Para analizar la legislación señalada previamente, conviene señalar que
+\citeauthor{lib:introduccion} define que el derecho *intrínsecamente válido* es
+aquel "(...) *tradicionalmente llamado justo o natural*", que se caracteriza
+porque su contenido tiene un valor moralmente
+aceptado.\autocite[sección 23]{lib:introduccion} Al respecto, la legislación en
+comento es moralmente válida ya que reconoce que la persona que participa en las
+actividades económicas y ofrece su fuerza de trabajo a cambio de un salario
+necesita de este para subsistir y no debiera asumir los riesgos del negocio de
+su empleador, pues su salario se encuentra definido en términos
+preestablecidos.[^VonNeumann]
+
+De forma similar, esta legislación es *formalmente válida*, lo que hace
+referencia a que es un derecho positivo que cumple con las formalidad de la
+legislación y, por lo tanto, tiene aplicación ante los tribunales. Al respecto,
+\citeauthor{lib:introduccion} señala que "[l]*a validez del* [derecho positivo]
+*encuéntrase condicionada por la concurrencia de ciertos requisitos,
+determinantes de su* ***vigencia*** [y que] [t]*odo precepto vigente es
+formalmente válido*" (énfasis añadido).\autocite[sección 23]{lib:introduccion}
+De lo señalado  tanto por el canciller Ebrard como por la \procuraduria, la
+protección al empleo  y al salario es un derecho formalmente válido en México
+durante la \emergencia.
+
+No obstante su validez intrínseca y formal, esta legislación ha sido
+insuficiente para proteger el empleo en la situación actual. En efecto, la
+secretaria Luisa María Alcalde, de la Secretaría del Trabajo y Previsión Social,
+informó recientemente que durante el periodo de \emergencia se han perdido más
+de 300,000 empleos en el país.\autocite{prensa:empleos_covid} Aunque no se han
+conocido análisis sobre la situación de los salarios de los trabajadores que
+han conservado el empleo, es previsible que estos también se hayan visto
+afectados de forma negativa debido a la situación de \emergencia.[^Salario]
+
+Lo anterior da cuenta de que la legislación en comento no tuvo eficacia en los
+casos de los trabajadores despedidos. Al respecto, \citeauthor{lib:introduccion}
+señala que
+
+> "[l]*a posibilidad de que exista un derecho dotado de vigencia, pero*
+> ***desprovisto de eficacia*** *solo es admisible* (...) *cuando se trata de
+> preceptos jurídicos aislados. Sin dificultad* ***puede aceptarse que una norma
+> elaborada de acuerdo con todos los requisitos que estructuran el proceso
+> legislativo,*** [esto es, formalmente válida,] ***carezca por completo de
+> positividad***" (énfasis añadido).\autocite[sección 22]{lib:introduccion}
+
+En resumen, la legislación que preserva el empleo y los salarios en México
+durante la \emergencia tiene validez intrínseca y formal, pero carece de
+eficacia. Esta situación es señalada por \citeauthor{lib:introduccion}, quien
+manifiesta que
+
+> "(...) *corresponde a preceptos que poseyendo validez formal e intrínseca,
+> carecen empero de eficacia. Es el caso de* ***normas justas, que no son
+> cumplidas por los particulares ni aplicadas por el poder público.*** *Para
+> ellas vale, según el criterio oficial, la* (...) *regla* (...) *de que su
+> obligatoriedad no queda destruida por el hecho de su inobservancia. Lo propio
+> cabe decir de su valor intrínseco. Este subsiste incólume, aun cuando aquéllas
+> no se cumplan*" (énfasis añadido).\autocite[sección 23]{lib:introduccion}
+
+Lo ideal en este caso, es buscar que la legislación en comento sea eficaz, pues
+"[l]*a realización de tal desiderátum* [un derecho válido formal e
+intrínsecamente, así como eficaz] *no es solo perseguida por los partidarios
+del derecho natural, sino que constituye --normalmente, al menos-- una
+aspiración del autor de la ley*".\autocite[sección 23]{lib:introduccion} Al
+respecto, la ciencia económica podría tener las herramientas necesarias para
+pensar políticas públicas que permitan mantener el salario y el empleo de los
+trabajadores ante una situación como la \emergencia, que tiene impactos
+sobre la producción del país. Por lo tanto, podría sugerir las herramientas de
+política pública necesarias para dotar de eficacia a la legislación analizada.
+
+Al respecto, desde una óptica económica, la situación generada por el
+\coronavirus puede interpretarse como un choque aleatorio negativo sobre la
+producción que, por lo tanto, afecta el empleo de la población. Este tipo de
+choques son analizados por la macroeconomía y la recomendación de política
+pública apropiada ante ellos es una medida *contracíclica*, tanto
+fiscal[^Fiscal] como  monetaria.[^Monetaria] En este sentido,
+\citeauthor{prensa:levy_covid} plantea que la situación actual tiene
+características de un choque de mayor trascendencia que el ocurrido durante la
+crisis económica de 2008, pues involucra aspectos de oferta y demanda, además de
+que exige la implementación de políticas públicas tanto en la fase actual de
+\emergencia, como en una fase posterior de profundización de la desaceleración
+económica. Este autor plantea que estas intervenciones tendrían el objetivo de
+proteger el empleo y el salario de los trabajadores;\autocite{prensa:levy_covid}
+lo que significaría que la intervención de política pública macroeconómica
+propuesta permitiría dotar de eficacia a la legislación en comento.
+
+Al observar de forma somera la propuesta de \citeauthor{prensa:levy_covid} y las
+declaraciones presidenciales sobre la política económica que se pretende seguir,
+resalta la lejanía de la política por implementarse con respecto a la política
+publicitada: el presidente AMLO ha manifestado que no aumentará ni creará
+impuestos, ni endeudará al país para realizar su intervención;[^AMLO] es decir,
+ha manifestado su renuencia a aplicar medidas contracíclicas típicas de la
+recomendación de la ciencia macroeconómica. No obstante estas afirmaciones,
+tanto la Secretaría de Hacienda y Crédito Público (SHCP) como el Banco de México
+(Banxico) han hecho anuncios que parecen mostrar la voluntad de aplicar medidas
+contracíclicas:
+
++ La SHCP obtuvo deuda por 6,000 millones de
+    dólares,\autocite{prensa:deuda6mmdd1} que "(...) *ayuda a
+    consolidar el conjunto de fuentes de financiamiento del gobierno, así
+    como* ***garantizar los recursos para enfrentar la crisis derivada del
+    Covid-19,*** *operar los programas y atender cualquier adversidad
+    futura*".\autocite{prensa:deuda6mmdd2}
++ Como consecuencia de "(...) *[l]a pandemia del COVID-19 y sus potenciales
+    implicaciones negativas para la actividad económica global*", Banxico
+    decidió implmenetar medidas entre las que se incluye la disminución de la
+    tasa de interés hasta el 6% y la inyección de $750,000 millones en el
+    sistema bancario.\autocite{prensa:banxico_covid}
+
+De lo anterior, puede concluirse que sí se han llevado a cabo medidas
+contracíclicas en el país por parte de las autoridades competentes, que
+tenderían a dotar de eficacia la legislación que se está comentando en este
+ensayo.[^Evaluacion]
+
+En conslusión, puede afirmarse que, aunque aún es pronto para evaluar la
+efectividad de estas medidas, si  llegaran a ser suficientes para atender la
+situación macroeconómica generada, estas ayudarían a realizar el desiderátum del
+que habla \citeauthor{lib:introduccion}, pues permitirían que esta legislación
+tuviese simultáneamente las tres características que se esperan: eficacia,
+validez formal y validez intrínseca. Asimismo, es importante que la totalidad
+del estado mexicano se comprometa con el análisis y el impulso de políticas
+adecuadas para afrontar la situación generada por el \coronavirus y estas
+medidas sean tan profundas como sea necesario, lo que depende de la evolución y
+gravedad de la crisis.
+
+[^r0]: $R_0$ se define como "[e]*l número promedio de* ***infecciones
+secundarias*** *generadas por* ***un individuo infeccioso***" (traducción libre,
+énfasis añadido). Al respecto, para que haya una epidemia se requiere que
+$R_0 > 1$, \autocite[3:15--3:33]{vid:coronavirus1}.
+
+[^Externalidad]: Una externalidad se origina cuando un agente económico no
+considera las consecuencias de sus acciones sobre terceros, que nadie más
+paga; por lo que "(...) *los agentes del mercado reciben las señales equivocadas
+y destinan recursos hacia externalidades malas y los retiran de externalidades
+buenas*" (traducción libre), \autocite{ency:mktfailure}. En este caso, un
+agente económico no recibiría las señales adecuadas sobre el *número óptimo de
+salidas a la calle* en un mercado libre, puesto que no podría tener en cuenta
+el número de contagios potenciales a los que puede exponer al resto de la
+población, lo que constituye una externalidad negativa.
+
+[^VonNeumann]: Un trabajador que tiene un salario predefinido ha renunciado al
+riesgo que podría representar participar en la actividad económica sin este, en
+cuyo caso podría obtener ingresos variables (y posiblemente mayores); por lo
+tanto, ha manifestado su aversión al riesgo en el ingreso. Este tipo de
+preferencias se denominan *función de utilidad de Von Neumann - Morgenstern* en
+economía, \autocite{ency:vonneuman}.
+
+[^Salario]: El presidente Andrés Manuel López Obrador (AMLO) solicitó a los
+funcionarios del orden federal renunciar voluntariamente hasta a un 25% de sus
+salarios como aporte a la sociedad en el combate a la pandemia provocada por el
+\coronavirus; esto, junto con otras medidas, aportaría (según sus estimaciones)
+unos 622 mil millones de pesos, \autocite[fracciones I y IX]{decreto:covid4}.
+
+[^AMLO]: Para una visión panorámica de la visión de política pública del
+presidente, véase \autocite{informeAMLO_2020, decreto:covid4}.
+
+[^Evaluacion]: Preliminarmente puede evaluarse que la diferencia en las señales
+del discurso presidencial y de la actuación de Banxico y la SHCP no contribuye
+a la disminución de la incertidumbre de los agentes económicos; por lo tanto,
+es deseable que AMLO module su discurso para apoyar la labor de las dependencias
+especializadas y envíe la señal de que la aplicación de una política
+contracíclica será aplicada por la totalidad del estado mexicano y contará con
+el apoyo presidencial.
+
+[^Decretos]: \autocite[artículo 1, fracción I]{decreto:covid2}, modificado por
+el \autocite[artículo 1]{decreto:covid3}.
+
+[^Fiscal]: Una medida fiscal contracíclica implica la reducción de impuestos o
+el aumento en el gasto público, \autocite[parte IV]{lib:mankiw}.
+
+[^Monetaria]: Una medida monetaria contracíclica implica la reducción de las
+tasas de interés y, consecuentemente, la ampliación de la masa monetaria,
+\autocite[parte IV]{lib:mankiw}.
