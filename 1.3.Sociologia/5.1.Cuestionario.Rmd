@@ -1,0 +1,71 @@
+---
+title: Cuestionario
+author: Santiago Botero Sierra
+date: 26 de abril de 2020
+---
+
+1. **Definición de Sociología**. La sociología es un saber que estudia las
+    explicaciones del *hecho social*; es decir, de fenómenos colectivos tales
+    como "(...) *la forma de estructura, de organización, de administración,
+    de control, de acción, etc.*"\autocite[sección 1.1.]{lib:hernandez}
+
+2. **¿De qué se encarga la sociología Jurídica?**. Es  el estudio sociológico
+    "(...) *de las instituciones, la cultura, la conducta y las normas
+    jurídicas, así como de otras manifestaciones del derecho* (...)"; esta fue
+    definida por Reger Cotterrell como "*el estudio sistemático, teóricamente
+    fundamentado y empírico del derecho como un conjunto de prácticas sociales
+    o como un aspecto o campo de la experiencia
+    social*".\autocite[prólogo]{lib:hernandez}
+
+3. **Relación de sociología con otras disciplinas**. La sociología se relaciona
+    con otras disciplinas que también estudian al hombre en sociedad. Por
+    ejemplo, tanto la sociología como la economía son ciencias positivas que no
+    intentan juzgar la conducta humana sino entenderla, para proponer políticas
+    públicas que modulen el comportamiento de una forma deseable. Por otra
+    parte, tanto la sociología como la antropología nacieron como saberes
+    comunes, pero la primera fue abocándose hacia sociedades industriales y la
+    segunda hacia sociedades ancestrales.
+
+4. **Función social del derecho**. El derecho es una forma de organizar la
+    actividad humana, de modo que brinda a las personas una expectativa sobre lo
+    que pueden esperar de terceros y lo que deben hacer frente a terceros
+    (hacer, dejar de hacer o tolerar).
+
+5. **Elementos que conforman una Cultura**. La cultura es un "[c]*onjunto de
+    conocimientos que permite a alguien desarrollar su juicio crítico*" y el
+    "[c]*onjunto de modos de vida y costumbres, conocimientos y grado de
+    desarrollo artístico, científico, industrial, en una época, grupo social,
+    etc.*";\autocite{def:cultura} en ese sentido, es lo que da significado a un
+    *hecho social* para un individuo que habita una sociedad y un tiempo
+    determinados.
+
+6. **Utilidad de la estadística en la sociología Jurídica**. Como fue observado
+    en la pregunta 2, la sociología jurídica es un estudio empírico del derecho;
+    en ese sentido, la estadística tiene muchos elementos que aportar sobre
+    inferencia para analizar diversas prácticas jurídicas, pues esta rama del
+    conocimiento utiliza datos para obtener inferencias sobre cómo se comporta
+    una población (por ejemplo, cómo se definen sentencias), así como aportar
+    elementos para sustentar las definiciones en casos particulares (por
+    ejemplo, la opinión experta para la resolución de un caso). Por ejemplo,
+    mediante  métodos estadísticos pudo observarse que cuando un grupo de jueces
+    en Israel tenía hambre  negaban, más probablemente, la libertad condicional
+    a reos.\autocite[64]{lib:kahneman}
+
+7. **Relevancia jurídica del juicio de Luis XVI**. El juicio de Luis XVI nos
+    exige reflexionar entre la legalidad y la legitimidad. Parece claro que
+    fue un juicio ilegal, pues en el antiguo régimen Luis XVI no cometió
+    delitos; sin embargo, resultaría contradictorio que, al considerar que la
+    sensación de injusticia de sus acciones provocó una revolución y cambio de
+    régimen, estas quedaran sin castigo. Considero que estas reflexiones son
+    útiles para analizar otros procesos revolucionarios, como los que ocurrieron
+    en el mundo durante el siglo XX.
+
+8. **Derechos y deberes del abogado**. Entre los derechos y deberes del abogado
+    se encuentran mantener su independencia, para lo cual debe tener un régimen
+    de incompatibilidades.\autocite[14--15, 19--21, 28--29, 41]{lib:coddeon}
+
+9. **¿Qué entiende por rol social y mencione un ejemplo?** El rol social es el
+    papel que se desempeña en la sociedad en una situación particular. Por
+    ejemplo, yo juego el rol social de estudiante y este asigna expectativas
+    sobre mi desempeño en ese rol frente a terceros; así como regulaciones
+    específicas que delimitan deberes y derechos de un estudiante.
