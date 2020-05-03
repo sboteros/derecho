@@ -1,0 +1,325 @@
+---
+title: El efecto del pensamiento ilustrado en el derecho
+subtitle: Tránsito de la lógica aristotélica a la newtoniana
+author: Santiago Botero Sierra
+date: 1 de mayo de 2020
+---
+
+En los siglos XV y XVI se dio un movimiento social, político y cultural de gran
+embergadura, el Renacimiento, que marcó el declive de una época en Europa. La
+época que finalizó, el Medioevo, duró desde la caída del Imperio Romano y se
+caracterizó por el sistema económico feudalista y por el monopolio de la Iglesia
+Católica sobre el conocimiento humano.\autocite[135--136]{lib:bernal} Dicho
+monopolio fue puesto a prueba por la adopción de nuevos dogmas de fe en el Sacro
+Imperio Romano Germánico (la Reforma)[^Reforma] y la reacción hacia él en el
+mundo latino (la Contrarreforma).[^Contrarreforma] Además, tuvo importantes
+implicaciones en el campo del saber científico, como se observa a continuación.
+
+[^Reforma]: Se conoce como la Reforma al cisma de la Iglesia Católica que se dió
+durante el renacimiento como resultado de las propuestas y críticas que Lutero y
+Calvino hicieron hacia ella, \autocite[135--136]{lib:bernal}. De acuerdo con
+\citeauthor{lib:vacas}, "[l]*a nobleza alemana acogió con agrado la mezcla de
+piedad radical y política conservadora de Lutero*[, pues] [e]*ra la combinación
+adecuada para liberarse del gobierno papal sin aumentar el riesgo de agitación
+social*", \autocite[capítulo 9]{lib:vacas}. Un precursor de la reforma
+protestante fue el sacerdote Jan Hus, "(...) *¨quien proponía una reforma de la
+Iglesia católica romana, impulsó el movimiento de Reforma y se dedicó a predicar
+sus ideas ante el público*", por lo cual fue condenado por el Santo Oficio,
+\autocite[31--34]{lib:12juicios}.
+
+[^Contrarreforma]: La contrarreforma fue el "(...) *movimiento de integración de
+los españoles a la religión católica en contraposición a la 'reforma' de los protestantes*", \autocite[148]{lib:bernal}.
+
+La revolución científica que operó en el renacimiento marcó definitivamente el
+paso del saber tradicional hacia una nueva metodología para interpretar y
+conocer la naturaleza: el método científico. Los viejos saberes establecidos,
+como la teoría geocéntrica y la astronomía ptoloméica fueron puestos a prueba
+con la invención del telescopio y la teoría heliocéntrica, que costó la vida a
+Giordano Bruno y el confinamiento a Galileo Galilei.[^Galileo] En estos hechos,
+se nota claramente el interés de la  Iglesia Católica por conservar su monopolio
+sobre el conocimiento científico, y  su incapacidad para mantenerlo en medio de
+la revolución cultural que se vivía en Europa.
+
+[^Galileo]: Para mayor información sobre los procesos seguidos por el Santo
+Oficio contra Giordano Bruno y Galileo Galilei en los albores del pensamiento
+científico moderno, véase \autocite[41--73]{lib:12juicios}.
+
+Con la invención de la física newtoniana, se cristalizó un modo de entender el
+conocimiento científico basado en el análisis de las fuerzas que ligan  a los
+cuerpos y hacen que estos lleguen hacia un equilibrio, por lo que se hizo
+necesario cuantificar variables de los mismos.[^LeyesNewton] Por el contrario,
+en el pensamiento científico aristotélico, el interés se centraba en conocer la
+esencia de los objetos y las interacciones entre estos se daban en desigualdad
+de condiciones, pues unos operaban como causas que generaban efectos (pasiones)
+sobre otros.[^CatAristot] Es decir, el cambio que operó fue el interés de
+cuantificar determinadas características de los cuerpos en lugar de la
+indagación sobre su naturaleza esencial.\autocite[capítulo 8]{lib:hernandez}
+
+[^LeyesNewton]: Newton postuló tres leyes para el movimiento de los cuerpos:  la
+ley de la inercia ("(...) *si un cuerpo está en reposo o moviéndose a
+velocidad  constante en línea recta, permanecerá en reposo o movimiéndose a
+velocidad  constante en línea recta a menos que una una fuerza actúe sobre
+él*"), la  ley de $F = m \cdot a$ ("(...) *la tasa de cambio del tiempo del
+momentum* [que  es igual al producto de la masa por la velocidad] *de un cuerpo
+es igual, tanto  en magnitud como en dirección, a la fuerza impuesta sobre
+él*"), y la ley de  acción--reacción ("(...) *cuando dos cuerpos interactúan,
+se aplican fuerzas entre sí que son iguales en magnitud y opuestas en
+dirección*"), \autocite{ency:newton}, traducción libre.
+
+[^CatAristot]: El pensamiento aristotélico busca un tratamiento sistemático
+de los proposiciones a través del concepto de categorías, que se nombraron en
+la Edad Media como: sustancia, cantidad, cualidad, relación, lugar, tiempo,
+posición, vestidura, acción y pasión, \autocite{ency:aristotle}. Las categorías
+de acción y pasión jugaron un papel preponderante en el pensamiento jurídico
+clásico, \autocite[sección 8.1]{lib:hernandez}.
+
+Al respecto, \citeauthor{lib:kuhn} señala que "(...) *las revoluciones científicas se consideran* (...) *como aquellos episodios en que un antiguo paradigma es reemplazado, completamente o en parte, por otro nuevo e incompatible*".\autocite[149]{lib:kuhn} En consecuencia, se observa que el
+cambio de paradigma que operó en el mundo científico  durante esta época es una
+revolución científica, pues el paradigma aristotélico fue sustituido por el
+newtoniano para estudiar el mundo.
+
+Asimismo, en el periodo posterior hubo también una revolución capitalista
+marcada por la invención de las sociedades anónimas en los Países Bajos; las
+implicaciones de la alianza entre la revolución científica y la revolución
+capitalista determinaron un cambio radical sobre la vida económica de los seres
+humanos en el mundo, mediante el que se dio inicio a la idea de desarrollo y
+progreso que hoy se entienden como naturales.\autocite[sección 15]{lib:sapiens}
+Este cambio se manifestó en un crecimiento económico inédito a partir del siglo
+XVII, que contrasta con la estabilidad del ingreso medio de la población en todos
+los momentos previos de la historia.[^Hockey]
+
+[^Hockey]: El patrón de este comportamiento se asemeja a la figura de un palo de
+hockey, \autocite[sección 1.3]{lib:econ}.
+
+De forma similar al cambio que se observó en la esfera económica, el cambio en
+el pensamiento jurídico operado como consecuencia de la revolución científica
+tuvo implicaciones radicales. El pensamiento jurídico evolucionó desde el
+pensamiento aristotélico, con el paradigma de la acción y la pasión, hacia el
+pensamiento newtoniano, con el paradigma de la acción y la
+reacción. Con este cambio paradigmático, "(...) *surgió la idea
+de que mientras el derecho siguiera operando mediante las relaciones de
+causa-efecto, se mantendría en el nivel de* ars iuris [y que] [s]*ólo podría ser
+ciencia moderna cuando operara y razonara las relaciones jurídicas con base en
+las categorías de acción y reacción*".[^Ars]
+
+[^Ars]: "*Decimos que pasamos de un* ars iuris *a una ciencia del derecho porque
+en los parámetros del pensamiento científico de Newton, transitamos de un
+derecho práctico a uno de orden racional. Dejamos de pensar el derecho a partir
+de casos prácticos y repetirlos de forma mecánica para convertirnos en una
+especie de geómetras científicos del derecho*" (énfasis en el original),
+\autocite[sección 8.2]{lib:hernandez}.
+
+El cambio del paradigma clásico al moderno en el ámbito jurídico se materializa
+en (i) la sustitución de la idea de un orden natural que demanda el conocimiento
+esencial de las cosas, por la idea de relaciones entre las cosas que pueden ser
+cuantificadas; (ii) la idea contractualista sobre el surgimiento del Estado y la
+necesidad de establecer un sistema de pesos y contrapesos en él; (iii) la
+secularización del derecho y el abandono de la necesidad de recurrir a la idea
+de dios como motor del orden jurídico; (iv) la concreción de la idea de igualdad
+entre los hombres en el mundo de las relaciones jurídicas; y, (v) el tránsito
+del derecho penal inquisitorial al adversarial.
+
+En el pensamiento jurídico clásico, la idea de que las cosas se ordenan hacia un
+fin (*ordo rerum in finem*) es fundamental para determinar las implicaciones de
+la propiedad: el propietario debe conocer la naturaleza de las cosas y darles el
+orden que les corresponde de acuerdo con ella; por lo tanto, él es la *causa* de
+las cosas de las que es propietario y estas sufren la *pasión* de sus
+determinaciones.[^Causa] Este esquema de pensamiento exige que las cosas puedan
+conocerse en su esencia, para determinar cuál es el orden que les corresponde.
+Por el contrario, en el paradigma moderno el conocimiento de la esencia de las
+cosas se puede sustituir por variables que operan con cargas valorativas
+mutables.[^Positivismo] Al respecto, \citeauthor{lib:hernandez} señala que
+
+> "(...) *los términos* jurídicos *son términos que sólo remiten a ideas vagas y
+> funcionalmente operan como indicadores.* (...) [L]*os textos legales
+> enmarcados en la metodología de las ciencias sociales sólo tienen expresión
+> formal, no contenido material;* ***son variables, no valores.*** *Por eso*
+> ***no puede haber lógica deóntica*** (...) *En concreto, tal parece que la
+> lógica tradicional demostrativa o apodíctica opera con* formas puras *y, por
+> consiguiente, con* valores *absolutos,* (...) *mientras que la lógica propia
+> de las ciencias sociales opera con* formas posibles *y, por lo tanto, con*
+> variables, *como en la lógica del derecho positivo*" (énfasis
+añadido).\autocite[sección 8.3]{lib:hernandez}
+
+[^Causa]: "*Causa, en sentido jurídico, es todo hecho antecedente que determina
+la eficacia de un acto subsiguiente (iusta causa), o la ineficacia (injusta
+causa)... son causales aquellos actos cuya causa deba ser probada* [y] (...)
+*abstractos aquellos actos formales cuya causa se presume*",
+\autocite[sección 8.1]{lib:hernandez}.
+
+[^Positivismo]: De acuerdo con \citeauthor{lib:hernandez}, "[s]*e pasó de la
+sumisión de los momentos cualitativos del concepto, al dominio de la
+consideración cuantativa.* (...) *Mediante la sustitución de valores por
+variables* [en el derecho positivo], *el derecho evolucionó del empleo de casos
+y términos concretos al uso de términos formales indeterminados; es decir, pasó
+a realizar un pensamiento puro independiente de la acción material. Comenzaron a
+describirse con objetividad las relaciones sin limitaciones de circunstancias
+materiales*", \autocite[sección 8.3]{lib:hernandez}.
+
+En este sentido, la idea de un orden determinado en el pensamiento clásico es
+fundamental para determinar la correcta organización de la vida en común,
+pues toda la sociedad habrá de ser organizada hacia un fin preestablecido por
+quien es su causa: "[e]*l* paterfamilias, *el monarca, el tirano, los
+aristócratas o los oligarcas son la fuerza en torno a la cual todas las demás
+fuerzas sociales se ordenan* (...) [y] *a esta misma lógica responden todas las
+organizaciones sociales* [en el pensamiento
+tomista]".\autocite[sección 8.1]{lib:hernandez}
+
+En contraste, la idea de acción y reacción, así como el pensamiento
+iusnaturalista de la igualdad entre los hombres significó, en el pensamiento
+moderno, que el Estado deja de ser el ordenador de la sociedad y se convierte en
+su contraparte en una relación de fuerzas. Esto implica, por una parte, el
+surgimiento del pensamiento contractualista, que permite construir la noción de
+soberanía popular,[^Soberania] pues "(...) *el poder del monarca se consolida
+gracias a  que es una reacción de un contrato social de los
+súbditos*".\autocite[sección 8.2]{lib:hernandez} Por otra parte, implica la idea
+del establecimiento de pesos y contrapesos en el sistema político que actúan
+como reacción al poder del monarca y permiten llegar a un equilibrio:
+
+> "[l]*a moderación es lo que resulta de una relación proporcional, de una
+> regulación y de un temperamento. Un* gobierno moderado *es un gobierno en que*
+> se ejercen fuerzas opuestas en composición. *Una fuerza* moderada *no es una
+> fuerza débil, sino una fuerza mantenida dentro de ciertos límites por otras
+> fuerzas.* (...) *Las palabras* despotismo *y* tiranía *designan a cualquier
+> poder que llega a imponerse* sin resistencia" (énfasis en el
+original).\autocite[sección 8.2]{lib:hernandez}
+
+[^Soberania]: En México se reconoce el principio de soberanía popular en el
+artículo 39 de la Constitución, en el cual se señala que "[l]*a soberanía
+nacional reside esencial y originariamente en el pueblo. Todo poder público
+dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en
+todo tiempo el inalienable derecho de alterar o modificar la forma de su
+gobierno*", \autocite[artículo 39]{constitucion}.
+
+La idea clásica de ordenación tiene un límite lógico, pues quien ordena ha de
+ser ordenado a su vez por una causa superior de la que él mismo es pasión, pero
+esta secuencia no puede ser llevada de forma infinita sino que debe detenerse en
+una causa primera que se mueve a sí misma: "(...) *si toda cosa en movimiento es
+movida por algo, y si lo que primero mueve es movido, aunque no por otra cosa,
+entonces tiene que moverse por sí mismo*".[^IusnaturalismoTeologico] De allí
+surge la necesidad en este tipo de pensamiento de remitirse a la idea de
+divinidad que transfiere el poder de ser generador de causas a determinados
+individuos;\autocite[sección 8.1]{lib:hernandez} de acuerdo con
+\citeauthor{lib:hernandez}, este asunto se manifiesta en el caracter ritual del
+orden jurídico clásico, pues
+
+> "[e]*n* [las] *civilizaciones* [antiguas] *se concebía la idea de que cierto
+> grupo de personas tenían la facultad de influir en las divinidades para
+> direccionar sus energías. En Roma, por ejemplo, los* pater familias *podían
+> hacer sacrificios y presidir los ritos religiosos de tal manera que orientaran
+> las fuerzas divinas (...). De este modo,* ***las causas celestes surtían
+> efectos en ciertas personas y éstas, a su vez, en el resto del mundo. Al ser
+> ellos mismos causas, podían producir efectos***" (énfasis
+añadido).\autocite[sección 8.1]{lib:hernandez}
+
+[^IusnaturalismoTeologico]: De acuerdo con \citeauthor{lib:iusrac}, en el
+pensamiento del derecho natural racionalista se observa la influencia del
+pensamiento escolástico y la idea de que Dios implanta en el hombre una
+racionalidad que le permite establecer el derecho, \autocite{lib:iusrac}.
+
+Por el contrario, el pensamiento moderno no requiere remitirse a una causa
+superior para explicar el orden que se observa en la naturaleza, pues el método
+científico requiere que "(...) *la ley que rige los fenómenos sociales deb*[a]
+*ser descubierta a partir de la experiencia misma y no suponer que ha sido
+introducida* a priori, *por la razón*" (énfasis en el
+original).\autocite[sección 8.2]{lib:hernandez} La investigación de estas leyes
+no requiere la remisión hacia la divinidad, sino que
+
+> "[s]*u origen est*[á] *en la conexión de 'ciertas cualidades de la mente
+> humana con la situación de los objetos externos', y tales reglas* [pueden]
+> *ser explicadas, por ello, como el efecto de unos principios psicológicos
+> dados --interés por uno mismo, generosidad limitada--, y de unas
+> circunstancias generales --vida en sociedad, escasez y facilidad de cambio de
+> los objetos--, que las acaba*[n] *generando necesariamente.* ***El verdadero
+> principio fundamental de esta teoría consist***[e] ***en el postulado de que
+> la idea de la justicia ni preexiste ni guía la acción racional humana*** *y
+> que la justicia es un producto social sólo* a posteriori *comprensible por la
+> razón*" (énfasis añadido).\autocite[sección 8.2]{lib:hernandez}
+
+En el mundo jurídico clásico eran desiguales las relaciones entre las personas,
+pues una  era causa de algo que la otra sufría como
+pasión.\autocite[sección 8.2]{lib:hernandez} Al respecto,
+\citeauthor{lib:hernandez} señala que
+
+> "[e]*n el mundo jurídico romano, en las estipulaciones, es notable encontrar
+> un sujeto que opera a modo de causa y otro que padece. En los contratos
+> sinalagmáticos, aparentemente podríamos encontrar la expresión de derechos y
+> obligaciones recíprocos* (...) [pero] *la condición de reciprocidad no
+> equipara fuerzas, sino que estamos en presencia de un intercambio de causas y
+> efectos distintos*".\autocite[sección 8.3]{lib:hernandez}
+
+En contraste, el tránsito hacia el paradigma de la acción y la reacción
+significó que las personas participaron del mundo jurídico como iguales, pues
+las obligaciones de las personas se interpretaron como reacciones a los actos o
+derechos de otra;[^Iguales] y que se estableciera una abstracción en la cual las
+personas son sustituibles en las relaciones jurídicas, pues únicamente se
+requiere determinar el rol que juegan en
+ellas.\autocite[sección 8.3]{lib:hernandez} La abstracción en comento es
+posible en el paradigma moderno ya que
+
+> "(...) *el derecho no se ocupa de las relaciones entre personas, sino* [que]
+> *únicamente considera en los individuos las funciones (posiciones en el grupo
+> social) y sus servicios (posición en los intercambios interindividuales),
+> estableciendo así reglas transpersonales, es decir, reglas cuyas relaciones
+> permiten la sustitutición entre individuos con identidad de función o de
+> servicio* (...)".\autocite[sección 8.3]{lib:hernandez}
+
+[^Iguales]: \citeauthor{lib:hernandez} señala que "[u]*n claro ejemplo de* [la
+aceptación de las ideas de acción y reacción en el mundo jurídico] *es la
+introducción del planteamiento de que un convenio es un acuerdo de volutades en
+el que éstas operan a modo de fuerzas iguales, aunque opuestas. El actuar de uno
+será una fuerza de acción que, sin producir un efecto en el otro, genera --con
+su comportamiento-- una reacción de la contraparte contratante*",
+\autocite[sección 8.2]{lib:hernandez}.
+
+Finalmente, en su expresión del derecho penal, el pensamiento jurídico clásico
+se fundamentó en el uso del modelo inquisitorial para la indagación de las
+causas penales. Aristóteles desarrolló el modelo dialéctico, que "(...) *se
+trata de una indagación a partir de preguntas y respuestas entre posiciones
+opuestas*". La expresión de este modelo en el análisis de las causas penales
+consiste en el modelo inquisitorial, donde el acusador formula una tesis que  se
+presume cierta, por lo que el acusado debe desvirtuar cada uno de sus  elementos
+(antitesis) para que el juez haga una observación general sobre los elementos y
+decida sobre el caso. Como en las demás relaciones observadas previamente, este
+modelo encarna una relación de desigualdad  donde el acusador es causa del
+proceso que padece el acusado.[^Inquisitorio]
+
+[^Inquisitorio]: \citeauthor{lib:hernandez} señala que"*en el método dialéctico
+nunca se pueden cuestionar los elementos que llevaron a establecer la tesis; es
+decir, en este caso, la integración del expediente por parte del Ministerio
+Público. Sólo se puede objetar la tesis presentada por el Ministerio Público, lo
+que permite ver claramente que la carga de la prueba se encuentra en el presunto
+responsable, dándole una notable ventaja al Ministerio Público, que nunca tuvo
+que probar los elementos mediante los cuales integró la acusación*",
+\autocite[sección 8.1]{lib:hernandez}.
+
+En contraste, las ideas modernas se manifiestan tanto en el entendimiento de lo
+que constituye una pena como en el proceso penal mismo. Por una parte, se
+interpretan las sanciones como una reacción, pues el castigo pasa a ser
+entendido como *reacción* de venganza ante una *acción* de una persona que causa
+daño a otra, y su proporcionalidad es entendida como la aprobación de un tercero
+no relacionado en la aplicación del castigo.[^Castigo] Por otra parte, el
+sistema penal dejó de ser inquistorio y pasó a ser adversarial, de forma que
+
+> "(...) [se] *confronta al fiscal con la defensa en un proceso en el que dos
+> fuerzas se enfrentan ante un jurado arbitrados por un juez.* (...) *El juez es
+> un observador en la confrontación de fuerzas entre el fiscal y la defensa, y
+> emite una sentencia a favor de la fuerza más coherente en el orden
+objetivo*".\autocite[sección 8.3]{lib:hernandez}
+
+[^Castigo]: "*En todos los casos un castigo parece equitativo a los ojos del
+resto de la humanidad cuando es tal que el espectador concurre con la persona
+ofendida al exigirlo. La venganza del perjudicado, que lo mueve a tomar
+represalias contra el ofensor por el daño, es la base real del castigo de los
+crímeres*", \autocite[sección 8.2]{lib:hernandez}.
+
+Con base en lo anterior, se concluye que el paradigma científico moderno
+permitió transitar de un esquema basado en el pensamiento aristotélico hacia uno
+que emula a la física, lo que generó cambios culturales y económicos de gran
+embergadura. Estos cambios afectaron el pensamiento jurídico en cuanto al
+entendimiento del orden y las relaciones en el mundo material, su impacto en la
+organización de los sistemas políticos, la eliminación de la idea de divinidad
+en el ritual jurídico, las relaciones contractuales y el derecho penal. Por lo
+tanto, puede afirmarse que el método científico generó una auténtica revolución
+científica en el pensamiento jurídico, así como lo hizo en otros campos de la
+actividad humana.
