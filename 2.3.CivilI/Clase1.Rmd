@@ -1,0 +1,55 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 9 de mayo de 2020
+---
+
++ Libros recomendados
+    - Introducción al estudio del derecho civil y personas. Fausto Rico
+        Álvarez y otros. 4ta Ed., 5ta. reimp.
+    - Instituciones de derecho civil. Derecho civil, primer curso. Tomo I.
+        Javier Tapia Ramírez.
+    - Legislación Civil de la CDMX.
+
+# Evolución del derecho civil y su contenido
+
++ Derecho romano (*ius civile*).
+    - Comprende derecho público y derecho privado.
+    - No contiene normas del *ius gentium* (regula la situación de los
+        extranjeros, es el antecedente de lo que hoy entendemos como el derecho
+        internacional) ni el *ius canonici*.
+
++ Edad media (derecho feudal).
+    - Inicia con la caída del imperio romano de occidente (¿470?).
+    - El *ius civile* se identificó con el *Corpus Iuris Civiles*, que fue una
+        recopilación que Justiniano encomendó del derecho romano clásico.
+        Este último contiene disposiciones del derecho público, derecho privado
+        y del *ius gentium*.
+    - Se mantiene la separación del *ius canonici*.
+    - Se empiezan a separar las disposiciones del derecho gremial,
+        fundamentalmente el de los comerciantes. Esto significa el inicio del
+        derecho mercantil. Se hizo más flexible, adaptado a las propias
+        necesidades comerciales.
+
++ Edad moderna
+    - Inicia, aproximadamente en 1450.
+    - Ahora el derecho civil deja de contener el derecho público, porque surge
+        el estado moderno como un nuevo tipo de organización política. Lucha
+        por la centralización del poder del monarca, en contraposición al
+        papa, el emperador, los otros reyes. Pensadores importantes como
+        Jean Bodin.
+    - Se da el proceso codificador: Código de Baviera (1756), Código Civil
+        Francés (1804), Código Civil Alemás (1900).
+    - La codificación, el *iusnaturalismo* y el *iuspositivismo*.
+
+        * El *iusnaturalismo* que surge es laico, en donde se pone en el centro
+            a la razón (*iusnaturalismo racionalista*).
+        * Al racionalismo le interesa la sistematización y completitud de las
+            leyes: un sólo documento que regule una sola materia de manera
+            exhaustiva y sistemática; esto es una consecuencia del pensamiento
+            iusnatural racionalista.
+
++ Época contemporánea
+    - Desmembramiento del derecho civil: derecho agrario, laboral, familiar,
+        notarial, etc.
+    - Inteligencia artificial y retos sobre la responsabilidad.

@@ -1,0 +1,133 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 9 de mayo de 2020
+---
+
+# Antecedentes del Derecho Penal
+
++ La frase *derecho penal* surge en Alemania en 1752.
++ Hasta 1751, la disciplina se llamaba *derecho criminal*.
++ Los autores están en desacuerdo con el nombre *derecho penal*, pues la
+    materia no debiera definirse a partir de la consecuencia, que es la pena;
+    además, hoy no es la única consecuencia que se puede imponer.
++ A pesar del desacuerdo, el nombre se popularizó a partir del primer código
+    penal, del 12 de febrero de 1810, en Francia. Este fue pedido por el
+    Cónsul Napoleón Bonaparte (junto con otros 4 códigos) a sus asesores.
+    A los territorios conquistados por Napoleón se les imponía el código penal
+    napoleónico.
+    - Se divide en dos partes: Libro I (parte general) y Libro II (partes
+        especiales).
+    - Actualmente los códigos tienen esa misma división.
++ Ver el artículo 410 del CNPP (Código Nacional de Procedimientos Penales), en
+    donde están previstas las consecuencias jurídicas que se pueden imponer en
+    el sistema acusatorio mexicano. El objeto directo del sistema acusatorio
+    mexicano es la imposición de una de las siguientes 5 consecuencias
+    jurídicas:
+
+    * Pena: fundamento, la culpabilidad.
+    * Medidas de seguridad accesorias: fundamento, la culpabilidad.
+    * Medidas de seguridad no accesorias: fundamento, la antijuridicidad.
+    * Consecuencias para personas morales con personalidad propia
+    * Consecuencias para personas morales sin persolidad propia
+
+    * Lo redactó el profesor en el 2013 y ha habido críticas, pero el artículo
+        ha sobrevivido durante estos 7 años a la crítica.
+
++ Código Penal Español de 1822, mención al periodista mexicano Manuel de
+    Larizabal y Uribe (Tlaxcala, 1739 -- 1820).  Se fue a  vivir en Valladolid
+    después de graduarse como abogado en México, se le considera como el origen
+    del derecho penal en idioma castellano.
+
++ Derecho penal.
+    - La autonomía del *derecho penal material* (sustantivo) y el *derecho
+        procesal penal* (adjetivo) adquirió autonomía en la década de 1853.
+    - Esa diferencia se hizo en 1853 por Óscar Rómulo, él se dio cuenta de que
+        se podía tener una acción procesal con independencia del derecho público
+        o el derecho civil de que se trate.
+    - A los penalistas se les enseñaban simultáneamente ambas normas; pero
+        actualmente hay plena autonomía entre el sustantivo y el adjetivo.
+    - La relación no es de supra-subordinación, sino una relación pendular de
+        mutua y recíproca interdependencia.
+    - También existen figuras jurídico-penales que tienen un ancla en el
+        sustantivo y otra en el procesal; esas figuras mixtas no son del todo
+        parte de uno u otro. Figuras limítrofe o frontera.
+
+    - "Es sustantivo lo que en derecho pertenece a cada quien, y es procesal el
+        medio para hacerlo valer": es un adagio romano que se utilizó en el
+        código napoleónico para diferenciar entre ambos.
+
++ En México hay 33 códigos penales, por cada entidad y el federal.
++ La parte general tiene reglas de imputación.
+    - Se le ocurrió en 1635 a Samuel Puffendorf (filósofo, matemático, alemán);
+        fue el primero en utilizar la palabra *imputación* en el derecho penal
+        y el primero en pensar en la posibilidad de unas reglas.
++ La parte especial tiene descripción de conductas típicas.
+    - Cada vez que surge un nuevo delito, se incorpora en la parte especial;
+        en este sentido es dinámica.
+
++ Evolución del derecho penal en México
+    - Código penal francés, 1810
+    - Código penal español, 1822
+    - Código penal de Veracruz, 1835
+    - El primer código penal federal fue de 1929
+    - Nuestro código penal federal actual es de 1931
+
+    - El código nacional de procedimientos penales surgió en el 2014; solo es
+        uno y tiene que hacer contacto con los 33 códigos penales.
+
+        * En los art. transitorios 4 y 8 dispone que los congresos locales deben
+            armonizar los 33 códigos penales.
+        * 2014 en adelante: periodo de armonización de los códigos penales.
+        * La tendencia es que en esta administración tengamos un código penal
+            nacional.
+        * Se está avanzando en la redacción del proyecto de código penal
+            nacional; hay voluntad en las dos últimas administraciones
+            presidenciales. Tenemos que repensar el derecho penal y crear nuevos
+            bienes jurídicos; adaptarnos a nuevas disposiciones como el Estatuto
+            de Roma de la Corte Penal Internacional. Un derecho penal
+            internacional más ágil, versatil, unificado. La tendencia no es
+            solamente nacional sino también internacional.
+        * Asuntos como el aborto podrían quedar como una reserva para las
+            entidades federativas.
+
++ También es una rama autónoma la *ejecución de sanciones*.
++ Doctrinas, tentencias o métodos de estudio: causalista, finalismo y
+    funcionalismo. El profesor no forma parte de una tendencia y considera que
+    el código penal nacional no debiera afiliarse a ninguna de esas tendencias.
+
+    - Surgieron a raíz de la pérdida de la II Guerra Mundial por Hitler, que
+        le pidió a Edmundo Mezger, el mejor penalista, para redactar el
+        código penal nazi. Una vez que logró librar la justicia internacional
+        formó un artificio que es la lucha de escuelas: el dolo y la culpa
+        debían analizarse a nivel de culpabilidad (Mezler) o del tipo
+        subjetivo (Vesler).
+    - Al profesor le parece que el dolo tiene que estudiarse al nivel del tipo.
+
++ Cálculo legal: clasificar el hecho, fundamentar la clasificación, calcular el
+    margen de punibilidad, calcular el procedimiento abreviado, y calcular los márgenes de sanciones.
+
++ Diferencias sustanciales entre sistemas o familias del derecho.
+    - Romano-germánica.
+    - Anglo-americano.
+    - Surge a partir de 1789. La diferencia más interesante entre ambas familias
+        está en la dignidad humana en la que se basa la familia romano-germánica
+        como la nuestra; lo heredamos debido a la obra de Kant de
+        1797 (Metafísica de las costumbres) donde desarrolla el imperativo
+        categórico y, este, tiene una consecuencia de que el ser humano es un
+        fin en sí mismo y, por lo tanto, no se lo puede instrumentalizar para
+        la obtención de algún otro fin. Ni siquiera la justicia puede estar por
+        encima de la dignidad en un sistema romano-germánico; la dignidad
+        humana es un bien jurídico por encima de la vida. Esto hace que no sea
+        permitido sacrificar una vida para salvar a diez, porque implica
+        cosificar al que se sacrificaría.
+    - Incorporó el concepto de dignidad en el artículo 4 del CNPP. El indiciado
+        no es para el proceso un objeto de información.
+    - Hegel, mandato general del derecho: "sé persona y respeta a los demás como
+        personas".
+
++ Lectura: Teoría del delito conforme al Código Nacional de Procedimientos
+    Penales.
+    - Hacer un reporte de una sóla página con las preguntas o inquietudes que
+        tengamos sobre él.
+    - Enviarla el viernes, para que él la pueda leer previamente.

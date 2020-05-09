@@ -1,0 +1,17 @@
+teacher: Miguel Carbonell
+subject: Derecho Constitucional
+bibliography: [../tools/biblio/libros.bib, ../tools/biblio/articulos.bib, ../tools/biblio/prensa.bib, ../tools/biblio/legislacion.bib, ../tools/biblio/otros.bib]
+lang: es
+colorlinks: true
+hyperrefoptions: [colorlinks,filecolor=Teal,citecolor=black,breaklinks=true,urlcolor=DarkSlateBlue, linkcolor=DarkSlateBlue]
+geometry: [left=3cm, right=3cm, top=2.5cm, bottom=2.5cm]
+fontsize: 12pt
+fontfamily: times
+graphics: true
+biblatex-chicago: true
+cover: true
+major: Licenciatura en derecho
+institute: Centro de Estudios Jurídicos Carbonell
+logo: ../tools/latex/CEC.png
+licencia: ../tools/latex/ccbyncsa.png
+inicio: true
