@@ -1,0 +1,88 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 11 de mayo de 2020
+---
+
++ Parte orgánica
+    - República democrática
+    - Sistema presidencialista
++ Parte dogmática
+    - Derechos humanos (teoría general de los DDHH --fundamentos,
+        características, interpretación), DDHH del ordenamiento jurídico
+        mexicano
+
++ Teoría de la constitución
+
++ Método de trabajo
+    - Exposición magistral, algunas lecturas obligatorias, lecturas sugeridas
+        complementarias.
+    - Evaluación con base en el contenido de las clases.
+
+# Estado constitucional de derecho
+
++ Tiene dos fuentes históricas
+    + Doctrinal. El pensamiento ilustrado es la fuente doctrinal del estado
+        constitucional de derecho. Libertades, división de poderes y lucha contra
+        el estado absolutista. Algunos autores ilustrados que suponen el
+        origen doctrinal del estado constitucional de derecho.
+
+        * Thomas Hobbes, *El leviatán*, que tiene una visión del estado como
+            una estructura (suprapoder) que las personas consensúan tener para
+            proteger la vida de los ciudadanos.
+        * John Locke, *El segundo ensayo sobre el gobierno civil*, aporta (i)
+            la división de poderes (legislativo y ejecutivo) pues no es sano que
+            quien hace las normas se encargue también de aplicarlas, y (ii)
+            derechos naturales e innatos al ser humano (derecho de propiedad y a
+            la felicidad).
+        * Jean Jacques Rosseau, *El contrato social*, desarrolla ideas (i) del
+            contractualismo, (ii) de la soberanía popular, (iii) de la ley como
+            expresión de la soberanía del pueblo (visión más centrada en la ley
+            y no tanto en la Constitución).
+        * Montesquieu, *El espíritu de las leyes*, avanza un poco con respecto a
+            la división de poderes y plantea que son 3 poderes (ejecutivo,
+            legislativo y judicial) y que es necesario dividir al poder para
+            proteger la libertad ("es una experiencia eterna que todo hombre que
+            tiene poder tiende a extralimitarse; es necesario que, por
+            disposición de las cosas, el poder frene al poder").
+
+    + Normativa. Conjunto de normas que contienen los principiosw del estado
+        constitucional de derecho y que son antecedentes en la redacción de
+        las normas que le dan contenido a este.
+
+        - Declaración de independencia de los Estados Unidos, 1776.
+        - Constitución Federal de Estados Unidos, 1787. Es la primera
+            constitución del mundo en sentido moderno, que involucra los
+            principios modernos: (i) forma de gobierno presidencialista (hay dos fuentes de legitimidad de origen, para el ejecutivo y,
+            separadamente, el legislativo; a diferencia del sistema
+            parlamentario, donde hay una única votación para el legislativo); (ii) forma federal del Estado (supone diferentes centros de poder
+            político --sistema de fuentes--); (iii) supremacía constitucional;
+            (iv) la independencia del poder judicial (debate sobre la
+            elección popular de los jueces, pero hay una función
+            técnico-jurídica del derecho); y (v) la rigidez constitucional (es
+            decir, cuando la Constitución no se reforma con el mismo
+            procedimiento que las leyes; 27 modificaciones en los 233 años de
+            la Constitución, son emiendas que se anexan al final sin modificar
+            el texto original, la última enmienda fue en 1992; la rigidez se
+            puede suplir con la interpretación por parte de los tribunales).
+        - Declaración universal de los derechos del hombre y del ciudadano,
+            agosto de 1789. Son 17 artículos; es la respuesta jurídica que
+            plasma los ideales de la revolución francesa.
+
++ La constitución estadounidense busca la división de poderes; mientras que la
+    declaración francesa se enfoca en la primacía de los derechos humanos. Se
+    puede decir que el constitucionalismo moderno se fundamenta en estas dos
+    orillas del océano Atlántico ("constitucionalismo de las dos orillas").
++ Algunos desarrollos doctrinales posteriores a la ilustración, fueron:
+    - *El federalista*, Madisson, Jay y Hamilton.
+    - Tocqueville, *La democracia en América*.
++ El constitucionalismo moderno es de base escrita; la experiencia británica no
+    es extrapolable.
++ Rigidez constitucional, *common law* versus *romano-germánico*; en nuestro
+    sistema pesa mucho la idea de la codificación, en cambio en el *common law*
+    hay un mayor peso en el sistema del precedente judicial. Hay que tener
+    claridad en que los modelos jurídicos son híbridos, no son puros.
+
++ **Leer**
+    - Declaración de independencia de Estados Unidos
+    - Declaración de los derechos del hombre y el ciudadano.
