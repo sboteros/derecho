@@ -1,5 +1,5 @@
-teacher: Derecho Penal I
-subject: Rubén Quintino
+teacher: Rubén Quintino Cepeda
+subject: Derecho Penal I
 bibliography: [../tools/biblio/libros.bib, ../tools/biblio/articulos.bib, ../tools/biblio/prensa.bib, ../tools/biblio/legislacion.bib, ../tools/biblio/otros.bib]
 lang: es
 colorlinks: true

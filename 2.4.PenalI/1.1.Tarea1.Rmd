@@ -14,12 +14,13 @@ el momento son meramente conceptuales, puesto que desconozco el lenguaje que se
 utiliza en el mismo. Dicho lo anterior, mis preguntas (únicamente hasta la
 sección 4.6 del libro) son:
 
-1. En el libro se hace referencia a diversas escuelas penalistas como el
+1. En el libro se hace referencia a diversas escuelas penales como el
     *causalismo* y el *finalismo* y sus reivindicaciones sobre el sistema penal
-    mexicano a partir del CNPP.[^Escuelas] ¿Podría aclarar cuáles son las
-    escuelas, cuáles son sus aspectos más sobresalientes que las diferencian
-    entre sí, y cuáles son los aspectos del CNPP que las llevaron a reivindicar
-    su impronta en el sistema penal mexicano?
+    mexicano a partir del Código Nacional de Procedimientos Penales
+    (CNPP).[^Escuelas] ¿Podría aclarar cuáles son las escuelas, cuáles son los
+    aspectos más sobresalientes que las diferencian entre sí, y cuáles son los
+    aspectos del CNPP que las llevaron a reivindicar su impronta en el sistema
+    penal mexicano?
 
 2. En el libro se hace referencia a una *operación de prelación
     lógico-numérica* (la denotaré $\gg$) que no está definida en el mismo; sin
@@ -29,100 +30,100 @@ sección 4.6 del libro) son:
     Si $A$ tiene prelación lógico-numérica sobre $B$ ($A \gg B$), entonces:
     **i)** Si no  $A$, entonces no $B$; y, **ii)** para todo $A$, existe $B$.
 
-    La pregunta es si eso es lo que se entiende por la operación $\gg$, o qué
-    elementos tiene dicha operación.
+    La pregunta es si eso es lo que se entiende por la operación $\gg$ o, en
+    su caso, cuáles son sus elementos.
 
 3. Entiendo que la imputación ($I(\cdot)$) es una operación que asigna una
     acción a una  persona y que los elementos de entrada para ella son cinco
-    (hecho típico $\mathbb{h}$, grado de ejecución $e$, forma de intervención
-    $\mathbb{i}$, naturaleza ($n$) y, en su caso, concurso $c$;
-    $I(\mathbb{h}), \mathbb{e}, \mathbb{i}, n, c)$). Me queda claro que esos
+    (hecho típico $\mathbf{h}$, grado de ejecución $e$, forma de intervención
+    $\mathbf{i}$, naturaleza $n$ y, en su caso, concurso $c$);
+    $I(\mathbf{h}, e, \mathbf{i}, n, c)$). Me queda claro que esos
     elementos son las *entradas*, pero no cuál es la *salida* de esa operación;
     ¿es una variable binaria (se imputa o no se imputa la acción a la persona) o
     contiene más elementos?
 
 4. Entiendo que la existencia de razones de justicación (disculpantes o
-    justificantes) no invalida la existencia de $\mathbb{h}$ y, por lo tanto,
-    hace que subsista la imputa $I$. ¿Esto significa que continúa la existencia
-    del delito pero no hay reproche, y por lo tanto, no hay pena? ¿Podría
-    aclarar estos conceptos por favor?
+    justificantes) no invalida la existencia de $\mathbf{h}$ y, por lo tanto,
+    hace que subsista la imputación $I$. ¿Esto significa que continúa la
+    existencia del delito pero no hay reproche y, por lo tanto, no hay pena?
 
 5. La definición de hecho típico, o hechos típicos para el caso del concurso,
-    ($\mathbb{h} = (h_1, ..., h_n)$) es necesaria para la imputación porque
-    $\mathbb{h} \gg e, \mathbb{h} \gg \mathbb{i}, \mathbb{h} \gg n$, pero
-    no está definido en el texto. Yo interpreto de una lectura general del
-    capítulo 4 que los elementos de un hecho típico son: un bien jurídico $b$,
-    unas acciones que encuadran en él $\mathbb{a}$, unas características
-    objetivas $\mathbb{o}$, unas características subjetivas ($\mathbb{s}$), y
-    unas calidades personales del interviniente ($\mathbb{\rho}$)
-    $\mathbb{s}$  ($h_i = h_i(b, \mathbb{a}, \mathbb{o}, \mathbb{s}, \mathbb{\rho})$);
+    ($\mathbf{h} = (h_1, \dots, h_n)$) es necesaria para la imputación porque
+    $\mathbf{h} \gg e, \mathbf{h} \gg \mathbf{i}$ y $\mathbf{h} \gg n$, pero
+    $\mathbf{h}$ no está definido en el texto. Yo interpreto de una lectura
+    general del capítulo 4 que los elementos de un hecho típico son: un bien
+    jurídico ($b$), unas acciones que encuadran en él ($\mathbf{a}$), unas
+    características objetivas ($\mathbf{o}$), unas características subjetivas
+    ($\mathbf{s}$), y unas calidades personales del interviniente
+    ($\boldsymbol{\rho}$),
+    ($h_i = h_i(b, \mathbf{a}, \mathbf{o}, \mathbf{s}, \boldsymbol{\rho})$);
     mis preguntas son:
 
     + ¿Son esos los elementos de un hecho típico? ¿O hay más o menos elementos
         que deban analizarse?
     + ¿Los hechos típicos y los bienes jurídicos se encuentran definidos en
-        las partes especiales de los códigos penales? ¿O dónde los encontramos?
+        las partes especiales de los códigos penales o dónde los encontramos?
 
-6. ¿Cuál es la relación entre las palabras delito, hecho típico y conductas?
+6. ¿Cuál es la relación entre los términos delito, hecho típico y conductas?
     ¿Estos se utilizan como sinónimos o tienen diferencias en su  uso en derecho
     penal?
 
-7. En el grado de ejecución consumada permanente (artículo 17, fracción II, del
-    Código Penal para la Ciudad de México -- CPCDMX) el delito es una sucesión
-    de actos ($\mathbb{a}$) que se extienden en el tiempo
+7. En el grado de ejecución consumada permanente el delito es una sucesión
+    de actos ($\mathbf{a} = (a_1, \dots, a_n)$) que se extienden en el tiempo
     ($\underline{t} < t < \overline{t}$) y, posiblemente, en el
-    espacio ($\mathbb{l} = (l_1, ..., l_n)$); por lo tanto, se entiende
+    espacio ($\mathbf{l} = (l_1, \dots, l_n)$); por lo tanto, se entiende
     realizado en cada lugar en el que se  cometió uno de los actos
     $a_i$:[^Permanente]
 
     + ¿Cómo se resuelven los conflictos de competencia entre los tribunales de
         dos lugares diferentes para saber quién analizará el delito?
     + En caso de que ambos tribunales puedan investigar el delito, ¿cómo se
-        garantiza el principio de *non bis in idem* para el acusado y/o
+        garantiza el principio de *non bis in idem* para el acusado o
         imputado?
-    + Si la pena establecida para $\mathbb{h}$ es diferente en cada uno de los
+    + Si la pena establecida para $\mathbf{h}$ es diferente en cada uno de los
         lugares, ¿debiera atraerse el caso por el tribunal donde la pena posible
         sea menor para garantizar el principio *pro homine*?
 
 8. ¿Podría explicar las diferencias entre los grados de ejecución consumada
     permanente y consumada continuada? En el texto, usted plantea que en la
     consumación permanente depende de la voluntad del ejecutor hacer cesar o no
-    $\mathbb{h}$ mientras que en la consumación continuada hay pluraridad de
-    conductas ($\mathbb{a} = (a_1, ..., a_n), n \geq 1$) con unidad de
+    $\mathbf{h}$ mientras que en la consumación continuada hay pluraridad de
+    conductas ($\mathbf{a} = (a_1, \dots, a_n), n > 1$) con unidad de
     propósito.
 
-    + ¿Si depende de la voluntad del ejecutor hacer cesar $\mathbb{h}$ en la
-        consumación permanente, esto no implica también que hay pluralidad de
+    + Si depende de la voluntad del ejecutor hacer cesar $\mathbf{h}$ en la
+        consumación permanente, ¿esto no implica también que hay pluralidad de
         conductas?
     + Por ejemplo, un secuestro que implique varias acciones para mantener
         cautiva a una misma víctima, ¿por qué debiera encuadrarse en un grado
         de ejecución y no en otro?
 
-9. Entendí que el grado de ejecución $i$ en tentativa (acabada o inacabada) se
+9. Entendí que el grado de ejecución en tentativa (acabada o inacabada) se
     relaciona con la existencia de un plan
-    (lo llamaré $\mathbb{\pi} = (\pi_1, ..., \pi_n)$, donde $\pi_i$ son las
-    acciones planeadas) por parte del (los) ejecutor(es). Me surgen
-    interrogantes sobre la relación entre las acciones realizadas que encuadran  
-    en el $\mathbb{h}$ ($\mathbb{a}$) y las planeadas ($\mathbb{\pi}$);
-    puesto que entiendo que $\mathbb{\pi}$ está en el mundo de las ideas,
-    mientras que $\mathbb{a}$ está en el mundo fáctico:
+    (lo denotaré $\boldsymbol{\pi} = (\pi_1, \dots, \pi_n)$, donde $\pi_i$ son
+    las acciones planeadas) por parte del (los) ejecutor(es). Me surgen
+    interrogantes sobre la relación entre las acciones realizadas que encuadran
+    en $\mathbf{h}$ ($\mathbf{a}$) y las planeadas ($\boldsymbol{\pi}$);
+    puesto que entiendo que $\boldsymbol{\pi}$ está en el mundo de las ideas,
+    mientras que $\mathbf{a}$ está en el mundo fáctico:
 
-    + Lo que se observa es únicamente $\mathbb{a}$, ¿cuáles son las
+    + Lo que se observa es únicamente $\mathbf{a}$, ¿cuáles son las
         implicaciones de esto en la confrontación entre la defensa y la
         acusación? (Imagino que, si la tentativa inacabada es menos lesiva para
         el acusado que la acabada, entonces la defensa tiene incentivos para
-        argumentar que $\mathbb{\pi}$ era más abarcador que $\mathbb{a}$,
-        mientras que la acusación desearía acotar $\mathbb{\pi}$ a $\mathbb{a}$;
-        pero, al ser inobservable $\mathbb{\pi}$ no habrían suficientes
-        elementos para argumentar en un sentido o en otro).
+        argumentar que $\boldsymbol{\pi}$ era más abarcador que $\mathbf{a}$,
+        mientras que la acusación desearía acotar $\boldsymbol{\pi}$ a
+        $\mathbf{a}$; pero, al ser inobservable $\boldsymbol{\pi}$, no habrían
+        suficientes elementos para argumentar en un sentido o en otro).
     + Imagino que lo anterior es especialmente relevante para argumentar que
-        el interventor *desistió* de la ejecución del plan (si $\mathbb{\pi}$
-        puede amplificarse, es mayor el margen para argumentar que
-        $\mathbb{a}$ es menor debido al desistimiento del ejecutor)
-    + ¿Existe alguna definición operativa de $\mathbb{\pi}$? Por ejemplo, el
+        el interventor *desistió* de la ejecución del plan (si
+        $\boldsymbol{\pi}$ puede amplificarse, es mayor el margen para
+        argumentar que $\mathbf{a}$ es menor debido al desistimiento del
+        ejecutor).
+    + ¿Existe alguna definición operativa de $\boldsymbol{\pi}$? Por ejemplo, el
         mínimo número de pasos necesario para lesionar o arriesgar el bien
         jurídico $b$. Una definición en algún sentido permitiría reducir el
-        peligro del inciso anterior.
+        peligro de los incisos anteriores.
 
 10. ¿Podría explicar en qué sentido se debate si es posible el grado de
     ejecución en tentativa para los casos de la naturaleza de omisión simple?
@@ -133,17 +134,17 @@ sección 4.6 del libro) son:
 
 12. En cuanto a su forma de intervención, usted plantea que "[e]*n los delitos
     dolosos* [el] *autor directo es quien tiene el* dominio del hecho" (énfasis
-    añadido) y que el "[c]*oautor es la persona que, junto con otra u otras,
-    interviene de tal manera que la suma de las funciones de los intervinientes
-    representa un* dominio funcional *de la realización del
-    hecho*".\autocite[sección 4.4.]{lib:teodel} De allí me surge la pregunta,
-    ¿es posible que haya coautoría culposa de un delito?
+    en el original) y que el "[c]*oautor es la persona que, junto con otra u
+    otras, interviene de tal manera que la suma de las funciones de los
+    intervinientes representa un* dominio funcional *de la realización del
+    hecho*" (énfasis en el original).\autocite[sección 4.4.]{lib:teodel} De allí
+    me surge la pregunta, ¿es posible que haya coautoría culposa de un delito?
 
 13. Usted señala que "*la forma de intervención más grave prevalece sobre la
     de menor gravedad*", por lo que prevalece (voy a denotar a esta relación
-    como $\prec$) la participación inductora ($i_p^i$) sobre  la participación
+    como $\succ$) la participación inductora ($i_p^i$) sobre  la participación
     cómplice ($i_p^c$), $i_p^i \succ i_p^c$.\autocite[sección 4.4]{lib:teodel}
-    ¿Cuál es el ordenamiento de mayor  a menor gravedad con respecto a las demás
+    ¿Cuál es el orden, de mayor a menor gravedad, con respecto a las demás
     formas de intervención?
 
 14. En su exposición sobre la forma de intervención como partícipe encubridor
@@ -152,21 +153,20 @@ sección 4.6 del libro) son:
     (énfasis en el original);\autocite[sección 4.4]{lib:teodel} por otra parte,
     en la clase anterior usted mencionó que obligar a que la familia delate al
     presunto criminal podría representar un menoscabo a la dignidad humana de
-    los familiares en un sistema romano-germánico. ¿Podría aclarar en qué
-    aspectos un familiar puede abstenerse de cooperar en la solución de un
-    crimen para que no se le considere como partícipe encubridor o coautor?
+    los familiares inaceptable en un sistema romano-germánico. ¿Podría aclarar
+    en qué aspectos un familiar puede abstenerse de cooperar en la solución de
+    un crimen para que no se le considere como partícipe encubridor o autor?
     ¿O esto está relacionado con las razones de justificación señaladas en la
-    pregunta 4, de modo que aunque sí pueda configurarse una imputación esta
-    no sería objeto de reclamo?
+    pregunta 4, de modo que aunque sí pueda configurarse una imputación esta no
+    sería objeto de reproche?
 
-15. La naturaleza de comisión por omisión señala que $\mathbb{h}$ se atribuye
+15. La naturaleza de comisión por omisión señala que $\mathbf{h}$ se atribuye
     a quien omita impedir el resultado material si tenía el *deber jurídico* de
-    evitarlo y cumple con tres requisitos
-    adicionales.\autocite[sección 4.5]{lib:teodel} En su exposición usted
-    explica tanto el *deber jurídico* como el *deber objetivo*. ¿Cómo se
-    relaciona el *deber normativo* con el *deber jurídico*? ¿El *deber
-    normativo* también encuadra en la naturaleza de comisión por omisión de una
-    imputación?
+    evitarlo y cumple con tres requisitos adicionales; en su exposición usted
+    explica tanto el *deber jurídico* como el *deber objetivo*.\autocite[sección
+    4.5]{lib:teodel} ¿Cómo se relaciona el *deber objetivo* con el *deber
+    jurídico*? ¿El *deber objetivo* también encuadra en la naturaleza de
+    comisión por omisión de una imputación?
 
 [^Escuelas]: "(...) [F]*ue muy desafortunado escuchar a prominentes penalistas
 --basados en la sola definición de cuerpo del delito-- que nuestro sistema se
@@ -174,11 +174,12 @@ tornaba: ahora* causalista, *ahora* finalista" (énfasis en el original),
 \autocite[sección 3.7]{lib:teodel}.
 
 [^Prelacion]: "*Evidentemente puede advertirse una cierta* prelación
-lógico-numérica *entre el primero* [el tipo penal] *y los restantes elementos de
+lógico-numérica *entre el* [hecho típico] *y los restantes elementos de
 la clasificación jurídica, debido a que: a) Si lo conducta no es típica: no
 puede*[n] *existir* [los demás elementos de la clasificación jurídica]
 (...)*; y b) A la inversa, si la conducta es típica, entonces, necesariamente,
-deberá estar dotada de* [los demás elementos de la clasificación jurídica]", \autocite[sección 4.1]{lib:teodel}.
+deberá estar dotada de* [los demás elementos de la clasificación jurídica]",
+\autocite[sección 4.1]{lib:teodel}.
 
 [^Permanente]: "*El momento y el lugar de la realización del hecho se extienden
 hasta la terminación del mismo*", \autocite[sección 4.3]{lib:teodel}.
