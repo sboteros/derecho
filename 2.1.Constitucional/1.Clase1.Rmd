@@ -53,12 +53,14 @@ date: 11 de mayo de 2020
         - Declaración de independencia de los Estados Unidos, 1776.
         - Constitución Federal de Estados Unidos, 1787. Es la primera
             constitución del mundo en sentido moderno, que involucra los
-            principios modernos: (i) forma de gobierno presidencialista (hay dos fuentes de legitimidad de origen, para el ejecutivo y,
+            principios modernos: (i) forma de gobierno presidencialista (hay dos
+            fuentes de legitimidad de origen, para el ejecutivo y,
             separadamente, el legislativo; a diferencia del sistema
-            parlamentario, donde hay una única votación para el legislativo); (ii) forma federal del Estado (supone diferentes centros de poder
-            político --sistema de fuentes--); (iii) supremacía constitucional;
-            (iv) la independencia del poder judicial (debate sobre la
-            elección popular de los jueces, pero hay una función
+            parlamentario, donde hay una única votación para el
+            legislativo); (ii) forma federal del Estado (supone diferentes
+            centros de poder político --sistema de fuentes--); (iii) supremacía
+            constitucional; (iv) la independencia del poder judicial (debate
+            sobre la elección popular de los jueces, pero hay una función
             técnico-jurídica del derecho); y (v) la rigidez constitucional (es
             decir, cuando la Constitución no se reforma con el mismo
             procedimiento que las leyes; 27 modificaciones en los 233 años de

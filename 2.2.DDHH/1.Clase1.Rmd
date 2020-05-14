@@ -1,0 +1,58 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 13 de mayo de 2020
+---
+
++ Hay 4 niveles de análisis
+    - Dogmática jurídica: ¿Cuáles son los DDHH?, para lo cual tendríamos que
+        remitirnos a la Constitución y los tratados internacionales. Entonces,
+        podemos dar un tipo de respuesta más o menos adecuado en función del
+        país del que se trate.
+    - Teoría de la justicia o filosofía política: ¿Cuáles deberían ser los DDHH?
+        Por ejemplo, ¿qué derechos necesitamos para hacer realidad la dignidad
+        humana? En este nivel de análisis nos debemos fijar en valores  (por
+        ejemplo, igualdad, justicia) y reconocer que estos son dinámicos (en la
+        sociedad y en el tiempo); ver sobre lógica de aseguradoras, teoría de la
+        justicia y Ronald Dworkin; el secreto de la información genética debiera
+        ser un DDHH.
+    - Teoría del derecho: ¿Qué son los DDHH?, diferencia entre derechos humanos
+        y derechos contractuales; una característica que diferencia a los DDHH
+        de otro tipo de derechos es la universalidad.
+    - Sociología jurídica: ¿Se aplican efectivamente los DDHH? Se debe hacer
+        a través de herramientas sociológicas o históricas. Los derechos cuestan
+        (salud, educación, vivienda, debido proceso, etc.), entonces hay un
+        elemento económico y la pregunta importante para la sociedad es quién
+        debe asumir ese costo.
+
++ Estos niveles nos ayudan a diferenciar entre:
+    - Vigencia: En el primer nivel de análisis, se requiere citar normas
+        vigentes (validez formal).
+    - Validez: En el segundo nivel nos fijamos en la validez intrínseca
+        (justicia).
+    - Eficacia: En el cuarto nivel de análisis nos preguntamos por la eficacia
+        de los DDHH.
+
+    * La aplicación de una norma vigente en un país como México es contingente
+        (puede ser eficaz o no), por lo que no se pueden mezclar estos conceptos
+        que hay que separar metodológicamente.
+
++ Fundamentos de los DDHH
+    - El concepto lo denominamos *bien básico*: los DDHH existen en la medida
+        en que protegen un bien básico.
+    - Un bien básico es aquel que le permite a la persona desarrollar su propio
+        plan de vida. Esto implica reconocer a las personas como seres humanos
+        dotados de autonomía moral; no en función de lo que alguien más quiera.
+    - Lo que hacen las dictaduras es expropiarnos la autonomía moral, impedir
+        que se desarrolle la dignidad humana.
+    - Los DDHH están más allá:
+
+        * De la lógica del mercado: Su lógica es la oferta y la demanda; lo que
+            no se puede comprar y vender porque no es materia del intercambio
+            mercantil es la titularidad del DDHH, pero sí el ejercicio del DDHH.
+        * De la política: Los DDHH son una especie de frontera moral de la
+            humanidad, pues cuando ya se satisface un determinado nivel de un
+            DDHH ya no se puede dar marcha atrás. Ferrajoli y otros dicen que
+            los DDHH son triunfos frente a la mayoría, pues no dependen de la
+            opinión pública; esto viene del pensamiento ilustrado, ya estaba en
+            Hobbes.
