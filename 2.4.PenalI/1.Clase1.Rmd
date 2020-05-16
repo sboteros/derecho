@@ -4,6 +4,8 @@ author: Santiago Botero Sierra
 date: 9 de mayo de 2020
 ---
 
++ Teléfono: 55 1439 5122
+
 # Antecedentes del Derecho Penal
 
 + La frase *derecho penal* surge en Alemania en 1752.
@@ -68,6 +70,7 @@ date: 9 de mayo de 2020
 
 + Evolución del derecho penal en México
     - Código penal francés, 1810
+    - Código penal de Baviera, 1813
     - Código penal español, 1822
     - Código penal de Veracruz, 1835
     - El primer código penal federal fue de 1929
@@ -105,7 +108,8 @@ date: 9 de mayo de 2020
     - Al profesor le parece que el dolo tiene que estudiarse al nivel del tipo.
 
 + Cálculo legal: clasificar el hecho, fundamentar la clasificación, calcular el
-    margen de punibilidad, calcular el procedimiento abreviado, y calcular los márgenes de sanciones.
+    margen de punibilidad, calcular el procedimiento abreviado, y calcular los
+    márgenes de sanciones.
 
 + Diferencias sustanciales entre sistemas o familias del derecho.
     - Romano-germánica.
@@ -131,3 +135,36 @@ date: 9 de mayo de 2020
     - Hacer un reporte de una sóla página con las preguntas o inquietudes que
         tengamos sobre él.
     - Enviarla el viernes, para que él la pueda leer previamente.
+
++ Resumen de la clase:
+    - Historia y surgimiento del Derecho Penal: Alemania, 1810.
+    - Interdependencia entre el derecho adjetivo (código penal) y el subjetivo
+        (código procesal penal). Autonomía del derecho procesal desde 1855.
+    - Partes general y especial. Feuerbac perfeccionó el código penal francés
+         en el de Baviera: empezó con los delitos que atentan contra las
+        instituciones del Estado y luego contra las personas. Es más claro el
+        de Baviera que el de Francia.
+    - Lo deseable es tener un sólo código tanto sustantivo como adjetivo; no
+        obstante hay un único CNPP y 33 códigos penales por cada entidad de la
+        república; no obstante, efectivamente el CNPP tiene elementos del
+        derecho sustantivo.
+
++ Preguntas sobre la clase
+    - El principio de dignidad humana en el artículo 4 del CNPP está con base en
+        el derecho natural. Este es el bien más importante que protege el
+        derecho  penal.
+    - Romeo Casabona, ley más avanzada con relación al transplante de órganos.
+
+        * La dignidad no siempre va asociada la vida.
+        * Las personas morales tienen honor, prestigio y dignidad; no
+            necesariamente humana pero sí tienen una dignidad.
+        * No se puede sacrificar una vida humana por salvar a otra u otras.
+        * Más que un sistema romano-germánico, esta podría ser un sistema
+            kantiano.
+
+    - Modelo lógico-matemático (después renombrado lógico) de Olga Islas y
+        XX Ramírez es la aportación más original de los penalistas mexicanos;
+        el profesor no lo sigue en lo particular, se basa en los elementos de
+        imputación
+
+        * causalismo, finalismo,

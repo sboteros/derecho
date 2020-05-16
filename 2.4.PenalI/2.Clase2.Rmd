@@ -1,0 +1,113 @@
+---
+title: Clase 2
+author: Santiago Botero Sierra
+date: 16 de mayo de 2020
+---
+
++ ¿Cómo imputar un hecho?
+    - *Imputare* significa cargar.
+    - La teoría del delito tiene como objeto de estudio la palabra *imputación*.
+    - Imputación es el concepto más fino, es la aportación más exquisita de todo
+        el derecho penal en toda su historia: sin imputación no hay teoría del
+        delito.
+
++ Elementos del título de imputación
+    - Tipo penal que se atribuye ($h$)
+
+        * Para que podamos identificar el tipo penal que vamos a atribuir hay
+            que responder tres preguntas: i) ¿Cuál es el bien jurídico que se
+            lesionó o que se puso en peligro?, ii) ¿cuál es el tipo penal donde
+            se  protege al bien jurídico?, y iii) ¿El tipo penal en cuestión
+            tiene  alguna modalidad agravante o atenuante?
+        * En el tipo se ponen agravantes o atenuantes.
+
+    - Grado de ejecución del hecho ($e$)
+
+        * Puede haber 9 grados de ejecución: **i)** consumado instantáneamente
+            (art.  17, frac. I, $e_{ci}}$), **ii)** consumado permanentemente
+            (art. 17, frac. II, $e_{cp}$), **iii)** consumado continuadamente
+            (art. 17, frac. III, $e_{cc}$), **iv)** cometido en grado de
+            tentativa acabada (art. 20, parte conducente --pc--, $e_{ta}^0$),
+            **v)** cometido en grado de tentativa inacabada (art. 20, pc,
+            $e_{ti}^0$), **vi)** cometido en grado de tentativa acabada
+            eficazmente desistida (art. 20 pc., y art. 21, $e_{ta}^{ed}$),
+            **vii)** cometido en grado de tentativa acabada ineficazmente
+            desistida (art. 20 pc., y art. 21 *a contrario sensu*,
+            $e_{ta}^{id}$), **viii)** cometido en grado de tentativa inacabada
+            eficazmente desistida (art. 20 pc., y art. 21, $e_{ti}^{ed}$), o
+            **ix)** cometido en grado de tentativa inacabada ineficazmente
+            desistida (art. 20 pc, y art. 21 *a contrario sensu*,
+            $e_{ti}^{id}$).
+        * Cada tipo penal tiene un único grado de ejecución.
+        * Por ejemplo, el tipo penal de robo a casa habitación puede tener uno
+            de los tipos; pero no puede consumarse continuadamente (sería uno de
+            los otros ocho).
+        * El homicidio, por ejemplo, se consuma instantáneamente o queda en
+            grado de tentativa; es decir, no hay posibilidad de que se consume
+            permanentemente ni continuadamente.
+        * Hay tipos penales, como el secuestro, que normalmente es de
+            consumación permanente.
+        * La consumación permanentemente es aquella cuando el resultado se
+            prolonga durante el tiempo; la consumación continuada es cuando con
+            unidad de propósito, pluralidad de conductas, misma víctima y mismo
+            sujeto activo, se infringe el mismo tipo penal. Lo más común en
+            consumación continuada es, por ejemplo, el robo hormiga.
+        * En los casos de consumación permanente, el sujeto activo tiene en su
+            voluntad la decisión de hacer cesar o no los efectos de la
+            consumación; en los de consumación instantánea, el sujeto ya no
+            tiene la decisión de hacer cesar o no los efectos de la consumación.
+        * Hay algunas reglas, tales como: la consumación permanente o tentativa,
+            tienen que ser dolosas; siempre que haya un desistimiento debe ser doloso; un desistimiento es doloso; y una consumación instantánea puede ser dolosa o culposa.
+
+    - Forma de intervención ($i$)        
+    - Naturaleza de la conducta ($n$)
+    - Clase de concurso correspondiente ($c$), en su caso.
+
++ Ejemplos
+    - *Por descuido un automovilista atropeyó y mató a un peatón*. La
+        clasificación sería: homicidio simple ($h$) consumado instantáneamente
+        ($e_{ci}$), donde intervino el autor directo ($i_a^d$) en forma de
+        acción culposa ($n_a^c$).
+    - *Imaginemos que en el caso anterior la víctima sobrevivió con lesiones
+        graves de las que ponen en peligro la vida*. La clasificación sería:
+        lesiones graves de las que ponen en peligro la vida ($h$) consumadas
+        instantáneamente ($e_{ci}$), donde intervino el autor directo ($i_a^d$)
+        en forma de acción culposa ($n_a^c$).
+    - *Con intención homicida le hundió a la víctima un ancho cuchillo de
+        carnicero, tomándola por sorpresa*.
+
+        * *Hipótesis 1. La víctima murió*. La clasificación sería: homicidio
+            calificado ($h$) consumado instantáneamente ($e_{ci}$) donde
+            intervino el autor directo ($i_a^d$) en forma de acción dolosa
+            ($n_a^d$)
+        * *Hipótesis 2. La víctima murió con lesiones graves de las que ponen en
+            peligro la vida*. La clasificación sería: homicidio calificado ($h$)
+            cometido en grado de tentativa acabada ($e_{ta}$) donde intervino el
+            autor directo ($i_a^d$) en forma de acción dolosa ($n_a^d$).
+        * La hipótesis 1 respecto de la 2 únicamente cambian con respecto al
+            grado de ejecución.
+
+    - *Supongamos que en el caso anterior, el cual tiene dos hipótesis, un
+        tercero fue quien convenció al autor del hecho principal e, incluso, le
+        facilitó el cuchillo*.
+
+        * *Hipótesis 1. La víctima murió* La clasificación sería: homicidio
+            calificado ($h$) consumado instantáneamente ($e_{ci}$) donde
+            intervino el partícipe  inductor ($i_p^i$) en forma de acción dolosa
+            ($n_a^d$).
+        * *Hipótesis 2. La víctima murió con lesiones graves de las que ponen en
+            peligro la vida*. La clasificación sería: homicidio calificado ($h$)
+            cometido en grado de tentativa acabada ($e_{ta}$) donde intervino el
+            partícipe inductor ($i_p^i$) en forma de acción dolosa ($n_a^d$).
+
+    - *Un automovilista, por descuido, chocó con un motociclista y lo mató; la
+        moto quedó desecha*. La clasificación sería: daño en propiedad ($h_1$)
+        consumado  instantáneamente ($e_{1ci}$) donde intervino el autor directo
+        ($i_{1a}^d$) en forma de acción culposa ($n_{1a}^c$) en concurso ideal
+        ($c_i$) con homicidio simple ($h_2$) consumado instantáneamente
+        ($e_{2ci}$) donde intervino el autor directo ($i_{2a}^d$) en forma de
+        acción culposa ($n_{2a}^c$).
+
++ **Tarea**. Leer uno de los cuatro folletos de la Colección Cálculo Legal y
+    hacer un reporte de lectura de una sóla página en donde se plasmen las
+    preguntas.
