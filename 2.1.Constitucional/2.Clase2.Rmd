@@ -1,0 +1,179 @@
+---
+title: Clase 2
+author: Santiago Botero Sierra
+date: 18 de mayo de 2020
+---
+
++ Artículo 16 de la Declaración de los Derechos del Hombre: "*Una sociedad en la
+    que no esté establecida la garantía de los Derechos, ni determinada la
+    separación de los Poderes, carece de Constitución*". Entonces, se determinan
+    dos contenidos *mínimos* de una Constitución.
+    - La lectura adecuada no es tanto la garantía de los derechos, sino los
+          derechos como tales; la garantía es en realidad el mecanismo de su
+          protección.
+    - Mecanismos de tutela y protección de los derechos.
+    - Hasta hace unos 50 años Francia nunca se caracterizó por un sistema
+        sustantivo de derechos, porque Rosseau pensaba que la ley estaba arriba,
+        por lo que la ley definía la parte de los derechos. Se empezó a hacer
+        control de constitucionalidad en los 60s. A diferencia de Estados
+        Unidos, con la sentencia Marbury vs. Madisson (1803), que es la
+        sentencia más famosa del constitucionalismo norteamericano.
++ El estado constitucional moderno, en una primera etapa, era incompatible con
+    la democracia (p.e. limitación del sufragio); sin embargo, poco a poco se
+    fue democratizando (participación política, pluralismo partidista, derecho
+    de asociación, libertades, etc.).
++ El estado constitucional de derecho va evolucionando hacia el estado social;
+    es decir, el estado va asumiendo una serie de tareas, tales como: construir
+    escuelas públicas, salud, infraestructura básica para el desarrollo industrial
+    - Este surgimiento del estado social surge por primera vez en Alemania y
+        luego se va extendiendo.
+    - La Constitución de Weimar de 1919, que establece cuestiones sociales. Se
+        hizo famosa por ser la última constitución que tuvo Alemania antes del
+        régimen nazi.
+    - El nazismo alemán llegó con base en el sistema jurídico; no ascendieron
+        a través de un golpe de estado sino que ganaron las elecciones. Una vez
+        en el poder, liquidaron la democracia alemana: los sistemas democráticos
+        pueden suicidarse.
+    - El papel de los juristas fue triste porque se alienaron a los ideales del
+        régimen nazi: los tribunales siguieron funcionando y aplicaron
+        sentencias con un contenido racial.
+    - La pregunta que el estado social tiene que responder es quién pagará por
+        los derechos en los que interviene el Estado: el Estado social
+        interviene sobre la economía, pues captura una parte del PIB mediante
+        los impuestos.
+    - Constitución de 1917
+
+        * Es una Constitución no tanto del estado social, sino de las clases
+            sociales, porque recoge derechos, planteamientos político-ideológicos de
+            clases sociales (trabajadores y campesinos).
+        * El artículo 27 constitucional con la propiedad de la tierra.
+        * Artículo 123, sobre los derechos de los trabajadores.
+
+    - Constitucionalismo de la segunda posguerra
+
+        * Constitución italiana de 1947.
+        * Constitución alemana de 1949. Ley Fundamental de Bonn.
+        * Constitución francesa de 1958. Constitución de la Quinta República.
+
+        * Intentan decir "*¡Nunca más!*" al régimen fascista, pues establecen
+            cláusulas que no se pueden reformar (art. 20 de la Constitución
+            Alemana --dignidad humana-- ni forma federal del estado; forma
+            republicana de gobierno en Italia), llamadas *cláusulas pétreas*.
+
+    - Constituciones del sur de Europa
+
+        * Constitución portuguesa de 1976. Después de la caída de la dictadura
+            del general Salazar (Revolución de los Claveles).
+        * Constitución española de 1978. Después de la muerte de Franco.
+
+        * Son importantes porque influyen mucho en América Latina; se
+            caracterizan por ser el resultado de procesos de transición
+            democrática.
+        * Intentan generar instituciones democráticas en países donde no se
+            había conocido la democracia después de varias generaciones.
+
+    - Nuevas constituciones latinoamericanas
+
+        * Constitución de Guatemala, 1985
+        * Constitución brasileña, 1988. Solo los artículos 5 y 7 tienen todos
+            los derechos.
+        * Constitución colombiana, 1991
+
+        * Experimentos constitucionales muy importantes. Por ejemplo en el
+            referéndum brasileño de 1987 se le pregunta al pueblo brasileño si
+            quieren una nueva Constitución y si quieren una república o una
+            monarquía (¡ganó la República sólo con un 4% de diferencia!).
+        * La Constitución colombiana es la mejor de toda América Latina.
+
+    - Constitución de Sudáfrica de 1996.
+
+        * Sudáfrica había sido víctima del Apartheid.
+        * Se da un proceso de reconciliación histórica muy interesante.
+        * Se hacen judiciables los derechos sociales.
+
+    - Etapa del constitucionalismo populista
+
+        * Constitución bolivariana de Venezuela, 1999
+        * Constitución boliviana, 2009
+        * Constitución ecuatoriana, 2008
+
+        * Control del poder ejecutivo sobre el resto del aparato estatal. En los
+            tres casos se jugó con una institución: la reelección presidencial.
+
++ Neoconstitucionalismo.
+    - Intenta explicar tres cosas (tres niveles de análisis): i) un nuevo modelo
+        de constitución, que son más amplias, con largos catálogos de derechos,
+        incorporan muchas tareas a cargo de los poderes públicos y abarcan más
+        ámbitos de la realidad política de un país; ii) incorporan nuevas formas
+        de interpretación; y, iii) una nueva forma de desarrollar la ciencia
+
+        jurídica.
+    - Dos autores:
+
+        * Kelsen. **i)** Plantea que las constituciones únicamente deberían
+            tener las  fuentes formales del  derecho, porque el desarrollo de
+            los derechos le correspondería en  realidad a la política. **ii)**
+            Las constituciones contienen, fundamentalmente, *normas*, en las que
+            aplica la *subsunción*, que es el silogismo aristotélico. **iii)**
+            La ciencia jurídica tenía una tarea meramente descriptiva (el
+            derecho como es).
+
+        * Ferrajoli. **i)** Las constituciones deben incorporar muchos más temas
+            que las fuentes del derecho -- *constituciones materializadas*--.
+            **ii)** Las constituciones contienen muchos  *principios*, que
+            requieren formas de interpretación, tales como la *ponderación*
+            (pues los principios  pueden colisionar entre sí). (iii) La ciencia
+            jurídica tiene una tarea no solo descriptiva sino también
+            prescriptiva (el derecho como  debería ser), porque hay muchas
+            lagunas y antinomias (se solucionan por el principio de jerarquía,
+            de temporalidad y de especialidad).
+
+        * De forma caricaturizada: antes de segunda guerra mundial, teníamos
+            constituciones Kelsen, después constituciones Ferrajoli.
+
++ ¿Qué es una Constitución?
+    - Elementos:
+
+        * ¿Cómo se crea una constitución? Las Constituciones las crean los
+            poderes constituyentes. Tiene la peculiaridad de que no puede
+            encontrar un fundamento jurídico al interior de un determinado
+            ordenamiento; no hay un fundamento de la sustitución de la
+            constitución, porque en la pretensión de los autores las
+            constituciones se redactan para la eternidad. La historia nos
+            demuestra que el fundamento de los poderes constituyentes es
+            político; es decir, externo al orden jurídico. Desde el punto de
+            vista del poder constituyente, podemos hablar de constituciones:
+            **i)** otorgadas (son aquellas que las crea una figura autocrática,
+            como el caudillo, el monarca, etc.; desde el poder político se crea
+            la constitución), **ii)** pactadas (resultan como el fruto de un
+            acuerdo, un consenso de voluntades entre la figura autocrática y el
+            pueblo, se da una especie de diálogo entre el poder político y el
+            poder popular) o **iii)** democráticas (es el propio pueblo el que
+            integra el poder constituyente y define el contenido de la
+            constitución: en las experiencias recientes se hace una consulta al
+            pueblo sobre si los ciudadanos quieren o no una nueva constitución;
+            después se convoca a un proceso electoral para saber quiénes van a
+            integrar el poder constituyente y se da un proceso de referéndum
+            ratificatorio de la constitución).
+
+        * Sirve para determinar la validez de las normas del sistema jurídico,
+            desde dos puntos de vista: **i)** el procedimiental (proceso
+            legislativo, fuentes del derecho, etc.); y, **ii)** sustantiva
+            (desde el punto de vista, por ejemplo, una ley que sigue el
+            procedimiento pero es inconstitucional, no sería válida de forma
+            sustantiva). Es un criterio de pertinencia normativa, una norma
+            pertenece al sistema jurídico si tiene validez procedimental y
+            sustantiva de acuerdo con la Constitución.
+
+        * Funciones de la Constitución: **i)** crea a los poderes del Estado y a
+            los órganos autónomos; **ii)** delimita las funciones de los poderes
+            del Estado y de los órganos  autónomos; es tanto desde el punto de
+            vista positivo (lo que pueden hacer) como negativo (lo que no pueden
+            hacer, bien sea porque tengan prohibiciones expresas o porque a
+            partir del principio de legalidad están señalando las limitaciones
+            de lo que no pueden hacer); **iii)** Recoge los procedimientos de
+            creación normativa (fuentes del derecho); **iv)** Reconoce los
+            derechos humanos; e, **v)** incorpora los valores esenciales de una
+            comunidad (incorpora cuestiones axiológicas, lo que una sociedad
+            interpreta que es importante, lo que quiere llegar a ser o su
+            proyección hacia el futuro).

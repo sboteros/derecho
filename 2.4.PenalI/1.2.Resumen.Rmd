@@ -1,0 +1,508 @@
+---
+title: Resumen de lectura
+subtitle: Teoría del delito en el CNPP (secciones 4.2 a 4.7)
+author: Santiago Botero Sierra
+date: 16 de mayo de 2020
+output:
+    bookdown::pdf_document2:
+        citation_package: none
+---
+
+La *imputación* es una función de cinco elementos
+($I(\mathbf{h}, e, i, n, c)$): un hecho o conjunto de hechos típicos
+($\mathbf{h} = (h_1, \dots, h_H), H \geq 1$), el grado de ejecución  ($e$), la
+forma de intervención ($i$), la naturaleza o modalidad de la conducta  ($n$) y,
+en su caso, el tipo de concurso de $\mathbf{h}$ ($c$).
+
+# El tipo penal {#tipo}
+
+$\mathbf{h}$ tiene una *prelación lógico-numérica* con respecto a los demás
+elementos de $I$, puesto que: **i)** si no hay $\mathbf{h}$, entonces no hay
+$e$, $i$, $n$ ni $c$; y, **ii)** para cualquier $\mathbf{h}$, existen $e$,
+$i$, $n$ y, en su caso, $c$. El segundo elemento de esta definición implica que:
+
++ Para todo tipo penal, existe un grado de ejecución del hecho, bien sea en
+    grado de consumación o en grado de tentativa  
+    ($\forall \mathbf{h}, \exists e$, como se observa en la sección
+    \ref{ejecucion}).
++ Para todo tipo penal, existe alguien que intervino, bien sea como autor o como
+    partícipe ($\forall \mathbf{h}, \exists i$, como se observa en la sección \ref{intervencion}).
++ Todo tipo penal supone una modalidad o naturaleza de la conducta, que puede
+    ser acción u omisión, dolosa o culposa ($\forall \mathbf{h}, \exists n$,
+    como se observa en la sección \ref{naturaleza})
+
+Por lo tanto, el punto de partida de la imputación es el tipo penal. El elemento
+más importante del tipo penal de que se trate es el bien jurídico ($b$), por
+lo que deberán responderse preguntas tales como: **i)** ¿cuál es el bien
+jurídico lesionado o puesto en peligro con la conducta?, **ii)** ¿en qué tipo
+penal se protege dicho bien jurídico?
+
+Asimismo, el tipo penal se puede atribuir en mérito o en demérito, por lo que
+deberán observarse las *razones de mérito* que haya para la conducta. Estas
+razones de mérito pueden ser justificantes o disculpantes
+($r_m \in \{ r_m^j, r_m^d \}$). Cuando hay una razón de mérito, se dice que la
+conducta se imputa en mérito; cuando no hay ninguna, entonces se dice que la
+conducta se imputa en demérito. A continuación se observan las posibles razones
+de mérito.
+
+\begin{equation*}
+    \text{Razones de mérito} \, (r_m)
+    \begin{cases}
+        \text{Justificantes} \, (r_m^j)
+            \begin{cases}
+                \text{- Legítima defensa}\\
+                \text{- Estado de necesidad justificante}\\
+                \text{- Consentimiento presunto}\\
+                \text{- Ejercicio de un derecho}\\
+                \text{- Cumplimiento de un deber}
+            \end{cases}\\
+        \text{Disculpantes} \, (r_m^d)
+            \begin{cases}
+                \text{- Error de prohibición invencible}\\
+                \text{- Estado de necesidad disculpante}\\
+                \text{- No exigibilidad de otra conducta}\\
+                \text{- Inimputabilidad}
+            \end{cases}
+    \end{cases}
+    \label{fig:razon_merito}
+\end{equation*}
+
+Ahora, el hecho de que exista una razón de mérito no implica que no exista el
+hecho típico ($\exists r_m \nRightarrow \mathbf{h}$) y, por lo tanto, la
+imputación subsiste independientemente de la existencia de una razón de mérito
+($(I, r_m), (I, \sim r_m)$).
+
+# Grado de ejecución {#ejecucion}
+
+Como se dijo en la sección \ref{tipo}, el grado de ejecución del hecho puede
+ser: **i)** por consumación, cuando se lesiona $b$, o **ii)** en tentativa,
+cuando $b$ es puesto en peligro. Al respecto, el artículo 17 del Código Penal de
+la Ciudad de México (CPCDMX) establece los tres tipos de grado de consumación
+posibles señala que:
+
+> "**ARTÍCULO** 17 (*Delito instantáneo, continuo y continuado*). El delito,
+> atendiendo a su **momento de consumación**, puede ser:
+>
+> I. **Instantáneo**: cuando la consumación se agota en el mismo momento en que
+> se han realizado todos los elementos de la descripción legal;
+>
+> II. **Permanente o continuo**: cuando se viola el mismo precepto legal, y la
+> consumación se prolonga en el tiempo; y
+>
+> III. **Continuado**: cuando con unidad de propósito delictivo, pluralidad de
+> conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo
+> tipo penal." (énfasis añadido)
+
+Por su parte, el artículo 20 del CPCDMX señala que la tentativa punible es:
+
+> "**ARTÍCULO** 20 (*Tentativa punible*). Existe tentativa punible, cuando **la
+> resolución de cometer un delito se exterioriza realizando, en parte o
+> totalmente, los actos ejecutivos** que deberían producir el resultado, u
+> omitiendo los que deberían evitarlo, si **por causas ajenas a la voluntad del
+> sujeto activo no se llega a la consumación, pero se pone en peligro el bien
+> jurídico** tutelado." (énfasis añadido)
+
+Con base en lo anterior, se está ante la tentativa cuando se exterioriza la
+voluntad de cometer un delito realizando acciones, pero por causas ajenas a  la
+voluntad del interviniente (véase la sección \ref{interviniente}) no se  consuma
+el delito, pero se pone en peligro $b$. Las acciones realizadas se pueden hacer
+total o parcialmente; entonces la tentativa se subdivide en: acabada o
+inacabada. Al respecto, en cada uno de estos casos puede ser que el
+interviniente desista la consumación del delito, como lo señala el
+artículo 21 del  mismo CPCDMX:
+
+> "**ARTÍCULO 21** (*Desistimiento y arrepentimiento*). Si el sujeto **desiste
+> espontáneamente de la ejecución o impide la consumación del delito**, no se le
+> impondrá pena o medida de seguridad alguna por lo que a éste se refiere, a no
+> ser que los actos ejecutados constituyan por sí mismos algún delito diferente,
+> en cuyo caso se le impondrá la pena o medida señalada para éste." (énfasis
+> añadido)
+
+De lo anterior, podemos estar en tres situaciones: **i)** el interviniente no
+desiste espontáneamente ni impide la consumación del delito, **ii)** el
+interviniente desiste espontáneamente e impide la consumación del delito
+(desistimiento eficaz, interpretación *stricto sensu* del artículo 21), o
+**iii)** el interviniente desiste espontáneamente pero no impide la consumación
+del delito (desistimiento ineficaz, interpretación *contrario sensu* del
+artículo 21).
+
+Luego, tenemos 2 tipos de tentativa (acabada e inacabada) y 3 tipos de
+desistimiento (sin desistimiento, eficaz e ineficaz); de allí se obtienen 6
+grados de ejecución de la tentativa. Por lo tanto, al considerar los 3 grados
+de consumación y los 6 grados de tentativa, se obtienen 9 posibles grados de
+ejecución de la conducta, como se observa a continuación.
+
+\begin{equation*}
+    \text{Ejecución} \, (e)
+    \begin{cases}
+        \text{Consumada (art. 17)}
+            \begin{cases}
+                \text{- Instantánea (frac. I)}, \, e_{ci}\\
+                \text{- Permanente (frac. II)}, \, e_{cp}\\
+                \text{- Continuada (frac. III)}, \, e_{cc}
+            \end{cases}\\
+        \text{Tentativa (art. 20)}
+            \begin{cases}
+                \text{Acabada}
+                    \begin{cases}
+                        \text{- Sin desistimiento}, \, e_{ta}^0 \\
+                        \text{- Eficazmente desistida (art. 21 ss)}, \, e_{ta}^{ed} \\
+                        \text{- Ineficazmente desistida (art. 21 cs)}, \, e_{ta}^{id}
+                    \end{cases}\\
+                \text{Inacabada}
+                    \begin{cases}
+                    \text{- Sin desistimiento}, \, e_{ti}^0 \\
+                    \text{- Eficazmente desistida (art. 21 ss)}, \, e_{ti}^{ed} \\
+                    \text{- Ineficazmente desistida (art. 21 cs)}, \, e_{ti}^{id}
+                    \end{cases}
+            \end{cases}
+    \end{cases}
+\end{equation*}
+
+Cada tipo penal $\mathbf{h}$ tiene uno y solo un grado de ejecución
+$e \in \{ e_{ci}, e_{cp}, e_{cc}, e_{ta}^0, e_{ta}^{ed}, e_{ta}^{id}, e_{ti}^0, e_{ti}^{ed}, e_{ti}^{id} \}$. A continuación se analiza cada uno de estos
+grados:
+
++ $e_{ci}$. En el momento en que se comete la conducta: **i)** se agota la
+    consumación, y **ii)** se realizan todos los elementos de la descripción
+    legal de $h_h, h = 1, \dots H$ (objetivos, subjetivos y normativos).
++ $e_{cp}$. La consumación de la conducta se prolonga en el tiempo, pero se
+    viola el mismo precepto legal. En este supuesto:
+    - Son posibles la coautoría y la complicidad (ver la sección
+        \ref{intervencion}).
+    - Se admite la legítima defensa.
+    - La conducta se entiende realizada en **cualquier lugar** en el que existió
+        algún acto.
++ $e_{cc}$. En este caso hay un injusto cuantificable y es susceptible de
+    agravación con actos en sucesión pregresiva. Algunas características de este
+    grado de ejecución son:
+    - En este grado de ejecución hay un dolo global del hecho. Por lo tanto,
+        se infiere la **Regla 1**: $e_{cc}$ no admite una naturaleza culposa
+        ($e_{cc} \Rightarrow n \notin \{ n_a^c, n_{co}^c, n_{os}^c$, ver sección
+        \ref{naturaleza}).
+    - No admite el concurso de delitos.
+    - Es posible con conductas omisivas.
+    - La coautoría es viable.
++ $e_{tx}^y, x \in \{a, i\}, y \in \{ 0, ed, id \}$.
+    - $x = \{a, i\}$ depende de si se llevaron a cabo en parte ($i$, inacabada)  
+        o totalmente ($a$, acabada) "*los actos ejecutivos que deberían producir
+        el resultado*" mediante los cuales el ejecutor exteriorizó la resolución
+        de cometer el delito.
+    - $y = 0$ sucede cuando no hay "desistimiento y arrepentimiento" y, por lo
+        tanto, no es aplicable el artículo 21 del CPCDMX.
+    - $y = \{ed, id\}$ aplican cuando sí hay "desistimiento y arrepentimiento",
+        porque "*el sujeto desiste espontáneamente de la ejecución*" y puede
+        suceder que: **i)** impida la consumación del delito ($ed$) o **ii)** no
+        impida la consumación del delito ($id$).
+
+        * Cuando la intervención del sujeto es de coautoría o de partícipe, en
+            ambos  casos su desistimiento consiste en neutralizar el sentido de
+            su  aportación al hecho.
+        * El desistimiento esuna causa personal de inejecución de la sanción
+            penal ("*no se le impondrá pena o medida de seguridad alguna* ***por
+            lo que a éste se refiere***", énfasis añadido), únicamente con
+            respecto a la tentiva, pero sí subsisten los hechos consumados
+            ("*a no ser que los actos ejecutados constituyan por sí mismos
+            algún delito diferente*").
+
+    - **Regla 2**. Toda tentativa es dolosa, pues "*no es posible la tentativa
+        que se atribuye a título de culpa*"
+        ($e_{tx}^y \Rightarrow \Rightarrow n \notin \{ n_a^c, n_{co}^c, n_{os}^c, x \in \{a, i\}, y \in \{ 0, ed, id \}$).
+    - Es posible la tentativa en la naturaleza de comisión por omisión, cuando
+        debido a la no intervención del garante aumenta el peligro al que fue
+        expuesto $b$.
+    - **Comentario 1**. Se discute su viabilidad en casos de omisión simple.
+    - La antijuridicidad material de la tentativa consiste en la puesta en
+        peligro de $b$ ("(...) *se pone en peligro el bien jurídico tutelado*").
+
+Al respecto, conviene hacer las siguientes aclaraciones:
+
++ *Voluntad del ejecutor* ($e_{ci} \cap e_{cp}$): $e_{ci}$ se caracteriza
+    porque $\mathbf{h}$ perdura  con independencia de la voluntad del ejecutor,
+    mientras que en $e_{cp}$  depende de la voluntad del ejecutor hacer cesar o
+    no la consumación de $\mathbf{h}$. Por lo tanto, se puede diferenciar la
+    consumación instantánea  de la permanente en atención a la voluntad del
+    ejecutor.
+
+# Forma de intervención {#intervencion}
+
+En el artículo 22 del CPCDMX se definen las clases de autoría y participación
+que pueden haber:
+
+> "**ARTÍCULO** 22 (*Formas de autoría y participación*). Son responsables del
+> delito, quienes:
+>
+> I. Lo realicen por sí;
+>
+> II. Lo realicen conjuntamente con otro u otros autores;
+>
+>III. Lo lleven a cabo sirviéndose de otro como instrumento;
+>
+> IV. Determinen dolosamente al autor a cometerlo;
+>
+> V. Dolosamente presten ayuda o auxilio al autor para su comisión; y
+>
+> VI. Con posterioridad a su ejecución auxilien, al autor en cumplimiento de una
+> promesa anterior al delito.
+>
+> Quienes únicamente intervengan en la planeación o preparación del delito, así
+> como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán
+> si el hecho antijurídico del autor alcanza al menos el grado de tentativa del
+> delito que se quiso cometer.
+>
+> **La instigación y la complicidad a que se refieren las fracciones IV y V,
+> respectivamente, sólo son admisibles en los delitos dolosos.** Para las
+> hipótesis previstas en las fracciones V y VI se impondrá la punibilidad
+> dispuesta en el artículo 81 de este Código." (énfasis añadido)
+
+De lo anterior, se observa que el artículo 22, fracciones I a III del CPCDMX
+determina tres formas de autoría (autoría directa, coautoría y autoría mediata),
+y las fracciones IV a VI del mismo, determinan tres formas de participación
+(inducción, complicidad y encubrimiento). A continuación se presentan estas
+formas de autoría y participación de manera esquemática.
+
+\begin{equation*}
+    \text{Intervención (art. 22)},\, i
+    \begin{cases}
+        \text{Autor}
+            \begin{cases}
+                \text{- Directo (frac. I)},\, i_a^d \\
+                \text{- Indirecto (frac. II)}, \, i_a^i \\
+                \text{- Mediato (frac. III)}, \, i_a^m
+            \end{cases}\\
+        \text{Partícipe}
+            \begin{cases}
+                \text{- Inductor (frac. IV)}, \, i_p^i \\
+                \text{- Cómplice (frac. V)}, \, i_p^c \\
+                \text{- Encubridor (frac. VI)}, \, i_p^e
+            \end{cases}
+    \end{cases}
+\end{equation*}
+
+A continuación se presentan algunos comentarios sobre cada uno de estas formas
+de intervención:
+
++ $i_a^d$. Puede participar en delitos dolosos (cuando tiene el dominio del
+    hecho) como en hechos culposos (cuando el autor infringe un deber objetivo
+    de cuidado). Además, es posible la autoría directa en delitos de omisión
+    simple y de comisión por omisión, cuando el autor infringe un deber
+    jurídico de actuar.
++ $i_a^i$. En la coautoría, "[l]*a suma de las funciones de los intervinientes
+    representa un dominio funcional de la realización del hecho*"; por lo
+    tanto, se puede inferir la siguiente **Regla 3**: No hay naturaleza culposa
+    en donde intervino el coautor. En la ejecución en grado de tentativa, esta
+    comienza cuando alguno de los coautores ejecuta una acción que pone en
+    peligro a $b$.
++ $i_a^m$. El autor mediato es quien instrumentaliza la voluntad de otra persona
+    para llevar a cabo $\mathbf{h}$.
+    - Puede valerse de : i) coacción, ii) llevarla a incidir en el error, iii)
+        valerse de su inimputabilidad, o iv) en uso de un organismo centralizado
+        de poder.
+    - **Regla 4**: El autor mediado siempre actúa dolosamente.
+    - La persona instrumentalizada, $i_a^d$, puede actual culposa o dolosamente.
+    - **Comentario 2**: Se discute su viabilidad en delitos con naturaleza de
+        omisión simple o comisión por omisión?
++ $i_p^i$. Es quien convence al autor principal para que en este nazca la
+    decisión de cometer $\mathbf{h}$.
+    - **Regla 5**. Esta forma de intervención se comete en forma de acción
+        dolosa (*y acción libre en su causa dolosa*).
++ $i_p^c$. Es quien dolosamente ayuda o presta auxilio al autor principal para
+    la comisión del hecho ilícito.
+    - **Regla 6**. Esta forma de intervención se comete en forma de acción
+        dolosa, omisión dolosa (*y acción libre en su causa dolosa*).
+    - La complicidad puede ser: i) física, cuando hay presencia de un nexo
+        causal, o ii) psíquica, cuando no la hay.
++ $i_p^e$. Es quien, con posterioridad a $\mathbf{h}$, auxilia al autor en
+    cumplimiento de una promesa anterior a $\mathbf{h}$.
+    - Las conductas siempre son accesorias.
+    - Son punibles sí y solo si el autor principal consumó el resultado o quedó
+        en tantativa punible.
+    - Puede ser una forma especial de autoría (por ejemplo, encubrimiento entre
+        parientes o receptación).
+
+Al respecto, conviene hacer las siguientes aclaraciones:
+
++ $i_p^i$ e $i_p^c$ no responden cuando el autor principal de $\mathbf{h}$
+    actúa: i) culposamente, ii) con causa de atipicidad, iii) con causa de
+    justificación, o iv) bajo exceso de causa de justificación.
++ Si en una misma persona concurren $i_p^i$ e $i_p^c$, prevalece $i_p^i$.
++ $i_p^i$ e $i_p^c$ nunca llegan a tener el dominio de $\mathbf{h}$.
++ Si $\mathbf{h}$ requiere elementos subjetivos subjetivos o calidades
+    personales del autor del hecho, estos elementos no se requieren también de
+    los partícipes.
+
+# Naturaleza o modalidad de la conducta {#naturaleza}
+
+El artículo 15 del CPCDMX establece que el delito puede cometerse por i) acción
+u ii) omisión:
+
+> "**ARTÍCULO** 15 (*Principio de acto*). El delito sólo puede ser realizado por
+> **acción** o por **omisión**." (énfasis añadido)
+
+Por su parte, el artículo 16 del CPCDMX establece un tercer tipo de naturaleza
+de la  conducta, la *comisión por omisión*:
+
+> "**ARTÍCULO 16** (*Omisión impropia o* ***comisión por omisión***). En los
+> **delitos de resultado material** será atribuible el resultado típico
+> producido a quien **omita impedirlo, si éste tenía el deber jurídico de
+> evitarlo**, si:
+>
+> I . **Es garante** del bien jurídico;
+>
+> II . De acuerdo con las circunstancias **podía evitarlo**; **y**
+>
+> III . **Su inactividad es, en su eficacia, equivalente a la actividad
+> prohibida** en el tipo.
+>
+> **Es garante** del bien jurídico el que:
+>
+> a). Aceptó efectivamente su custodia;
+> b). Voluntariamente formaba parte de una comunidad que afronta peligros de la
+> naturaleza;
+> c). Con una actividad precedente, culposa o fortuita, generó el peligro para
+> el bien jurídico;
+> **o**
+> d). Se halla en una efectiva y concreta posición de custodia de la vida, la
+> salud o integridad corporal de algún miembro de su familia o de su pupilo"
+> (énfasis añadido)
+
+Asimismo, el artículo 29 del CPCDMX establece una cuarta forma de la conducta,
+la *acción libre en su causa*:
+
+> "**ARTÍCULO** 29 (*Causas de exclusión*). El delito se excluye cuando concurra
+> una causa de atipicidad, causas de justificación o causas de inculpabilidad.
+>
+> (...)
+>
+> C.- Habrá causas de inculpabilidad, cuando:
+>
+> (...)
+>
+> II.- (Inimputabilidad y acción libre en su causa).- Al momento de realizar el
+> hecho típico, el agente no tenga la capacidad de comprender el carácter
+> ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de
+> padecer trastorno mental o desarrollo intelectual retardado.
+>
+> Cuando la capacidad a que se refiere el párrafo anterior se encuentre
+> considerablemente disminuida, se estará a lo dispuesto en el artículo 65 de
+> este Código.
+>
+> (***Acción libre en su causa***). No procederá la inculpabilidad, cuando **el
+> agente al momento de realizar el hecho típico, hubiese provocado su trastorno
+> mental para en ese estado cometer el hecho**, en cuyo caso responderá por el
+> resultado típico producido en tal situación;
+>
+> (...)" (énfasis añadido)
+
+Y, finalmente, hay causas de *omisión simple* que se definen en la parte
+especial del CPCDMX. Por lo tanto, una primera naturaleza de la conducta está
+dada como se indica a continuación.
+
+\begin{equation*}
+    \text{Naturaleza 1}
+    \begin{cases}
+        \text{- Acción (art. 15)}, \, n_a\\
+        \text{- Omisión (art. 15)}, \, n_o\\
+        \text{- Comisión por omisión (art. 16)}, \, n_{co}\\
+        \text{- Omisión simple (parte especial)}, \, n_{os}\\
+        \text{- Acción libre en su causa (art. 29, ap. C, frac. II)}, \, n_{al}
+    \end{cases}
+\end{equation*}
+
+Por su parte, el artículo 18 del CPCDMX establece que los delitos pueden
+cometerse con dolo ($n^d$) o con culpa ($n^c$):
+
+> "**ARTÍCULO 18** (*Dolo y Culpa*). Las acciones u omisiones delictivas
+> solamente pueden realizarse dolosa o culposamente.
+>
+> Obra **dolosamente** el que, conociendo los elementos objetivos del hecho
+> típico de que se trate, o previendo como posible el resultado típico, quiere o
+> acepta su realización.
+>
+> Obra **culposamente** el que produce el resultado típico, que no previó siendo
+> previsible o previó confiando en que no se produciría, en virtud de la
+> violación de un deber de cuidado que objetivamente era necesario observar."
+> (énfasis añadido)
+
+Ahora, como se observa en la $n_{al}$ el agente provoca su trastorno mental para
+provocar el hecho en ese estado, por lo que no aplican los supuestos de la
+culpa (él si prevee el hecho y no actúa confiando en que no se producirá). Por
+lo tanto, no puede haber acción libre en su causa culposa ($\nexists n_{al}^c$).
+Asimismo, la $n_o$ no puede ser culposa (¿por qué?). Por lo tanto, son
+posibles los 8 supuestos que se muestran en el cuadro \ref{tab:nat}.
+
+\begin{table}
+\begin{tabular}{|p{3cm}||c|c|}
+    \hline
+    Naturaleza         & Dolosa (art. 19, pár. 2)   & Culposa (art. 18, par. 3) \\ \hline \hline
+    Acción (art. 15)                & $n_a^d$       & $n_a^c$                   \\ \hline
+    Omisión (art. 15)               & $n_o^d$       &                           \\ \hline
+    Comisión por omisión (art. 16)  & $n_{co}^d$    & $n_{co}^c$                \\ \hline
+    Omisión simple (parte especial) & $n_{os}^d$    & $n_{os}^c$                \\ \hline
+    Acción libre en su causa (art. 29, ap. C, frac. II) & $n_{al}^c$ &          \\ \hline
+\end{tabular}
+\label{tab:nat}
+\caption{Naturaleza del hecho}
+\end{table}
+
+Al respecto, conviene hacer las siguientes aclaraciones:
+
++ Hay un nexo causal si y solo si hay delitos con resultado material,
+    independientemente de si la acción es dolosa o culposa.
++ $n_a^x, \, x \in \{d, c\}$. La acción representa una actividad.
++ $n_{co}^x, \ x \in \{d, c\}$. En delitos con resultado material, $\mathbf{h}$
+    se atribuye a quien omite impedirlo si tenía el *deber jurídico* de
+    evitarlo, si: i) es garante del bien jurídico, ii) podía evitarlo de acuerdo
+    a las circunstancias, y iii) su inactividad es, en su eficacia, equivalente
+    a la actividad prohibida por $\mathbf{h}$.
+    - Se es garante del bien jurídico por $A$  o $I$ . --H
+    - El *deber jurídico* de actuar puede sobrevenir por:
+
+        * Injerencia, debido a un comportamiento culposo precedente (**i)** con
+            una actividad precedente  --culposa o fortuita-- generó el peligro).
+        * Asunción, debido a que el sujeto activo asumió como propio el cuidado
+            o la seguridad de un bien jurídico (**i)** aceptó voluntariamente su
+            costodia, **ii)** voluntariamente formaba parte de una comunidad que
+            afronta esos peligros)
+        * Hay otra que no sé clasificar: está en posición efectiva y concreta de
+            custodia (de la vida, salud o integridad  corporal) de un miembro de
+            su familia o pulilo-- que no sé en dónde  clasificar.
+
+    - El *deber objetivo* de cuidado puede ser: **i)** normativo, o **ii)** no
+        normativo. El segundo es solo un indicio de que la conducta es
+        *culposa*, hasta que se demuestre la creación de un riesgo no permitido
+        (p.e. *lex artis*).
++ $n_{os}^x, \, x \in \{c, d\}$. Pertenece a la parte especial del código, se
+    requiere identificar $\mathbf{h}$.
+    - Requiere: La inactividad de $i$, el *deber jurídico*, $\mathbf{h}$ como
+        resultado y la atruibilidad de $\mathbf{h}$ al comportamiento omisivo.
+    - Son delitos especiales propios, pues normalmente requieren una calidad
+        personal de $i$.
+    - Suelen ser de mera actividad, por lo que basta con la sola omisión para su
+        configuración.
+    - **Comentario 3**: Se discute si la tentativa es o no posible en los
+        delitos de comisión simple.
+    - Son pocos los delitos que encuadran en esta naturaleza, tales como: **i)**
+        incumplimiento de obligaciones alimentarias, **ii)** omisión de auxilio,
+        e **iii)** infracción del deber de denuncia.
++ $n_{al}^d$.
+    - Es evidente que no existe una acción libre en su causa culposa, pues hay
+        un elemento subjetivo en el tipo penal ("*provoca su trastorno mental*
+        ***para*** *cometer el delito*", énfasis añadido).
+    - Dificilmente puede configurarse a través del *dolo eventual*; comunmente  
+        se configura a través del *dolo directo*.
++ $n_o^d$.
+    - Se diferencia de $m_{co}^x$ y $m_{os}^x, \, x \in \{d, c\}$ pues estas
+        últimas exigen el *deber jurídico* de actuar.
+    - $n_o^d \Leftrightarrow i_p^c$, pues a través de una omisión dolosamente
+        manifestada el partícipe complice permite el hecho.
+    - $i_p^c$ sólo podría participar a través de una acción u omisión
+        dolosamente manifestadas, a diferencia de $i_p^i$, que solo podría
+        participar con una acción dolosa.
+
+Conviene hacer las siguientes aclaraciones:
+
++ $n_{os}^x$ se diferencia de $n_{co}^x, \, x \in \{c, d\}$ en que: i) la
+    inactividad es equivalente a la acción prohibida por $\mathbf{h}$, y ii) el
+    deber jurídico de actuar debe estar plasmado en la ley penal (en
+    $\mathbf{h}$).
