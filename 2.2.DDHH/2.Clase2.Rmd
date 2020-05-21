@@ -1,0 +1,130 @@
+---
+title: Clase 2
+author: Santiago Botero Sierra
+date: 20 de mayo de 2020
+---
+
++ Concretización de los Derechos Humanos a través del desarrollo legislativo.
+    - Todos los derechos pueden y deber ser desarrollados a través del
+        desarrollo legislativo.
+    - Este debe respetar el contenido esencial del derecho.
+    - Lo que el legislador puede hacer es regular las modalidades de ejercicio
+        del derecho, sin perjudicar el contenido esencial del propio derecho.
+    - Cuando el legislador no expide normas que son indispensables para el
+        acceso a los derechos,
+    - La falta de regulación efectiva de un derecho no afecta su goce. (Tesis
+        2005197)[https://sjf.scjn.gob.mx/SJFSem/Paginas/DetalleGeneralV2.aspx?Epoca=&Apendice=&Expresion=2005197&Dominio=Rubro,Texto&TA_TJ=&Orden=3&Clase=DetalleSemanarioBusquedaBL&Tablero=-100|2&NumTE=1&Epp=20&Desde=-100&Hasta=-100&Index=0&SemanaId=202011&ID=2005197&Hit=1&IDs=2005197].
++ Características de los DDHH
+    - Algunas características están previstas en la constitución.
+    - Art. 1, pár. 3, CPEUM: universalidad, interdependencia, indivisibilidad y
+        progresividad.
+
+        * Universalidad: Puede ser analizadas desde el punto de vista: **i)** de
+            los sujetos titulares de los derechos ("todos los derechos son para
+            todas las personas"), y **ii)** de los sujetos obligados (lo que
+            puede implicar a: *a)* todo tipo de sujetos que están obligados a
+            respetar los derechos; *b)* solo a algunas autoridades --p.e. el
+            sufragio o los relativos a la ciudadanía--; o *c)* solo a ciertos
+            grupos sociales --p.e. los derechos de los niños obligan, en primer
+            lugar al núcleo familiar y, de manera subsidiaria--).
+        * Interdependencia: Los DDHH dependen unos de otros, no se pueden
+            aplicar de manera aislada.
+        * Indivisibilidad: Los DDHH; no hay fundamento histórico ni normativo de
+            las generaciones de derechos, son DDHH nada más (se pueden
+            clasificar en términos analíticos, pero el significado es unitario;
+            no hay derechos de categorías diferentes, todos son DDHH).
+        * Progresividad: Los DDHH son barreras culturales que no admiten
+            retrocesos; si en un país se alcanza un cierto nivel en el goce de
+            un DDHH no se puede dar marcha atrás en el goce de ese DDHH. Una
+            consecuencia de este principio es la *prohibición de regresividad*.
+
+    - Estas características han sido utilizadas por la jurisprudencia.
+
+        * Tesis 2003881. Características en general.
+        * Tesis 2003350. Concepto de estas características.
+        * Tesis 2001718. Las características son una guía para la interpretación
+            constitucional.
+        * Tesis 2013258. Se podría pensar que estas características son tan
+            generales que no se pueden aplicar a DDHH particulares, lo que es
+            falso. En el derecho a la defensa judicial adecuada (art. 20, CPEUM)
+            se alicaron estas características para su determinación.
+        * Tesis 2013216 y 2010361. La progresividad ha tenido un mayor
+            desarrollo jurisprudencial.
+        * Tesis 2013217. La progresividad es aplicable a todos los derechos, no
+            solo a los derechos sociales, como se había argumentado
+            tradicionalmente.
+        * Tesis 2013215. Puede haber excepciones a la progresividad de los
+            derechos, lo que es discutible.
+        * Tesis 2008940. Se aplica la progresividad al DDHH a la *licitud
+            probatoria* (art. 20 CPEUM y 97 del CNPP, toda prueba obtenida con
+            violación de DDHH es nula).
+
+        * Distinción entre **i)** jurisprudencia vinculante y **ii)** tesis
+            aisladas, que tienen alcance orientador. Ver los artículos 215 a 230
+            de la Ley de Amparo, donde regula esta diferencia.
+
++ Fuentes de los DDHH
+    - Las fuentes *principales* de los DDHH son: **i)** la Constitución,
+        **ii)**  los Tratados  Internacionales firmados y ratificados por el
+        estado mexicano, y la **iii)*** jurisprudencia (a) nacional y b) de la
+        Corte Interamericana de DDHH, esta es obligatoria para las autoridades
+        mexicanas).
+    - Se pueden clasificar como DDHH:
+
+        * Explícitos, si están recogidos expresamente en estas fuentes del
+            derecho (deben ser entendidos como *catálogos de mínimos*, en el
+            sentido de que el contenido de cada uno de estos DDHH no puede ser
+            reducido por otras fuentes del derecho, pero sí puede ser ampliado)
+        * Implícitos, que no están recogidos de manera expresa en una fuente
+            del derecho sino que son reiterados en el razonamiento o  la
+            argumentación jurídica que dan normalmente los jueces. Por ejemplo
+
+            - La dignidad humana, donde se la reconoce como un DDHH y no como un
+                principio (Tesis 2007731).
+            - Libre desarrollo de la personalidad. Ha sido uno de los más
+                provechosos de la jurisprudencia reciente, que lo ha denominado
+                como un "espacio de libertad no regulada que merece protección
+                jurídica", es decir tiene un caracter subsidiario puesto que
+                espacios que no estaban considerados en la legislación. Entre
+                los casos que se han resuelto se encuentran: *a)* cambios de
+                sexo por preferencias sexo-genéricas); *b)* Uso lúdico de la
+                marihuana, Amparo en revisión 237/2014, ponencia de Arturo
+                Zaldívar; y *c)* las eliminación de las causales de divorcio
+                (Tesis 2008492).
+            - Algunos DDHH que la Corte ha reconocido son: *a)* el derecho al
+                mínimo vital, es un espacio protegido para que protegerse contra
+                la potestad recaudatoria del estado; *b)* derecho al
+                consentimiento informado en la relación médico-paciente (Amparo
+                directo en revisión 809/2014, el plazo para computar una
+                reclamación se tiene que hacer a partir de que se tiene
+                conocimiento del daño causado); *c)* el derecho de alimentos,
+                que incuye vestimenta, útiles escolares, etc.
+            - En el artículo 29, inciso C) de la Convención Americana está la
+                mención de los DDHH implícitos.
+            - Transfusiones sanguíneas y consentimiento, en el caso de testigos
+                de Jehová, para menores de edad (amparo en revisión 1049/2017 ).
+                Fue resuelto por la Suprema  Corte y hay un caso español al
+                respecto.
+            - (Caso Poblete Vilches contra Chile)[https://www.corteidh.or.cr/docs/casos/articulos/seriec_349_esp.pdf].
+
+    - Los Tratados Internacionales son una fuente que nos permite expandir el
+        número y la manera de comprender los DDHH porque México ha firmado más
+        de 210 Tratados Internacionales que contienen algún DDHH. La Corte hace
+        un [listado](http://www.internet2.scjn.gob.mx/red/constitucion/TI.html).
+        Los tratados se pueden clasificar:
+
+        * Por su ámbito geográfico de validez, como **i)** universales (tratados
+            de la ONU), o **ii)** de caracter regional (para México, son los
+            creados en la OEA).
+        * Por su contenido, como **i)** de carácter general (aplican para todo
+            tipo de DDHH, sujetos, etc.) o **ii)** específicos (que pueden ser
+            *a)* por razón de materia, como los que se generan por la OIT en
+            materia laboral, o *b)* por razón de sujeto, como la convención de
+            los derechos del niño, etc.).
+
+        * Leer: **i)** Declaración Universal de DDHH de la ONU (10 de diciembre
+            de 1948), **ii)** Pacto Internacional de Derechos Civiles y
+            Políticos  de 1966, **iii)** Pacto Internacional de Derechos
+            Económicos, Sociales y Culturales de 1966, y **iv)** la Convención
+            Americana de Derechos Humanos (Pacto de San José de 1969, en vigor
+            desde 1981).

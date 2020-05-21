@@ -424,6 +424,13 @@ cometerse con dolo ($n^d$) o con culpa ($n^c$):
 > violación de un deber de cuidado que objetivamente era necesario observar."
 > (énfasis añadido)
 
+Conviene aclarar que el dolo puede ser *dolo directo*, cuando en la realización
+de la acción se representa a $\mathbf{h}$ como algo seguro y deseable, o *dolo
+eventual*, cuando se representa a $\mathbf{h}$ como algo probable y se lo acepta
+si ocurre. Por su parte, la culpa puede ser *culpa consciente*, cuando se previó
+$\mathbf{h}$ confiando en que no se produciría, o *culpa inconsciente*, cuando
+no se previó $\mathbf{h}$ siendo previsible.
+
 Ahora, como se observa en la $n_{al}$ el agente provoca su trastorno mental para
 provocar el hecho en ese estado, por lo que no aplican los supuestos de la
 culpa (él si prevee el hecho y no actúa confiando en que no se producirá). Por
@@ -494,8 +501,8 @@ Al respecto, conviene hacer las siguientes aclaraciones:
 + $n_o^d$.
     - Se diferencia de $m_{co}^x$ y $m_{os}^x, \, x \in \{d, c\}$ pues estas
         últimas exigen el *deber jurídico* de actuar.
-    - $n_o^d \Leftrightarrow i_p^c$, pues a través de una omisión dolosamente
-        manifestada el partícipe complice permite el hecho.
+    - **Regla 7**: $n_o^d$ solo se presenta si $i_p^c$, pues a través de una
+        omisión dolosamente manifestada el partícipe complice permite el hecho.
     - $i_p^c$ sólo podría participar a través de una acción u omisión
         dolosamente manifestadas, a diferencia de $i_p^i$, que solo podría
         participar con una acción dolosa.
@@ -506,3 +513,853 @@ Conviene hacer las siguientes aclaraciones:
     inactividad es equivalente a la acción prohibida por $\mathbf{h}$, y ii) el
     deber jurídico de actuar debe estar plasmado en la ley penal (en
     $\mathbf{h}$).
+
+# Concurso
+
+El artículo 28 del CPCDMX establece que:
+
+> "**ARTÍCULO** 28 (*Concurso ideal y real de delito*). Hay **concurso ideal**,
+> cuando con una sola acción o una sola omisión se cometen varios delitos.
+>
+> Hay **concurso real**, cuando con pluralidad de acciones u omisiones se
+> cometen varios delitos.
+>
+> **No hay concurso** cuando las conductas constituyan un **delito continuado**.
+>
+> En caso de concurso de delitos se estará a lo dispuesto en el artículo 79 de
+> este Código." (énfasis añadido)
+
+Al respecto, conviene hacer las siguientes aclaraciones:
+
++ En un *concurso real* pueden concurrir: **i)** un delito culposo y un delito
+    doloso; o **ii)** varios delitos culposos.
++ Si $i_{cp}$ no existe concurso si un delito se realizó para original o
+    mantener el estado antijurídico de la víctima; en este caso, debe
+    demostrarse que existe unidad de acción entre el hecho típico cometido
+    permanentemente y el que concurre.
+
+# Taxonomía
+
+1. **Modelos de imputación para un hecho donde intervino el autor directo**
+
+    1.1. *Principales modelos de imputación para un hecho consumado
+        instantáneamente donde intervino el autor directo:*
+
+    1.1.1. Hecho típico consumado instantáneamente donde intervino el autor
+        directo en forma de acción dolosa.
+
+    1.1.2. Hecho típico consumado instantáneamente donde intervino el autor
+        directo en forma de acción culposa.
+
+    1.1.3. Hecho típico consumado instantáneamente donde intervino el autor
+        directo en forma de comisión por omisión dolosa.
+
+    1.1.4. Hecho típico consumado instantáneamente donde intervino el autor
+        directo en forma de comisión por omisión culposa.
+
+    1.1.5. Hecho típico consumado instantáneamente donde intervino el autor
+        directo en forma de omisión simple dolosa.
+
+    1.1.6. Hecho típico consumado instantáneamente donde intervino el autor
+        directo en forma de omisión simple culposa.
+
+    1.1.7. Hecho típico consumado instantáneamente donde intervino el autor
+        directo bajo una acción libre en su causa dolosa.
+
+    1.2. *Principales modelos de imputación para un hecho consumado
+        permanentementedonde intervino el autor directo:*
+
+    1.2.1. Hecho típico consumado permanentemente donde intervino el autor
+        directo en forma de acción dolosa.
+
+    1.2.2. Hecho típico consumado permanentemente donde intervino el autor
+        directo en forma de comisión por omisión dolosa.
+
+    1.2.3. Hecho típico consumado permanentemente donde intervino el autor
+        directo en forma de omisión simple dolosa.
+
+    1.2.4. Hecho típico consumado ~~instantáneamente~~ ***permanentemente***
+        donde intervino el autor directo bajo una acción libre en su causa
+        dolosa.
+
+    1.3. *Principales modelos de imputación para un hecho consumado
+        continuadamente donde intervino el autor directo:*
+
+    1.3.1. Hecho típico consumado continuadamente donde intervino el autor
+        directo en forma de acción dolosa.
+
+    1.3.2. Hecho típico consumado continuadamente donde intervino el autor
+        directo en forma de comisión por omisión dolosa.
+
+    1.3.3. Hecho típico consumado continuadamente donde intervino el autor
+        directo en forma de omisión simple dolosa.
+
+    1.3.4. Hecho típico consumado continuadamente donde intervino el autor
+        directo bajo una acción libre en su causa dolosa.
+
+    1.4. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada donde intervino el autor directo:*
+
+    1.4.1. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor directo en forma de acción dolosa.
+
+    1.4.2. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor directo en forma de comisión por omisión dolosa.
+
+    1.4.3. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor directo en forma de omisión simple dolosa.
+
+    1.4.4. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor directo bajo una acción libre en su causa dolosa.
+
+    1.5. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada donde intervino el autor directo:*
+
+    1.5.1. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor directo en forma de acción dolosa.
+
+    1.5.2. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor directo en forma de comisión por omisión dolosa.
+
+    1.5.3. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor directo en forma de omisión simple dolosa.
+
+    1.5.4. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor directo bajo una acción libre en su causa dolosa.
+
+    1.6. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada eficazmente desistida donde intervino el autor
+        directo:*
+
+    1.6.1. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor directo en forma de acción
+        dolosa.
+
+    1.6.2. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor directo en forma de comisión por
+        omisión dolosa.
+
+    1.6.3. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor directo en forma de omisión
+        simple dolosa.
+
+    1.6.4. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor directo bajo una acción libre en
+        su causa dolosa.
+
+    1.7. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada ineficazmente desistida donde intervino el autor
+        directo:*
+
+    1.7.1. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor directo en forma de acción
+        dolosa.
+
+    1.7.2. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor directo en forma de comisión por
+        omisión dolosa.
+
+    1.7.3. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor directo en forma de omisión
+        simple dolosa.
+
+    1.7.4. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor directo bajo una acción libre en
+        su causa dolosa.
+
+    1.8. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada eficazmente desistida donde intervino el autor
+        directo:*
+
+    1.8.1. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor directo en forma de acción
+        dolosa.
+
+    1.8.2. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor directo en forma de comisión por
+        omisión dolosa.
+
+    1.8.3. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor directo en forma de omisión
+        simple dolosa.
+
+    1.8.4. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor directo bajo una acción libre en
+        su causa dolosa.
+
+    1.9. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada ineficazmente desistida donde intervino el autor
+        directo:*
+
+    1.9.1. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor directo en forma de
+        acción dolosa.
+
+    1.9.2. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor directo en forma de
+        comisión por omisión dolosa.
+
+    1.9.3. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor directo en forma de
+        omisión simple dolosa.
+
+    1.9.4. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor directo bajo una
+        acción libre en su causa dolosa.
+
+2. **Modelos de imputación para un hecho  donde intervino el coautor**
+
+    2.1. *Principales modelos de imputación para un hecho consumado
+        instantáneamente donde intervino el coautor:*
+
+    2.1.1. Hecho típico consumado instantáneamente donde intervino el
+        coautor en forma de acción dolosa.
+
+    2.1.2. Hecho típico consumado instantáneamente donde intervino el
+        coautor en forma de comisión por omisión dolosa.
+
+    2.1.3. Hecho típico consumado instantáneamente donde intervino el
+        coautor en forma de omisión simple dolosa.
+
+    2.1.4. Hecho típico consumado instantáneamente donde intervino el
+        coautor bajo una acción libre en su causa dolosa.
+
+    2.2. *Principales modelos de imputación para un hecho consumado
+        permanentemente donde intervino el coautor:*
+
+    2.2.1. Hecho típico consumado permanentemente donde intervino el coautor
+        en forma de acción dolosa.
+
+    2.2.2. Hecho típico consumado permanentemente donde intervino el coautor
+        en forma de comisión por omisión dolosa.
+
+    2.2.3. Hecho típico consumado permanentemente donde intervino el coautor
+        en forma de omisión simple dolosa.
+
+    2.2.4. Hecho típico consumado permanentemente donde intervino el coautor
+        bajo una acción libre en su causa dolosa.
+
+    2.3. *Principales modelos de imputación para un hecho consumado
+        continuadamente donde intervino el coautor:*
+
+    2.3.1. Hecho típico consumado continuadamente donde intervino el coautor
+        en forma de acción dolosa.
+
+    2.3.2. Hecho típico consumado continuadamente donde intervino el coautor
+        en forma de comisión por omisión dolosa.
+
+    2.3.3. Hecho típico consumado continuadamente donde intervino el coautor
+        en forma de omisión simple dolosa.
+
+    2.3.4. Hecho típico consumado continuadamente donde intervino el coautor
+        bajo una acción libre en su causa dolosa.
+
+    2.4. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada donde intervino el coautor:*
+
+    2.4.1. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el coautor en forma de acción dolosa.
+
+    2.4.2. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el coautor en forma de comisión por omisión dolosa.
+
+    2.4.3. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el coautor en forma de omisión simple dolosa.
+
+    2.4.4. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el coautor bajo una acción libre en su causa dolosa.
+
+    2.5. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada donde intervino el coautor:*
+
+    2.5.1. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el coautor en forma de acción dolosa.
+
+    2.5.2. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el coautor en forma de comisión por omisión dolosa.
+
+    2.5.3. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el coautor en forma de omisión simple dolosa.
+
+    2.5.4. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el coautor bajo una acción libre en su causa dolosa.
+
+    2.6. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada eficazmente desistida donde intervino el coautor:*
+
+    2.6.1. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el coautor en forma de acción dolosa.
+
+    2.6.2. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el coautor en forma de comisión por
+        omisión dolosa.
+
+    2.6.3. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el coautor en forma de omisión simple
+        dolosa.
+
+    2.6.4. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el coautor bajo una acción libre en su
+        causa dolosa.
+
+    2.7. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada ineficazmente desistida donde intervino el coautor:*
+
+    2.7.1. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el coautor en forma de acción dolosa.
+
+    2.7.2. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el coautor en forma de comisión por
+        omisión dolosa.
+
+    2.7.3. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el coautor en forma de omisión simple
+        dolosa.
+
+    2.7.4. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el coautor bajo una acción libre en su
+        causa dolosa.
+
+    2.8. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada eficazmente desistida donde intervino el coautor:*
+
+    2.8.1. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el coautor en forma de acción dolosa.
+
+    2.8.2. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el coautor en forma de comisión por
+        omisión dolosa.
+
+    2.8.3. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el coautor en forma de omisión simple
+        dolosa.
+
+    2.8.4. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el coautor bajo una acción libre en su
+        causa dolosa.
+
+    2.9. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada ineficazmente desistida donde intervino el coautor:*
+
+    2.9.1. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el coautor en forma de
+        acción dolosa.
+
+    2.9.2. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el coautor en forma de
+        comisión por omisión dolosa.
+
+    2.9.3. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el coautor en forma de
+        omisión simple dolosa.
+
+    2.9.4. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el coautor bajo una acción
+        libre en su causa dolosa.
+
+3. **Modelos de imputación para un hecho donde intervino el autor mediato**
+
+    3.1. *Principales modelos de imputación para un hecho consumado
+        instantáneamente donde intervino el autor mediato:*
+
+    3.1.1. Hecho típico consumado instantáneamente donde intervino el autor
+        mediato en forma de acción dolosa.
+
+    3.1.2. Hecho típico consumado instantáneamente donde intervino el autor
+        mediato en forma de comisión por omisión dolosa.
+
+    3.1.3. Hecho típico consumado instantáneamente donde intervino el autor
+        mediato en forma de omisión simple dolosa.
+
+    3.1.4. Hecho típico consumado instantáneamente donde intervino el autor
+        mediato bajo una acción libre en su causa dolosa.
+
+    3.2. *Principales modelos de imputación para un hecho consumado
+        permanentemente donde intervino el autor mediato:*
+
+    3.2.1. Hecho típico consumado permanentemente donde intervino el autor
+        mediato en forma de acción dolosa.
+
+    3.2.2. Hecho típico consumado permanentemente donde intervino el autor
+        mediato en forma de comisión por omisión dolosa.
+
+    3.2.3. Hecho típico consumado permanentemente donde intervino el autor
+        mediato en forma de omisión simple dolosa.
+
+    3.2.4. Hecho típico consumado permanentemente donde intervino el autor
+        mediato bajo una acción libre en su causa dolosa.
+
+    3.3. *Principales modelos de imputación para un hecho consumado
+        continuadamente donde intervino el autor mediato:*
+
+    3.3.1. Hecho típico consumado continuadamente donde intervino el autor
+        mediato en forma de acción dolosa.
+
+    3.3.2. Hecho típico consumado continuadamente donde intervino el autor
+        mediato en forma de comisión por omisión dolosa.
+
+    3.3.3. Hecho típico consumado continuadamente donde intervino el autor
+        mediato en forma de omisión simple dolosa.
+
+    3.3.4. Hecho típico consumado continuadamente donde intervino el autor
+        mediato bajo una acción libre en su causa dolosa.
+
+    3.4. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada donde intervino el autor mediato:*
+
+    3.4.1. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor mediato en forma de acción dolosa.
+
+    3.4.2. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor mediato en forma de comisión por omisión dolosa.
+
+    3.4.3. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor mediato en forma de omisión simple dolosa.
+
+    3.4.4. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el autor mediato bajo una acción libre en su causa dolosa.
+
+    3.5. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada donde intervino el autor mediato:*
+
+    3.5.1. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor mediato en forma de acción dolosa.
+
+    3.5.2. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor mediato en forma de comisión por omisión dolosa.
+
+    3.5.3. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor mediato en forma de omisión simple dolosa.
+
+    3.5.4. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el autor mediato bajo una acción libre en su causa dolosa.
+
+    3.6. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada eficazmente desistida donde intervino el autor
+        mediato:*
+
+    3.6.1. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor mediato en forma de acción
+        dolosa.
+
+    3.6.2. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor mediato en forma de comisión por
+        omisión dolosa.
+
+    3.6.3. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor mediato en forma de omisión
+        simple dolosa.
+
+    3.6.4. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el autor mediato bajo una acción libre en
+        su causa dolosa.
+
+    3.7. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada ineficazmente desistida donde intervino el autor
+        mediato:*
+
+    3.7.1. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor mediato en forma de acción
+        dolosa.
+
+    3.7.2. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor mediato en forma de comisión por
+        omisión dolosa.
+
+    3.7.3. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor mediato en forma de omisión
+        simple dolosa.
+
+    3.7.4. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el autor mediato bajo una acción libre en
+        su causa dolosa.
+
+    3.8. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada eficazmente desistida donde intervino el autor
+        mediato:*
+
+    3.8.1. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor mediato en forma de acción
+        dolosa.
+
+    3.8.2. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor mediato en forma de comisión por
+        omisión dolosa.
+
+    3.8.3. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor mediato en forma de omisión
+        simple dolosa.
+
+    3.8.4. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el autor mediato bajo una acción libre en
+        su causa dolosa.
+
+    3.9. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada ineficazmente desistida donde intervino el autor
+        mediato:*
+
+    3.9.1. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor mediato en forma de
+        acción dolosa.
+
+    3.9.2. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor mediato en forma de
+        comisión por omisión dolosa.
+
+    3.9.3. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor mediato en forma de
+        omisión simple dolosa.
+
+    3.9.4. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el autor mediato bajo una
+        acción libre en su causa dolosa.
+
+4. **Modelos de imputación para un hecho donde intervino el partícipe-inductor**
+
+    4.1. *Principales modelos de imputación para un hecho consumado
+        instantáneamente donde intervino el partícipe-inductor:*
+
+    4.1.1. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-inductor en forma de acción dolosa.
+
+    4.1.2. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-inductor bajo una acción libre en su causa dolosa.
+
+    4.2. *Principales modelos de imputación para un hecho consumado
+        permanentemente donde intervino el partícipe-inductor:*
+
+    4.2.1. Hecho típico consumado permanentemente donde intervino el
+        partícipe-inductor en forma de acción dolosa.
+
+    4.2.2. Hecho típico consumado permanentemente donde intervino el
+        partícipe-inductor bajo una acción libre en su causa dolosa.
+
+    4.3. *Principales modelos de imputación para un hecho consumado
+        continuadamente donde intervino el partícipe-inductor:*
+
+    4.3.1. Hecho típico consumado continuadamente donde intervino el
+        partícipe-inductor en forma de acción dolosa.
+
+    4.3.2. Hecho típico consumado continuadamente donde intervino el
+        partícipe-inductor bajo una acción libre en su causa dolosa.
+
+    4.4. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada donde intervino el partícipe-inductor:*
+
+    4.4.1. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el partícipe-inductor en forma de acción dolosa.
+
+    4.4.2. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el partícipe-inductor bajo una acción libre en su causa
+        dolosa.
+
+    4.5. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada donde intervino el partícipe-inductor:*
+
+    4.5.1. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el partícipe-inductor en forma de acción dolosa.
+
+    4.5.2. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el partícipe-inductor bajo una acción libre en su causa
+        dolosa.
+
+    4.6. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada eficazmente desistida donde intervino el
+        partícipe-inductor:*
+
+    4.6.1. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-inductor en forma de acción
+        dolosa.
+
+    4.6.2. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-inductor bajo una acción
+        libre en su causa dolosa.
+
+    4.7. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada ineficazmente desistida donde intervino el
+        partícipe-inductor:*
+
+    4.7.1. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-inductor en forma de acción
+        dolosa.
+
+    4.7.2. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-inductor bajo una acción
+        libre en su causa dolosa.
+
+    4.8. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada eficazmente desistida donde intervino el
+        partícipe-inductor:*
+
+    4.8.1. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-inductor en forma de acción
+        dolosa.
+
+    4.8.2. Hecho cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-inductor bajo una acción
+        libre en su causa dolosa.
+
+    4.9. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada ineficazmente desistida donde intervino el
+        partícipe-inductor:*
+
+    4.9.1. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-inductor en
+        forma de acción dolosa.
+
+    4.9.2. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-inductor bajo
+        una acción libre en su causa dolosa.
+
+5. **Modelos de imputación para un hecho donde intervino el partícipe-cómplice**
+
+    5.1. *Principales modelos de imputación para un hecho consumado
+        instantáneamente donde intervino el partícipe-cómplice:*
+
+    5.1.1. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-cómplice en forma de acción dolosa.
+
+    5.1.2. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-cómplice en forma de omisión dolosa.
+
+    5.1.3. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-cómplice bajo una acción libre en su causa dolosa.
+
+    5.2. *Principales modelos de imputación para un hecho consumado
+        permanentemente donde intervino el partícipe-cómplice:*
+
+    5.2.1. Hecho típico consumado permanentemente donde intervino el
+        partícipe-cómplice en forma de acción dolosa.
+
+    5.2.2. Hecho típico consumado permanentemente donde intervino el
+        partícipe-cómplice en forma de omisión dolosa.
+
+    5.2.3. Hecho típico consumado permanentemente donde intervino el
+        partícipe-cómplice bajo una acción libre en su causa dolosa.
+
+    5.3. *Principales modelos de imputación para un hecho consumado
+        continuadamente donde intervino el partícipe-cómplice:*
+
+    5.3.1. Hecho típico consumado continuadamente donde intervino el
+        partícipe-cómplice en forma de acción dolosa.
+
+    5.3.2. Hecho típico consumado continuadamente donde intervino el
+        partícipe-cómplice en forma de omisión dolosa.
+
+    5.3.3. Hecho típico consumado continuadamente donde intervino el
+        partícipe-cómplice bajo una acción libre en su causa dolosa.
+
+    5.4. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada donde intervino el partícipe-cómplice:*
+
+    5.4.1. Hecho típico cometido en grado de tentativa acabada donde
+        intervino el partícipe-cómplice en forma de acción dolosa.
+
+    5.4.2. Hecho típico en grado de tentativa acabada donde intervino el
+        partícipe-cómplice en forma de omisión dolosa.
+
+    5.4.3. Hecho típico en grado de tentativa acabada donde intervino el
+        partícipe-cómplice bajo una acción libre en su causa dolosa.
+
+    5.5. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada donde intervino el partícipe-cómplice:*
+
+    5.5.1. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el partícipe-cómplice en forma de acción dolosa.
+
+    5.5.2. Hecho típico en grado de tentativa inacabada donde intervino el
+        partícipe-cómplice en forma de omisión dolosa.
+
+    5.5.3. Hecho típico en grado de tentativa inacabada donde intervino el
+        partícipe-cómplice bajo una acción libre en su causa dolosa.
+
+    5.6. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada eficazmente desistida donde intervino el*
+        ~~partícipe-inductor~~ ***partícipe-cómplice:***
+
+    5.6.1. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-cómplice en forma de acción
+        dolosa.
+
+    5.6.2. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-cómplice en forma de omisión
+        dolosa.
+
+    5.6.3. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-cómplice bajo una acción
+        libre en su causa dolosa.
+
+    5.7. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada ineficazmente desistida donde intervino el
+        partícipe-cómplice:*
+
+    5.7.1. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-cómplice en forma de acción
+        dolosa.
+
+    5.7.2. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-cómplice en forma de omisión
+        dolosa.
+
+    5.7.3. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-cómplice bajo una acción
+        libre en su causa dolosa.
+
+    5.8. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada eficazmente desistida donde intervino el
+        partícipe-cómplice:*
+
+    5.8.1. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-cómplice en forma de acción
+        dolosa.
+
+    5.8.2. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-cómplice en forma de omisión
+        dolosa.
+
+    5.8.3. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-cómplice bajo una acción
+        libre en su causa dolosa.
+
+    5.9. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada ineficazmente desistida donde intervino el
+        partícipe-cómplice:*
+
+    5.9.1. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-cómplice en
+        forma de acción dolosa.
+
+    5.9.2. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-cómplice en
+        forma de omisión dolosa.
+
+    5.9.3. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-cómplice bajo
+        una acción libre en su causa dolosa.
+
+6. **Modelos de imputación para un hecho donde intervino el
+    partícipe-encubridor**
+
+    6.1. *Principales modelos de imputación para un hecho consumado
+        instantáneamente donde intervino el partícipe-encubridor:*
+
+    6.1.1. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-encubridor en forma de acción dolosa.
+
+    6.1.2. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-encubridor en forma de omisión dolosa.
+
+    6.1.3. Hecho típico consumado instantáneamente donde intervino el
+        partícipe-encubridor bajo una acción libre en su causa dolosa.
+
+    6.2. *Principales modelos de imputación para un hecho consumado
+        permanentemente donde intervino el partícipe-encubridor:*
+
+    6.2.1. Hecho típico consumado permanentemente donde intervino el
+    partícipe-encubridor en forma de acción dolosa.
+
+    6.2.2. Hecho típico consumado permanentemente donde intervino el
+    partícipe-encubridor en forma de omisión dolosa.
+
+    6.2.3. Hecho típico consumado permanentemente donde intervino el
+    partícipe-encubridor bajo una acción libre en su causa dolosa.
+
+    6.3. *Principales modelos de imputación para un hecho consumado
+        continuadamente donde intervino el partícipe-encubridor:*
+
+    6.3.1. Hecho típico consumado continuadamente donde intervino el
+        partícipe-encubridor en forma de acción dolosa.
+
+    6.3.2. Hecho típico consumado continuadamente donde intervino el
+        partícipe-encubridor en forma de omisión dolosa.
+
+    6.3.3. Hecho típico consumado continuadamente donde intervino el
+        partícipe-encubridor bajo una acción libre en su causa dolosa.
+
+    6.4. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada donde intervino el partícipe-encubridor:*
+
+    6.4.1. Hecho típico cometido en grado de tentativa acabada donde
+    intervino el partícipe-encubridor en forma de acción dolosa.
+
+    6.4.2. Hecho típico en grado de tentativa acabada donde intervino el
+    partícipe-encubridor en forma de omisión dolosa.
+
+    6.4.3. Hecho típico en grado de tentativa acabada donde intervino el
+    partícipe-encubridor bajo una acción libre en su causa dolosa.
+
+    6.5. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada donde intervino el partícipe-encubridor:*
+
+    6.5.1. Hecho típico cometido en grado de tentativa inacabada donde
+        intervino el partícipe-encubridor en forma de acción dolosa.
+
+    6.5.2. Hecho típico en grado de tentativa inacabada donde intervino el
+        partícipe-encubridor en forma de omisión dolosa.
+
+    6.5.3. Hecho típico en grado de tentativa inacabada donde intervino el
+        partícipe-encubridor bajo una acción libre en su causa dolosa.
+
+    6.6. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada eficazmente desistida donde intervino el
+        partícipe-encubridor:*
+
+    6.6.1. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-encubridor en forma de
+        acción dolosa.
+
+    6.6.2. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-encubridor en forma de
+        omisión dolosa.
+
+    6.6.3. Hecho típico cometido en grado de tentativa acabada eficazmente
+        desistida donde intervino el partícipe-encubridor bajo una acción
+        libre en su causa dolosa.
+
+    6.7. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa acabada ineficazmente desistida donde intervino el
+        partícipe-encubridor:*
+
+    6.7.1. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-encubridor en forma de acción
+        dolosa.
+
+    6.7.2. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-encubridor en forma de
+        omisión dolosa.
+
+    6.7.3. Hecho típico cometido en grado de tentativa acabada ineficazmente
+        desistida donde intervino el partícipe-encubridor bajo una acción
+        libre en su causa dolosa.
+
+    6.8. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada eficazmente desistida donde intervino el
+        partícipe-encubridor:*
+
+    6.8.1. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-encubridor en forma de acción
+        dolosa.
+
+    6.8.2. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-encubridor en forma de
+        omisión dolosa.
+
+    6.8.3. Hecho típico cometido en grado de tentativa inacabada eficazmente
+        desistida donde intervino el partícipe-encubridor bajo una acción
+        libre en su causa dolosa.
+
+    6.9. *Principales modelos de imputación para un hecho cometido en grado de
+        tentativa inacabada ineficazmente desistida donde intervino el
+        partícipe-encubridor:*
+
+    6.9.1. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-encubridor en
+        forma de acción dolosa.
+
+    6.9.2. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-encubridor en
+        forma de omisión dolosa.
+
+    6.9.3. Hecho típico cometido en grado de tentativa inacabada
+        ineficazmente desistida donde intervino el partícipe-encubridor bajo
+        una acción libre en su causa dolosa.
