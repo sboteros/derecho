@@ -1,0 +1,33 @@
+---
+title: Tarea 2
+subtitle: Un penalista que calculaba
+author: Santiago Botero Sierra
+date: 21 de mayo de 2020
+---
+
+De la lectura de \citetitle{lib:calcpen}, me surgen las siguientes preguntas:
+
+1. ¿Usted considera que debieran asimilarse entre sí los conceptos que generan
+    las mismas consecuencias, para simplificar los códigos penales del país, o
+    que deben diferenciarse las consecuencias de cada  concepto para que estos
+    adquieran sentido pleno?
+
+2. ¿Cuáles son las consecuencias jurídicas, diferentes a la pena, que hay en el
+    Derecho Penal?[^Nota1]
+
+3. ¿A qué se refiere con la *automatización* del Derecho
+    Penal?\autocite[23]{lib:calcpen}
+
+4. ¿Cada hecho típico tiene un márgen de punibilidad (mínimo y máximo) medido en
+    años y a este se le aplica un multiplicador según el grado de ejecución, el
+    interviniente, la naturaleza y el tipo de procedimiento? ¿O este
+    multiplicador no aplica para todos los elementos?
+
+5. ¿Cómo se hace la multiplicación cuando se trata de concurso de hechos
+    típicos? ¿Primero se suman los márgenes de punibilidad de cada uno de los
+    hechos típicos como en la pregunta 4 y luego se aplica un multiplicador del
+    concurso?
+
+[^Nota1]: "*La pena, aunque no es la única consecuencia jurídica que conoce
+nuestra disciplina, históricamente ha servido para orientar el sentido formal de
+esta materia*", \autocite[14]{lib:calcpen}.
