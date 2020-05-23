@@ -1,0 +1,115 @@
+---
+title: Clase 3
+author: Santiago Botero Sierra
+date: 23 de mayo de 2020
+---
+
++ Concepto de persona
+    - Hay diversas acepciones:
+
+        * Biológica: Ser humananp, individuo de la especie humana.
+        * Ético: Agente moral, individuo con dignidad humana.
+        * **Jurídico: sujeto de derechos y obligaciones.**
+
+    - Evolución del concepto
+
+        * Etimológicamente proviene de *personare*, que es la máscara o careta
+            que utilizaban los actores del teatro romano para amplificar su
+            voz. Entonces hay una relación con el *personaje* y el *actor* de la
+            obra.
+        * Se extiende el concepto al ámbito social, en donde la persona actúa
+            diversos *papeles* en la *escena* de la vida social: padre,
+            ciudadano, propietario, etc.
+        * En el mundo del derecho, es el *hombre que actúa* en el ámbito del
+            derecho; es decir, que es capaz de realizar *actos jurídicos*.
+
+    - Distinciones entre conceptos:
+
+        * *Persona jurídica*: sujeto de derechos y obligaciones.
+        * *Personalidad jurídica*: Aptitud (idoneidad) para ser sujeto de
+            derechos y obligaciones. La personalidad es lo que te habilita para
+            ser persona: no hay persona sin personalidad.
+        * *Capacidad jurídica*: Aptitud de una persona para ser *titular* de
+            derechos y obligaciones para ejercerlos por sí misma. Después de que
+            ya se es persona, se puede tener capacidad: la capacidad es uno de
+            los atributos de la persona; otras son patrimonio, domicilio, etc.
+
+    - Tipos de persona jurídica:
+
+        * Persona física
+        * Persona moral
+
+    - Atributos de las personas: nombre, domicilio, capacidad, patrimonio,
+        estado, nacionalidad, etc.
+    - Derechos de la Personalidad: solo son aplicables a la *persona física* e
+        incluyen derechos a la vida, la integridad física y moral, la libertad,
+        el nombre, la indimidad, el honor y la imagen propia.
+
+# Persona física
+    - Evolución y concepto
+
+        * Derecho romano: Persona aludía a los *sujetos de derecho*, que
+            únicamente eran los hombres libres, ciudadanos y cabeza de familia,
+            pues los esclavos eran considerados cosas.
+        * Época moderna: El Código de Napoleón estableció la muerte civil, y en
+            Estados Unidos subsistió la esclavitud (caso Dred Scott vs. John FA
+            Sanford).
+        * Actualidad: Aunque aún subsite la discriminación a personas (racismo,
+            género), la Declaración Universal, art. 6, "[t]*odo ser humano tiene
+            derecho al reconocimiento de su personalidad jurídica*". De este
+            modo, ahora el concepto de persona física debe referirse a todo
+            ser humano, en cuanto a sujeto de derechos y obligaciones.
+
+    - Inicio de la Personalidad Jurídica de la Persona Física
+
+        * "Artículo 22. La *capacidad jurídica* de las personas físicas se
+            adquiere por el nacimiento y se pierde por la muerte; pero desde el
+            momento en que un individuo *concebido*, entra bajo la protección de
+            la ley y se le tiene por nacido para los efectos en el presente
+            Código".
+        * Aquí no debió decir la *capacidad jurídica* sino la *personalidad
+            jurídica*.
+        * Posturas: **i)** estricta, la personalidad jurídica se adquiere
+            únicamente con el nacimiento (J. Tapia Ramírez), o **ii)** amplia,
+            la personalidad  jurídica se adquiere desde la concepción (F. Rico)
+
+    - El concebido
+
+        * Hay varias posturas sobre *el concebido* también: **i)** una postura
+            extensiva que le da inicio desde la fecundación (unión del óvulo
+            con el espermatozoide) y un concebido es una persona, **ii)** una
+            postura restringida que le da inicio desde la implantación del
+            embrión en el endometrio y el concebido no es una persona, sino que
+            es vida humana que merece protección de la Ley pero que debe ser
+            ponderada con otros derechos humanos (como los derechos sexuales y
+            reproductivos de la mujer). La SCJN ha resuelto acciones de
+            inconstitucionalidad 10/2000 (aborto eugenésico), 146/2007 y
+            acumulada 147/2007 (despenalización del aborto en la CDMX) y
+            11/2009 (desestimada, contra la Constitución de Baja California);
+            también la Corte IDH en el caso Artavia Murillo vs. Costa Rica
+            (2012).
+
+        * Estuto de relaciones jurídicas: sujetas a condición suspensiva (art.
+            1939) y a condición resolutoria (art. 1940). Sujetos a que nazcan
+            vivos y viables.
+        * Amplitud de los efectos jurídicos: Hay una postura en la que
+            únicamente pueden ser beneficiarios respecto de actos  expresmaente
+            reconocidos y autorizados por la Ley (reconocimiento de hijo, art.
+            353 Quáter, donatario, art. 2357, heredero, art. 1314, legatario,
+            art. 1391 y fideicomisario); hay otra según la  cual no hay
+            condición para que el concebido participe en actos  jurídicos.
+
+    - El nacimiento
+
+        * Art. 337 del CCCDMX (desprendido enteramente del seno materno, vive
+            veinticuatro horas o es presentado vivo ante el Juez del Registro
+            Civil).
+        * Se adopta la teoría de la viabilidad y se es viable cuando se cumplen
+            dos requisitos: **i)** se desprende enteramente del vientre materno,
+            y **ii)** vive 24 horas o antes es presentado ante el juez del
+            registro civil. Hay otra teoría, llamada  de la vitalidad, por
+            ejemplo la adoptada por el CC de Argentina,  donde basta con que
+            nazca vivo.
+        * Algunos tratados internacionales señalan que debería ser inmediato:
+            Pacto Internacional de Derechos Civiles y Políticos, art. 24.2;
+            Convención de Derechos del Niño, art. 7.1
