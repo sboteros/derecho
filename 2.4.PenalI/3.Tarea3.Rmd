@@ -1,0 +1,75 @@
+---
+title: Clase 3
+author: Santiago Botero Sierra
+date: 23 de mayo de 2020
+---
+
++ Los tipos penales tienen un márgen de punibilidad; el primer establecimiento
+    de este tipo de márgenes fue del Código Penal Francés de 1810. A mediados
+    del siglo XX los alemanes hicieron una teoría del espacio-xxx, que sirve
+    para individualizar la pena.
+    - *Principio de lesividad*. Para graduar los márgenes de punibilidad entre
+        tipos penales. Depende de la política criminal y la política estatal
+        para determinar estos márgenes.
+    - Artículo 22 de la CPEUM, las penas deben guardar proporción con el valor  
+        del bien jurídico que se proteja.
+    - Durante muchos años los legisladores han sido libres para poner el márgen,
+        pero el sistema acusatorio les debe poner un límite porque el sistema no
+        está hecho para que este se haga a capricho; lo más importante es la
+        mínima porque respecto de ella se va a calcular el procedimiento
+        abreviado.
+    - Concepto de *política criminal niveladora*. Hasta el momento, el penalista
+        solamente calcula los márgenes de punibilidad establecidos en el tipo de
+        que se trate; el procesalista calcula los reductores del abreviado; el
+        especialista en ejecución de sanciones se encarga de aplicar. El
+        problema es que todos trabajan por separado.Dicho en otros términos, el
+        penalista que se dedica a la parte sustantiva no debería trabajar
+        aisladamente; el progreso depende de una política criminal niveladora
+        o integradora, que permita conocer todos los reductores del procesalista
+        y el ejecutor de sanciones también.
+    - Nuestro sistema está desproporcionado. Es un defecto de cálculo legal que
+        se necesita proponer de forma seria a través de una política criminal
+        niveladora, porque las grandes comisiones redactoras no tuvieron
+        armonía entre sí.
++ Imputabilidad disminuida.
+    - *Imputabilidad* es la capacidad que tiene una persona para ser postulados
+        en sentido positivo por la norma penal, pues se tiene la capacidad para
+        comprender la prohibición.
+    - En ocasiones, una persona imputable se encuentra en una circunstancia que
+        no provocó y es completamente imprevista para él; el sujeto imputable
+        pasa por un estado en donde su capacidad para ser motivada en sentido
+        positivo se redujo. Ver el artículo 69 bis del CPF y el artículo 65 del
+        CPCDMX.
+    - En ese caso, hay *imputabilidad disminuida*, que reduce en 2/3 partes la
+        culpabilidad y, por lo tanto, el márgen de punibilidad.
++ Concepto-consecuencia.
+    - Cada concepto tiene un peso y un valor.
+    - La conducta culposa quita el 0.75 de la culpa; y la imputabilidad
+        disminuida resta las 2/3 partes. Error de tipo vencible, 0.75. Partícipe
+        no autor, 0.75, error de tipo vencible, (2/3).
+    - Lamentablemente hay personas, especialmente servidores, que manejan
+        conceptos y no saben la consecuencia.
+    - Las consecuencias no solo son márgenes de punibilidad, sino también
+        en el proceso (por ejemplo, homicidio culposo implica cárcel
+        preventiva).
+    - Para calcular reductores:
+
+        * Ver si es un tipo doloso o culposamente realizado. Cada uno tiene una
+            mínima y una máxima.
+        * El artículo 202 del CNPP dice que si es culposo, se le puede reducir
+            a la mínima hasta la mitad. Si tienes un delito doloso, le puedes
+            reducir hasta la tercera parte.
+        * Cada fiscal general tiene la facultad de hacer un acuerdo en materia
+            de proceso abreviado y de xxx. Esos márgenes se mueven en atención
+            a la política criminal de la entidad de que se trate.
+
++ Las agravantes y las atenuantes se estudian al nivel del tipo penal de que
+    se trate.
+    - Los delitos cualificados por el resultados tienden a quebrantar el
+        *principio de culpabilidad*.
+    - Robo con resultado de muerte (Estado de México), secuestro con resultado
+        de muerte (Federal),
+
++ **Tarea 1**: Transcribir el contenido de las 5 hojas en 5 tarjetas de trabajo.
++ **Tarea 2**: Ir consiguiendo el libro 500 casos resueltos.
++ **Tarea 3**: Leer 57 casos que Raúl enviará.

@@ -59,9 +59,45 @@ date: 16 de mayo de 2020
         * Hay algunas reglas, tales como: la consumación permanente o tentativa,
             tienen que ser dolosas; siempre que haya un desistimiento debe ser doloso; un desistimiento es doloso; y una consumación instantánea puede ser dolosa o culposa.
 
-    - Forma de intervención ($i$)        
+    - Forma de intervención ($i$)      
+
+        * Puede ser: **i)** donde intervino el autor directo ($i_a^d$, art. 22,
+            frac.  I), **ii)** donde intervino el coautor ($i_a^c$, art. 22,
+            frac. II), **iii)** donde intervino el autor mediato ($i_a^m$, art.
+            22, frac. III), **iv)**  donde intervino el partícipe inductor
+            ($i_p^i$, art. 22, frac. IV), **v)** donde intervino el partícipe
+            cómplice ($i_p^c$, art. 22, frac. V), y **vi)** donde intervino el
+            partícipe encubridor ($i_p^e$, art. 22, frac.  VI).
+        * El inductor siempre actúa antes de la consumación; el cómplice puede
+            actuar antes, durante o después de la consumación.
+
     - Naturaleza de la conducta ($n$)
-    - Clase de concurso correspondiente ($c$), en su caso.
+
+        * Puede ser: **i)** en forma de acción dolosa ($n_a^d$, art. 15 pc y
+            18 p2), **ii)** en forma de acción culposa ($n_a^c$, art. 15 y 18
+            p3), **iii)** en forma de comisión por omisión dolosa ($n_{co}^d$,
+            art. 16 y 18 p2), **iv)** en forma de comisión por omisión culposa
+            ($n_{co}^c$, arts. 16 y 18 p3), **v)** en forma de omisión simple
+            dolosa ($n_{os}^d$, tipo especial y art. 18 p2), **vi)** en forma de
+            omisión simple culposa ($n_{os}^c$, tipo especial y art. 18  p3),
+            **vii)** bajo una acción libre en su causa dolosa ($n_{al}^d$, art.
+            29, letra C, numero II, pc. y art. 18 p2), o **viii)** en forma de
+            forma de omisión dolosa ($n_o^d$, 15 pc y 18 p2).
+        * La forma de omisión dolosa ($n_) aplica cuando un cómplice ayude al
+            autor en forma de omisión dolosa.
+        * Para distinguir las omisiones: **i)** cuando la inactividad está
+            asociada a un resultado típico *material* se clasifica como una
+            comisión por omisión; o **ii)** cuando la omisión está asociada a un
+            resultado típico *formal*, se  llama omisión simple. Lo anterior lo
+            debemos a Henry Luden en 1840.
+        * Un resultado típico puede ser: **i)** *material*, cuando el tipo
+            penal exige un cambio o mutación en el mundo exterior, o **ii)**
+            *formal*, cuando el tipo penal no exige un cambio o mutación en el
+            mundo exterior.
+
+    - Clase de concurso correspondiente ($c$), en su caso. El concurso puede ser:
+        **i)** en concurso real con... (art. 28 pc), o **ii)** en concurso ideal
+        con (art. 28 pc).
 
 + Ejemplos
     - *Por descuido un automovilista atropeyó y mató a un peatón*. La
@@ -108,6 +144,37 @@ date: 16 de mayo de 2020
         ($e_{2ci}$) donde intervino el autor directo ($i_{2a}^d$) en forma de
         acción culposa ($n_{2a}^c$).
 
+    - *Un sujeto decide con otro robar un vehículo: el primero ($x_1$) se queda
+        robando el vehículo, mientras el segundo se queda en la esquina
+        vigilando; el autor es detenido en flagrancia y delata al otro sujeto
+        ($x_2$)*. La clasificación sería, para $x_1$, robo de vehículo ($h$)
+        cometido instantáneamente en grado de tentativa acabada ($e_{ta}$) donde
+        intervino el autor directo ($i_a^d$) en forma de acción dolosa
+        ($n_a^d$); para $x_2$, robo de vehículo ($h$) cometido en grado de
+        tentativa acabada ($e_{ta}$) donde intervino el partícipe cómplice
+        ($i_p^c$) en forma de acción dolosa ($n_a^d$).
+
+    - *$x_1$ y $x_2$ roban un cuadro vuyo valor aproximado es de $100,000. Al
+        salir de la casa son puestos a disposición. El sujeto $x_3$ fue quien un
+        día antes les dio las llaves de la casa para ello*. La clasificación
+        jurídica para $x_3$ sería: robo a casa habitación ($h$) consumado
+        instantáneamente ($e_{3ci}$) donde intervino la partícipe cómplice
+        ($i_{3p}^c$) en forma de acción dolosa $n_{3a}^d$.
+
+    - *Una persona se intoxica a sí misma para deshinibirse ante su víctima y
+        abusar sexualmente de ella*. La clasificación sería: abuso sexual
+        agravado ($h$) consumado instantáneamente ($e_{ci}$) donde intervino el
+        autor directo ($a^d$) en forma de acción libre en su causa dolosa
+        ($n_{al}^d$).
+
+    - *$x_1$ tragó pastillas para dormir mientras que $x_2$ fue sorprendido en
+        la casa habitación; ambos acordaron lo anterior*. La clasificación
+        sería, para $x_1$, robo a casa habitación cometido en grado de tentativa
+        acabada donde intervino el coautor bajo una acción libre en su causa
+        dolosa; y, para $x_2$, robo a cada habitación cometido en grado de
+        tentativa acabada donde intervino el autor directo en forma de acción
+        dolosa.
+
 + **Tarea**. Leer uno de los cuatro folletos de la Colección Cálculo Legal y
     hacer un reporte de lectura de una sóla página en donde se plasmen las
-    preguntas.
+    preguntas. **OK**
