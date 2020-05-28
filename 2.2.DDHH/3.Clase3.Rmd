@@ -1,0 +1,85 @@
+---
+title: Clase 3
+author: Santiago Botero Sierra
+date: 27 de mayo de 2020
+---
+
++ Proceso de delimitación de derechos
+    - La titularidad de derechos es para todas las personas.
+    - Hay algunos derechos delimitados en función de la *ciudadanía*
+
+        * El art. 34 de la CPEUM, establece tres requisitos para la ciudadanía:
+            tener la calidad de mexicano, haber cumplido 18 años y tener un modo
+            honesto de vida.
+        * Problemas de interpretación del requisito de tener un modo honesto de
+            vivir.
+        * La nacionalidad se adquiere por nacimiento o por naturalización (art.
+            30).
+        * Los derechos exclusivos de la ciudadanía (art. 35) están vinculados
+            con la participación política: sufragio activo, sufragio pasivo,
+            asociación política, etc.
+        * Diferenciar entre "modo de vida honesto" y "no haber sido condenado
+            por delitos dolosos".
+
+    - Principio general: "Donde la norma no distingue, el intérprete no puede
+        distinguir". En el artículo 1 de la CPEUM no se distingue entre
+        *personas* (físicas o morales-jurídicas).
+
+        * Entonces las personas morales son titulares de DDHH.
+        * Pero pueden ser titulares de algunos DDHH y no de todos los DDHH.
+        * La respuesta va en función del tipo de derecho, de la naturaleza del
+            derecho, porque hay derechos que son propios y exclusivos de las
+            personas físicas por su naturaleza (por ejemplo, el derecho a la salud, art. 4, reinserción social, sufragio).
+        * Sí podrían ser titulares, por ejemplo, de todos los que tienen que ver
+            con el debido proceso, acceso a la justicia, propiedad, no
+            discriminación, trabajo, asociación.
+        * Tesis 2001402 (los derechos dependen de la naturaleza del derecho) y
+            tesis 2001403 (el reconocimiento puede ser una forma de protección
+            del objeto social).
+        * La tesis 2000082 reconoce la titularidad del derecho al honor, en su
+            sentido objetivo para las personas jurídicas. El derecho al honor en
+            dimensión subjetiva es la  autoestima (la imagen propia de sí
+            mismo), y en la objetiva es la reputación (la imagen que los demás
+            tienen de la persona).
+        * La *personalidad jurídica* es un centro de imputación de derechos y
+            obligaciones.
+        * Las personas jurídicas de derecho público no tienen derechos humanos;
+            ellas son titulares de competencias, atribuciones y facultades.
+
+    - Reglas de interpretación del artículo 29 del Pacto de San José: si la
+        norma interna tiene una protección mayor, se aplicará la disposición
+        interna.
+
++ Tradicionalmente se habían pensado para ser aplicados entre personas
+    particulares y autoridades.
+    - Los particulares pueden violar algunos DDHH, como por ejemplo la
+        discriminación, el medio ambiente sano, los derehos humanos de los
+        consumidores (art. 28), derecho a la salud,
+    - Algunos DDHH solo se pueden violar por una autoridad (p.e. el acceso a
+        la justicia, el derecho a la reinserción social, derecho de petición)
+
++ Principio de autonomía de la voluntad: las partes que firman un contrato,
+    siempre y cuando tengan capacidad jurídica, se pueden obligar de la forma
+    que  ellas quieran.
+    - Los DDHH proyectados hacia las relaciones entre particulares, limita la
+        *autonomía de la voluntad*. La autonomía de la voluntad está limitada
+        por el respeto a los DDHH.
+    - Ver el artículo 21, apartado 3, del Pacto de San José, sobre la
+        prohibición de la usura. Algunas tiendas se justifican en el principio
+        de la autonomía de la voluntad, pero los tribunales mexicanos dijeron
+        que no era admisible, porque eso resulta violatorio de su DDHH a la
+        propiedad y no puede quedar librado de la autonomía que tienen las
+        partes; los jueces han disminuido esas tasas de intereses y señalado que
+        una cláusula de interés que vaya más allá del 10% mensual es usura.
+    - La tesis 2001631, se limita la autonomía de la voluntad con los DDHH.
+    - La tesis 2002746 proyecta los DDHH de los tratados internacionales hacia
+        el ordenamiento nacional.
+    - La tesis 159936 habla en general de la proyección de los DDHH a las
+        relaciones entre particulares.
+    - Discriminación, discriminación en materia laboral, prejuicios,
++ Leer: amparo en revisión 750/2015 (derecho a la educación, ver en el asunto de
+    progresividad de los derechos); y, sobre la proyección de los DDHH a las
+    relaciones entre particulares, el amparo directo en revisión 992/2014 y el
+    amparo directo en revisión 1621/2010 (ilícito constitucional por la
+    violación de comunicaciones; un ilícito constitucional es la violación del
+    texto constitucional cometido por un particular)

@@ -1,0 +1,126 @@
+---
+title: Clase 3
+author: Santiago Botero Sierra
+date: 25 de mayo de 2020
+---
+
++ Síntesis:
+    - Constitucionalismo de las dos orillas: norteamericano y francés.
+    - Evolución y democratización del constitucionalismo con base en la
+        emergencia del estado social y democrático de derecho.
+
+        * La teoría política es Estado de Bienestar.
+        * Ambos conceptos se utilizan como sinónimos: es más económico el Estado
+            de Bienestar; y más jurídico el concepto de Estado Social.
+        * La aportación es que se toman las ideas del Estado de Bienestar y se
+            ponen en una Constitución; esto es una gran ventaja porque se
+            incorporan los derechos sociales y, con ello, ya no quedan librados
+            al criterio de un único gobierno.
+        * Por ejemplo, un gobierno que lo quisiera no podría eliminar la
+            financiación de la educación pública por los mandatos
+            constitucionales que tenemos en la Federación.
+
+    - Concepto de constitución, poder constituyente y validez del ordenamiento
+        jurídico con base en la Constitución (desde el punto de vista
+        procedimiental y material).
+    - Funciones de la Constitución: crea poderes, delimita sus funciones,
+        procedimientos de creación normativa, reconoce derechos e incorpora los
+        valores esenciales.
+
++ Características de la Constitución.
+
+    - Tiene un nombre propio. En contraposición con leyes, reglamentos, códigos,
+        etc., hay una Constitución (con la salvedad del  sistema federal, en
+        donde cada Estado tiene su Constitución)
+    - Tiene un proceso de formación. El procedimiento es único y es diferente a
+        otros cuerpos normativos, porque:
+
+        * Quien crea la Constitución es un poder constituyente, que tiene un
+            fundmento externo al ordenamiento jurídico (los ordenamientos
+            jurídicos no preveen su propia muerte pues las constituciones tienen
+            una pretensión de eternidad). Una vez creada la Constitución, el
+            poder constituyente desaparece, hay algunos autores que hablan del
+            poder constituyente permanente, pero eso no existe, lo que queda
+            después de que fue creada la Constitución son los poderes
+            *constituidos*, no *constituyentes*. La obra de reformación de la
+            constitución no debe asimilarse, en la teoría constitucional
+            moderna, al poder constituyente.
+        * Una vez termina el poder constituyente, ahí empieza el estado de
+            derecho; pues el poder constituyente es política, más que derecho.
+
+    - Tiene un contenido característico: los derechos humanos y la separación
+        de poderes.
+    - Tiene unos destinatarios típicos: los órganos superiores del Estado. Poder
+        legislativo, pero no se va al detalle de estos poderes y su estructura
+        orgánica particular, que es parte de una ley.
+    - Tiene un régimen jurídico peculiar.
+
+        * ***Concepto 1*** *Supremacía constitucional*. La Constitución tiene
+            supremacía (es la norma suprema); es una  característica que no
+            tiene ninguna otra norma jurídica. Entre las características: **i)**
+            determina la validez del ordenamiento; **ii)** puede ser explícita o
+            implícita, en el artículo 133 de la CPEUM se establece la supremacía
+            explícita (tres elementos: la Constitución, las leyes del Congreso
+            *que emanen de ella* y los Tratados *que estén de acuerdo con ella*;
+            de allí podría decirse que entre los tres elementos de la Ley
+            Suprema de la Unión, la Constitución está por encima de los otros
+            dos).
+        * La relación jurídica que hay entre los elementos de la Ley Suprema ha
+            sido compleja históricamente hasta llegar a la Sentencia para
+            resolver la contradicción de tesis 293/2011 donde la Corte crea el
+            *bloque de regularidad normativa*. Este está integrado tanto por
+            las disposiciones constitucionales como por los tratados
+            internacionales en materia de DDHH. Adicional a esos tres elementos
+            está la jurisprudencia que interpreta la constitución y la de la
+            Corte IDH, en esta sentencia se dice que esta  ultima jurisprudencia
+            es obligatoria en el sistema jurídico mexicano.
+        * De esto derivó la Tesis 2006225, "jurisprudencia emitida por la corte
+            interamericana de derechos humanos. es vinculante para los jueces
+            mexicanos siempre que sea más favorable a la persona".
+        * En las normas de la Constitución que establecen una restricción
+            expresa de los derechos humanos, prevalece la Constitución sobre los
+            Tratados. Esto fue muy criticado en la sentencia; el ministro Cossío
+            en su *voto particular* fue muy duro al respecto; el ministro
+            Saldívar ha explicado que no tenía mayoría en la Sentencia y que era
+            necesario que lo incluyera para poder votar por el resto de la
+            Sentencia.
+        * No son sinónimos *bloque de regularidad normativa* y *bloque de
+            constitucionalidad*, porque no está conformado únicamente por normas
+            de caracter constitucional. En algunos otros momentos se hablaba de
+            *bloque de convencionalidad*, porque se decía que la Convención
+            Americana, junto con otros Tratados, formaban un bloque; pero ya no
+            un bloque de constitucionalidad sino de convencionalidad. De manera
+            muy inteligente, la SCJN utilizó el *bloque de regularidad
+            normativa* para integrar estos conceptos (dicho concepto se recoge de La garantía jurisdiccional de la constitución, de Kelsen)
+        * Cossío emitió un *voto particular* en la Sentencia anterior, porque sí
+            hay jerarquía entre la Constitución y los Tratados, pero esa
+            jerarquía se da al momento de la incorporación del Tratado al
+            bloque, porque la Constitución condiciona la incorporación del
+            Tratado al sistema jurídico. Pero una vez que el Tratado se
+            incorpora, la relación jurídica ya no es de jerarquía, sino de mayor
+            protección del derecho de que se trate.
+        * Principio de interpretación *pro persona*, establecido en el artículo
+            1, párrafo 2, de la CPEUM, así como la Convención Americana en el
+            artículo 29.
+        * *Voto particular*. Cuando un miembro de órganos de integración
+            colegiada tiene un criterio que difiere del de la mayoría, tiene
+            derecho de expresar la razón o los argumentos por los cuales votó en
+            contra. Estos argumentos se recogen en un *voto disidente*, que en
+            México se llama *voto particular*; cuando este se circunscribe por
+            más de un miembro, se llama *voto de minoría*.
+        * Los Tratados que no se refieren a DDHH están abajo del bloque.
+        * ***Concepto 2*** *Rigidez constitucional*. Una Constitución es rígida
+            siempre y cuando no pueda ser modificada siguiendo el mismo
+            procedimiento que se sigue para modificar una ley.
+        * Hay dos posibilidades: **i)** que un órgano diferente al que forma una
+            ley sea el encargado de reformar la Constitución; o **ii)** que el
+            procedimiento de reforma de la Constitución sea diferente al
+            procedimiento de reforma de la ley. Estas dos posibilidades no son
+            excluyentes entre sí. A veces también se introducen elementos de
+            supermayorías, es decir el requisito de mayoría calificada en
+            contraste con la mayoría simple que podría servir para modificar una
+            ley.
+        * El modelo de *constituciones rígidas* se opone al de *constituciones
+            flexibles*; este segundo se presenta cuando la Constitución puede
+            ser modificada en seguimiento del mismo procedimiento que se sigue
+            para modificar una ley.
