@@ -1,0 +1,101 @@
+---
+title: Clase 4
+author: Santiago Botero Sierra
+date: 30 de mayo de 2020
+---
+
++ **Caso 1**. $x_1$ apuntó y accionó su arma contra $x_2$; sin embargo, falló el
+    disparo
+    - *Variable 1*. $x_1$ tenía intención homicida. La clasificación jurídica
+        sería: Homocidio calificado ($h$) cometido en grado de tentativa
+        inacabada ($e_{ta}$) donde intervino el actor directo ($i_a^d$) en grado
+        de acción dolosa ($n_a^d$). Donde resultan aplicables los artículos 123,
+        128 ($h$),  20 pc ($e_{ta}$), 22, frac. I ($i_a^d$), 15 pc ($n_a$) y 18
+        segundo párrafo ($n^d$), todos del código penal vigente en el momento y lugar de los hechos.
+    - *Variable 2*. $x_1$ quería darle un escarmiento a la víctima. La
+        clasificación jurídica sería: Lesiones graves de las que tardan en sanar
+        más de 60 días ($h$) cometidas en grado de tentativa inacabada
+        ($e_{ta}$) donde intervino el autor directo ($i_a^d$) en forma de acción
+        dolosa ($i_a^d$). Donde resultan aplicables el artículos 130, fracción V
+        ($h$), 20 pc ($e_{ta}$), 22, frac. I ($i_a^d$), 15 pc ($n_a$) y 18
+        segundo párrafo ($n^d$), todos del código penal vigente en el momento y
+        lugar de los hechos.
+    - *Variable 3*. $x_1$ guarda silencio, como es su derecho, desde el momento
+        de la detención.
+
+        * Para resolver la serie de casos de la variable 3 se sugiere tener en
+            cuenta el art. 316, fracción III, del CNPP; según la cual el agente
+            del MP puede *suponer razonablemente* que una persona participó en
+            la realización de  un hecho que la ley describe como delito.
+        * Es decir, que conforme a los datos o indicios del caso, el MP
+            razonablemente debe suponer que una persona cometió o participó en
+            en la comisión de un hecho que la ley describe como delito.
+        * Lo razonable es lo defendible, es decir, una hipótesis que se pueda
+            defender. Es lo contrario a la arbitrariedad, al despotismo o al
+            capricho.
+        * Arthur Kaufman, la filosofía del derecho, teoría de la resistencia de
+            las cosas.
+        * La clasificación sería la misma que la primera variable, siempre que
+            esta suposición sea razonable.
+
++ **Caso 2**. Una persona fue detenida justo cuando, en la madrugada, intentaba
+    abrir una camioneta 2018 estacionada. Intentaba abrir la puerta con un
+    gancho de alambre de ropa. En ese momento se le detiene y se pone a
+    disposición en flagrancia.
+    - *Hipótesis 1*. Refirió que quería llevarse la camioneta. La clasificación
+        jurídica sería: Robo de vehículo ($h$) cometido en grado de tentativa
+        inacaba ($e_{ti}$) donde intervino el actor directo ($i_a^d$) en forma
+        de acción dolosa ($n_a^d$).
+    - *Hipótesis 2*. Dijo que quería robar el bolso que estaba en el interior.
+        La clasificación sería: Robo de objeto al interior de un vehículo ($h$)
+        cometido en grado de tentativa inacaba ($e_{ti}$) donde intervino el
+        actor directo ($i_a^d$) en forma de acción dolosa ($n_a^d$). Donde
+        resultan aplicables los siguientes numerales: art. 220 (frac. IX), art.
+        20 pc ($e_{ta}$), 22, frac. I ($i_a^d$), 15 pc ($n_a$) y 18 párrafo 2
+        ($n^d$), todos del código penal vigente en el momento y lugar de los
+        hechos.
+    - *Hipótesis 3*. Guardó silencio.
+        * Sería razonable la hipótesis 2, salvo que tuviera un material extra
+            que le permitiera llevarse la camioneta como tal (una llave o algún
+            otro instrumento).
+        * El MP debería estar en capacidad de clasificar un hecho en un tiempo
+            no mayor al que tarda en cambiar la luz roja de un semáforo; es
+            decir, *un putazo*.
+        * La clasificación sería igual que en la hipótesis 2.
+
++ Preguntas
+    - En México no se castiga al suicida, aunque haya intentado quitarse la
+        vida en tentativa; sin embargo, sí se castiga al inductor del  suicidio
+        (es decir, a la persona que convence al suicida: inducción al suicidio
+        consumado instantáneamente donde intervino el autor directo en forma de
+        acción dolosa).
+    - Si fuera un niño, podría responder como autor mediato, porque en ese caso
+        el niño aún no tiene la voluntad completamente formada (homicidio
+        calificado consumado instantáneamente donde intervino el autor mediato
+        en forma de acción dolosa).
+    - El consentimiento excluye la responsabilidad de las lesiones de una
+        persona que participe en un experimento para probar la eficacia de una
+        vacuna; si es un consentimiento informado y razonable, entonces no hay
+        lesiones si falla la vacuna.
+    - Cuando hay el deber de afrontar un riesgo, es necesario que lo afronte;
+        aunque hay un límite donde se pondera con respecto a un daño que le
+        pueda causar. Pero hay que afrontar el riesgo del deber (juez,
+        magistrado, policía, bombero, etc.). Aunque haya el deber, hay que hacer
+        un examen para no poner en peligro a terceras personas. Los brigadistas
+        también tienen el deber de examen: qué puedo hacer como brigadista (a
+        lo mejor una llamada, solicitar auxilio, etc.), pero si uno no tiene
+        nada para evitar el riesgo de contagio, es mejor que solicite ayuda
+        (ya sea brigadista o médico): el médico que no cuenta con ningún
+        elemento de protección no está obligado a enfrentarse a un enfermo de
+        Covid.
+
++ Hay varios tipos de delincuentes:
+    - Delincuente por convicción.
+    - Delincuente por conciencia.
+    - Desobediencia civil.
+    - Resistencia civil.
+
++ **Tarea**. Correlacionar el folleto 3 (al Código Penal del Estado de México,
+    Veracruz, Hidalgo, Tlaxcala o CDMX, según corresponda) y plantear por
+    escrito las preguntas que surjan.
++ Revisar el proyecto de reforma del código penal de cada entidad federativa.
