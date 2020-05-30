@@ -1,0 +1,106 @@
+---
+title: Clase 4
+author: Santiago Botero Sierra
+date: 30 de mayo de 2020
+---
+
+# Atributos de la persona física
+
++ Hay que distinguir este concepto con el de los *derechos de la personalidad*.
+    Muchas personas los confunden, puesto que algunos atributos también los
+    estudiaremos allí.
++ Son cualidades de la persona física, que le permiten: individualizarla,
+    ubicarla, darle funcionalidad en los actos que tienen trascendencia
+    jurídica, y situarla frente a su familia y al Estado.
+
+1. La capacidad de la persona física
+    - Hay que recordar que se debe distinguir: **i)** *persona jurídica*, que es
+        el sujeto de derechos y obligaciones; **ii)** la *personalidad jurídica*
+        es la aptitud o idoneidad para ser sujeto de derechos y obligaciones; y,
+        la **iii)** *capacidad jurídica*, que es la capacidad de una persona  
+        para ser titular de derechos y obligaciones para ejercerlos por sí
+        misma.
+    - La capacidad puede ser **i)** de goce, o **ii)** de ejercicio.
+    - **De goce**. Aptitud de una persona para *ser titular* de derechos y
+        obligaciones.
+
+        * Sus características son: **i)** es inherente a la persona (art. 22,
+            se adquiere por el nacimiento y se pierde por la muerte), **ii)** es
+            igual para todas las personas (art. 2, para el hombre y la mujer, y
+            una cláusula de no discriminación), **iii)** y es de interés
+            público (art. 6, sólo se puede limitar por la ley, no por la
+            voluntad de los particulares; la característica de *interés público*
+            alude a que los pactos entre particulares que vayan contra el texto
+            de la ley, son nulas).
+        * Limitaciones establecidas por la ley: matrimonio (art. 148, edad
+            mínima de 18 años), reconocimiento de hijos (art. 361, tener la edad
+            exigida para contraer matrimonio), adopción (art. 391, solteros
+            mayores de 25 años, la edad entre  los adoptantes y el adoptado
+            tiene que tener una diferencia mínima  de 17 años), testamento (art.
+            1306, edad mínima de 16 años).
+
+    - **De ejercicio**. Aptitud de una persona *para ejercer* sus derechos y
+            cumplir con sus obligaciones *por sí misma*.
+
+        * La regla general es que a los 18 años cumplidos se adquiere la
+            capacidad de ejercicio (art. 24 y 646): "El mayor de edad tiene la
+            facultad de disponer libremente de su persona y de sus bienes, salvo
+            las limitaciones que establece la ley".
+        * Limitaciones (art. 23): minoría de edad, estado de interdicción y
+            demás incapacidades
+        * Las limitaciones pueden ser: **i)** generales, cuando a la persona se
+            le limitan todas las capacidades, o **ii)** especiales, cuando solo
+            se limitan algunas capacidades.
+        * **Limitaciones generales**: **i)** *minoría de edad* (art. 450, los
+            actos que sí puede realizar son sobre los bienes o derechos
+            adquiridos por el trabajo del menor, art. 428, 429 y 435, así como
+            los actos que no pueden ser anulados, art. 639 y 649) o, **ii)**
+            *estado de interdicción*. Este último, tiene las siguientes
+            características: **ii.a)** art. 450, mayores de edad que, por causa
+            de enfermadad o discpaacidad "*no puede gobernarse, obligarse o
+            manifestar su voluntad, por sí mismos o por algún medio que la
+            supla*"; **ii.b)** aunque sí pueden realizar: actos personalísimos
+            señalados en la sentencia de interdicción, voluntad anticipada y
+            voto art. 462, testamento, art. 1307, y sobre bienes o derechos
+            adquiridos por su trabajo, art. 537, fracción IV; **ii.c)** se puede
+            superar porque desaparezca su incapacidad; **ii.d)** ver al amparo
+            en revisión 1368/2015, a la luz de la convención para las personas
+            con discapacidad, el modelo de sustitución de la voluntad va en
+            contra de los parámetros del modelo de esa convención, que es el
+            modelo social y de derechos humanos (la persona no es objeto de
+            protección sino sujeto de derechos; la discapacidad no es una
+            enfermedad, sino una desventaja; rigen los principios de igualdad y
+            no discriminación), un amparo se rige por el *principio de relatividad de la ejecutoria*, que solo le beneficia a quien promovió el amparo.
+        * Los representantes de los menores de edad son quienes ejercen la
+            *patria potestad* (art. 424 o 425), y los de los interdictos, son
+            *los *tutores* (art. 449)
+        * Efectos de los actos celebrados por los incapacitados (incapacidad de
+            ejercicio): son nulos los actos de administración (art. 635); pero
+            esta puede ser alegada por el mismo incapacitado o por sus legítimos
+            representantes --no por las personas con las que contrató (art.
+            637), los menores de edad no pueden alegar la nulidad sobre cosas en
+            las que sean peritos y tampoco si han actuado dolosamente para
+            hacerse pasar como mayores.
+        * **Limitaciones especiales**. **i)** emancipación (aunque ya no se
+            pueden dar matrimonios de menores de edad, continúa vigente la
+            figura de la emancipación en los artículos 641 y 643) y concurso de
+            acreedores (art. 2965 y 2966, la declaración del concurso incapacita
+            al deudor para seguir administrando sus bienes y hace que se venza
+            el plazo de todas sus deudas).
+
+2. Legitimación
+    + Es la específica posición que guarda una persona respecto a los sujetos u
+        objetos de un acto jurídico *que lo habilita o inhabilita* para celebrar
+        el acto.
+    + Puede ser: **i)** activa (habilitación legal para celebrar un acto que de
+        ordinario no podría realizar), o **ii)** pasiva (inhabilitación legal
+        para celebrar que un acto que de ordinario sí podría celebrar).
+    + Adquisición de inmuebles en zona restringida para las personas
+        extranjeras, son personas con capacidad de goce (art. 66 de la Ley
+        General de Población), pero no tiene legitimación para adquirir
+        inmuebles a menos de 100 Km. de la frontera y 50 Km. de las playas (art.
+        27, fracción I, de la CPEUM)
+
+3. Patrimonio
+    + Conjunto de bienes, derechos y obligaciones de una persona, susceptibles de apreciación pecuniaria y que constituyen una universalidad jurídica.
+    + Tiene elementos: activo (bienes y derechos --reales y personales-- apreciables en dinero) y pasivo.
