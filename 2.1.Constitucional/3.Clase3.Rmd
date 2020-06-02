@@ -91,7 +91,8 @@ date: 25 de mayo de 2020
             Americana, junto con otros Tratados, formaban un bloque; pero ya no
             un bloque de constitucionalidad sino de convencionalidad. De manera
             muy inteligente, la SCJN utilizó el *bloque de regularidad
-            normativa* para integrar estos conceptos (dicho concepto se recoge de La garantía jurisdiccional de la constitución, de Kelsen)
+            normativa* para integrar estos conceptos (dicho concepto se recoge
+            de La garantía jurisdiccional de la constitución, de Kelsen)
         * Cossío emitió un *voto particular* en la Sentencia anterior, porque sí
             hay jerarquía entre la Constitución y los Tratados, pero esa
             jerarquía se da al momento de la incorporación del Tratado al
@@ -123,4 +124,16 @@ date: 25 de mayo de 2020
         * El modelo de *constituciones rígidas* se opone al de *constituciones
             flexibles*; este segundo se presenta cuando la Constitución puede
             ser modificada en seguimiento del mismo procedimiento que se sigue
-            para modificar una ley.
+            para modificar una ley. Una constitución que sea flexible, no
+            tendría un principio de jerarquía con respecto a la ley; entonces si
+            hubiera alguna contradicción entre la constitución y la ley, se
+            aplicaría el principio de ley posterior deroja anterior.
+        * En este contexto no hay que confundir supremacía con rigidez. La
+            supremacía es una cualidad de la Constitución para estructurar el
+            ordenamiento jurídico, porque de ella deriva la validez; en cambio,
+            la rigidez busca dar más permanencia a las normas constitucionales,
+            porque estas tienen los principios fundamentales a partir de los que
+            se organiza un país, estos no deben cambiar con frecuencia.
+        * Hay grados de rigidez constitucional. La mayoría de las constituciones
+            actuales son rigidas, pero la diferencia está en el grado de rigidez
+            de cada una.

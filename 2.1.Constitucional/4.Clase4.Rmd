@@ -1,0 +1,67 @@
+---
+title: Clase 4
+author: Santiago Botero Sierra
+date: 1 de junio de 2020
+---
+
++ Constitución abierta.
+    - Apertura interna. Una constitución debe permitir el pluralismo político;
+        es decir, no hay constituciones de partido o de ideología única.
+    - Apertura externa.
+
+        * Apertura al derecho internacional. Esto es diferente a  hablar de la
+            incorporación de   los tratados internacionales que, aunque son las
+            más importantes y conocidas, no son las únicas normas de derecho
+            internacional, que también pueden ser recibidas por el ordenamiento
+            jurídico. Contradicción de tesis 293/2011.
+        * Apertura al derecho comparado.
+
++ ¿La Constitución deben ser espejos o deben ser ventanas?
+    - Carbonell cree que la Constitución debe ser ventana, utopía, mirar hacia
+        donde la sociedad quiere avanzar.
+    - Ferrajoli dice que en el estado constitucional de derecho los objetivos
+        son tan altos que nunca se van a alcanzar completamente.
+
++ Constitucionalización del ordenamiento jurídico
+    - Un ordenamiento jurídico está constitucionalizado cuando la Constitución
+        permea al conjunto del ordenamiento de tal forma que no hay espacios
+        vacíos de Constitución (R. Guastini)
+    - Condiciones de la constitucionalización: **i)** una constitución rígida;
+        **ii)** la garantía jurisdiccional, que tiene que ver con que cualquier
+        tipo de violación o presunta violación, pueda ser planteada ante algún
+        órgano judicial (que no haya cosas en donde exista una violación y que
+        no se pueda llevar a un tribunal que pueda conocer de actos u
+        omisiones); **iii)** la fuerza vinculante, pues se entiende que las
+        normas constitucionales son obligatorias y se imponen a todos los
+        poderes constituidos; **iv)** sobreinterpretación, que significa que a
+        las normas constitucionales se les da una interpretación extensiva, que
+        llega incluso a permitir extraer normas implícitas, **v)** la aplicación
+        directa de las normas constitucionales, porque se dirigen a los órganos
+        superiores del Estado pero no detallan muchas cosas sin requerimiento de
+        un desarrollo legislativo (es decir, que la constitución se aplicara a
+        través de la Ley, que era la visión del siglo XIX); **vi)** la
+        interpretación conforme de la ley, pues no sólo condiciona la validez de
+        las normas sino que también condiciona la interpretación de las normas
+        que están por debajo de la Constitución; y, **vii)** la influencia de la
+        Constitución sobre las relaciones políticas (don Ignacio Burgoa
+        planteaba que el derecho a la vivienda no es exigible).
+    - Guastini dice que las dos primeras condiciones de constitucionalización
+        son necesarias; pero las demás son contingentes.
+    - Hay grados de constitucionalización: hay ordenamientos jurídicos más
+        profundamente y menos profundamente constitucionalizados.
+    - Los derechos humanos que están en la Constitución, gracias a este fenómeno
+        bajan a los demás campos (familiar, mercantil, penal, laboral, etc.)
+
++ La reforma constitucional
+    - Es un asunto importante jurídica y políticamente, porque desde el punto de 
+        vista político importa porque el hecho de que la Constitución se pueda
+        modificar le da legitimidad porque siempre estará abierta la vía de la
+        reforma y no la de la revolución.
+    - La reforma constitucional es un ejercicio democrático.
+    - Las razones para la reforma son: **i)** para actualizarla; y, **ii)** como
+        una forma de ir cubriendo las lagunas que cualquier constitución tiene.
+    - Las lagunas constitucionales pueden ser: **i)** descubiertas (lagunas del
+        constituyente), son aquellas  de las que el poder constituyente fue
+        consciente pero decidió no  regular; u, **ii)** ocultas (lagunas de la
+        Constitución), son aquellas que no pudieron ser previstas por el
+        constituyente.
