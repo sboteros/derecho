@@ -1,0 +1,137 @@
+---
+title: Clase 4
+author: Santiago Botero Sierra
+date: 3 de junio de 2020
+---
+
++ Sujeto de los derechos humanos
+    - Pueden ser personas jurídicas.
+    - No obstante, la Corte Interamericana ha dicho que los sujetos de ese
+        sistema sólo son de personas físicas; aunque hay tres excepciones:
+        **i)** cuando accionistas de empresas reclamen vulneración a su derecho
+        de propiedad; **ii)** en asuntos de pueblos y comunidades indígenas;
+        y, **iii)*** sindicatos, federaciones y confederaciones en el ámbito
+        laboral.
+
++ Conceptos en el artículo 1, párrafo 3:
+    - "*Todas las autoridades, en el ámbito de sus competencias, tienen la
+        obligación de promover, respetar, proteger y garantizar los derechos
+        humanos de conformidad con los principios de universalidad,
+        interdependencia, indivisibilidad y progresividad. En consecuencia, el
+        Estado deberá prevenir, investigar, sancionar y reparar las violaciones
+        a los derechos humanos, en los términos que establezca la ley.*"
+    - 4 obligaciones. Ver la Tesis 160073.
+
+        * Ver en complemento con el artículo 28 de la Convención Americana y el
+            artículo 50 del Pacto Internacional de Derechos Civiles y Políticos
+            y la Tesis 2010422.
+        * *Promover*, en el sentido de difundir, dar a conocer. Puede dirigirse a
+            la población abierta o a un grupo específico que requiera algún tipo
+            de formación especial, como las personas encargadas del cumplimiento
+            en materia de DDHH. Ver la Tesis 2007597. La CIDH ha señalado que
+            es una obligación de medios, y no de fines.
+        * *Respetar*, se entiende como una obligación negativa del Estado; es
+            decir, se satisface una obligación de respeto cuando no lo viola ni
+            impide que los particulares gocen el DDHH. Ver la Tesis 2008517.
+        * *Proteger*, se entiende como el deber del Estado de impedir que
+            terceros violen los DDHH. Ver la Tesis 2008516.
+        * *Garantizar*, significa hacer efectivos, materializar, los DDHH. Para
+            medir el cumplimiento de esta obligación hay que atender al tipo de
+            derecho del que se trate y ver qué cosas tiene que hacer u omitir la
+            autoridad para que se materialice; este deber supone la creación de
+            medios de defensa que sirvan para reclamar una posible violación
+            (pueden ser en el ámbito administrativo, jurisdiccional). En el
+            deber de garantía, Luigi Ferrajoli distingue entre primarias, que
+            tienen que ver con el desarrollo de las conductas que derivan
+            inmediatamente del tipo de derecho, y secundarias, que entran en
+            funcionamiento cuando las garantías primarias son violadas (estas
+            son las que se dividen en administrativas y jurisdiccionales).
+            Ver las Tesis 2008515 y 2010421. También supone la adecuación del
+            ordenamiento jurídico; a esto se le puede llamar *armonización*,
+            porque consiste en que el Estado incorpore en el derecho interno  
+            las normas que permitan hacer efectivo el tratado internacional
+            que firmó el Estado, así como derogar todas las normas que sean un
+            obstáculo o que vayan en contra de lo señalado en el tratado
+            internacional (ver el caso de la Última tentación de Cristo).
+
+    - 4 principios: universalidad, interdependencia, indivisibilidad y
+        progresividad.
+    - 4 deberes: prevenir, investigar, sancionar y reparar.
+
+        * *Prevenir*, antes de que se viole el DDHH, abarca una pluralidad de
+            medidas (jurídicas, disuasorias).  Ver el párrafo 253, 282 de Campo
+            Algodonero; también se ha pronunciado sobre asuntos específicos de
+            derechos de niñas y niños, Opinión Consultiva 21, párrafo 66 y la
+            opinión consultiva 17.
+        * *Investigar*, cuando el DDHH presuntamente se violó. Esta es una
+            obligación de medio y no de fin; es decir, se espera que las
+            autoridades actúen de determinada manera, pero a veces una
+            investigación no da resultado. Ver el caso Rosendo Radilla Pacheco
+            contra México. El Estado  debe asumir esto como un deber propio, no
+            como algo de iniciativa de las víctimas. Las investigaciones tienen
+            que ser oficiosas, sin dilación, serias, imparciales y efectivas; se
+            han señalado parámetros de investigación diligente (Campo
+            Algodonero, párrafo 293). Aquí aplica el concepto de *diligencia
+            debida*.
+        * *Reparar*. Consiste en la restitución *in integrum* del derecho;
+            dependiendo del tipo de derecho puede incluir: restablecer las cosas
+            al estado que guardaban antes de la violación, o reparación de las
+            consecuencias de la violación, o indemnización o compensación. Es
+            recomendable ver la Ley General de Víctimas. La CIDH ha ordenado
+            algunas reparaciones de caracter estructural (Campo Algodonero, pár.
+            450; Atala Rifo y Niñas contra Chile, pár. 267). El fundamento está
+            en el párrafo 63.1 de la Convención Americana de DDHH. El catálogo
+            de reparaciones es variado, por ejemplo: **i)** pago de justa
+            indemnización, **ii)** localización e identificación de restos
+            humanos, **iii)** atención médica y psicológica, **iv)**
+            construcción de vivienda, **v)** capacitación de funcionarios
+            públicos, y **vi)** mejoramiento de condiciones de vida en las
+            cárceles, entre otros (monumentos, disculpas públicas, recoger en
+            libros de texto alguna fecha que contribuya a preservar la memoria,
+            conmemorar un día en el calendario, etc.).
+        * *Sancionar*. Se rige por el artículo 14, párrafo 3. Principio de
+            legalidad en materia penal, taxatividad y otros principios, que
+            veremos después.
+
++ Algunas técnicas de investigación con diligencia debida para:
+
+    - Ejecuciones extrajudiciales (Ver casos Escué Zapata, pár. 106 y Ibsen,
+        pár. 217) que ha  señalado la CIDH:
+        * Identificar a la víctima
+        * Recuperar y preservar el material probatorio
+        * Identificación de posibles testigos y obtención de sus declaraciones
+        * Determinación de la causa, la forma, el lugar y el momento de la muerte
+        * Distinguir entre muerte natural, accidental, suicidio u homicidio.
+
+    - También hay técnicas para investigación de desaparición de las mujeres:
+        Radilla Pachecho 141, 143, 144
+    - Violaciones de derechos de las mujeres, Campo Algodonero, pár. 77 y 293
+    - Casos de violencia sexual, Fernández Ortega 194 y Valentina Rosendo, 178
+
++ Principio *pro persona*. El fundamento es el art. 1, pár. 2, de la
+    Constitución y el artículo 29, incisos B y D, de la CADH. Tiene diferentes 
+    significados:
+
+    - Selección de normas: Cuando en un caso concreto tengamos más de una norma
+        aplicable, hay que seleccionar aquella que otorgue la protección más
+        amplia. Esto quiere decir que no se fija en la jerarquía, sino en la
+        norma que otorga la protección más amplia (si el reglamento otorga más
+        protección que la Ley, entonces este se debe aplicar).
+    - Selección de interpretaciones: Cuando una norma permite varias
+        interpretaciones, hay que seleccionar la interpretación que otorgue la
+        protección más amplia.
+
+    - Ver el artículo 20 de la Constitución: los derechos de las personas
+        acusadas son diferentes a los de las víctimas. Entonces no habría
+        una problema con la aplicación del principio *pro persona* en el campo
+        penal.
+
++ **Leer 1**. Artículos 1 (deber de respeto y garantía) y 2 (obligación de los
+    Estados parte de adoptar disposiciones) de la CADH, 2 del Pacto
+    Internacional de Derechos Civiles y Políticos y 2 del Pacto Internacional de
+    Derechos Económicos, Sociales y Culturales. Es interesante hacer una
+    comparación entre estos para ver las diferencias en la enunciación del mismo
+    asunto.
++ **Leer 2**. Observación General 3 del Comité de Derechos Económicos, Sociales
+    y Culturales de la ONU, sobre la índole de las obligaciones de los estados
+    parte.

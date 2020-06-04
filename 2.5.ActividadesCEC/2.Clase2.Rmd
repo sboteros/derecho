@@ -1,0 +1,125 @@
+---
+title: Búsqueda de jurisprudencia
+author: Santiago Botero Sierra
+date: 2 de junio de 2020
+---
+
+# Jurisprudencia nacional
+
++ La jurisprudencia se ha visto tradicionalmente a partir de tres acepciones
+    distintas
+    - La primera hace referencia a la *iurisprudentia* romana, que era un
+        sinónimo de la *ciencia de derecho*. Actualmente, esta forma de entender
+        a la jurisprudencia no está vigente.
+    - La segunda hace alusión a que es un *conjunto de sentencias* de los
+        tribunales que tengan la última palabra.
+    - El concepto arraigado en méxico, es que la jurisprudencia son *criterios*
+        que resuelven un determinado problema jurídico. La diferencia entre este
+        y el concepto anterior es que el segundo concepto hace alusión a
+        aquellos países donde la jurisprudencia es la sentencia completa
+        (Costa Rica, Colombia; muchos, a excepción de México)
+    - En esos otros sistemas es un sistema basado en precedentes. En México ese
+        sistema está implícito.
+
++ Se define en el Acuerdo General 20/2013 de la SCJN
+    - Estos acuerdos tienen fundamento en el artículo 94 de la Constitución, que
+        son una atribución que tiene el poder judicial para emitir circulares o
+        acuerdos para regular su propia función.
+    - Es un tipo de redacción en el cual todas las personas que estén en el
+        mismo supuesto del criterio lo pueden invocar.
+    - "*La tesis es la expresión por escrito, en forma abstracta, de un criterio
+        jurídico establecido al resolver un caso concreto. En consecuencia, la
+        tesis no es un extracto, una síntesis o un resumen de la sentencia*"
+    - Es una fuente del derecho y tienen una función interpretativa.
+
++ Definiciones de la jurisprudencia a través del tiempo
+    - De la quinta a la décima época los criterios sí están vigentes.
+    - A partir de 2011, estamos viviendo en la décima época del semanario
+        judicial.
+    - Es recomendable utilizar las tesis de la novena y décima épocas, porque en
+        las anteriores se corre el riesgo de que los criterios ya no se
+        encuentren vigentes.
+    - Quinta Época: "*interpretar la ley es fijar su sentido, llevar el precepto
+        a sus últimas consecuencias*" (IUS 384441)
+    - Sexta Época: "*La jurisprudencia, en el fondo, consiste en la
+        interpretación correcta y válida de la ley que necesariamente se tiene
+        que hacer al aplicar ésta*" (IUS 261096)
+    - Séptima época: "*La jurisprudencia no crea una norma nueva, sino
+        únicamente fija el contenido de una norma preexistente*" (IUS 243011)
+
++ Elementos:
+    - Naturaleza: Fuente material del derecho
+    - Característica: En algunos casos tiene fuerza obligatoria (hay criterios
+        obligatorios, jurisprudencia; a los orientadores, tesis aisladas)
+    - Creación: Es creada por órganos jurisdiccionales.
+    - Objetivo jurídico: fijar el sentido y alcance de la norma.
+    - Objetivo social: Mantener la seguridad jurídica.
+
++ Fórmula de Otero para las sentencias de amparo: únicamente protegen a los
+    que piden el amparo.
+    - Es muy raro el sistema mexicano porque, a pesar de que una norma sea
+        inconstitucional, cualquier persona que se vea en ese supuesto tiene que
+        presentar su amparo.
+    - El amparo no permite que una norma inconstitucional sea expulsada del
+        ordenamiento jurídico; lo permite a través de la declaratoria general
+        de inconstitucionalidad.
+    - En las acciones de inconstitucionalidad sí existe el efecto de que se
+        expulsen las normas inconstitucionales, cuando se alcanza una votación
+        de 8; si no se alcanza, el criterio sólo es obligatorio para aquel
+        órgano o aquel estado que haya promovido la acción de
+        inconstitucionalidad. Ver el artículo 43 de la ley reglamentaria de las
+        fracciones I y II del artículo XXX.
+
++ Sistemas de integración
+    - El sistema actual:
+
+        * *Reiteración de criterios*: Se forma cuando se dictan 5 sentencias no
+            interrumpidas por una en contrario y que sean dictadas en sesiones
+            diferentes (artículos 222, 223 y 224 de la Ley de Amparo, que hacen
+            alusión al Pleno, las Salas y los Tribunales Colegiados,
+            respectivamente). Este es  el sistema francés de generación de
+            jurisprudencia, es el modelo que  trajo Juárez. Se requiere: **i)**
+            que los  asuntos sean de la competencia (de la SCJN o de los TCC),
+            **ii)** que el  órgano emisor sea terminal, **iii)** que sustente un
+            criterio en 5 sentencias no interrumpidas por otra en contrario; y,
+            **iv)** que alcancen una votación de 8 en el Pleno, 4 en la sala, o
+            unanimidad en el TCC.
+        * *Contradicción de tesis*: Busca preservar la unidad de la
+            interpretación del orden jurídico al decidir cuál criterio debe
+            prevalecer cuando se presenta opoción entre ellos (artículo 225 de
+            la LA). Las tesis que derivan de contradicción siempre son
+            jurisprudencia.
+        * *Sustitución*: Es el sistema menos regulado y más confuso de México.
+            En el artículo 230 de la LA dice que permite sustituir la
+            jurisprudencia que ya haya sido creada por reiteración o
+            contradicción. En el artículo no están presentes las causas, sino
+            sólo quién está obligado a solicitar la sustitución; en la práctica,
+            las pocas que se han emitido ocurren por una adecuación legislativa
+            o un asunto de redacción de los criterios.
+        * *Acciones y controversias constitucionales*. Lo más importante es el
+            número de votos que alcancen las sentencias, pues se requieren 8 o
+            más votas para que los criterios sean obligatorios para todos;
+            cuando no se alcanza, el criterio es obligatorio únicamente para la
+            entidad federativa que promovió la acción o la controversia
+            constitucional. Revisar el artículo 105, fracciones I
+            (controversias)  y II (acciones)
+        * *Plenos de ciurcuito*. Son órganos colegiados que se integran por las
+            magistradas y magistrados que conforman a un circuito (hay un circuito por cada entidad federativa). Hay 48 plenos de circuito y 8 plenos especializados.
+
++ Los asuntos que conocen:
+    + Pleno: constitucionales
+    + 1a Sala: Penales y civiles
+    + 2da Sala: Administrativos y labores
+    + Plenos de Circuito y TCC: de todas las materias.
+
++ Para las sentencias de los tribunales colegiados hay que buscar en el SISE.
+    Hay que ingresar en el Consejo de la Judicatura Federal y buscar la lista de
+    acuerdo, para saber cómo va el asunto que uno esté llevando.
++ Para las sentencias de la SCJN (que no están en el Semanario) hay que buscar
+    en la página principal, Sentencias y Datos de Expedientes.
+
++ Para buscar de la CIDH
+    - Ingresar en la página, jurisprudencia, casos contenciosos.
+    - Se encuentra en aquellas sentencias donde diga "fondo".
+    - La jurisprudencia resumida está en la "ficha técnica", que es una
+        síntesis.
