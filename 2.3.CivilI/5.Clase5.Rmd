@@ -1,0 +1,103 @@
+---
+title: Clase 5
+subtitle: Atributos de las personas físicas
+author: Santiago Botero Sierra
+date: 6 de junio de 2020
+---
+
++ El nombre
+    - Concepto: Conjunto de signos lingüísticos que sirven para individualizar
+        a una persona física.
+    - Naturaleza jurídica: Es un atributo de la persona física.
+    - Es un derecho humano consagrado en el art. 29 de la CPEUM, es un
+        elemento básico e indispensable de la identidad (art. 4), implica los
+        derechos a: tener un nombre y poder modificarlo.
+    - Está definido en el artículo 58 del CCCDMX
+
+        * Nombre o nombres propios
+        * Apellidos de los progenitores, en el orden de prelación que ellos
+            convengan
+        * El juez del registro civil exhortará que el nombre no sea peyorativo,
+            discriminatorio, infamante, denigrante, carente de significado, o
+            que constituye un signo, símbolo o siglas, o bien que exponga al
+            registrado a ser objeto de burla.
+
+    - En el amparo directo en revisión 2424/2011 se dice que es inconstitucional
+        que sólo se acepten los apellidos paternos de los protegenitores.
+
+        * Derecho a modificar tanto el nombre propio como los apellidos.
+        * Inconstitucionalidad de prohibir cambiar los apellidos de una persona.
+
+    - Cambio de nombre
+
+        * Principio de inmutabilidad: el nombre registrado en el Acta de
+            Nacimiento debe persistir hasta la muerte de la persona, salvo las
+            excepciones autorizadas expresamente en la ley.
+        * Esto último implica que ya no se aplica necesariamente.
+        * Procedimientos: Rectificación del acta (art. 134 y 135-II del CCCDMX)
+            y el levantamiento de una nueva acta para el reconocimiento de la
+            identidad de género (arts. 135-Bis y ss.)
+        * Cambio del nombre propio: por adopción (art. 395-III) o por
+            identidad de género (art. 135-Quáter V).
+        * Cambio de los apellidos: por reconocimiento del hijo (art. 389-I),
+            por adopción (art. 395-III) o por sentencia (de reconocimiento o
+            desconocimiento de paternidad).
+
++ Domicilio
+    - Es el lugar en que la Ley ubica a una persona para el ejercicio de algunos
+        de sus derechos y el cumplimiento de algunas obligaciones.
+    - Es el lugar donde se deben notificar ciertas resoluciones judiciales (art.
+        114 del Código de Procedimientos Civiles - CPC) y fija la competencia
+        del juez (art. 156 CPC)
+    - Art. 29 del CCCDMX, es el lugar donde reciben habitualmente y, a falta de
+        este, el domicilio de su negocio.
+    - Clases de domicilios
+
+        * Real, atiende a la presencia física de la persona (art. 29 del CCCDMX)
+        * Legal, se establece con independencia de la presencia física de la
+            persona (arts. 30 y 31)
+        * Convencional, atiende a la voluntad del autor o partes de un acto
+            jurídico (art. 34)
+        * Varios domicilios, donde resida o donde se encuentre (art. 32)
+
++ Estado
+    - Es la situación jurídica concreta que una persona guarda con relación a la
+        familia y al Estado.
+    - Clasificación
+
+        * Estado civil (*status familiae*), se refiere a los cónyuges y a los
+            parientes; por consanguinidad (art. 294) y civil (art. 295).
+        * Estado político (*status personae*), puede ser ciudadano, nacional o
+            extranjero.
+        * Estado personal (*status personae*), puede ser mayor o menor de edad,
+            capaz o incapaz.
+
+    - Fuentes
+
+        * Nacimiento: nacidos, no nacidos, o póstumos.
+        * Nacionalidad: nacional o extranjero.
+        * Edad: menor o mayor de edad.
+        * Matrimonio: soldero o casado; parientes consanguíneos o por afinidad.
+        * Incapacidad: capaz o incapaz (interdicto)
+
++ Terminación de la personalidad
+    - Fundamento: El artículo 22 del CCCDMX señala tanto el inicio como la
+        terminación. Hay un error de redacción pues se refiere a la *capacidad
+        jurídica*, cuando debiera referirse a la *personalidad jurídica*, pues
+        la capacidad es solo uno de los atributos. Se pierde con la muerte.
+    - En la Ley General de Salud se establece que la muerte se presenta cuando
+        hay muerte encefálica o paro cardiaco irreversible (art. 343) y
+        establece pruebas para acreditar la muerte encefálica (art. 344).
+    - Prueba para levantar el acta de defunción: se levanta por el certificado
+        de defunción expedido por un médico autorizado (art. 117) o por otros
+        medios de prueba cuando se corrobora que la persona estuvo en el lugar
+        del hecho pero no aparece el cadaver (art. 124).
+    - Consecuencias de la muerte:
+
+        * Terminación de la personalidad jurídica.
+        * Transmisión *mortis causa* de derechos y obligaciones (art. 1281).
+        * Terminación de las relaciones jurídicas personalísimas (matrimonio,
+            patria potestad, art. 443-I, derechos reales de usufruto, art.
+            1028-I, uso y habitación, art. 1053, mandato, art. 2595-III,
+            contrato de comodato, art. 2515, y contrato de renta vitalicia,
+            art. 2774)
