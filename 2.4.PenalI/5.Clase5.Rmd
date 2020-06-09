@@ -1,0 +1,121 @@
+---
+title: Clase 5
+author: Santiago Botero Sierra
+date: 6 de junio de 2020
+---
+
++ *Caso 1*. Una persona, $x_1$, por descuido dejó abierta la puerta de su casa.
+	Por descuido, el perro salió y le causó lesiones a un transeúnte (artículo
+	130, fracción II). En este caso, la clasificación jurídica para $x_1$ sería:
+	lesiones de las que tardan en sanar más de 15 días y menos de 60 ($h$),
+	consumadas instantáneamente ($e_c^i$) donde intervino el autor directo
+	($i_a^d$) en su forma de comisión por omisión culposa ($n_{co}^c$). Donde
+	resultan aplicables los siguientes numerales: artículos 130, fracción II,
+	17, fracción I, 22, fracción I, 1, y 18, párrafo 3.
+
++ *Caso 2*. Si tuviéramos los siguientes numerales: artículo 130, fracción II,
+	17, fracción I, 22, fracción I, 15, pc. (acción), y 18, párrafo 2. El caso
+	podría ser: Una persona $x_1$ asuzó a un perro para que atacara a un peatón
+	y le causara lesiones de las que tardan en sanar más de 15 días y menos
+	de 60. La clasificación en este caso sería: lesiones de las que tardan en
+	sanar más de 15 y menos de 60 días ($h$) consumadas instantáneamente
+	($e_c^i$) donde intervino el autor directo ($i_a^d$) en su forma de acción
+	dolosa ($n_a^d$).
+
++ *Caso 3*. Si tuviéramos los siguientes numerales: artículo 130, fracción II,
+	17, fracción I, 22, fracción I, 16, y 18, párrafo 2. El caso podría ser: el
+	propietario simplemente no intervino para evitar que el perro, por instinto,
+	mordiera a un peatón, causándole lesiones que encuadran en el artículo 130,
+	fracción II.
+
+	- Nota: Cuando la inactividad (omisión) de una persona está asociada a un
+		resultado material, recibe el nombre de *comisión por omisión*.
+	- Nota: Cuando la inactividad (omisión) de una persona está asociada a un
+		resultado formal, recibe el nombre de *omisión simple*.
+
++ *Caso 4*. Un automovilista, $x_1$, por descuido causó daño en propiedad
+	por un valor aproximado de $60,000. El propietario $x_2$, sufrió lesiones
+	que encuadran en el artículo 130, fracción II. ¿Cuál sería la clasificación
+	para $x_1$? La clasificación sería: daño en propiedad ($h_1$) consumado
+	instantáneamente ($e_{1ci}$) donde intervino el autor directo ($i_{1a}^d$)
+	en forma de acción culposa ($n_{1a}^c$) en concurso ideal ($c_{i}$) con
+	lesiones de las que tardan en sanar más de 15 y menos de 60 días ($h_2$)
+	consumadas instantáneamente ($e_{2ci}$) donde intervino el autor directo
+	($i_{2a}^d$) en forma de acción culposa ($n_{2a}^c$). Donde resultan
+	aplicables los siguientes artículos 239, fracción IV ($h_1$) 17, fracción I
+	($e_{ci}$), 22, fracción I ($i_a^d$), 15 ($n_a$), 18, párrafo 3 ($n_c$), 28,
+	parte conducente ($c^i$) y 130, fracción II ($h_2$), todos del código penal
+	vigente en el momento y lugar de los hechos.
+
++ No existe tipo sin grado de ejecución, sin forma de intervención ni sin
+	naturaleza de la conducta.
+
++ *Caso 5*. Un señor amenazó a una señora con pedirle a los policías que se
+ 	llevaran a su perro porque lo dejó correr en el parque. La clasificación
+ 	podría ser: amenazas consumadas instantáneamente donde intervino el autor
+ 	directo en forma de acción dolosa. Sin embargo, la punibilidad es muy baja;
+ 	si hubiera hecho una extorsión, la punibilidad sería mucho mayor.
++ *Caso 6*. Extorsión consumada instantáneamente donde intervino el autor
+	directo en forma de acción dolosa.
+
++ *Caso 7*. Piensen en una amenaza, una extorsión y unas amenazas que tengan
+	el siguiente común denominador: 17, fracción I ($e_{ci}$), 22, fracción II ($i_a^c$), 15, parte conducente ($n_a$) y 18, párrafo 2 ($n^d$).
+
+	- Sujeto ($h$): robo a casa habitación.
+	- Sujeto ($h$): Lesiones de las que tardan en sanar más de 15 y menos de 60
+		días (art. 130, frac. II)
+	- Sujeto ($h$): Homicidio simple (art. 123)-
+	- Sujeto ($h$): Homicidio calificado (art. 128), se agrava conforme al 128
+		(alevosía, traición)
+
++ *Caso 8*. Homicidio simple (123) consumado instantáneamente (17 I) donde
+	intervino el autor directo (22 I) en forma de acción (15 pc.)a culposa (18
+	p. 3°). Un ejemplo sería que el médico le dijera a una persona de la tercera
+	edad con padecimiento de hipertensión, que tiene COVID, y la señora se
+	muere del susto; otro caso es para la persona que atropella a un ciclista y
+	este muere.
+
++ Decía Hans Welzel "*siempre me he mantenido escéptico respecto de la capacidad
+	crítico-penal de mis alumnos que hayan fracasado en matemáticas*".
+	- El derecho penal es esquemático y abstracto.
+	- Los grandes penalistas en el mundo han sido también matemáticos.
+
++ El derecho penal moderno ha evolucionado a partir de tres industrias: el
+	automovilismo, la medicina y el derecho penal.
+
++ *Caso 9*. Una persona, $x_1$, contrató a $x_2$ para que diera muerte a $x_3$.
+	Efectivamente, $x_2$ mató a $x_3$ con un cuchillo en la panza.
+	- Para $x_1$, la clasificación sería: homicidio calificado ($h$) consumado
+		instantáneamente ($e_{ci}$) cometido por el partícipe inductor ($i_a^m$)
+		en  naturaleza de acción dolosa ($n_a^d$). En donde resultan aplicables
+		los  artículos XXX, 17, fracción I ($e_{ci}$), 22, fracción IV
+		($i_p^i$), 15, parte conducente ($n_a$), 19, párrafo 2 ($n^d$), todos
+		del código penal vigente en el momento y lugar de los hechos.
+	- Para $x_2$, la clasificación sería: homicidio calificado ($h$) consumado
+		instantáneamente ($e_{ci}$) cometido por el autor directo ($i_a^d$) en
+		naturaleza de acción dolosa ($n_a^d$).
+
++ *Caso 10*. Un camión de transporte público está haciendo una parada en un
+	lugar no autorizado y es chocado por un automovilista, quien muere. La
+	clasificación sería: homicidio consumado instantáneamente donde intervino el
+	autor directo en forma de acción culposa. Donde resultan aplicables los
+	siguientes numerales 123 ($h$), 17, fracción I ($e_{ci}$), 22, fracción I
+	($i_a^d$), 15, parte conducente ($n_a$) y 18, párrafo 3 ($n^c$), todos del
+	código penal vigente para la CDMX.
+
++ Definición de autor directo (art. 22, fracción I):
+	- Delito de acción dolosa: Es la persona que tiene el *dominio del hecho*.
+		Los partícipes no tienen el dominio del hecho.
+	- Delito de acción culposa: Es la persona que comete el hecho que no previó.
+	- Delito de omisión culposa :es la persona que infringe un deber jurídico de
+		cuidado e infringe también un deber objetivo de cuidado.
+	- Delito de omisión dolosa: es la persona que infringe un deber jurídico
+	de actuar con pleno dominio del hecho.
++ Definición de los partícipes:
+	- Partícipe inductor (art. 22, fracción IV), es la persona que convence a
+		otra a realizar un delito.
+	- Partícipe cómplice, es la persona que ayuda o auxilia al autor de un delito.
+
++ **Tarea**. Leer en voz alta 100 casos de tránsito vehicular.
++ **Tarea**. Plantear en 5 casos en tres renglones cada uno, para que el maestro
+	los clasifique.
