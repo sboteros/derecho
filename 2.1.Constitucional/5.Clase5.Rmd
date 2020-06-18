@@ -54,3 +54,68 @@ date: 15 de junio de 2020
 		Son figuras de democracia semidirecta.
 
 	- Revisar el artículo 35, fracción VIII y 71, fracción IV de la CPEUM.
+
++ ¿Qué tan dificil debe ser modificar una Constitución?
+	- Hay cuatro elementos a considerar:
+
+	- 1. Hay quienes dicen que si la Constitución tiene un alto grado de
+		rigidez, en realidad sería de caracter conservador; porque si la
+		Constitución es muy difícil de cambiar lo que prevalece es el *status
+		quo*. Por lo tanto, a mayor rigidez, mayor grado de conservadurismo
+		tiene un sistema constitucional. Por ejemplo, la constitución española
+		ha tenido solo 3 modificaciones y la estdaounidense 27.
+
+	- 2. ¿Debe haber un único procedimiento o dos procedimientos?
+
+		* Hay quienes dicen que puede ser un procedimiento para cuestiones de
+			poca importancia, y un procedimiento diferente para reformas
+			torales. En México, así como en España, hay dos procedimientos
+			diferentes (procedimientos rígido e hiperrígido).
+		* Una ventaja de tener un único procedimiento es que se evita discutir
+			qué aspectos de la reforma entran a un procedimiento o al otro.
+
+	- 3. Muchos gobiernos buscan una mayor legitimación a través de cambios
+		constitucionales, por lo que desearían un procedimiento más sencillo
+		para la reforma constitucional.
+
+	- 4. Participación popular en el procedimiento de reforma y cómo debiera
+		ser, en su caso, la intervención: iniciativas populares para la reforma
+		constitucional (al inicio), o referendum constitucional (al final). El
+		profesor Carbonell opina que la iniciativa popular siempre debería
+		existir porque puede ser un elemento dinamizador de la cultura
+		constitucional y una escuela de pedagogía política; y tiene ciertas
+		reservas sobre el referéndum porque supone la logística y los recursos
+
++ Procedimiento reformador
+	- Hay tres opciones: **i)** Poder legislativo ordinario, **ii)** un poder
+		reformador de la Constitución, para los estados compuestos, o **iii)**
+		una convención constituyente.
++ En México existen dos procedimientos de reforma constitucional:
+	- Artículo 135:
+
+		* "*La presente Constitución puede ser adicionada o reformada*". Parece
+			una distinción entre especie y género: una adición es una reforma;
+			una reforma podría adicional, suprimir o modificar.
+		* "*Para que las adiciones o reformas lleguen a ser parte de la misma,
+			se requiere que el Congreso de la Unión, por el voto de las dos
+			terceras partes de los individuos presentes, acuerden las reformas o
+			adiciones* (...)". Quien lleva a cabo la reforma: el Congreso de la
+			Unión. No hay ninguna  limitación sobre quién debe ser la cámara de
+			origen en términos de  la materia. **i)** Senado: son 500, tienen
+			que ir al menos la mitad más uno para que haya quórum, entonces el
+			mínimo es  `r ceiling(251*2/3)`;  **ii)** Cámara, son 128 en tontal,
+			entonces tienen que haber 65 para  que haya quórum, entonces el
+			mínimo es `r ceiling(65*2/3)`. Es decir: si la  oposición no va,
+			entonces le *regala* la constitución al partido  mayoritario.
+		* "(...) *y que éstas sean aprobadas por la mayoría de las legislaturas
+			de los Estados y la Ciudad de México*". Como hay 32 legislaturas, se
+			requieren 17 que aprueben; en cada una de estas ya no se requiere la
+			mayoría calificada, pues la Constitución no lo requiere.
+
+	- Artículo 73, fracción III. Se refiere a la formación de nuevos estados
+		dentro del límite de los existentes. Desde aquí, hay que remitirse al
+		artículo 43, que es el artículo que se afectaría mediante esta reforma.
+
++ La CNDH propuso que sus recomendaciones fueran vinculantes y que esta se
+	convirtiera en una especie de procuraduría de pobres.
+>>>>>>> 69015040d33f3727cb4fefe2e56cfa9a7b0e551d
