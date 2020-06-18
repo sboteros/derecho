@@ -53,7 +53,7 @@ date: 1 de junio de 2020
         bajan a los demás campos (familiar, mercantil, penal, laboral, etc.)
 
 + La reforma constitucional
-    - Es un asunto importante jurídica y políticamente, porque desde el punto de 
+    - Es un asunto importante jurídica y políticamente, porque desde el punto de
         vista político importa porque el hecho de que la Constitución se pueda
         modificar le da legitimidad porque siempre estará abierta la vía de la
         reforma y no la de la revolución.
@@ -65,3 +65,58 @@ date: 1 de junio de 2020
         consciente pero decidió no  regular; u, **ii)** ocultas (lagunas de la
         Constitución), son aquellas que no pudieron ser previstas por el
         constituyente.
+
++ Límites a la reforma constitucional
+	- Autónomos y heterónomos.
+
+		* Heterónomos: Están fuera de la constitución misma. Los límites más
+			obvios son el ordenamiento internacional. En primer lugar, el ámbito
+			de validez territorial de las normas constitucionales, evidentemente
+			es el territorio del país. En segundo lugar, el derecho
+			internacional, porque existe el *principio de la continuidad
+			jurídica del Estado*. Hay  algunos que dicen que el derecho natural
+			es otro límite heterónomo al  poder constituyente, pero Carbonell no
+			se considera iusnaturalista. Cuando un estado se independiza, no
+			hereda las obligaciones internacionales del que se separó, pues es
+			una nueva personalidad jurídica.
+		* Autónomos.
+
+	- Explícitos e implícitos.
+
+		* *Cláusulas de intagibilidad* es como si una cláusula de la
+			constitución no se pueda modificar; es el extremo de la rigidez.
+			Países como Italia o Alemania establecieron este tipo de cláusulas
+			de *nunca más* en sus constituciones (en Alemania no se puede
+			reformar el principio de dignidad humana ni la forma federal del
+			Estado, que impide que se concentre en una sola persona el poder
+			político; en Italia se estableció una cláusula de este tipo para
+			blindar la forma republicana del Estado, por lo que no podría haber
+			monarquía mientras la constitución esté vigente). Podría haber un
+			problema porque la reforma constitucional es un ejercicio
+			democrático y tiende a eliminar la vía revolucionaria.
+
++ ¿Se puede controlar la reforma a la Constitución? ¿Podría la SCJN declarar
+	inconstitucional una reforma a la Constitución?
+
+	- Desde un punto de vista formal, sí se puede declarar inconstitucional una
+		reforma a la Carta Magna. Si no se cumplen los requisitos de la
+		reforma constitucional, pues no estaríamos realmente ante una reforma
+		constitucional, entonces la SCJN podría hacer la declaratoria de
+		invalidez.
+	- Pero, ¿se podría llevar la revisión de una reforma constitucional por
+		cuestiones de fondo y no de forma?
+
+		* Por ejemplo, la prisión preventiva de oficio en México para
+			determinados delitos tiene problemas con respecto a la CADH, porque
+			la prisión preventiva debe realizarse caso por caso.
+		* Imaginemos por ejemplo, que se siga el procedimiento para instaurar
+			la idea.
+
+	-  El Ministro Cossío decía que sí; el Ministro Mena, también. Pero es un
+	 	tema que debe preocuparnos.
+	- Hay algunos principios que no se debieran cambiar, porque ya no sería una
+		reforma sino una sustitución constitucional; explicación del maestro
+		Burgoa, tiene más un fundamento ideológico porque no tiene un fundamento
+		constitucional.
+	- En el artículo 135 de la CPEUM no hay cláusulas de intangibilidad,
+		entonces en principio todo se podría cambiar.

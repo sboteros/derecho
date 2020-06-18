@@ -1,0 +1,66 @@
+---
+title: Clase 6
+author: Santiago Botero Sierra
+date: 17 de junio de 2020
+---
+
++ Artículo 4 de la CPEUM.
+	- *La mujer y el hombre son iguales ante la ley*. Aquí tenemos una modalidad
+		de la no discriminación, que podría estar ya incluida en el párrafo
+		quinto del artículo 1 (no discriminación por razón de género). Este
+		párrafo proviene de 1974, mientras que el quinto del artículo 1,
+		proviene del 2011.
+	- A partir de esto la jurisprudencia ha desarrollado un método argumentativo
+		en asuntos de género, basado en *perspectiva de género*. La perspectiva
+		de género es una metodología argumentativa para analizar un caso
+		concreto.
+
+		* Revisar la Sentencia Amparo Directo en Revisión 2468/2015, Amparo
+			Directo en Revisión 5999/2016
+		* Tesis 2001303.
+
++ Artículo 12. No se concederán títulos de nobleza.
++ Artículo 13.
+	- Prohibición de las leyes privativas. Una *ley privativa* es aquella que
+		no es general ni abstracta. La generalidad debe ser entendida como la
+		indeterminación de los sujetos a los que regula ley, en el sentido en
+		que la semántica de la norma tiene que ser hecha sin una identificación
+		específica y particular de sujeto. La *abstracción* es la
+		indeterminación de las situaciones reguladas por la norma. La
+		generalidad se refiere a las personas, y la abstracción a las
+		situaciones: entonces son unas características dirigidas al legislador
+		para que las leyes no sean inconstitucionales.
+
+		* Las leyes deben utilizar cuantificadores universales para referirse
+			a los sujetos regulados.
+		* Los grupos destinatarios de las leyes deben ser relativamente amplios.
+		* Los criterios que utilice el legislador para diferenciar estos grupos
+			no deben ser discriminatorios; es decir, no se puede utilizar una
+			categoría sospechosa (del art. 5, párrafo quinto).
+		* Tesis 196732 y 197676.
+
+	- Tribunales especiales. Son aquellos que han sido creados *ad hoc*, o
+		*ex post* a un hecho. La palabra clave es la *competencia*, los
+		criterios de competencia tienen que estar establecidos por la ley antes
+		de que sucedan los hechos que se juzgarán.
+
+	- Prohibición de los emolumentos.
+
+		* Emolumento: Remuneración adicional que corresponde a un cargo o
+			empleo.
+		* Serían pagos adicionales que no son una compensación por un servicio
+		 	público. Es decir: está prohibiendo a los *aviadores*.
+
+	- Fuero militar.
+
+		* La competencia material de estos tribunales es: delitos y faltas
+			contra la disciplina militar.
+		*  Tesis 2003047 y 2003048
+
++ Igualdad sustantiva o de facto, consiste en reconocer que la igualdad formal
+	puede tener problemas si los sujetos en la práctica tienen diferencias
+	importantes.
+	- En la igualdad sustancial, queremos compensar las desigualdades reales
+		(no formales) para que las personas que tienen desventajas tengan las
+		mismas oportunidades.
+	-

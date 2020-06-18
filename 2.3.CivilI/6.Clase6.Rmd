@@ -1,0 +1,92 @@
+---
+title: Clase 6
+author: Santiago Botero Sierra
+date: 13 de junio de 2020
+---
+
++ Derechos de la personalidad
+	- Derechos humanos: Contenidos en la Constitución, pues el artículo 1 de la
+		CPEUM señala que todas las personas gazarán de los derechos humanos
+		reconocidos en la constitución y los tratados internacionales.
+	- Derechos de la personalidad: Son del derecho civil, son los más básicos e
+		inherentes a la persona, reconocidos por el ordenamiento jurídico
+		positivo.
+
+	- El Patrimonio, Gutiérrez y Gonzáles, clasifican los derechos de la
+		personalidad.
+
+		[Derechos de la personalidad](./img/1.DerechosPersonalidad.jpg)
+
++ Registro Civil
+	- Concepto: Es la institución de buena fe cuya función pública es conocer,
+	 	autorizar, inscribir, reguardar y dar constancia de los hechos y actos
+	 	del estado  civil de las personas (Reglamento del Registro Civil del
+	 	DF, art. 1)
+	- Marco normativo: Código Civil (Libro Primero, Título Cuarto), Reglamento
+		del Registro Civil y Manual de Operaciones del Registro Civil.
+	- Su naturaleza jurídica es la de una unidad administrativa de la Unidad
+		Jurídica y de Servicios Legales (artículo 43 de la Ley Orgánica del
+		Poder Ejecutivo y la Administración Pública de la CDMX)
+	- Estructura:
+
+		* Material: Oficina Central (Director General) y Juzgados del Registro
+			Civil.
+		* Personal: Jueces del Registro Civil y Secretarios, Supervisores y
+			Servidores Públicos.
+
++ Funcionamiento
+	- Registra eventos que son *hechos jurídicos* (en los que es irrelevante la
+		voluntad de la persona; nacimiento, muerte, etc.) o *actos jurídicos* (donde es relevante la voluntad de la persona; matrimonio, divorcio,
+		 etc.)
+	- Los instrumentos son:
+
+		* Actas, es una formada debidamente autorizada por el juez y firmada por
+			quienes hayan intervenido, en la que se hace constar un hecho o acto
+			del estado civil (art. 2, f. I, Reglamento)
+		* Formas, Papeles impresos en papel seguridad, en las que se asientan
+			los hechos y actos del estado civil y aquellas en las que se expiden
+			las certificaciones de éstos (art. 2, f. XVII, Reglamento)
+		* Copias certificadas, reproducción auténtica de un acta que expide el
+			Juez del Registro Civil.
+		* Anotaciones, Asientos practicados por el Juez del Registro Civil en un
+			acta preexistente.
+
++ Es una institución pública que da publicidad a los actos
+	- Toda persona pede pedir testimonios completos o en extracto de las actas del Registro Civil, así como de los apuntes (art. 48, CCCDMX).
+	- Algunas excepciones son en el caso del reconocimiento de hijo (art. 78 y 82 del CCCDMX), la adopción (art. 87, CCCDMX) y matrimonio (art. 98, f. VIII, CCCDMX)
+
++ En el artículo 35 del código civil se listan las actas que expide el Registro
+	Civil. Entre ellas: acta de nacimiento (art. 58, 59, 75, 76; 78, 86, 135 Bis
+	dan lugar al expedimiento de una nueva acta de nacimiento) y acta de
+	defunción (art. 119, 123 y 124)
+
++ Entre las anotaciones que se pueden hacer:
+	- En el acta originaria de nacimiento: Reconocimiento de hijo, adopción,
+		ausencia y presunción de muerte, sujeción a tutela, limitaciones a la
+		capacidad de ejercicio para administrar bienes y reconocimiento de
+		identidad de género.
+	- En el acta de matrimonio: divorcio y nulidad de matrimonio.
+	- Otros, están señalados en el artículos 132 y 133 del CCCDMX.
+
++ Personas morales
+	- Son entes distintos a los seres humanos, que persiguen fines determinados, y a los que el ordenamiento urídico otorga la posibilidad de ser sujetos de derechos y obligaciones.
+	- Se encuentran listadas en el artículo 25 del CCCDMX.
+	- Se pueden clasificar como: de derecho público (el Estado, las entidades
+		federativas, los municipios, los organismos descentralizados, etc.), privado (sociedades y asociaciones civiles, y sociedades mercantiles),
+		de derecho social (los sindicatos y las sociedades rurales).
+	- Terminan:
+
+		* Para las de derecho público, cuando una lay o decreto ordenen su
+			extinción.
+		* Para las de derecho privado, por disolución (art. 2720), liquidación
+			(art. 2686) o extinción (que se da una vezz que concluye la
+			liquidación).
+		* Para las de derecho social, según lo dispongan las leyes que las
+			regulan.
+
++ Atributos de la persona moral
+	- El nombre: en el derecho mercantil hay razón social (nombre de las
+		sociedades  de personas, cualidades personales de los socios) o
+		denominación social  (nombre de las sociedades de capitales, interesan
+		las aportaciones de  los socios); en el derecho civil, la razón o
+		denomiación social (art. 3072, f. II), la manifestación del tipo social.

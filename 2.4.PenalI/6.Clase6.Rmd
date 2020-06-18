@@ -1,0 +1,232 @@
+---
+title: Clase 6
+author: Santiago Botero Sierra
+date: 13 de junio de 2020
+---
+
++ "*Yo no puedo escuchar una canción, y menos de Elizalde, y menos con una
+	cerveza, porque luego califico; es que el derecho es así, lo ejercitas
+	siempre con los elementos más cercanos de tu entorno.*"
+
++ El fraude y el dolo
+	- Fraude, siempre y cuando distingamos el dolo en materia civil y en materia
+		  penal. En materia penal el dolo es un engaño, si la señora de plano la
+		  engañó sin duda es un fraude consumado instantáneamente por la autora
+		  directa en forma de acción dolosa. Si la señora en realidad no lo pudo
+		  hacer porque por algún motivo no lo haya podido hacer, entonces habría
+		  un incumplimiento del contrato.
+	- Es una diferencia muy sutil y dificil
+	- La señora diría que no ha podido hacerlo por alguna razón y que no tiene
+		  el interés de engañarla, sino que no lo ha podido hacer; en cambio, si
+		  es un engaño tal cual, sí es una acción dolosa penal.
+	- *Nota: La diferencia entre dolo civil y dolo en materia penal
+		(concretamente en el fraude), llega a ser muy sutil. Pero, el dolo en el
+		fraude supone un engaño a todas luces*.
+
++ Para distinguir entre error de tipo y error de prhibición (vencibles o
+		invencibles) hay que tomar en cuenta lo siguiente:
+	- El error de tipo recae sobre alguno de los elementos del tipo penal.
+	- El error de prohibición supone una falsa conciencia de la antijuridicidad
+	  del hecho: bien sea porque el sujeto crea que el hecho no está tipificado
+	  o bien porque crea que existe alguna ley o norma que permite su conducta.
+	- Para distinguir si un error de tipo o de prohibición es o no vencible, hay
+		que hacer un juicio de evitabilidad en el cual debemos estar atentos a
+		las circunstancias particulares del sujeto activo.
+	- *Nota: Para distinguir entre error de tipo y error de prohibición
+		(vencibles o invencibles), hay que tomar en cuenta: a) Que el error de
+		tipo recae sobre alguno de los elementos del tipo penal; b) Que el error
+		de prohibición supone una falsa conciencia de la antijuridicidad del
+		hecho, ya sea porque el sujeto crea que está justificado, o bien porque
+		crea que existe alguna ley o norma que permite su conducta.*
+	- *Nota: Para distinguir si un un error de tipo o de prohibición es o no
+		vencible, hay que hacer "un juicio de evitabilidad". En el cual debemos
+		estar atentos a las circunstancias particulares del sujeto activo.*
+	- *El error de prohibición invencible dinamita o hace volar en pedazos la
+		culpabilidad. Mientras que el error de prohibición vencible atenúa la
+		culpabilidad y consecuentemente atenúa también la pena.*
+	- Vencible es que pueda haberse evitado el error.
+
+- El procedimiento abreviado está establecido en el 202 del CNPP, porque si ya
+	acepta el sujeto activo, que renuncie al juicio; entonces le puede bajar
+	hasta una tercera parte de la mínima.
+
++ El *exceso de legítima defensa personal* puede ser:
+	- *Extensivo*: Acontece cuando el defensor extiende su defensa por un tiempo
+		mayor al necesario.
+	- *Intensivo*: Acontece cuando la intensidad de la defensa es drásticamente
+		superior a la intensidad de la agresión.
+	- Nota: Cuando, de plano, la "supuesta defensa" es descomunal frente a la
+		agresión, no hay exceso de legítima defensa sino lesiones u homicidio
+		calificado.
+	- No existe legítima defensa respecto de agresiones mínimas.
+	- Los conceptos más importantes son: **i)** agresión actual, y **ii)**
+		necesidad.
+	- La defensa es necesaria que el defensor le causó el menor daño posible a
+		su agresor. Es decir, el defensor está obligado a causarle el menor
+		daño posible a su agresor.
+
++ Casos:
+	- *Caso 1*. Un señor tenía un escolta y conducía un mercedez, detrás de él
+		iba un escolta, cuando observó que cinco integrantes de un Tsuru
+		trataban de interponerse entre el vehículo del principal y el del
+		escolta. Un escolta no podría permitir eso, entonces no lo permitió.
+		Avanzando en el camino tuvieron que hacer alto total debido a la luz
+		roja del semáforo: primero el mercedez, después el neón y enseguida el
+		tsuru; eran como las 9:30 de la noche. El primero en descender de los
+		vehículos fue el escolta, que hizo notar que tenía un arma. Al propio
+		tiempo observa cómo se bajan los cinco sujetos del Tsuru: uno traía un
+		arma de fuego, otro una navaja; el les hace notar que trae un arma pero
+		ellos se dirigen hacia allá. No obstante ellos avanzan hacia él y él
+		priva a la vida de dos de ellos y deja a otro con heridas graves de las
+		que ponen en peligro la vida.
+
+		Cuando llega el ministerio público, él dice que él creyó que iban a
+		matar o a asaltar al principal; pero no se encontraron armas ni navajas
+		en el lugar de los hechos, por lo que era muy dificil para la defensa
+		acreditar la legítima defensa. Pero no solo eso se perdió: uno dijo que
+		perdió la cartera, otro las gafas, otro la IFE (en este caso se
+		perdieron doce elementos y había muchas razones para suponer que fueran
+		armados porque eran policías). Eso quiere decir que muchas veces algunos
+		policías tienen el atrevimiento de llevarse algunos objetos del momento
+		y lugar de los hechos; eso dificulta mucho la defensa, porque no hay el
+		material para acreditar, aunque eso no quiere decir que no existieran.
+
+		Era muy dificil probar la legítima defensa, entonces mejor dijeron de un
+		error de prohibición: yo creí que estaba actuando en legítima defensa y
+		que estas personas iban a atacarnos. Entonces esta persona creía que
+		estaba actuando en legítima defensa, aunque no fuera así porque era un
+		error ya que no estaban los otros elementos que sí lo acreditaran. Eso
+		hace que se bajen dos terceras partes de la condena; eso es algo muy
+		significativo. Porque imagínense la mínima del homicidio calificado es
+		20 años, mientras que si se alega un error de tipo vencible, llegas a
+		menos de 7 años. En cambio, si te vas a un error de prohibición
+		invencible, de plano te quedas sin culpabilidad.
+
+		***En la medida de la culpabilidad está la medida de la pena***.
+
+	- *Caso 2*. Supongamos que los policías $x_1$ y $x_2$ recibieron la orden
+		de su comandante $x_3$, en el sentido de que le dieran alcance a una
+		célula de secuestradores (y supongamos que el mando les dijo "tiren a
+		matar"). Supongamos que mataron a $x_3$, quien era un estudiante.
+
+		Tal vez, un error de prohibición vencible, porque confíe en la
+		inteligencia que les dieron y crean, sinceramente que sí era un grupo de
+		secuestradores.
+
+		Debo comenzar la clasificación por los dos sujetos más cercanos al
+		hecho: el que conduce el vehículo y el que tiene el arma; ambas acciones
+		son igualmente relevantes.
+
+		En el caso que nos ocupa la clasificación para $x_1$ y $x_2$ sería la
+		siguiente: homicidio calificado ($h$) consumado instantáneamente
+		($e_{ci}$) bajo un error de prohibición vencible donde intervinieron los
+		coautores ($i_a^c$) en forma de acción dolosa ($n_a^d$). Donde resultan
+		aplicables los siguientes numerales: 123 con relación al 128, por lo que
+		hace al homocidio calificado 17, fracción I, 83, parte conducente, por
+		lo que hace al error de prohibición vencible, 22, fracción II, por lo
+		que hace a la coautoría, 15, parte conducente, por lo que hace a la
+		acción, y 18, párrafo 2, por lo que hace al dolo, todos del código penal
+		vigente en el momento y lugar de los hechos (de la Ciudad de México).
+		Con el siguiente márgen de punibilidad: `r c(20*1/3, 50*1/3)`; donde en
+		caso de acceder a un  procedimiento abreviado se les podría imponer de
+		`r c(20*(1/3)*(2/3), 50*(1/3)*(2/3))`
+
+		La clasificación para $x_3$ sería homicidio calificado ($h$) consumado
+		instantáneamente ($e_{ci}$) en donde intervino el autor mediato
+		($i_a^m$) en forma de acción dolosa ($n_a^d$). Donde resultan aplicables
+		los siguientes numerales, : 123 con relación al 128, por lo que hace al
+		homocidio calificado 17, fracción I, 83, parte conducente, por lo que
+		hace al error de prohibición vencible, 22, fracción III, por lo que hace
+		a la coautoría, 15, parte conducente, por lo que hace a la acción, y 18,
+		párrafo 2, por lo que hace al dolo, todos del código penal vigente en el
+		momento y lugar de los hechos (de la Ciudad de México). Con el siguiente
+		márgen de punibilidad: 20 a 50 años.
+
+	- *Caso 3*. En el año 2010 lo invitaron a Ciudad Juárez, Chihuahua, cuando
+		estaba considerada como la ciudad más peligrosa de la república y quizás
+		del mundo entero. Él no es la clase de profesor que se niega a asistir a
+		un lugar realmente peligroso; ni de la clase al restaurante, le gusta
+		andar y recorrer las calles y los caseríos de las ciudades que conoce.
+		Todo sucedió de manera simple y sin complicaciones: a un sujeto que iba
+		pasando le preguntó dónde pasa el transporte público que lo lleva al
+		centro de la ciudad; otras personas y él estaban esperando el transporte
+		público. Llegaron unos sujetos y le dijero "llégale o te parto tu
+		madre", tenía dos opciones: retirarse del lugar de los hechos o quedarse
+		ahí; nunca le pidan a un sujeto que se retire. Se quedó en el lugar de
+		los hechos y esta persona le pegó dos golpes, afortunadamente para él
+		llegó el transporte público y se fue. Entonces escribió una nota que
+		publicó sobre la legítima defensa.
+
+		*Nota*: Algún día, dios no lo quiera, pero si tuvieran que alegar
+		legítima defensa a favor de sí mismos, entonces dirían lo siguiente:
+		"*conocí la agresión en contra mía; tuve la voluntad de defenderme; me
+		defendí usando los medios defensivos de los que disponía; ocupándolos
+		del menor al mayor grado lesivo; de modo y manera que le causé el menor
+		daño posible a mi agresor*".
+
+		*Nota*: Conocer la agresión y tener la voluntad de defenderse,
+		técnicamente se denomina "elemento subjetivo del injusto".
+
+	- *Caso 4*. $x_1$ y $x_2$ tienen iguales posibilidades de salvar a $x_3$ de
+		un ahogamiento seguro, pero ninguno hace nada y la víctima sobrevive
+		con daño cerebral. Nota: $x_1$ es turista y $x_2$ es salvavidas.
+
+		La conducta como tal es igual, pero en el derecho penal ambas acciones
+		tienen nombres diferentes. La conducta no se estudia separadamente del
+		tipo, porque si la estudia así diría: son iguales, y luego analizarías
+		el tipo, pero así no funcionan las cosas.
+
+		Clasificación para $x_1$, turista: omisión de auxilio ($h$) consumado
+		instantáneamente ($e_{ci}$) donde intervino el autor directo ($i_a^d$)
+		en forma de omisión simple dolosa ($n_{os}^d$).
+
+		Clasificación para $x_2$, salvavidas: homicidio calificado ($h$) en
+		grado de tentativa acabada ($e_{ta}$) donde intervino el autor directo
+		($i_a^d$) en forma de comisión por omisión dolosa ($n_{co}^d$).
+
+		Quien omite el auxilio está incumpliendo un deber de solidaridad. En
+		cambio el salvavidas sí tiene un deber de intervenir, porque él lo
+		asumió, debe actuar en calidad de garante.
+
+		Un *delito de olvido* es una omisión culposa; por ejemplo, yo olvidé
+		cerrar la válvula del gas y eso generó una explosión.
+
+		Si después hubiera intervenido, sería una tentativa eficazmente
+		desistida; y ya no tendría la pena únicamente por las lesiones que ya
+		se hubieran ocasionado; como tuvo el desistimiento eficaz, ya sólo se
+		sanciona lo que se ha consumado.
+
+		Como conclusión, en materia penal, la *conducta* es el producto de una
+		*valoración típica*.
+
+	- *Caso 5*. $x_1$ desapoderó de la bolsa a $x_2$; en ese momento, $x_3$
+		observa cómo huye el agresor $x_1$ y le pasa las llantas de su carro
+		por encima. El ladrón $x_1$ sufrió lesiones que ponen en peligro la
+		vida (art. 130, fracción VII).
+
+		La clasificación para $x_3$ es:  homicidio calificado ($h$) cometido en
+		grado de tentativa acabada ($n_{ta}^0$) donde  intervino el autor
+		directo ($i_a^d$) en forma de acción dolosa ($n_a^d$).
+
+		Una clasificación alternativa que podría proponer su defensor, pero que
+		no parece tan adecuada, es: Lesiones graves de las que ponen en peligro
+		la vida ($h$) consumadas instantáneamente ($e_{ci}$) bajo un exceso
+		intensivo de legítima defensa de tercero donde intervino el autor
+		directo ($i_a^d$) en forma de acción dolosa ($n_a^d$).
+
++ El delito es: **i)** una conducta típica, **ii)** antijurídica y **iii)**
+	culpable (otras personas lo hacen con cuatro elementos, pues adicionan la
+	conducta; pero no hay diferencia práctica).
+	- La definición que nos dió es la única del CNPP porque el profesor redactó
+		el artículo 405, que tiene 3 fracciones y no 4.
+	- Nota: Del 405 del CNPP se deduce que el delito es una conducta típica,
+		antijurídica y culpable.
+
++ *Nota*: Dado que el error de prohibición vencible y el exceso de legítima
+	defensa son dos figuras jurídicas cuya naturaleza es equivalente, entonces
+	la consecuencia también debe ser equivalente. Sin embargo, la primera se
+	sanciona con 1/3 y la segunda con 1/4. 
+
+- **Leer**: Legítima defensa del policía, 2013, del profesor. Si alguien quiere
+	hacer una tesina al respecto sería muy importante porque hay poca
+	literatura sobre eso en México.

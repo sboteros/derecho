@@ -1,0 +1,56 @@
+---
+title: Clase 5
+author: Santiago Botero Sierra
+date: 15 de junio de 2020
+---
+
++ Un Estado es una organización jurídico-política que ejerce dominio sobre un
+	territorio determinado.
++ Los tres elementos clásicos del estado son: **i)** poder, **ii)** territorio
+	y **iii)** población.
+
++ Desde el punto de vista de la distribución geográfica del poder, los *tipos
+	de estado* pueden ser:
+
+	- Unitarios (se gobiernan desde un centro político). Por ejemplo, Francia,
+		Perú, Colombia.
+	- Compuestos (donde se da una pluralidad de formas de distribución del poder
+		político). Por ejemplo, Estados Unidos, Alemania, Argentina, España (no
+		es una federación, sino un *estado autonómico*) y México.
+
++ Otro punto de vista tiene que ver con las *formas de estado*.
+	- Maquiavelo, en El Príncipe, comienza diciendo que los estados son:
+		monarquías o repúblicas. La diferencia es la manera en la que se
+		transmite el poder (dinástica versus no dinástica) y por la duración
+		del ejercicio del poder (vitalicia --excepcionalmente se da por renuncia
+		o abdicación-- versus temporalidad).
+
+		* Las monarquías pueden ser: **i)** absolutistas o **ii)**
+			parlamentarias. En principio, no toda monarquía tiene que ser
+			antidemocrática; puede haber países democráticos con monarquías.
+		* Las repúblicas pueden ser: **i)** absolutistas o **ii)** democráticas.
+
++ Otro punto de vista tiene que ver con la *forma de gobierno*.
+	- Presidencial, donde: **i)** el titular del poder ejecutivo es electo
+	 	directamente en las urnas, **ii)** el periodo de gobierno es fijo, y
+		**iii)** es muy dificil remover al titular del poder ejecutivo una vez
+		que es electo.
+	- Parlamentario, donde: **i)** el ciudadano vota por su representante en el
+		poder legislativo y estos, a su vez, eligen al titular del ejecutivo,
+		por lo que el poder ejecutivo tiene una legitimidad indirecta; **ii)**
+		el periodo que dura un gobierno es un tiempo máximo, pero no fijo; y,
+		**iii)** se puede cambiar de gobierno sin generar una crisis de Estado.
+
+	- Puede haber formas híbridas, que combinen algunas características del
+		régimen presidencial o del régimen parlamentario. Es el caso de Francia,
+		que tiene un sistema semiparlamentario o semipresidencial, según
+		algunos (Giovanni Sartori, el presidencialismo de los dos motores).
+
++ Otra cuestión es la *democracia* (estados democráticos): directa (los
+	ciudadanos directamente toman las decisiones) o representativa (es una forma de gobierno en la que el ciudadano elige a un representante y este
+	es quien decide).
+	- Formas de democracia participativa: referendum, plebiscito, iniciativa
+		legislativa popular, presupuesto participativo y revocación de mandato.
+		Son figuras de democracia semidirecta.
+
+	- Revisar el artículo 35, fracción VIII y 71, fracción IV de la CPEUM.

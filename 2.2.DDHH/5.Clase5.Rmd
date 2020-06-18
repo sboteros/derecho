@@ -1,0 +1,55 @@
+---
+title: Clase 5
+author: Santiago Botero Sierra
+date: 10 de junio de 2020
+---
+
+# Derechos de igualdad
+
++ Perspectivas sobre el significado de la igualdad
+	- Un significado lingüístico tiene una aplicación matemática, que implica
+		la equivalencia de dos cantidades de expresiones. En este sentido, hay
+		una propiedad de reflexividad ($A = A$), simétrica
+		($A = B \Rightarrow B = C$) y transitividad
+		($A = B, B = C \Rightarrow A = C$).
+	- Desde el punto de vista filosófico y político
+
+		* Autores como Aristóteles han vinculado los conceptos de igualdad y de
+		 	justicia. En la Política, escribió "*parece que la justicia
+		 	consiste en la igualdad y lo es, pero no para todos, sino para
+		 	todos; y la desigualdad es justa, y lo es en efecto, pero no para
+		 	todos, sino para los desiguales*".
+		* El concepto de igualdad no se puede establecer en abstracto, sino en
+			concreto: cuando  decimos que dos personas son iguales, tenemos que
+			plantear igualdad  en términos de qué. Es decir, somos iguales en
+			relación a *términos de comparación* (iguales en términos de
+			derechos humanos, salariales, etc.)
+		* Si las personas son diferentes, ¿cuáles son las diferencias que no
+			pueden ser tomadas en cuenta, dado el principio de igualdad?
+
+	- Tiene una connotación política en términos de democracia, porque esta
+		parte de la idea de que "*el poder es del pueblo, para el pueblo y por
+		el pueblo*".
+	- En materia jurídica, la igualdad parte de dos ideas: **i)** igualdad en la
+		ley, **ii)** Igualdad en la aplicación de la ley. Las normas jurídicas
+		tienen que respetar el principio de igualdad, es decir, cuando el
+		legislador hace las normas; una segunda manifestación se muestra cuando
+		ya se está aplicando la norma, que esta aplicación debe ser más o menos
+		uniforme.
+
+		* La doctrina ha establecido que toda discriminación supone: **i)**  un
+			trato diferenciado, **ii)** basado en una de las *características
+			prohibidas* (categorías sospechosas); **iii)** que sea no razonable
+			(el trato razonable  está sujeto a carga argumentativa)
+		* Las categorías sospechosas se ubican en el artículo 1, párrafo quinto,
+			de la CPEUM: origen étnico o nacional, el género, la edad, las
+			discapacidades, la condición social, las condiciones de salud, la
+			religión, las opiniones, las preferencias sexuales, el estado civil
+			o cualquier otra que atente contra la dignidad humana y tenga por
+			objeto anular o menoscabar los derechos y libertades de las
+			personas.
+		* La discriminación puede ser: **i)** directa (con los tres elementos
+			que se dijeron antes), o **ii)** indirecta (cuando una norma,
+			política pública o práctica social) es aparentemente neutral pero
+			termina perjudicando más a un cierto grupo de la sociedad o a
+			personas que tengan ciertas características.
