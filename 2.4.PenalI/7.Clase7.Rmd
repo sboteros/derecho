@@ -1,0 +1,121 @@
+---
+title: Clase 7
+author: Santiago Botero Sierra
+date: 20 de junio de 2020
+---
+
++ Las causas de justificación extra-penales contenidas en leyes administrativas,
+ 	procesales o de cualquier otra índoles, están para complementar y no para
+ 	desplazar a las causas de justificación escritas en los Código Penales.
+	- Si se contrapone al CNPP y CP para la CDMX, en lo relativo a la legítima
+		defensa, prevalece el CP para la CDMX.
+
++ *Caso 1*. El sujeto $x_1$ desapoderó a su víctima de sus pertenencias.
+	Enseguida la sorprendió con un tiro mortal. En el caso que nos ocupa la
+	clasificación jurídica para $x_1$ sería la siguiente: robo a transeúnte
+	consumado instantáneamente donde intervino el autor directo en forma de
+	acción dolosa, en concurso real con homicidio calificado consumado
+	instantáneamente donde intervino el autor directo en forma de acción dolosa,
+	donde resultan aplicables los siguientes numerales: art. 224 (robo a
+	transeunte), 17, fracción I (consumación instantánea), 22, fracción I (autor
+	directo) acción (15, pc.), dolo (18, p.2), 28 pc (concurso real), 123 con
+	relación al 128 (homicidio calificado). Todos del CP vigente en el momento y
+	lugar de los hechos: Con el siguiente margen de punibilidad: De 22 años 6
+	meses a 58 años de prisión. Donde en caso de accede a un abreviado, se le
+	podría imponer: De 15 a 22 años 6 meses de prisión.
+
++ *Caso 2*. $x_1$ y $x_2$ ingresan a una joyería. Con un chicle ocultan una joya
+	en alguno de los extremos del mostrador.
+	- Las tesis jurisprudenciales dicen que en los casos de robo a
+		establecimiento, la consumación acontece cuando el objeto sale de la
+		esfera del radio de dominio. La esfera del radio de dominio se
+		interpreta como salir del área de caja.
+
+		* Si se considera que $x_1$ y $x_2$ realmente sacaron la joya de la
+			esfera del radio de dominio, la clasificación sería: Robo a
+			establecimiento consumado instantáneamente donde intervinieron los
+			coautores en forma de acción dolosa.
+		* En cambio, si se considera que no lograron sacar la joya de la esfera
+		 	del radio de dominio, la clasificación sería: Robo a
+		 	establecimiento cometido en grado de tentativa inacabada donde
+		 	intervinieron los coautores en forma de acción dolosa.
+		* La tentativa para el coautor inicia desde que algún otro coautor ha
+			dado comienzo a la ejecución del hecho.
+		* Para que sea válido el desistimiento de alguno de los coautores, se
+			necesita que dicho coautor que se desiste, haya neutralizado su
+			aportación al hecho.
+
++ *Caso 3*. Supongamos, en el caso anterior, que $x_1$ se retiró desde el
+	momento en que $x_2$ se dispuso a tomar la joya para ocultarla.
+	- La tentativa es una figura jurídica que creó un italiano de nombre Tieberio Deciano en 1300.
+	- Aquí no hay tentativa, porque no eliminó el efecto de su participación en
+	 	el hecho
+
++ Nota: El despojo se entiende consumado permanentemente.
++ Nota: La violencia familiar puede ser de consumación permanente o instantánea.
++ Nota: la violencia familiar igual puede ser de consumación continuada.
+
++ Tipos penales: 1 Violencia familiar. 2. Fraude. 3. Despojo.
+Sugerencia ir de lo simple a lo complejo: Clasificar los hechos como sigue: Violencia familiar consumada permanentemente donde intervino el autor directo en forma de acción dolosa.
+Nota: Cuando una persona x1, comete violencia familiar y después comete otro tipo penal para mantener el estado antijurídico al cual sometió a su víctima, aplican las reglas del concurso ideal.
+Porque existiría unidad de acción.
+Nota: Cuando aplicamos el concurso real, aplicamos también el principio de acumulación de las penas. Es decir, la mínima del tipo 1, se suma con la mínima del tipo 2. y la máxima del tipo 1 se suma con la máxima del tipo 2.
+Nota: en casos de concurso ideal aplicamos el principio de agravación (o principio de aspersión).
+
+Nota: este principio indica que en casos de concurso ideal puedes tomar la pena del tipo que merezca la mayo , misma pena que podrá agravarse sin superar la pena máxima establecida en el CP.
+Koch
+
+Nota: El padre de las reglas del concurso de delitos (Koch) determinó que para distinguir entre concurso real y concurso ideal, debemos tomar en cuenta el número de conductas y no el número de hechos, ni tampoco el número de resultados.
+Ejercicio: Sobre la base de Koch, qué debemos entender por "el hecho que la ley señala como delito"? a) la conducta típica; b) el resultado típico; o c) el hecho típico.
+Conclusión: Si es verdad que el número de conductas es lo que decide la clase de concurso de delitos aplicable, entonces, debemos entender por el "hecho que la ley señala como delito": la conducta o las conductas típica.
+Caso español: Una pareja x1 y x2 discutieron en el interior de un auto. El varón x2 le disparó en el pecho a x1. La bala atravesó el asiento de la piloto, y mató al hermano de x2 que estaba en el asiento trasero. x1 sobrevivió.
+
+Clasificación jurídica para x2: Homicidio en razón de parentesco cometido en grado de tentativa acabada donde intervino el autor directo en forma de acción dolosa, en concurso ideal con, homicidio simple consumado instantáneamente donde intervino el autor directo en forma de acción culposa.
+Nota: Antes se decía en la jurisprudencia de la quinta época: "lo que dolosamente empieza, dolosamente acaba".
+Nota: Las fracesitas "causalista", "finalista" o "funcionalista", normalmente se ocupan para tratar de autojustificar una respuesta.
+
+Nota: El casalismo vrs finalismo data 1950
+Koch (1837)
+Tentativa 1300 Tiberio Deciano
+Nota: si México puso en vigor la responsabilidad de las Personas Morales desde 2014, y ni el causalismo, ni el finalismo ni el funcionalismo están de acuerdo con la Responsabilidad de la Empresas, entonces, qué somos?
+
+Nota: Los que tuvieron la idea de crear la contraposición; causalismo vrs finalismo, eran simpazantes de Hitler.
+Edmund Mezger quien tuvo la diabólica idea de crear la contraposición: causalismo versus finalismo.
+
+Nota Mezger redactó de propia mano las leyes que hicieron posible , la desaparición, asesinato, muerte de miles de personas.
+
+Nota: Tomar postura por causalismo, finalismo o funcionalismo, es para aficionados !!
+
+
++ Razones de mérito justificantes, disculpantes y atenuantes.
+	- En legítima defensa (personal y de tercero).
+	- Bajo un estado de necesidad justificante.
+	- Bajo el ejercicio de un derecho.
+	- Bajo el cumplimiento de un deber.
+	- Bajo el consentimiento presunto.
+
+	- Las cinco razones de mérito justificantes antes citadas, son causas de
+		justificación que dinamitan, o hacen volar en pedazos, la
+		antijuridicidad; pero dejan subsistente
+
+	- Bajo un estado de necesidad disculpante
+	- Bajo un error de prohibición invencible
+	- Bajo un estado de inimputabilidad
+	- Bajo la no exigibilidad de otra conducta
+
+	- Las cuatro causas de inculpabilidad antes citadas excluyen la
+		inculpabilidad pero dejan subsistente la presencia de una conducta
+		típica y  antijurídica.
+
+	- Bajo un error de prohibición vencible.
+	- Bajo un estado de imputabilidad disminuida.
+	- Bajo un error de tipo vencible.
+	- Bajo un escaso (intensivo o extensivo) uso de legítima defensa (personal
+		o de tercero).
+
+	- Las cuatro razones de mérito atenuantes arriba citadas, atenúan la
+		culpabilidad y consecuentemente atenúan la pena
+
++ Nota: En el caso concreto de que se trate, hay que estar a la hipótesis normativa, para no hacer inútiles repeticiones de los elementos objetivos, subjetivos y normativos del tipo.
+
++ rubenquintino@yahoo.mx

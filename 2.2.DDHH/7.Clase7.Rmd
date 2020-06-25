@@ -1,0 +1,59 @@
+---
+title: Clase 7
+author: Santiago Botero Sierra
+date: 24 de junio de 2020
+---
+
+# Derechos de libertad
+
++ ¿Cómo se justifica ejercer un derecho de libertad (ser un ministro
+	eclesiástico) y perder otro derecho (tener voto pasivo)?
+	- La explicación es la laicicidad del estado mexicano.
+	- Ver el artículo 130 de la CPEUM: "*El principio* ***histórico*** *de la
+		separación del Estado y las iglesias* (...)"
++ El bien jurídico tutelado es:
+	- El concepto de libertad tiene diversas explicaciones.
+	- Un antónimo de la libertad es la *esclavitud*, entonces se podría decir
+		que la libertad es la ausencia de esclavitud. En un sentido más amplio,
+		libertad equivale a *no sujeción*; es decir, no solo que no exista la
+		esclavitud sino que no se esté sujeto a las decisiones de otro (si una
+		persona no puede tomar sus propias decisiones, entonces se dice que no
+		es libre).
+	- El derecho al libre desarrollo de la personalidad: **i)** es una situación
+	 	que existe  jurídicamente; **ii)** es un derecho de caracter
+	 	subsidiario (que solamente puede operar en ausencia de otras
+	 	regulaciones); y, **iii)** se puede reconocer respecto de alguna
+	 	situación  o supuesto que merezca protección jurídica (p.e. en la
+	 	sentencia de  marihuana se dice que en la legislación mexicana no hay
+	 	un modelo de  vida perfeccionista).
++ Hay dos maneras de observar el asunto de la libertad:
+	- Libertad negativa, equivale a la no interferencia externa. Se supone que
+		una persona la tiene cuando puede desarrollar su vida sin
+		interferencias,  obstáculos o impedimentos del exterior. Tiene una
+		ascepción fundamentalmente pasiva: no me estorbes.
+	- Libertad positiva, tiene un requisito que es la autonomía. Es decir, la
+		persona tiene que ser autónoma; esta solo se puede desarrollar cuando
+		una persona tiene voluntad, que supone la toma de decisiones. Significa
+		que se tienen que tener planes de vida en la libertad positiva, sean o
+		no conforme a los ideales de la sociedad.
+	- John Stuart Mill, *On liberty*. Solamente se puede evitar la conducta de
+		una persona para evitar que le cause daño a otra; esto se conoce como
+		el *principio de daño*. Esto implica restricciones a la libertad para
+		defender las libertades de los demás.
+	- ¿Un ordenamiento jurídico puede limitar la libertad para protegernos a
+		nosotros mismos? A esto se le llaman *medidas paternalistas* o *paternalismo jurídico*: medidas que el ordenamiento jurídico establece
+		para proteger a los individuos de sí mismos, frente a los riesgos que
+		el propio individuo genera hacia su persona. *Paternalismo mínimo*.
+
++ Normas constitucionales
+	- Artículo 1, párrafo 4, sobre la esclavitud. Sin embargo, tenemos una
+		persistencia de prácticas que podrían ser equivalentes a la esclavitud:
+		trata  de personas
+	- Artículo 3: **i)** libertad de acceder a la educación más allá de la
+	 	educación obligatoria (hasta la media superior, en términos del primer
+	 	párrafo), **ii)** libertad de decidir el modelo educativo (pública,
+		particular), **iii)** la libertad empresarial en el ámbito educativo,
+		que cumplan con ciertos estándares, **iv)** autonomía universitaria
+		(art. 3, frac. VII), que incluye administación, planes de estudio y
+		disciplina interna; **v)** libertad de cátedra e investigación, que es
+		progresivo a medida que se avanza en el sistema educativo; **vi)**

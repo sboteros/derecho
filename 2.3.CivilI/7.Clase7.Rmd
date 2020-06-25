@@ -1,0 +1,67 @@
+---
+title: Clase 7
+author: Santiago Botero Sierra
+date: 20 de junio de 2020
+---
+
++ Atributos de la persona moral
+	- Domicilio
+
+		* Domicilio ordinario: Es el lugar donde las personas morales deben
+			ejercer sus derechos y cumplir sus obligaciones. De acuerdo con el
+			artículo 33, párrafo 1, del CCCDMX corresponde al lugar donde se
+			halle su administración. Esto se puede entender como el principal
+			asiento de sus negocios (Tesis 2000574, 171774).
+		* Domicilio especial: Luegar en el que la ley ubica a las personas
+			morales respecto de determinadas relaciones jurídicas, con
+			independencia de donde se halle establecida la ley. Cuando tenga
+			su domicilio fuera de la CDMX y celebre actos en la CDMX (está
+			radicada en la Ciudad de México para ese efecto, párrafo 2) o cuando
+			contraiga obligaciones en alguna de sus sucursales (párrafo 3).
+		* Domicilio social. Es el lugar establecido en los estatutos sociales
+			para la celebración de eventos y publicaciones corporativas, así
+			como para determinar el registro público al que deben inscribirse
+			los actos relacionados con esa persona.
+		* Domicilio fiscal. Lugar en que la ley ubica a la persona moral para
+			sus relaciones tributarias (Código Fiscal de la Federación, art. 10)
+		* Domicilio convencional. Lugar que designe la persona moral para los
+			efectos de ciertas relaciones jurídicas, con independencia del
+			domicilio de su administración (art. 34, CC).
+
+	- Capacidad jurídica
+
+		* Capacidad de goce: Sólo pueden sostener relaciones jurídicas
+			vinculadas con su fin y con los medios para realizarlo. Artículo  26
+			del CC. **i)** Fin u objeto: la razón para la que fue constituida,
+			**ii)** Actividades: actos y hechos que sirven de medio para
+			realizar el  fin u objeto, **iii)** Actos *ultra vires*: aquellos
+			celebrados que no constituyen un medio para realizar su fin u objeto
+			(nulidad).
+		* Capacidad de ejercicio: Artículo 27 del CC, "*[l]as personas morales
+			obran y se obligan por medio de los órganos que las representan sea
+			por disposición de la ley o conforme a las disposiciones relativas
+			de sus escrituras constitutivas y de sus estatutos*".
+
+	- Patrimonio
+
+		* Jurídicamente: Elemento activo (bienes y derechos) y pasivo
+			(obligaciones).
+		* Contablemente: Elemento activo, pasivo y capital social.
+
+	- Estado político de las personas morales
+
+		* Tipología: personas morales mexicanas o extranjeras.
+		* "*Son personas morales de nacionalidad mexicana las que se constituyan
+			conforme a las leyes mexicanas y tengan en el territorio nacional su
+			domicilio*" (art. 8, Ley de Nacionalidad)
+
+	+ El registro de la persona moral.
+
+		* Hay una pluraridad de registros que dependen del tipo de persona de
+			que se trate (derecho público, privado o social).
+		* Para derecho privado: **i)** Registro público de personas morales,
+			donde se inscriben la constitución y disolución de la sociedad y
+			asociaciones civiles, modificaciones de estatuso, etc., y **ii)**
+			registro público de comercio, donde se incriben los actos a que se
+			refiere el Código de Comercio y que tienen relación con las
+			Sociedades Mercantiles.
