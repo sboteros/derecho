@@ -1,0 +1,130 @@
+---
+title: Clase 8
+author: Santiago Botero Sierra
+date: 27 de junio de 2020
+---
+
++ Delincuencia organizada, responsabilidad penal de las empresas.
+	- ¿Cómo se clasifica un hecho en casos de delincuencia organizada?
+		Delincuencia organizada ($h$) consumada permanentemente ($e_{cp}$) donde
+		intervinieron los coautores ($i_a^c$) en forma de acción dolosa
+		($n_a^d$), donde resultan aplicables los siguientes numerales (art. 2,
+		Ley Federal Contra  la Delincuencia Organizada), art. 7, fracción II
+		($e_{cp}$), 13, fracción tercera ($i_a^c$), 8, parte conducente por lo
+		que hace a la acciónn ($n_a$), 9, párrafo primero ($n^d$), estos últimos
+		del Código Penal Federal.
+	- El Prof. Quintino considera que la delincuencia organizada es un tipo
+		penal autónomo que se consuma permanentemente, y no de manera
+		instántanea; aunque tal vez de forma continuada. Sin embargo, es más
+		propia la consumación permanente puesto que la DO es un tipo de
+		permanencia o de pertenencia.
+	- En opinión del prof. Quintino sólo admite coautoría, a pesar de que
+		alguna tesis de jurisprudencia afirma que se puede ser autor directo de
+		delincuencia organizada. La coautoría permite aplicar el *principio de
+		imputación recíproca*, que no podría aplicarse en la autoría directa.
+		Este principio establece que cada uno de los coautores responde por
+		todo.
+	- El prof. Quintino considera que la delincuencia organizada sólo se une
+		con otro tipo (tipo fin) mediante concurso ideal. No obstante, alguna
+		tesis jurisprudencial estima que en estos casos puede aplicar el
+		concurso real.
+
+	- ¿Delitos fiscales (empresas factureras)?
+
+		* Tipos penales autónomos: 108 y 113 del Código Fiscal de la Federación
+		 	(tipo  fiscal).
+		* Delito fiscal ($h$, 108) consumado instantáneamente ($e_{ci}$, 13,
+			fracción III) por el coautor ($i_a^c$, 13, fracción III) en grado de
+			acción dolosa (8, parte conducente --$n_a$- y 9, párrafo primero
+			--$n^d$-). Algunos piensan que el grado de ejecución, la forma de
+			intervención, la naturaleza de la conducta y clase de concurso deben
+			fundamentarse en el Código Fiscal de la Federación, y no en el
+			Código Penal Federal.
+
+	- ¿Cómo concurren la delincuencia organizada y los delitos fiscales
+		(artículo 108 del CFF).
+
+		* DO (art. 2, LFCDO), consumación permanente (7, fracción II), coautoría
+			(13, fracción III), acción (8, pc), dolo (9, p. primero), concurso
+			(18, pc.), tipo fin (108, CFF), que se puede consumar
+			instantáneamente (7, fracción I), puede quedar en tentativa (12,
+			párrafo II), se puede cometer continuadamente (7, fracción III),
+			coautoría (13, fracción III), acción (8, pc) y dolo (9, párrafo
+			primero).
+		* Es decir: delincuencia organizada consumada permanentemente cometida
+			por el coautor en forma de acción  dolosa, en concurso ideal con
+			delitos fiscales consumados instantáneamente por el coautor en forma
+			de acción dolosa.
+
+	- Para atribuir la responsabilidad a la persona moral (PM), se requiere:
+
+		* Primero se necesita una persona física competente (PFC) que de algún
+			modo  haya expresado el sentido de la voluntad de la PM. Esa  PFC
+			puede serlo cualquiera que pertenezca a la  PM (nivel alto, bajo o
+			mediano).
+		* Que la PFC esté relacionada con un *hecho de referencia* (HR).
+		* Que el HR esté previamente descrito dentro de un catálogo donde se
+			indiquen los delitos por los cuales puede responder la PM.
+		* Que el HR esté relacionado de algún modo con el supuesto objeto de la
+			PM.
+		* Si el HR se considera culposo, entonces también debe estar dentro de
+			un catálogo respectivo para los delitos que pueden configurarse
+			culposamente por las PM.
+		* Que el HR obedezca a la infracción, dolosa o culposa, del debido
+			control de la PM. Las PM tienen un deber de control.
+		* Se requiere que la infracción al debido control constituya la creación
+			de un riesgo no permitido. Esta infracción al debido control debe
+			denotar un *defecto de organización*, aunque esto es un poco cíclico
+			porque, precisamente, el defecto de organización es la creación de
+			un riesgo no permitido.
+		* Que el defecto de organización (riesgo no permitido) se haya
+			concretizado en el resultado.
+		* Que el resultado pertenezca al fin protector de la norma.
+
+	- La infracción al debido control de la PM significa que:
+
+		* El deber de control se encuentra en la parte conducente del artículo
+			421 del CNPP, en el que se indica que las PM en México tienen un
+			deber de control respecto de sus empleados (las PFC). La PM debe
+			controlar a las PFC para prevenir ciertos delitos.
+		* Los delitos en referencia son aquellos que pueden suscitar
+			responsabilidad penal de una empresa. Estos se encuentran listados
+			en el artículo 11 Bis del Código Penal Federal, pero únicamente se
+			hace referencia a aquellos que se pueden configurar con motivo de
+			su giro o de su actividad social.
+		* La PM cumple con su deber de control a través de un programa de
+			cumplimiento o de prevención de ciertos delitos; a esto normalmente
+			se le denomina *compliance*. Un *compliance penal* es un programa de
+			prevención de delitos, que es ejecutado por un *oficial de
+			cumplimiento*.
+		* No todas las PM requieren un oficial de cumplimiento, sino únicamente
+			las que lo requieran para evitar sus riesgos; también hay unas
+			grandes que requieren más de un oficial de cumplimiento y varios
+			programas de cumplimiento. Es decir: todas las PM tienen un deber
+			de control, pero no todas tienen la necesidad de un programa de
+			*compliance*.
+
+	- Desde el 18 de junio de 2016, en México las PM han tenido la
+		responsabilidad de cumplir con este asunto en delitos del fuero federal.
+
+	- El primer acuerdo reparatorio fue por $480 millones de una empresa
+		fantasma de un ex gobernador de Veracruz; es decir, hemos tenido algunos
+		casos prácticos que tienen que ver con responsabilidad de las empresas.
+	- Modelos de imputación autónoma, vicarial y mixto. El modelo español es
+		mixto, pero el mexicano está más basado en un modelo de imputación
+		autónoma; Quintino cree que el modelo mexicano es mejor que el español,
+		aunque es perfeccionable.
+	- El  modelo de imputación vicarial significa que la persona moral responda
+		por lo que hagan las personas físicas que la representan (es decir, por
+		un hecho ajeno a ellas); esto es, por un hecho que hayan cometido sus
+		representantes. Este modelo vicarial es de corte angloamericano,
+		solamente es posible para la familia anglosajona; es un modelo muy
+		práctico y eficaz, pero no corresponde con nuestro modelo
+		romano-germánico.
+	- El modelo de responsabilidad penal autónoma de la persona moral no
+		permite que ella responda por un hecho ajeno, porque en nuestra familia
+		romano-germánico nadie debe responder por un hecho ajeno; sino que las
+		personas (físicas o morales) somos autorresponsables de nuestros
+		propios hechos (excepto que uno sea garante).
+	- "*La persona moral se expresa a través de sus representantes, pero
+		finalmente se expresa*"
