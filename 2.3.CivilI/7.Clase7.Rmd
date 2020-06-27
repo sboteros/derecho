@@ -61,7 +61,7 @@ date: 20 de junio de 2020
 			que se trate (derecho público, privado o social).
 		* Para derecho privado: **i)** Registro público de personas morales,
 			donde se inscriben la constitución y disolución de la sociedad y
-			asociaciones civiles, modificaciones de estatuso, etc., y **ii)**
+			asociaciones civiles, modificaciones de estatutos, etc., y **ii)**
 			registro público de comercio, donde se incriben los actos a que se
 			refiere el Código de Comercio y que tienen relación con las
 			Sociedades Mercantiles.

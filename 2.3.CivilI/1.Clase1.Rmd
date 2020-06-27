@@ -41,7 +41,7 @@ date: 9 de mayo de 2020
         papa, el emperador, los otros reyes. Pensadores importantes como
         Jean Bodin.
     - Se da el proceso codificador: Código de Baviera (1756), Código Civil
-        Francés (1804), Código Civil Alemás (1900).
+        Francés (1804), Código Civil Alemán (1900).
     - La codificación, el *iusnaturalismo* y el *iuspositivismo*.
 
         * El *iusnaturalismo* que surge es laico, en donde se pone en el centro

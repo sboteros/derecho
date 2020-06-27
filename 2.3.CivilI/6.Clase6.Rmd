@@ -40,12 +40,12 @@ date: 13 de junio de 2020
 		 etc.)
 	- Los instrumentos son:
 
-		* Actas, es una formada debidamente autorizada por el juez y firmada por
+		* Actas, es una forma debidamente autorizada por el juez y firmada por
 			quienes hayan intervenido, en la que se hace constar un hecho o acto
-			del estado civil (art. 2, f. I, Reglamento)
+			del estado civil (art. 2, fracción I, Reglamento)
 		* Formas, Papeles impresos en papel seguridad, en las que se asientan
 			los hechos y actos del estado civil y aquellas en las que se expiden
-			las certificaciones de éstos (art. 2, f. XVII, Reglamento)
+			las certificaciones de éstos (art. 2, fracción XVII, Reglamento)
 		* Copias certificadas, reproducción auténtica de un acta que expide el
 			Juez del Registro Civil.
 		* Anotaciones, Asientos practicados por el Juez del Registro Civil en un
@@ -53,12 +53,13 @@ date: 13 de junio de 2020
 
 + Es una institución pública que da publicidad a los actos
 	- Toda persona pede pedir testimonios completos o en extracto de las actas del Registro Civil, así como de los apuntes (art. 48, CCCDMX).
-	- Algunas excepciones son en el caso del reconocimiento de hijo (art. 78 y 82 del CCCDMX), la adopción (art. 87, CCCDMX) y matrimonio (art. 98, f. VIII, CCCDMX)
+	- Algunas excepciones son en el caso del reconocimiento de hijo (art. 78 y 82 del CCCDMX), la adopción (art. 87, CCCDMX) y matrimonio (art. 98,
+	fracción VIII, CCCDMX)
 
 + En el artículo 35 del código civil se listan las actas que expide el Registro
-	Civil. Entre ellas: acta de nacimiento (art. 58, 59, 75, 76; 78, 86, 135 Bis
-	dan lugar al expedimiento de una nueva acta de nacimiento) y acta de
-	defunción (art. 119, 123 y 124)
+	Civil. Entre ellas: acta de nacimiento (arts. 58, 59, 75, 76; 78, 86, 135
+	Bis dan lugar al expedimiento de una nueva acta de nacimiento) y acta de
+	defunción (arts. 119, 123 y 124)
 
 + Entre las anotaciones que se pueden hacer:
 	- En el acta originaria de nacimiento: Reconocimiento de hijo, adopción,
@@ -69,7 +70,7 @@ date: 13 de junio de 2020
 	- Otros, están señalados en el artículos 132 y 133 del CCCDMX.
 
 + Personas morales
-	- Son entes distintos a los seres humanos, que persiguen fines determinados, y a los que el ordenamiento urídico otorga la posibilidad de ser sujetos de derechos y obligaciones.
+	- Son entes distintos a los seres humanos, que persiguen fines determinados, y a los que el ordenamiento jurídico otorga la posibilidad de ser sujetos de derechos y obligaciones.
 	- Se encuentran listadas en el artículo 25 del CCCDMX.
 	- Se pueden clasificar como: de derecho público (el Estado, las entidades
 		federativas, los municipios, los organismos descentralizados, etc.), privado (sociedades y asociaciones civiles, y sociedades mercantiles),
@@ -87,6 +88,7 @@ date: 13 de junio de 2020
 + Atributos de la persona moral
 	- El nombre: en el derecho mercantil hay razón social (nombre de las
 		sociedades  de personas, cualidades personales de los socios) o
-		denominación social  (nombre de las sociedades de capitales, interesan
+		denominación social (nombre de las sociedades de capitales, interesan
 		las aportaciones de  los socios); en el derecho civil, la razón o
-		denomiación social (art. 3072, f. II), la manifestación del tipo social.
+		denomiación social (art. 3072, fracción II), la manifestación del tipo
+		social.

@@ -4,12 +4,13 @@ author: Santiago Botero Sierra
 date: 16 de mayo de 2020
 ---
 
-+ Ramas del derecho: Constituional, administrtio, procesal, internacional
-    público.
++ Ramas del derecho:
+
+	- Constituional, administrativo, procesal, internacional público.
 
         * Siempre participa al menos una persona de derecho público.
 
-    - Social: Laboral, Agrario, Familiar
+    - Social: Laboral, Agrario, Familiar.
 
         * Orientado a la protección de determinados sectores sociales con
             situación de vulnerabilidad.
@@ -53,7 +54,7 @@ date: 16 de mayo de 2020
                 niñas y  adolescentes, asociación, propiedad.
             * Competencia legislativa en materia civil: cada Estado tiene
                 competencia (artículo 124 de la CPEUM), CDMX y Federación.
-                Entonces  hay 32 códigos civiles locales y ún código civil
+                Entonces  hay 32 códigos civiles locales y un código civil
                 federal; en las  primeras disposiciones, el Federal dice que se
                 trata de asuntos del  orden federal (únicamente), que son
                 fundamentalmente aquellos en los  que intervienen autoridades
@@ -67,7 +68,6 @@ date: 16 de mayo de 2020
                 Unidas sobre el consentimiento para el matrimonio, edad mínima
                 para contraerlo y su registro.
             * Sistema interamericano
-
 
     - Tratados internacionales de otras materias
 
@@ -108,8 +108,7 @@ date: 16 de mayo de 2020
             subjetivo (*opinio iuris seu necessitatis*).
         * Tiene dos tipos: derogatoria o *contra legem* (art. 10 CC, nuestro
             sistema rechaza este tipo de costumbre, esta no es fuente del
-            derecho en México) y delegada o *praeter legem* (artículos 997 y
-            2607 del CC).
+            derecho en México) y delegada o *praeter legem*.
 
     - Doctrina jurídica
 

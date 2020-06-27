@@ -54,25 +54,24 @@ date: 30 de mayo de 2020
         * **Limitaciones generales**: **i)** *minoría de edad* (art. 450, los
             actos que sí puede realizar son sobre los bienes o derechos
             adquiridos por el trabajo del menor, art. 428, 429 y 435, así como
-            los actos que no pueden ser anulados, art. 639 y 649) o, **ii)**
+            los actos que no pueden ser anulados, art. 639 y 640) o, **ii)**
             *estado de interdicción*. Este último, tiene las siguientes
             características: **ii.a)** art. 450, mayores de edad que, por causa
             de enfermadad o discpaacidad "*no puede gobernarse, obligarse o
             manifestar su voluntad, por sí mismos o por algún medio que la
             supla*"; **ii.b)** aunque sí pueden realizar: actos personalísimos
             señalados en la sentencia de interdicción, voluntad anticipada y
-            voto art. 462, testamento, art. 1307, y sobre bienes o derechos
-            adquiridos por su trabajo, art. 537, fracción IV; **ii.c)** se puede
-            superar porque desaparezca su incapacidad; **ii.d)** ver al amparo
-            en revisión 1368/2015, a la luz de la convención para las personas
-            con discapacidad, el modelo de sustitución de la voluntad va en
-            contra de los parámetros del modelo de esa convención, que es el
-            modelo social y de derechos humanos (la persona no es objeto de
-            protección sino sujeto de derechos; la discapacidad no es una
-            enfermedad, sino una desventaja; rigen los principios de igualdad y
-            no discriminación), un amparo se rige por el *principio de
-            relatividad de la ejecutoria*, que solo le beneficia a quien
-            promovió el amparo.
+            voto, testamento (art. 1307), y sobre bienes o derechos adquiridos
+            por su trabajo (art. 537, fracción IV); **ii.c)** se puede superar
+            porque desaparezca su incapacidad; **ii.d)** ver al amparo en
+            revisión 1368/2015, a la luz de la convención para las personas con
+            discapacidad, el modelo de sustitución de la voluntad va en contra
+            de los parámetros del modelo de esa convención, que es el modelo
+            social y de derechos humanos (la persona no es objeto de protección
+            sino sujeto de derechos; la discapacidad no es una enfermedad, sino
+            una desventaja; rigen los principios de igualdad y no
+            discriminación), un amparo se rige por el *principio de relatividad
+            de la ejecutoria*, que solo le beneficia a quien promovió el amparo.
         * Los representantes de los menores de edad son quienes ejercen la
             *patria potestad* (art. 424 o 425), y los de los interdictos, son
             *los *tutores* (art. 449)
@@ -99,7 +98,7 @@ date: 30 de mayo de 2020
         para celebrar que un acto que de ordinario sí podría celebrar).
     + Adquisición de inmuebles en zona restringida para las personas
         extranjeras, son personas con capacidad de goce (art. 66 de la Ley
-        General de Población), pero no tiene legitimación para adquirir
+        General de Población), pero no tienen legitimación para adquirir
         inmuebles a menos de 100 Km. de la frontera y 50 Km. de las playas (art.
         27, fracción I, de la CPEUM)
 
