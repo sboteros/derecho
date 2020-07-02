@@ -1,0 +1,41 @@
+---
+title: Clase 7
+author: Santiago Botero Sierra
+date: 29 de junio de 2020
+---
+
++ La segunda vuelta electoral tiene sentido solo sí es para el ejecutivo y el
+	legislativo; porque si es solamente para el ejecutivo, lo que va a hacer es
+	polarizar. Es una forma de no considerar a los pequeños y que estos se
+	polaricen; en cambio, como ya está el legislativo electo, quedaría un
+	escenario de bloqueo.
++ Presidente
+	- El presidente es electo por los ciudadanos y puede ganar por mayoría
+		simple, un voto le da la victoria (art. 81 de la CPEUM)
+	- Los requisitos para ser presidente se encuentran en el art. 82 de la
+		CPEUM.
+	- En el sistema presidencialista la duración del periodo es fijo, a 
+		diferencia del parlamentario que establece un periodo máximo. En el
+		artículo 83 se establecen los 6 años del periodo presidencial y el
+		principio de no reelección.
+	- Presidente interino (sustituto) o provisional (art. 84).
+	- Sólo puede renunciar por causa grave calificada por el Congreso (art. 86).
+	- En el artículo 89 se establecen las facultades presidenciales.
+
+		* Principios de jerarquía normativa y reserva de ley (en materia penal,
+			art. 14, párrafo 3; en materia fiscal, art. 31, fracción IV). La
+			Ley es un creada por un órgano representativo en el que confluyen
+			la mayoría y las minorías (caracter plural) que no tiene el
+			ejecutivo.
+		* Tiene iniciativa legislativa (art. 71, fracción I).
+
++ Facultades metaconstitucionales del presidente
+	- Este concepto aparece en la tesis de Jorge Carpizo, la publicó en 1978 la
+		editorial siglo XXI, llamado "*El presidencialismo mexicano*".
+	- Son facultades del presidente de la república relacionadas con el
+		sistema política, que era el régimen del PRI.
+	- El presidente era el jefe del PRI, seleccionaba al candidato del PRI,
+		enorme presencia mediática del presidente.
+	- Carpizo y Carbonell escribieron un manual de derecho constitucional, que
+		se convirtió en el libro de derecho constitucional más utilizado en
+		México. Se llamaba "Derecho Constitucional".
