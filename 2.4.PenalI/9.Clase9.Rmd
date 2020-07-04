@@ -1,0 +1,139 @@
+---
+title: Clase 9
+author: Santiago Botero Sierra
+date: 4 de julio de 2020
+---
+
++ Líneas posibles:
+	- Trabajos prácticos.
+	- Artículo de aplicación de la clasificación jurídica; vamos a hacer un
+		ejercicio y podríamos continuar con ese tipo de casos.
+	- Trabajo sobre un glosario.
+
++ Métodos de trabajo de la ciencia jurídico-penal.
+	- Casuístico o tópico.
+	- Biografías.
+	- Cronología. Desarrollar cronológicamente la evolución de alguna figura
+		jurídica.
+
+		* La tentativa: **1)** nace en 1300, **2)** se regula por vez primera
+			en la *Constitutio Criminalis Carolina*  de 1532, **3)** se regula
+			en la Ley Pradial francesa de 1796, **4)** se regula en el CP
+			francés de 1810, **5)** se regula en el CP de Baviera de 1813,
+			**6)** se regula en el CP español 1822. **7)** se regula en el CP de
+			Veracruz 1835, **8)** se regula en el CP 1929 Federal México, y
+			**9)** se regula en el CP de 1931 en México.
+
+	- Método sistemático. Ensayo.
+	- Método conceptual.
+	- Método dogmático. Consiste en analizar los delitos en particular: sus 	
+		elementos subjetivos, objetivos y materiales. El sistema tradicional
+		(inquisitivo)  nos enseñó cómo hacer un análisis dogmático de cada
+		delito; la propuesta  más importante y de mayor aceptación fue hecha por
+		Celestino Porte Petit. Sus pasos eran:
+
+		* Tipicidad:
+
+			**i)** elementos objetivos del tipo: **a)** sujeto pasivo,
+				**b)** sujeto activo, **c)** calidad personal del sujeto activo
+				(cuando lo exija el tipo) y **d)** calidad personal del
+				sujeto pasivo (cuando lo exija el tipo); **e)** elementos
+				objetivos del tipo (acción u omisión) y **f)** elementos
+				normativos  del tipo (bienes jurídicos, personal o
+				suprapersonal, bien sea  disponible o indisponible), **g)**
+				medios comisivos (cuando lo exija  el tipo), **h)**
+				circunstancias de tiempo, modo, lugar u ocasión,  cuando lo
+				exija el tipo, **i)** objeto material (persona o cosa  sobre la
+				cual recae la conducta, cuando lo exija el tipo), y **j)** nexo
+				causal (cuando lo exija el tipo).
+
+			**ii)** Elementos subjetivos del tipo: dolo, culpa, elementos subjetivos específicos distintos al dolo.
+
+			**iii)** Elementos normativos del tipo: son aquellos cuya
+				comprensión o entendimiento dependen del contexto de una norma.
+
+		* Antijuridicidad
+		* Culpabilidad
+		* Formas de intervención
+		* Grados de ejecución
+		* Individualización judicial de la sanción.
+
+		* **Nota 1**: Debemos crear un nuevo modelo dogmático para el análisis
+			de delito.  Nadie nos ha dicho qué debemos tomar del método
+			tradicional y qué debemos tomar del método acusatorio.
+		* **Nota 2**: Verificar cuántos de los elementos del tipo tienen la
+			rúbrica cuando lo exija el tipo.
+		* **Nota 3**: En conclusión, hay que conocer los elementos del tipo
+			(objetivos, subjetivos y normativos), pero no hay que tratar de
+			desglosar cada uno de esos elementos en cada asunto, pues se estaría
+			duplicando el trabajo del mismo caso. Una vez que ya tenemos
+			conocimiento de los elementos del tipo, cuando estudiemos un caso,
+			dirijamos nuestra mirada a la descripción legal y marquemos los
+			elementos de la hipótesis normativa; después, asociemos cada
+			elemento de la hipótesis normativa a un dato o indicio, sin
+			comprometer nuestro criterio en el sentido de que se trate o no de
+			un elemento objetivo, subjetivo o normativo del tipo.
+		* **Nota 4**: Max Ernst Mayer creó la expresión *elementos normativos  
+			del tipo* en 1915; entonces, dijo que en realidad todos los  
+			elementos del tipo son elementos normativos.
+
++ *Caso 1*. Una persona ($n_1$), en la vía pública, fue detenida tras ingresar a
+	una casa habitación, de donde sustrajo un mueble cuyo valor es de
+	aproximadamente $5,000.
+
+	En el caso que nos ocupa la clasificación sería: robo a casa habitación
+	($h$) consumado instantáneamente ($e_{ci}$) donde intervino el autor
+	directo ($i_a^d$) en forma de acción dolosa ($n_a^d$). Donde resultan
+	aplicables los siguientes  numerales: art. 220, frac. I (robo), 224, frac. I
+	(agravación en casa  habitación), 17, frac. I ($e_{ci}$), 22, frac. I
+	($i_a^d$), 15, parte conducente por lo que  hace a la acción ($n_a$), 18,
+	párrafo 2 ($n^d$), todos del código penal en el momento y lugar de los
+	hechos, con el siguiente márgen de punibilidad: de  dos años y 6 meses a 8
+	años de prisión; donde, en caso de acceder a un  procedimiento abreviado, se
+	le podría ofertar de 1 año y 3 meses a 1 año, 10 meses y 15 días de prisión.
+
++ *Caso 2*. Supongamos que en el caso anterior, $n_2$ es un cómplice quien desea
+	acceder al abreviado.
+
+	En el caso que nos ocupa, la clasificación para $n_2$ sería la siguiente:
+	robo a casa habitación ($h$) consumado instantáneamente ($e_{ci}$), dode
+	intervino el partícipe cómplice ($i_p^c$) en forma de acción dolosa
+	($n_a^d$). Donde resultan aplicables los siguientes numerales: art. 220,
+	frac. I (robo), 224, frac. I (agravación en casa  habitación), 17, frac. I
+	($e_{ci}$), 22, frac. V ($i_p^c$), 15, parte conducente por lo que  hace a
+	la acción ($n_a$), 18, párrafo 2 ($n^d$), todos del código penal en el
+	momento y lugar de los hechos, con el siguiente márgen de punibilidad: de
+	dos años y 6 meses a 8 años de prisión; donde, en caso de acceder a un
+	procedimiento abreviado, se le podría ofertar de 1 año y 3 meses a 1 año, 10
+	meses y 15 días de prisión. 6 meses de mínimo para el robo 0.5 multiplicado
+	por 5 que  agrava a casa habitación, al partícipe cómplice se le aplica el
+	75% (0.5*5*0.75, 1 año, 10 meses y 15 días), donde en caso de acceder a un
+	abreviado, se le podría imponer 1 año, 3 meses a 1 año, 10 meses y 15 días
+	de prisión.
+
++ Desde que el MP conoce hechos, debe pensar en una clasificación jurídica
+	preliminar. Además, no existe proceso sin clasificación.
+	- La clasificación jurídica no se conocía hasta el 2014 (con el CNPP),
+		porque él mismo la mantuvo como en laboratorio. En 2011 intntó tratar de
+		encontrar los problemas que tenía su clasificación y no los encontró,
+		hasta que la incorporó en su propuesta de redacción del CNPP.
+
++ Manuel de Lardizabal; es el mejor penalista de lengua hispana, se formó en
+	el Colegio de San Ildenfonso y es el padre del derecho penal en idioma
+	castellano.
++ En el procedimiento abreviado (arts. 201 y 202, del CNPP) se debe renunciar al
+	juicio como indiciado y hacer una negociación; es necesario para
+	despresurizar al sistema. El consejo, como lo dice Hassemer, es "*tanta
+	oportunidad como sea necesaria y tanta legalidad como sea posible*".
+
++ **Tarea**. Cada uno va a participar dos o tres minutos; se va a tomar uno de
+	los métodos y exponer.
++ *Un penalista nunca se enamora* (no hay que casarse con un método ni tomar
+	partido por una única teoría).
++ Nuestro sistema en México no es del todo adversarial; es acusatorio. El
+	adversarial sería más el anglosajón.
++ Sobre la duda razonable. Si bien es cierto que el CNPP alude a él, también lo
+	es que ellos lo tenemos que hacer valer como causas de atipicidad,
+	justificación o XXX. En este caso no existe tal elemento, ya a nivel de
+	sentencia (absolutoria o condenatoria, art. 406 del CNPP). El elemento de
+	duda razonable es de tipo anglosajón. También es angloamericano que el juzgador sea nada más como un observador; cuando el MP de plano puede por sí mismo renunciar al ejercicio de la acción penal.
