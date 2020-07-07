@@ -47,7 +47,8 @@ date: 4 de julio de 2020
 				cual recae la conducta, cuando lo exija el tipo), y **j)** nexo
 				causal (cuando lo exija el tipo).
 
-			**ii)** Elementos subjetivos del tipo: dolo, culpa, elementos subjetivos específicos distintos al dolo.
+			**ii)** Elementos subjetivos del tipo: dolo, culpa, elementos
+				subjetivos específicos distintos al dolo.
 
 			**iii)** Elementos normativos del tipo: son aquellos cuya
 				comprensión o entendimiento dependen del contexto de una norma.
@@ -136,4 +137,6 @@ date: 4 de julio de 2020
 	es que ellos lo tenemos que hacer valer como causas de atipicidad,
 	justificación o XXX. En este caso no existe tal elemento, ya a nivel de
 	sentencia (absolutoria o condenatoria, art. 406 del CNPP). El elemento de
-	duda razonable es de tipo anglosajón. También es angloamericano que el juzgador sea nada más como un observador; cuando el MP de plano puede por sí mismo renunciar al ejercicio de la acción penal.
+	duda razonable es de tipo anglosajón. También es angloamericano que el
+	juzgador sea nada más como un observador; cuando el MP de plano puede por sí
+	mismo renunciar al ejercicio de la acción penal.

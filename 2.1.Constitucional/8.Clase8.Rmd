@@ -1,0 +1,60 @@
+---
+title: Clase 8
+author: Santiago Botero Sierra
+date: 6 de julio de 2020
+---
+
++ El artículo 90 establece las bases del poder ejecutivo.
+	- Administración Pública Centralizada: cancillerías, secretarías, etc. Son
+		los colaboradores de mayor confianza del Presidente. Hay reserva de
+		ley, pues tiene que ser una ley la que crea las dependencias de la
+		administración pública federal.
+
+		* El artículo 92 establece la figura de un "*refrendo ministerial*".
+
+	- Administración pública paraestatal o descentralizada. También forma parte
+		del poder ejecutivo en términos estructurales y orgánicos, pero se le
+		da un cierto grado de autonomía técnica porque son órganos que requieren
+		llevar a cabo funciones específicas, con cierto grado de complejidad y
+		que, por su relevancia, no se encuentran dentro de algunos de los
+		órganos que se encuentran en el APC (por ejemplo, el IMSS y el ISSSTE).
+
++ En el artículo 93 se contemplan algunos "*mecanismos de control
+	parlamentario*". Figuras de control parlamentario: comparecencia (segundo
+	párrafo), comisiones de investigación (tercer párrafo). Estas figuras son
+	traídas del sistema parlamentario; en ese sistema tienen una razón de ser,
+	ya que pueden hacer una "*moción reprobatoria*" para que el titular del
+	ejecutivo se vea obligado a cambiar al secretario, también podría cambiar a
+	todo el parlamento. En un sistema presidencialista no necesariamente pasa
+	nada.
+
++ El informe presidencial está contemplado en la parte del poder legislativo.
+	Era un acto solemne con una sesión conjunta de ambas máscaras; pero algunos
+	congresistas aprovechaban el espacio para faltar al respeto al presidente.
+	Ahora, en el artículo 69 de la CPEUM el informe se entrega por escrito; el
+	presidente ya no tiene que ir físicamente, como se acostumbraba, y ahora, a
+	partir de la presentación del informe se citan a los secretarios, en
+	términos del art. 93.
+
+# Poder Legislativo
+
++ Artículo 50, el Congreso es bicameral.
+	- Cuando se tienen dos cámaras, se procura lograr un equilibrio
+		*intraorgánico* para evitar decisiones que pudieran ser poco meditadas o
+		apresuradas. Es como una especie de pesos y contrapesos dentro del mismo
+		poder legislativo. En las últimas legislaturas esto sí ha funcionado,
+		porque incluso cuando el mismo partido tiene mayoría en ambas cámaras,
+		los liderazgos podrían tener diferentes agendas y esto forma parte de la
+		misma negociación política.
+	- Diferentes requisitos de edad.
+	- Equilibrio en un estado federal (representación proporcional):
+		representación poblacional y de las  entidades federativas, para que
+		aquellos estados que son pequeños  poblacionalmente no se queden sin
+		representación en el congreso.
++ Hay 500 Diputados (art. 52)
+	- 300 por mayoría relativa. El país se divide, en función del último censo
+		poblacional, en 300 distritos electorales uninominales, hechos por el
+		INE de acuerdo con los datos poblacionales del INEGI.
+	- 200 por representación proporcional. El país se divide en cinco grandes
+		circunscripciones. Estos diputados se asignan en función del porcentaje
+		de votación nacional obtenido por cada partido.
