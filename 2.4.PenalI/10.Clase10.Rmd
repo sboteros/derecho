@@ -1,0 +1,108 @@
+---
+title: Clase 10
+author: Santiago Botero Sierra
+date: 11 de julio de 2020
+---
+
++ Desde Bartolo de Sasoferrato se da lo más importante de la responsabilidad
+	penal de las empresas; la recepción alemana es lo más relevante actualmente
+	hasta que se deroga en Alemania a partir de la segunda mitad del siglo
+	XVIII.El debido control es un término que incorporó Tiedemann.
+
++ Antecedentes históricos de la responsabilidad penal de las empresas: el
+	derecho romano (si bien no existía una personalidad moral reconocida, había
+	municipios), derecho canónico (acción penal de las *universitas*), Bartolo
+	reconoció que las corporaciones, en general, tenían cierta capacidad para
+	cometir delitos; y luego llega la recepción alemana, que toma esta parte de
+	los posglosadores, pero luego elimina esta figura por que había muy pocas
+	aplicaciones.
++ Monsen, es el rescatador del *corpus iuris civilis* y escribe un libro llamado
+	Derecho Penal Romano; Max Weber; Dworkin habla de la necesidad de una
+	metodología conceptual para entender lo ciencia jurídica; y Ricardo Franco.
+	Posibilidad o no de que las personas morales sean responsables de un delito;
+	también se habla de la codelincuencia de las personas, que hoy sería delincuencia organizada.
++ Anselmo von Feuerbach es el padre de la psicología criminal, porque en la
+	década de los setentas publicó un libro sobre casos de psicología criminal.
++ Legítima defensa del policía, antijuridicidad formal o material. Estos
+	conceptos fueron creados por Frans von Liszt en 1884. La antijuridicidad
+	formal significa que la norma está quebrantada porque no existe ninguna
+	causa de justificación en el sujeto activo; la antijuridicidad material
+	significa que se lesionó o se puso en peligro el bien jurídico. La
+	antijuridicidad formal no se puede graduar, a diferencia de la material.
+
++ *Caso 1*. Homicidio a petición ($h$) cometido en tentativa inacabada
+	($e_{ti}^0$) donde intervino el partícipe encubridor ($i_p^e$) bajo una
+	acción libre en su causa dolosa ($n_{al}^d$).
++ *Caso 2*. Homicidio en riña ($h$) consumado instantáneamente ($e_{ci}$) donde
+	intervino el coautor ($i_a^c$) en forma de comisión por omisión dolosa
+	($n_{co}^d$). $x_1$, $x_2$, $x_3$ y $x_4$ estaban contendiendo a golpes y dejaron a $x_1$ inconsciente; de repente se incendió la cocina y los que
+	estaban conscientes huyeron, dejando a $x_1$, quien murió en el interior.
++ *Caso 3*. Daño en propiedad ajena ($h$) consumado instantáneamente ($e_{ci}$)
+	donde intervino el partícipe cómplice ($i_p^c$) en forma de acción dolosa
+	($n_a^d$).
++ *Caso 4*. Homicidio a petición ($h$) cometido en grado de tentativa acabada
+	ineficazmente desistida ($e_{ta}^{id}$), donde intervino el coautor
+	($i_a^c$) en forma de acción dolosa ($n_a^d$).
++ *Caso 5*. La suegra ($x_1$), refiriéndose a su yerno ($x_2$), le dijo a su
+	esposa: dale un escarmiento. Enseguida, el esposo mató al yerno ($x_2$).
+	- La antijuridicidad material de la suegra y del suego no son
+		proporcionales,  pues ella quería darle un escarmiento, no matarlo. Debe
+		existir una cierta  proporción entre la antijuridicidad material del
+		partícipe y la del autor. También puede ser más alta la antijuridicidad
+		material del partícipe que  la del autor.
++ *Caso 6*. Abuso sexual consumado instantáneamente donde intervinieron los
+	coautores bajo una acción libre en su causa dolosa.
+	- Acción libre en su causa significa que una persona imputable se coloca en
+		un grado de inimputabilidad para cometer un delito.
++ *Caso 7*. Caso de Calimba. Un sujeto ($x_1$), con el consentimiento de $x_2$,
+	llegaron a una habitación; pero $x_2$ lo rechazó con los brazos. Sin
+	embargo, $x_1$ pensó que se trataba de un rechazo apenas insinuado.
+	- Estamos en presencia de un error de tipo vencible, el cual es el enemigo
+		mortal del dolo. Para eliminar el dolo, se puede alegar el error de
+		tipo.
+	- Se puede agravar por la calidad del sujeto activo (servidor, relación de
+		parentezco), por el lugar cerrado, por el alcohol, por el transporte
+		público.
++ *Caso 8*.  Un caso ocurrido en Parral, Chihuahua, fue que Marco Antonio, de 29
+ 	años, albañil, salió de su trabajo y se fue a tomar cerveza con sus amigos;
+ 	llegó una joven de 19 años y él la invitó a una cerveza. Ambos tomaron
+ 	cerveza en la vía pública, hasta que Antonio le dijo que lo acompañara a
+ 	su domicilio. Alrededor de las 7:00 p.m., en estado de embriaguez,
+ 	durmieron en la misma cama. Al día siguiente ella regresó a su domicilio  y
+ 	le platicó todo lo sucedido a sus padres; pero los padres le  reportaron al
+ 	MP los hechos. Resulta que ella tenía la edad intelectual  de 12 años, pero
+ 	no parece que tenga alguna deficiencia perceptible que  haga creer que sí
+ 	tiene una edad menor. El profesor dijo que Marco  Antonio tenía un error de
+ 	tipo.
+	- El error de tipo es aquel que, precisamente, recae sobre alguno de los
+		elementos del tipo penal. El error de tipo puede ser vencible o
+		invencible; es decir, evitable o inevitable.
+	- A él le quieren atribuir una violación; pero él no podría haber notado que
+		había un vicio en el consentimiento de la persona; por lo tanto, tiene
+		un error de tipo.
+
++ Principios (ver el libro *200 principios de derecho penal*)
+	- *Principio 1*. Cuando la antijuridicidad material del autor es
+		drásticamente superior a la del partícipe, tiende a desaparecer la forma
+		de intervención del  partícipe. Esto se debe al siguiente principio.
+	- *Principio 2*. Ningún partícipe responde por el exceso del autor.
+	- *Principio 3*. Nadie responde por un hecho ajeno.
+	- *Principio 4*. En derecho penal, cada persona es autorresponsable por sus
+		propios hechos.
+	- *Principio 5*. El error de tipo, vencible o invencible, excluye al dolo y
+		deja subsistente la atribución del hecho a título culposo; siempre y
+		cuando el tipo de que se trate admita configurarse culposamente (art.
+		405, fracción I, parte conducente, del CNPP, art. 66, parte  conducente
+		del CPF, art. 81 del CP).
+
++ **Tarea**. Estudiar 100 principios.
++ Existe la necesidad de crear una dogmática del derecho administrativo
+	sancionador.
++ Leer El agente provocador.
++ Gustav Radbruch (1878--1949), tenía un hijo llamado Anselmo Radbruch, y el
+	padre le dijo en una carta: "*No sabes cuánto me va a agradar que más
+	adelante podamos trabajar juntos en el campo del derecho penal. Tú te
+	inclinas por la práctica de nuestra materia; yo, sin embargo, me encargaré
+	de tu formación intelectual, te enseñaré todos los postulados de cada
+	doctrina, sin los cuales, mi querido hijo Anselmo, no se  puede ser un
+	auténtico jurista*".

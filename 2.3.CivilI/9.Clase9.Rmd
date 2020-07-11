@@ -1,0 +1,59 @@
+---
+title: Clase 9
+author: Santiago Botero Sierra
+date: 11 de julio de 2020
+---
+
+# Bienes y derechos reales
+
++ Derecho de propiedad
+	- Es el derecho real que confiere a su titular un *poder jurídico* que se
+		ejerce directa e inmediatamente *sobre una cosa*, que le permite un
+		aprovechamiento consistente en poder *usar, disfrutar y disponer* de
+		ella, con las *limitaciones y modalidades* que establece la ley.
+	- Características
+
+		* *Ius atendi* (o *ius usus*): facultad para servirse de la cosa.
+		* *Ius fruendi* (o *ius fructus*): facultad para hacer suyos los frutos
+			(naturales, civiles e industriales).
+		* *Ius abutendi* (o *ius abusus*): facultad de consumir la cosa,
+			enajenarla o abandonarla.
+
+	- Abuso del derecho. No puedes ejercitar tu derecho sin que te reporte
+		ninguna utiilidad o solo por abusar de terceros.
+	- Formas de adquisición de la propiedad
+
+		* Clasificaciones: **i)** a título universal (herencia) o a título
+			particular; **ii)** *intervivos* (compraventa) o *mortis causa*
+			(herencia); **iii)** a título gratuito (donación) o a título oneroso
+			(compraventa); **iv** formas naturales u originarias (las formas
+			naturales son aquellas cuando el objeto adquirido no era propiedad
+			de alguien conocido o determinado y para su adquisición no intervino
+			ninguna voluntad ajena) o formas derivadas (aquellas en que el
+			derecho de propiedad se adquiere de un titular anterior).
+		* Las formas naturales son: **a)** ocupación, o **b)** accesión
+		* Las formas derivadas pueden ser: *inter vivos* o por *mortis causa*
+		* *Ocupación*: Aprehender o detentar una cosa de forma permanente y con
+			ánimo de adquirir la propiedad, que recaiga sobre cosas que no
+			tengan dueño o con dueño desconocido. No se pueden adquirir mediante
+			ocupación bienes mostrencos (art. 764, bienes muebles abanonados o
+			perdidos) ni bienes vacantes (bienes inmuebles abandonados o
+			perdidos). Solo se pueden adquirir animales de caza o pesca (art.
+			854 a 874), tesoros (arts. 875 a 885) y captación de aguas (arts.
+			933 a 937).
+		* *Accesión*: Se adquiere la propiedad sobre lo producido por una cosa,
+			o por la unión on incorporación de una cosa secunda a una
+			principal, donde el dueño de la principal adquiere la secundaria
+			(art. 886). Puede ser: **a)** natural (aluvión --arts. 908 y 909-,
+			avulsión --arts. 910 y 911-, nacimiento de una isla --art. 915- o
+			mutación de cause --art. 914-), el aluvión y la avulsión se
+			diferencian porque la avulsión es visible y determinable; **b)**
+			artificial en inmueble edificación (edificación, plantación y
+			siembra --arts. 895 a 907-) o en muebles  (por incorporación o
+			adjunción --arts. 916 a 923-, por mezcla o  confusión --arts. 926 a
+			928- o por especificación --arts. 929 a 931); o **c)** discreta (de
+			frutos natuales, industriales o civiles, arts. 887 a 893).
+		* Por acto entre vivos o *inter vivos*: Por contratos traslativos de
+			dominio (compraventa, permuta, donación o mutuo).
+		* Por causa de muerte o *mortis causa*: Por legado o sucesión
+			(testamentaria o legítima).
