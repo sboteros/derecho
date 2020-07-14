@@ -1,0 +1,90 @@
+---
+title: Clase 10
+author: Santiago Botero Sierra
+date: 13 de julio de 2020
+---
+
++ Integración del Senado
+	- El fundamento está en el artículo 56 de la CPEUM.
+	- 128 senadores, de los cuales 64 son electos bajo el principio de mayoría
+		relativa.
+	- La circunscripción geográfica es la población de la entidad federativa.
+		Si en la Cámara la circunscripción está definida con una base
+		poblacional, la del Senado es en términos estrictamente políticos.
+	- Cada partido registra una fórmula con 2 senadores candidatos, en orden de
+		preferencia.
+	- 32 senadores resultan electos por *primera minoría* (el que llegó en
+		segundo lugar) por partido.
+	- 32 senadores son elegidos por el *principio de representación
+		proporcional* para los partidos, según la votación que hayan obtenido en
+		el país (plurinominales).
+	- También existe la posibilidad de hacer candidaturas independientes.
+
++ La Comisión Permanente es un tercer órgano del Legislativo, prevista en el
+	artículo 78 de la CPEUM.
+	- 37 miembros, de los cuales 19 son diputados y 18 senadores.
+	- Las respectivas cámaras los eligen, pero deben respetar la
+		representatividad de los partidos.
+	- Este es el órgano que se encuentra en funcionamiento cuando el Legislativo
+		no se encuentra en periodos de sesiones.
+	- No tiene funciones legislativas propiamente, sino simplemente de trámite.
+	- La facultad más importante es la establecida en el artículo 78, fracción
+		IV (convocatoria a sesiones extraordinarias).
+
++ En el próximo periodo electoral se va a echar a andar la reelección
+	legislativa, establecida en el artículo 59 de la CPEUM: 2 periodos para los
+	senadores y 4 periodos para los diputados.
+
++ Hay mandato constitucional para paridad de género y, en el artículo 2 de la
+	CPEUM y algunas constituciones locales, hay elección de representantes
+	populares en comunidades indígenas con base en usos y costumbres.
+
++ Sesiones extraordinarias
+	- En los artículos 65 y 66 de la CPEUM se establecen 2 periodos de sesiones
+		ordinarias cada año.
+	- El primer periodo va del 1 de septiembre hasta el 15 de diciembre (excepto
+		cuando el presidente inicia su cargo, que comienza el 1 de agosto hasta
+		el 31 de diciembre).
+	- El segundo periodo va del 1 de febrero al 30 de abril.
+	- Este asunto viene de las constituciones del siglo XIX, donde se dijo que
+		no podía empezar el periodo antes del 1 de septiembre debido al periodo
+		de lluvias.
+	- Después vino otro argumento, dado por don Emilio Rabasa, intelectual
+		porfirista (escribió la Dictadura Constitucional) que argumentaba que
+		el Ejecutivo tuvo que defender sus atribuciones del Legislativo.
+	- Recordar la regla del quórum del artículo 63 de la CPEUM.
+
++ Facultades conjuntas
+	- Son aquellas que se ejercen por parte de ambas cámaras, siguiendo el
+		proceso legislativo de los artículos 71 y 72.
+	- Están establecidas, principalmente en el artículo 73 de la CPEUM; este es
+		el artículo más reformado de toda la Constitución.
+	- Las facultades explícitas están en casi todas las fracciones, excepto en
+		la XXI, donde están establecidas las facultades implícitas. Este figura
+		está copiada de los Estados Unidos; pero aquí se ha reformado
+		permanentemente la Constitución para agregar cualquier facultad cuando
+		ha habido dudas sobre si el Congreso puede o no hacer algo.
+
++ Facultades exclusivas
+	- Son aquellas que se pueden ejercer de manera separada.
+	- En el artículo 74 de la CPEUM se encuentran las de la Cámara; en el 76,
+		las del Senado.
+	- Art. 74, frac. IV, aprobación del presupuesto de egresos por parte de la
+		Cámara; art. 74, frac. VI, revisión de la cuenta pública (ASF, ver el
+		artículo 79).
+	- Art. 76, frac. I, facultad del Senado sobre las relaciones exteriores del
+		Senado; art. 76, frac. V, sobre la desaparición de poderes en las
+		entidades federativas (no se ha usado, pero es peligrosa).
+
++ En ambas cámaras existen los *órganos de gobierno* interno, definidos en la
+	ley orgánica, son: la mesa directiva, que conduce las sesiones, y la junta
+	de  coordinación política, que se integra por los coordinadores
+	parlamentarios  de cada fracción parlamentaria (partido) y configura la
+	agenda legislativa  de cada periodo de sesiones. También hay *órganos de
+	funcionamiento* interno, que son el pleno, las comisiones (pueden ser
+	ordinarias o especiales, hay una subcomisión de examen previo para tramitar
+	el juicio político o desafuero), comités (biblioteca, publicaciones,
+	protocolo,  etc.), grupos parlamentarios y órganos de apoyo al trabajo
+	parlamentario (que se agrupan en una secretaría general y tienen a su cargo
+	dos direcciones importantes: la de servicios parlamentarios y la de
+	servicios administrativos).
