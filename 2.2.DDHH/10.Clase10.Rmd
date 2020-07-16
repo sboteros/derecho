@@ -1,0 +1,28 @@
+---
+title: Clase 10
+author: Santiago Botero Sierra
+date: 15 de julio de 2020
+---
+
++ Libertades económicas
+	- Artículos 25, 26 y 28.
+	- El Estado tiene la rectoría económica, pero no en forma de avasallamiento
+		sino en una especie de economía "mixta" en concurrencia con la
+		iniciativa privada.
+	- Libertad de concurrencia de la iniciativa privada.
+	- Algunas actividades reservadas del estado (monopolios públicos).
+	- Acción de Inconstitucionalidad 12/2017.
+
++ Seguridad jurídica
+	- Derecho de acceso a la información pública.
+
+		* Artículo 6 de la CPEUM. Primer párrafo, última oración, "[e]*l derecho
+			a la información será garantizado por el Estado*". En la letra A
+			se plantea que, por regla general, toda información en posesión de
+			las autoridades es información pública y cualquier persona tiene
+			acceso a dicha información; las excepciones son que la información
+			se reserve de manera temporal o que la información sea confidencial
+			(datos personales, secreto industrial o comercial). El acceso a la
+			información es gratuito. Este derecho tiene un sistema de garantía
+			administrativa, se puede recurrir ante los órganos de las entidades
+			federativas (como Info Ciudad de México) o nacional INAI.
