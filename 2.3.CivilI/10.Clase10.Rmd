@@ -1,0 +1,36 @@
+---
+title: Clase 10
+author: Santiago Botero Sierra
+date: 18 de julio de 2020
+---
+
++ Extensión del derecho de propiedad
+	- Sobre el suelo: derecho de deslinde (arts. 842 del CC y 932 del CPC),
+		de cercar (art. 842) y de accessión (frutos naturales, industriales y
+		civil).
+	- Sobre el subsuelo: Es propietario de lo que encuentre en el subsuelo, con
+		excepción de lo que señale el artículo 27, párrafo 4 constitucional, y
+		838 del CC. Derecho de excavar y construir (art. 838).
+	- Sobre el espacio aéreo:
+
+		* En contra (Carlos Muñoz): no se tiene ningún derecho sobre él, ya que
+			es del dominio exclusivo del Estado.
+		* A favor (Javier Tapia): sí se tiene el derecho de vuelo para
+			construir, en respeto a las disposiciones administrativas, de
+			navegación aérea, telecomunicaciones, etc.
+
+	- Sobre el agua: Aguas pluviales y aguas no comprendidas en el artículo 27,
+		párrafo 4, y 838 del CC.
+
++ Limitaciones al derecho de propiedad.
+	- Fuente: El Patrimonio, E. Gutiérrez y González
+
+	[Limitaciones al derecho de propiedad](./img/2.LimitacionesPropiedad.jpg)
+
++ Protección jurídica al derecho de propiedad
+	- Derecho de indemnización por expropiación, art. 2, pár. 2, CPEUM
+	- Derechos de audiencia, defensa y debido profeso, art. 12, pár. 2, CPEUM.
+	- Acción reivindicatoria, art. 4, CPC.
+	- Acción plenaria de posesión, art. 16, CPC.
+	- Interdicto para retener la posesión, art. 16, CPC.
+	- Interdicto para recuperar la posesión, art. 17, CPC.

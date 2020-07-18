@@ -1,0 +1,77 @@
+---
+title: Clase 11
+author: Santiago Botero Sierra
+date: 18 de julio de 2020
+---
+
++ Caso 1. Los sujeros x_1 y x_2 entraron a una casa; el primero sustrajo un
+	cuadro de $5,000 y el segundo, un cuadro cuyo valor aproximado es de
+	$20,000. El principio de imputación recíproca implica que ambos coautores
+	serán imputados por un valor de $25,000.
++ Debe existir una cierta relación de proporción entre la antijuridicidad
+	material del autor y la del partícipe. La antijuridicad material
+	significa lesionar o poner en peligro el bien jurídico.
+	- Entre más específica sea la relación entre el autor y el partícipe,
+		se da la relación de participación. Pero si es indeterminada, tiende a
+		desaparecer la participación. Hay que buscar la identidad entre lo que
+		quiere el partícipe y lo que hace el autor (ver principios de
+		accesoriedad limitada y externa).
+	- Autor mediato versus partícipe inductor, cuando puede haber un asunto de
+		indeterminación.
++ Los partícipes tienen un *doble dolo*, pues deben conocer lo que va a realizar
+ 	el autor y querer la realización del hecho que va a cometer del autor.
++ Elementos de la clasificación administrativa: tipo administrativo, grado de
+	ejecución (consumación instantánea, continuada o permanente), grado de
+	intervención (la única forma de vincular a un particular con la falta de
+	un servidor público es cuando hay reglas de autoría y participación),
+	naturaleza de la conducta (normalmente dolosa, aunque sí se conoce la
+	culpa) y reglas de concurso (real o ideal) de tipos administrativos.
+	- Proyecto de Ley Nacional de Justicia Cívica, allí están propuestos los
+		elementos para clasificar administrativamente un hecho.
+	- Ley General de Responsabilidades Administrativas, artículo 75 (sanciones
+		para faltas no graves), 78 (sanciones para faltas graves), 81 (sanciones
+		para los particulares, personas físicas y morales).
+	- El Derecho penal está estigmatizado como algo más grave que el Derecho
+		administrativo.
++ En el artículo 405, último párrafo, del CNPP, así como el artículo 66 del CPF,
+	se dice que el error de tipo  vencible excluye el dolo y deja subsistente la
+	culpa, siempre y cuando el  tipo penal del que se trate acepte la culpa.
+	- El error de tipo lo analizas a nivel de ticipidad, mientras que el error
+		de prohibición lo analizas a nivel de culpabilidad. Esta diferencia
+		data de 1952, cuando el Supremo Tribunal Federal Alemán, llegó a esta
+		conclusión.
+	- *Caso 2*. Caso narrado por Jürgen Bauman, en Berlín había una joven actriz
+		de 21 años, hermosa y elegante, que se había ganado la fama de la
+		comunidad. Era idolatrada por todos; pero un viernes la llevan de
+		urgencia a una clínica hospitalaria donde verifican que ya no tenía
+		signos vitales. Los médicos convocaron a una rueda de prensa para
+		notificar que había muerto la jovez actriz; la noticia fue publicada por
+		los medios. Se ordenó que se practicara la necropcia y, el médico
+		practicó actos de rutina (verificar si tenía reacciones, si tenía pulso,
+		si tenía signos de respiración, etc.); realizó la cópula con el cuerpo
+		desnudo, pero durante ella la joven abrió los ojos. Después de un
+		momento se ubicó espaciotemporalmente, gritó, se envolvió en una sábana
+		y puso los hechos a disposición del MP. El MP pudo haber clasificado los
+		hechos como "*violación consumada instantáneamente por el autor directo
+		en forma de acción dolosa*". El abogado planteó que creía que estaba
+		muerta, por lo que la libertad sexual no es un bien jurídico en este
+		caso, por lo que el cliente tiene un error respecto de la existencia del
+		bien jurídico, piensa que ya no existe. Por lo tanto, da lugar a un
+		error de tipo, que excluye al dolo cuando es invencible. Como la
+		violación no admite configurarse culposamente, entonces el asunto queda
+		impune.
+	- *Caso 3*. Un italiano tenía una tarjeta verde del IMSS; le dieron la
+		credencial de elector. Luego se vio en un accidente de tránsito y se
+		identificó con credencial de elector ante el MP. El Agente del MP
+		consignó los hechos a la FEPADE (fiscalía especializada en delitos
+		electorales) porque no se habían cumplido todos los requisitos para que
+		se le considerara ciudadano. Esta persona acudió con Ricardo Franco
+		Guzmán (abogado del despacho de Quintino) y pudieron alegar un error de
+		prohibición invencible; pues el no sabía que no cumplía con los
+		requisitos para obtener la ciudadanía y sí la obtuvo.
+	- *Caso 4*. Casos cuando uno compra una escultura, por ejemplo, en Cancún.
+		Al llegar al aeropuerto le dicen que trae una pieza de valor
+		arqueológico. Ahí se puede dar un error de prohibición.
+	- Juicio de evitabilidad: implica atender a las circunstancias
+		personalísimas del activo, bajo las circunstancias concomitantes del
+		hecho.
