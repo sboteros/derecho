@@ -1,0 +1,72 @@
+---
+title: Clase 10
+author: Santiago Botero Sierra
+date: 20 de julio de 2020
+---
+
++ Examen: 17 de agosto de 2020
++ Examen: 10 de agosto de 2020
++ Suprema Corte de Justicia de la Nación
+	- Artículo 94 de la CPEUM.
+	- Hay tres órganos terminales: Suprema Corte de Justicia de la Nación,
+		Tribunal Electoral de la Federación y Consejo de la Judicatura Federal.
+	- Hay 11 ministro de la SCJN. Se eligen a partir de una terna del
+		presidente y son elegidos por el Senado con un 2/3 de los miembros  
+		presentes del Senado. Duran en su encargo 15 años (ver el artículo 96).
+	- El presidente de la SCJN es electo por mayoría simple de los ministros de
+		la SCJN, y dura en su encargo durante 4 años.
+	- En su tarea jurisdiccional, la SCJN se divide en Pleno, Primera Sala
+		(civiles y penales) y Segunda Sala (administrativo y laboral). Las salas
+		se integran por 5 miembros; y el presidente no  integra sala, sólo
+		participa en las deliberaciones del Pleno.
+	- Hay reglas de quórum. El Pleno requiere la presencia mínima de 7 de los 11
+		integrantes para sesionar; sin embargo, en la Ley Orgánica del Poder
+		Judicial de la Federación se señala que hay algunas excepciones donde se
+		requieren por lo menos 8 magistrados (e.g. acciones de
+		inconstitucionalidad y controversias constitucionales). El quórum de
+		las salas es de 4 magistrados.
+	- Existe y, normalmente, se respeta, la llamada: *comisión de receso*. Es
+		como un equivalente a la Comisión Permanente del legislativo; se
+		integra por  dos o más ministros que "se quedan de guardia" y se van
+		rotando. Esta atiende cuestiones de caracter urgente, por ejemplo, para
+		dictar medidas cautelares o provisionales.
+	- Las sesiones de la SCJN pueden ser de 3 tipos (según el reglamento
+		interior): ordinarias (lunes, martes y jueves, a las 11:00 a.m.), extraordinarias o solemnes. Estas pueden ser
+		públicas o privadas, aunque la regla general es que sean públicas.
+	- Cada ponencia tiene, en promedio, entre 10 y 12 Secretarios de Estudio y
+		Cuenta.
+	- Los miércoles hay sesión de las salas.
+	- Algunos ministros usaban los viernes para dar conferencia; otros recibían
+		a los litigantes para el alegato de oreja.
+	- Las sesiones extraordinarias son muy abiertas, cuando sea necesario.
+	- Las sesiones solemnes pueden ser sólo de la SCJN o conjuntas (donde se
+		invita a los tres órganos terminales); por ejemplo, cuando se rinde el
+		informe anual de labores (donde suelen ir los integrantes de los otros
+		dos poderes de la Unión), cuando se recibe a un nuevo integrante del
+		tribunal Pleno, cuando se despide a un integrante del mismo, cuando ha
+		fallecido algún ministro en ejercicio del cargo (han fallecido tres
+		hasta el momento).
+	- La regla general es que las sesiones sean públicas. Pueden ser privadas
+		cuando se recibe una declaración patrimonial, responsabilidades de un
+		secretario y asuntos similares.
+
++ Consejo de la Judicatura Federal
+	- Artículo 100 de la SCJN.
+	- Hay 7 consejeros: el presidente de la SCJN, otros 3 nombrados de la SCJN
+		(entre magistrados y jueces), 2 del Senado y 1 del Presidente.
+	- Por un lado está la función jurisdiccional y, por la otra, está la función
+		administrativa del poder judicial (art. 96, pár. 2). El CJF tiene tres
+		tareas: administrar, vigilar y disciplinar.
+	- Duran 5 años en su encargo.
+
++ Tribunal Electoral del Poder Judicial de la Federación
+	- Tiene una sala superior y 5 salas regionales, que coinciden con las cinco
+		divisiones que tiene el territorio nacional para elegir a los diputados
+		plurinominales.
+	- Este es un tribunal que se epecializa por razón de materia: única y
+		exclusivamente conoce por asuntos de tipo electoral.
+	- Artículo 99. 7 Magistrados de la sala superior, nombrado por el Senado, a
+		partir de ternas enviadas por la SCJN.
+
++ El sistema de justicia, José Ramón Cossío. Publicación del FCE.
++ Sistemas y modelos de control constitucional en México, José Ramón Cossío.
