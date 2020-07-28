@@ -1,0 +1,44 @@
+---
+title: Clase 12
+author: Santiago Botero Sierra
+date: 25 de julio de 2020
+---
+
++ *Hipótesis 1*. Mientras alguna Entidad Federativa no contemple su listado de
+	delitos que pueden generar responsabilidad penal en una persona moral,
+	mientras eso no ocurra: no está vigente su responsabilidad penal de las
+	personas morales en dicha Entidad.
++ *Hipótesis 2*. La CDMX aún carece de un listado de delitos susceptibles de
+	generar responsabilidad penal para las personas morales, entonces: No está
+	reconocida la Responsabilidad Penal de las Personas Morales en la CDMX.
++ *Hipótesis 3*. Desde junio de 2016, el CNPP le mandata a los Congresos Locales
+	elaborar un Catálogo de los Delitos que puedan generar responsabilidad penal
+	en las Personas Morales. Si no se cumple con esta disposición, entonces aún
+	no está reconocida la Responsbailidad Penal de las Empresas en dichas
+	Entidades.
++ *Hipótesis 4*. Hace falta, en el supuesto de que el CP para el Estado de
+	Yucatán no tenga un listado para los delitos susceptibles de configurarse
+	culposamente, debe hacer una reforma.
+	- El artículo 405 del CNPP mandata a los Congresos Locales para establezcan
+	 	el listado de los delitos susceptibles de configurarse culposamente.
++ *Hipótesis 5*. Si los Códigos Penales de la CDMX y Yuactán establecen un
+	modelo de imputación en su Código Penal que se contraponga al modelo de
+	imputación del CNPP, en tal caso prevalece éste último frente al los Códigos
+	Penales Locales (artículo 4° transitorio del CNPP).
++ El catálogo de los delitos del fuero federal está en el artículo 11 Bis del
+	Código Penal Federal.
++ No hay proceso sin teoría del delito (dogmática). Cada modelo procesal tienen
+	su propia dogmática (su propia teoría del dleito). Por lo tanto, la teoría
+	del delito de las personas morales es diferente de aquella que conocimos en
+	el sistema inquisitivo, porque en aquel no existía esto; entonces esto es
+	una nueva dogmática.
+	- Las sanciones para las personas morales en el sistema mexicano se
+		denominan: "consecuencias jurídicas para personas morales".
+	- Debemos trabajar en la de los fines preventivo-especiales y
+		preventivo-generales de las consecuencias jurídica para personas
+		morales.
+	- Hay que trabajar en una criminología de las personas morales. En realidad,
+		estamos hablando de un nuevo sujeto del derecho penal.
+
++ **Tarea**. Leer y escribir un párrafo en relación a la lectura del folleto
+ 	A Luca.

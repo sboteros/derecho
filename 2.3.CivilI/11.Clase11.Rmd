@@ -1,0 +1,40 @@
+---
+title: Clase 11
+author: Santiago Botero Sierra
+date: 25 de julio de 2020
+---
+
++ Copropiedad
+	- "Artículo 938. Hay copropiedad cuando una cosa o un derecho pertenece
+		pro-indiviso a varias personas." (CC)
+	- Elementos: pluralidad de sujetos, unidad en el objeto y parte alícuota.
+	- Fuentes: la voluntad (contrato), un acto unilateral (testamento) o un
+		hecho jurídico (especificación, arts. 929 a 931 del CC)
+	- Clasificaciones: **i)** voluntarias o forzosas (arts. 939 y 940 del CC,
+		según el cual nadie está obligado a permanecer en la copropiedad),
+		**ii)** sobre bienes determinados o sobre una universalidad.
+	- Derechos y obligaciones
+
+		* Sobre la cosa común: de uso (art. 943), de disfrute y conservación
+		 	(arts. 943 y 944), de no alteración de la cosa  común (art. 945), de
+		 	participar en la administración de la cosa común  (arts. 946 a 949,
+		 	2403 y 2902) y a terminar la copropiedad (art. 939).
+		* Sobre la parte alícuota: derecho de propiedad plena sobre la parte
+			alícuota y de sus frutos y utilidades (art. 950) y derecho del
+			tanto. Este último es el derecho del copropietario para adquirir, en
+			igualdad de términos de un tercero, la parte que quiere enajenar
+			otro copropietario; está fundamentado en los artículos 950, 973,
+			974, 975, 973 *in fine* y 2279 en relación con el 2282. Este derecho
+			no sólo está en la copropiedad sino en otras figuras jurídicas (la
+			enajenación de vía pública, art. 771, el arrendamiento, 2448-J y el
+			contrato de sociedad civil, 27069) y hay otras figuras relacionadas
+			como el retracto (derecho para anular la venta de la parte alícuota
+			realizada sin respetar el derecho del tanto, art. 2448-J, y derecho
+			de preferencia por el tanto (que es la facultad del vendedor de
+			volver a adquirir la cosa, con preferencia de cualquier otra
+			persona, arts. 2303 y 2305; a veces se le llama *derecho por el
+			tanto*, pero es diferente al *derecho del tanto*).
+
+	- Las causas de terminación son la división de la cosa en común (arts. 976 a
+		979), por destrucción o pérdida de la cosa, por la enajenación de la
+		cosa a una sola persona o por consolidación.

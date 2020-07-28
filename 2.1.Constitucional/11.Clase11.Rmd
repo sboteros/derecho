@@ -1,0 +1,82 @@
+---
+title: Clase 11
+author: Santiago Botero Sierra
+date: 27 de julio de 2020
+---
+
++ Tribunales Colegiados de Circuito
+	- Se integran por tres magistrados.
+	- El país se divide en circuitos judiciales.
+	- Son muy importantes porque son los órganos que conocen de los asuntos de
+		amparo en última instancia, en el 99% de los casos.
+
++ Tribunales Unitarios de Circuito
+	- Están integrados por un único magistrado
+
++ Juzgados de distrito
+
++ Delitos de competencia federal: contra la salud, contrabando, que violan la
+	Ley Federal de Armas de Fuego y Explosivos,
++ Dos caras de la moneda del juicio federal:
+ 	- Jueces de juicio *ordinario* federal: Una apelación ante un juzgado de
+		distrito (conoce de procesos ordinarios  federales, es decir, en los que
+		se aplica una ley federal) llega hacia un tribunal unitario de circuito.
+	- Juicio de *constitucionalidad* federal: Un *recurso de revisión* contra un
+		juez de circuito lo conoce el tribunal colegiado de circuito.
+	-  El control de constitucionalidad se hace de otra forma, a través de tres
+		vías: **i)** el juicio de amparo, que es la vía tradicional de defensa
+		de los  DDHH, **ii)** las acciones de inconstitucionalidad, que son
+		procesos judiciales de control abstracto, estas acciones se van directo
+		hacia la  SCJN, y **iii)** controversia constitucional, que es cuando
+		hay un pleito  entre alguno de los niveles de gobierno, órganos
+		autónomos o poderes.
+	- También puede haber un amparo ante el tribunal colegiado de circuito
+	- Hay dos tipos de amparo: **i)** , y **ii)**
+
++ En cada entidad hay un poder judicial local, que conoce de asuntos
+	ordinarios, allí hay tribunales locales. Si en la primera instancia local
+	no hay satisfacción, se presenta un *recurso de apelación* dentro del poder
+	local (que tiene salas por cada materia, ya no son jueces sino magistrados).
+	Si hay inconformidad contra los jueces de segunda instancia, se presenta un
+	amparo directo contra esa sentencia; este lo resuelve un tribunal colegiado
+	de circuito.
++ Por el contrario, un amparo indirecto, contra una ley, se tramita ante un
+	juzgado de distrito. Si hay inconformidad, procede el *recurso de revisión*
+	ante un juzgado colegiado de circuito.
++ El amparo directo procede ante los tribunales colegiados de circuito.
+
++ Tribunales Plenos de Circuito
+	- Conocen de contradicciones al interior de un mismo circuito.
+	- Se integra por magistrados que pertenecen al mismo circuito.
+
++ Actualmente ya no hay distritos, solo hay circuitos. Este nombre es histórico
+	y proviene del siglo XIX.
+
++ No toda la impartición de justicia corresponde al poder judicial en México.
+	Hay tribunales que imparten justicia y que no forman parte del poder
+	judicial, sino que tienen diversas configuraciones organizativas. Estos
+	órganos son: **i)** las juntas de conciliación y arbitraje (art. 123, son
+	órganos de  integración tripartita --un representante de los patrones, de
+	los  trabajadores y del gobierno- que resuelven conflictos laborales y
+	orgánicamente depende de las secretarías del trabajo; en materia laboral  no
+	hay segunda instancia, únicamente procede el amparo directo), **ii)**
+	tribunales administrativos (conocen de juicios donde un particular demanda
+	a la administración pública --art. 73, frac. XXIX-H), **iii)** justicia
+	agraria (art. 27, frac. XIX), **iv)** justicia militar (art. 13), y **v)**
+	jurisdicción indígena (art. 2, apartado A, frac. II).
+
++ Montestquieu (El Espiritu de las leyes) y Locke (Ensayo sobre el gobierno
+	civil) son los inspiradores de la división de los poderes tradicionales.
+	Para finales del siglo XX empiezan a surgir figuras diferentes a los poderes
+	tradicionales que se denominan *órganos constitucionales autónomos*.
+	- Un órgano de esta naturaleza se caracteriza porque: **i)** son órganos
+		creados directamente por la Constitución, **ii)** la Constitución
+		establece su competencia básica, sin dependencia del legislador,
+		**iii)** no se encuentran orgánicamente adscritos dentro de uno de los
+		tres poderes tradicionales, y **iv)** tienen paridad de rango, no están
+		subordinados a ninguno de los poderes tradicionales.
+	- Estos órganos no se deben confundir con los *órganos de relevancia
+		constitucional*, que sí forman parte de uno de los poderes
+		tradicionales. Ejemplos de ellos son: la Auditoría Superior de  la
+		Federación (art. 69), el Consejo de la Judicatura Federal (art. 100) y
+		el Tribunal Electoral del Poder Judicial de la Federación (art. 99).
