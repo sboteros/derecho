@@ -1,0 +1,79 @@
+---
+title: Clase 12
+author: Santiago Botero Sierra
+date: 1 de agosto de 2020
+---
+
++ Usufruto
+	- Es el derecho real y temporal de disfrutar de los bienes ajenos (art. 980)
+	- Elementos: **i)** usufructuario, y, **ii)** nudo propietario (es la cosa
+		desprovista de uso y disfrute, de la que dispone el propietario).
+	- Temporalidad: vitalicio para personas físicas (art. 986) o máximo 20 años
+		para personas morales (art. 1040).
+	- Objeto: cualquier clase de bien. Capitales (art. 995), viveros (art. 999),
+		ganados (art. 1013), montes (art. 996 y 997), árboles (art. 998 y 1016),
+		minas (art. 1001), finca hipotecada (art. 1029 y 1030) o edificios (art.
+		1042).
+
+	- Constitución
+
+		* Por ley: **i)** sobre los bienes del hijo sujeto a patria potestad
+			(art. 428 a 430), **ii)** sobre los bienes del heredero que tiene la
+			carga de transferirlos a sus hijos (art. 1480), y **iii)** sobre los
+			bienes que han de ser entregados al legatario (art. 1364).
+		* Por voluntad: por contrato (por enajenación, donde el propietario
+			conserva la nuda propiedad y otorga el usufructo, art. 1008, o por
+			retención, donde el propietario transmite la nuda propiedad y
+			conserva el usufructo, art. 1007), o por testamento (art. 1469).
+		* Por prescripción, art. 981 en relación con los arts. 1152, 1158 y 1162.
+
+	- Régimen jurídico del usufructuario
+
+		* Derechos: gozar (art. 1002) y disfrutar (arts. 990 a 992), derecho
+			del tanto (art. 1005), ejercitar acciones y excepciones (art. 998),
+			enajenar, arrendar y gravar (art. 1002) y hacer mejoras (art. 1003).
+		* Obligaciones: hacer el inventario y avalúo, así como dar fianza antes
+			del usufructo (art. 1006); en usufructos gratuitos (reparaciones,
+			arts. 1017 a 1019, disminución de frutos, art. 1024, pagar legado
+			de renta vitalicia, pensión de alimentos, deudas hereditarias, arts.
+			1027, 1028 y 1031, gastos, costas y condenas de juicio, art. 1035);
+			en usufructos onerosos (todas las anteriores menos las reparaciones,
+			art. 1021).
+
+	- Régimen jurídico del nudo propietario
+
+		* Derechos: los correlativos a las obligaciones del usufructuario,
+			disponer de su derecho y ejercitar acciones protectoras de su nuda
+			propiedad.
+		* Obligaciones: entregar la cosa, no estorbar el uso y disfrute de la
+			cosa, daños y perjuicios por vicio oculto o defecto oculto y
+			reparaciones realizadas por el usufructuario (art. 1022). En los
+			usufructos onerosos, reparaciones (art. 1021) y gastos, costas y
+			condenas de juicios (art. 1035).
+
+	- Formas de extinción: generales, establecidas en el art. 1038, u especiales
+		(arts. 1040, 1042 y 1043).
+
++ Uso y habitación
+	- Uso: derecho real y temporal que confiere a su titular (usuario) el
+		derecho de  percibir los frutos de una cosa ajena requeridos para
+		alimentarse él y su familia (art. 1049).
+	- Habitación: derecho real y temporal que confiere a su titular
+		(habituario), el derecho de ocupar gratuitamente las piezas que
+		requiera, de una casa ajena, para vivir él y su familia (art. 1050).
+	- La habitación sólo aplica para una casa habitación, y el uso puede recaer
+		sobre bienes muebles o inmuebles. La habitación es gratuita, y el uso
+		puede ser gratuito u oneroso.
+	- Mismas obligaciones generales que el usufructuario y mismas formas de
+		extinción. Hay régimen especial sobre edificio (art. 1051), derechos y
+		obligaciones que se pacten (art. 1052) y consumo total u ocupación (art.
+		1055)
+
+- Servidumbre
+	+ Es un gravamen real impuesto sobre un inmueble en beneficio de otro
+		perteneciente a distinto dueño. El inmueble a cuyo favor está
+		constituida la servidumbre se llama predio dominante; el que la sufre,
+		sirviente (art. 1057).
+	+ Desde la perspectiva del propietario que se beneficia, es un derecho real
+		accidental y perpetuo; desde la del propietario afectado, es un gravamen
+		real.

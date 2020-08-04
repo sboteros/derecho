@@ -1,0 +1,55 @@
+---
+title: Clase 13
+author: Santiago Botero Sierra
+date: 01/08/2020
+---
+
++ 1250, Bartolo de Sassoferrato fue al primero a quien se le ocurrió sancionar
+	penalmente a las personas morales.
++ 1300, Tiberio Deciano, fue quien propuso la primera teoría del delito.
++ 1666, Samuel Puffendorf, primera idea de que el derecho penal puede tener
+	reglas de largo alcance, una parte general del derecho criminal. Él pensó  
+	que el concepto de imputación se podía llevar al derecho criminal. El
+	concepto de imputación (*imputare*) significa cargar y es la definición más
+	exquisita del derecho penal.
++ 1724, Farinecio creó la figura de la *consumación continuada*. Intentaba
+	defender a una persona que le robó a su patrón 50 veces e iba a ser
+	condenado a la pena máxima, y dijo "no son 50 robos sino uno solo, cuando
+	se le roba a una misma persona, con unidad de propósito"; el concurso de
+	delitos hubiese hecho acumular las 50 sanciones, pero con la consumación
+	continuada solamente se agrava una sola sanción (actualmente, la pena
+	establecida en el tipo básico se incrementa hasta en una mitad de la
+	máxima).
++ 1797, Kant publica Metafísica de las costumbres, donde están los conceptos de
+	lo que después se llamó "Estado de Derecho", e incluye los conceptos de
+	dignidad humana, principio de legalidad material (derecho sustantivo) y
+	principio de legalidad procesal (derecho adjetivo).
++ 1789, Principio de legalidad, dirigido al legislador (escrita y clara) y al
+	juzgador (exacta)
++ 1801, Feuerbach dio inicio al derecho penal moderno. La característica
+	principal es la distinción entre los principios de legalidad material y
+	procesal (*nullum crimen nulla poena sine lege*).
++ 1810. Primer código penal, francés.
++ 1813. Código penal de Baviera (de Feuerbach). Feuerbach nos enseñó que un CP
+	debe comenzar su Parte Especial con la protección de las personas, y no con
+	la protección de las Instituciones del Estado, porque el Estado está para
+	servir a las personas, y no las personas para servir al Estado. Feuerbach
+	trasladó a la Legítima defensa y a la tentativa, de la Parte Especial, a la
+	Parte General.
++ 1822, Primer CP español, echo sobre la base de un Estudio de Manuel Lardizábal
+	y Uribe. Nuestro CP de Veracruz de 1835 se inspiró en el CP español de 1822.
++ En 1937 Carrancá y Trujillo publicó su tratado, que es considerado el mejor de
+	todos.
++ 1970 Olga Islas y Elpidio Ramírez el Modelo Lógico Matemático del Derecho
+	penal. Modelo Lógico.
++ Porte Petit hizo el modelo apara el análisis dogmático de los delitos más
+	popular.
+
++ 1985. Jaccobs en 1985 se refirió al *derecho penal del enemigo*, refiriéndose
+	a la reducción de las garantías procesales para personas que integran la
+	delincuencia organizada y para terroristas; ahí propone ciertas excepciones,
+	no darles todas las garantías de las que gozan todos los ciudadanos.
+
++ **Tarea**. Leer la biografía de Anselm von Feuerbach.
++ El mandato general del derecho penal es Hegeliano: "Sé persona y respeta a los
+	demás como personas".

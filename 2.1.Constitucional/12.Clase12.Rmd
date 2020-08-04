@@ -1,0 +1,52 @@
+---
+title: Clase 12
+author: Santiago Botero Sierra
+date: 3 de agosto de 2020
+---
+
++ Instituto Nacional de Acceso a la Información y Protección de Datos Personales
+	- Tiene fundamento en el art. 6, apartado A, fracción VIII.
+	- Es el órgano garante del derecho de acceso a la información y de la
+		protección de los datos personales.
+
++ Banco de México
+	- La autonomía data de 1993
+	- Artículo 28, párrafo 6
+
++ Comisión Federal de Competencia Económica
+	- Artículo 28, párrafo 13
+
++ Instituto Federal de Telecomunicaciones
+	- Artículo 28, párrafo 14
+
++ Instituto Nacional Electoral
+	- Artículo 41, fracción V, apartado A
+
++ Fiscalía General de la República
+	- ARtículo 102, apartado A
+
++ Comisión Nacional de Derechos Humanos
+	- Artículo 102, apartado B
+
++ Estado federal
+	- Múltiples fuentes del derecho
+	- División de competencias: federales, estatales, municipales, de la Ciudad
+		de México.
+	- Las competencias pueden ser: exclusivas o concurrentes.
+	- En el artículo 73 se encuentran las facultades concurrentes.
+
+		* El Congreso de la Unión puede dictar leyes federales, pero también
+			puede dictar leyes generales. Las leyes generales son aquellas que
+			regulan las materias concurrentes; es decir, en las cuales participa
+			más de uno de los niveles de gobierno.
+		* Por ejemplo, en la fracción XXIII, donde se encuentra la materia de
+			seguridad pública.
+		* En la fracción XXIX-C, en materia de asentamientos humanos.
+		* En la fracción XXIX-G, protección al ambiente y preservación y
+			restauración del equilibrio ecológico.
+		* En la fracción XXIX-I, en materia de protección civil.
+		* En la fracción XXV, la educación.
+
+	- En las materias concurrentes puede haber, a su vez, legislación federal y
+		estatal.
+	-
