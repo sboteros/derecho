@@ -1,0 +1,60 @@
+---
+title: Clase 12
+author: Santiago Botero Sierra
+date: 5 de agosto de 2020
+---
+
++ Artículo 16
+	- La regla general a partir de la cual se puede **detener** a una persona es
+		a partir de lo que lo dice un juez, a partir de una *orden de
+		aprehensión*; el requisito más importante es que el Ministerio Público
+		haya realizado una investigación. Otros supuestos son: **i)** el *caso
+		urgente*, cuando hay circunstancias que le permiten al mismo Ministerio
+		Público llevarlas a cabo (tiene razones históricas, en términos del
+		desarrollo de las comunicaciones, pero ahora no tiene tanta
+		justificación porque hay jueces penales de guardia permanentemente); o,
+		**ii)** cuando se detiene a una persona en flagrancia (cuando se lleva a
+		cabo la detención en el momento mismo de la realización del hecho que la
+		ley define como delito, o bien durante la persecución material inmediata
+		posterior; la detención la puede realizar cualquier persona). En todos
+		los supuestos hay que poner al detenido a disposición inmediata de la
+		autoridad competente.
+	- Amparo Directo en Revisión 517/2011, Caso Florence Cassez
+	- Hay tres niveles de contacto. Tesis 2008638.
+	- El **arraigo**  es una detención, pero fuera del proceso judicial. Es una
+		medida privativa de la libertad, pero con efectos investigativos. Son
+		40 días, que se pueden prorrogar por otros 40. Esto es para delincuencia
+		organizada, pero en el párrafo 8 hay una definición muy laxa.
+	- Otro concepto es la **retención**, el MP lo puede tener hasta 48 horas
+		antes de: dejarlo en libertad o ponerlo a disposición de un juez para
+		que dicte el auto de vinculación a proceso.
+	- Inviolabilidad del domicilio y **cateos**, que es diferente a las
+		**visitas domiciliarias**. Ver las tesis 2000979 y 2000821.
+	- Ver las tesis 186506 y 2008934.
+	- Inviolabilidad de las comunicaciones privadas. Opera tanto frente a
+		autoridades como a particulares.
+	- Ver el caso del celular abandonado: tesis 2009820.
+	- Hay una discusión sobre si esta interceptación es sincrónica o
+		asincrónica; ver la tesis 2002741.
+
++ Artículo 17
+	- Prohibición de autotutela; no se permite la venganza privada. Ver la Tesis
+		168886.
+	- Juzgar con perspectiva de género. Tesis 2005793 y 2005794.
+	- Derecho humano a la justicia sin dilaciones. La jurisprudencia 
+		interamericana contempla cuatro elementos para valorar la razonabilidad
+		del plazo: **i)** la complejidad del asunto, **ii)** la actividad
+		procesal del interesado, **iii)** la conducta de la autoridad judicial,
+		y **iv)** la intensidad en la afectación de un derecho.
+
++ Artículo 18
+	- Reinserción del sentenciado a la sociedad.
+	- Ver la Ley del Sistema Nacional de Justicia para Adolescentes.
+
++ Artículo 19
+	- Hay un listado de delitos que tienen prisión preventiva oficiosa: el juez
+		no puede definir otra medida cautelar.
+	- También se puede dar la prisión preventiva justificada, cuando no estamos
+		en alguno de los supuestos anteriores cuando: existe peligro de fuga,
+		de peligro a las víctimas, o cuando la persona pueda destruir material
+		probatorio.
