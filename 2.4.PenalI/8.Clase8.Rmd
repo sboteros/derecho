@@ -80,6 +80,11 @@ date: 27 de junio de 2020
 		* Que el defecto de organización (riesgo no permitido) se haya
 			concretizado en el resultado.
 		* Que el resultado pertenezca al fin protector de la norma.
+		* Que el defecto de organización haya sido realizado dolosa o
+			culposamente.
+		* Los restantes elementos de la Clasificación Jurídica (grado de
+			ejecución, forma de intervención, naturaleza dolosa o culposa de la
+			conducta).
 
 	- La infracción al debido control de la PM significa que:
 

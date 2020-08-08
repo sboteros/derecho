@@ -1,0 +1,94 @@
+---
+title: Clase
+author: Santiago Botero Sierra
+date: 8 de agosto de 2020
+---
+
++ *Caso 1*. Pensemos que en el sistema tradicional un delito $x$ era perseguible
+	por querelle, con el sistema acusatorio se reforma el código penal y el
+	citado delito $x$ ahora es de oficio. ¿Podemos aplicar retroactivamente la
+	ley en este delito? Para resolver este tipo hay que preguntarnos cuál es
+	la naturaleza jurídica de la querella, en tanto requisito de procedibilidad:
+	si la naturaleza de esta figura es procesal, entonces no podemos aplicarla
+	retroactivamente en beneficio. En conclusión, el principio de retroactividad
+	en beneficio no aplica en materia procesal.
++ *Principio de legalidad procesal* consiste en que el MP tiene el deber de
+	investigar y perseguir los delitos.
++ *Principio de legalidad material*, *nullim criman, nulla poena sine lege*.
+	- Mandato para el legislador: debes escribir claramente la ley.
+	- Mandato para el juzgador: debes aplicar la ley exacta al caso concreto
+		de que se trate.
+	- Implica que no se le efecto retroactivo a la ley penal sustantiva y que
+		no está permitida la aplicación analógica de la ley penal sustantiva
+		(aunque sí se puede aplicar en analogía las leyes procesales).
+	- Conclusión: No está prohibida la aplicación analógica de las leyes
+		procesales; pero sí está prohibida la aplicación analógia de las leyes
+		penales sustantivas, aunque con ciertas restricciones.
+
++ *Caso 2*. Pensemos que en el Estado de México no está expresamente regulado el
+	consentimiento presunto como causa de justificación. ¿En el Estado de
+	México podemos aplicar el consentimiento presunto en términos analógicos?
+	Sí, no obstante a que es una figura sustantiva, la prohibición de la
+	aplicación analógica no rige en las causas de justificación. Conclusión,
+	el principio de aplicación analógica de la ley penal únicamente rige en el
+	campo de la tipicidad, el grado de ejecución, las formas de intervención y
+	el concurso; pero no rige en el campo de las causas de exclusión del delito.
+	Es decir, sí es posible la aplicación analógica de las causas de exclusión
+	del delito.
+
++ Kant ya tenía la diferencia entre el principio de legalidad procesal y
+	material; Feuerbach lo retomó de él.
++ Feuerbach tuvo dos fuentes: Kant y la Declaración Universal de los Derechos
+	del Hombre y el Ciudadano de 1789.
++ La Ley General de Responsabilidades Administrativas, en sus artículos 24 y 25
+	establece la Responsabilidad Administrativa de las personas morales. En el
+	artículo 25 se establece un listado de políticas de integridad, que se
+	relacionan con las políticas de prevención que debe tener una persona moral.
+	En materia penal, estas políticas de integridad pueden formar la base de
+	un programa de cumplimiento.
+	- Toda persona moral está obligada a cumplir con el debido control a fin de
+		prevenir ciertos delitos.
+	- La forma en que las personas morales ejercen ese deber de control es como
+		quieran. Una forma, la más usual, es a través de un programa de
+		cumplimiento (*compliance* penal, programa de prevención delictiva);
+		también  se le puede llamar políticas de integridad. Podrían ser uno o
+		varios  programas y no importa el nombre que se le ponga; pero el
+		programa debe elaborarse cuando sea necesario.
+	- Conclusión: Un Complicance Penal debe hacerlo la persona moral que
+		realmente lo necesite, para la prevención de delitos.
+	- El programa de cumplimiento, en tanto eximente, puede analizarse en dos
+		lugares: primero como causa de atipicidad, donde tendría que demostrarse
+		que en virtud de ese programa no existe un defecto de organización o
+		sí ha ejercido el debido control; por otro lado, puede analizarse en el
+		campo de la culpabilidad, donde la persona moral podría alegar que, a
+		pesar de su conducta típica y antijurídica, no le resulta reprochable en
+		virtud de alguna causa de inculpabilidad.
+
++ Ver los 10 criterios para imputar a una persona moral, de la Clase 8. En
+	materia de prueba, cómo determinar si la persona moral incumplió el deber de
+	debido control.
+	- Nota: La PM puede buscar a una PFC que se aviente la bronca (chivo
+		expiatorio).
+	- Responsabilidad penal del Oficial de Cumplimiento (persona física o mora
+		que pone en marcha el Programa de Cumplimiento).
+	- Nota: Las fuentes de donde emana el deber jurídico de actuar de un Oficial
+		de Cumplimiento (son extrapenales).
+	- Por ejemplo: a través de un contrato, procolo, o programa de cumplimiento.
+	- También puede ocurrir que el único responsable se la PFC.
+	- Nota: El 316, fracción III, establece que en la etapa de investigación,
+		bastan simples datos o indicios que razonablemente le hagan suponer al
+		MP que una persona (física o moral) cometió o participó en la comisión
+		de un hecho que la ley señala (describe) como delito.
+
++ *Injerencia* es una palabra que surgió cuando Stübel dijo que una persona
+	puede ser garante debido a un comportamiento culposo precedente, de donde
+	puede emanar un deber jurídico de actuar.
+	- Nuestro CPF en el artículo 7, párrafo 2, regula al deber jurídico de
+		actuar (*calidad de garante*) sobrevenido en virtud de un contrato, o de
+		la ley, o por injerencia (comportamiento culposo precedente).
+	- Feuerbach , desde 1801 , propuso que las fuentes de la calidad de garante
+		pueden emanar de un contrato o de la ley.
+	- Un contrato, aunque no esté vigente, no impide que alguien sea garante en
+		ciertos casos. Esto se demostró hasta 1934 por Nagler, quien mostró que
+		una trabajadora doméstica seguía siendo garante a pesar de que su
+		contrató había terminado.
