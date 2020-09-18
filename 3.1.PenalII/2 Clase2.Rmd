@@ -1,0 +1,54 @@
+---
+title: Clase 2
+author: Santiago Botero Sierra
+date: 12 de septiembre de 2020
+---
+
++ Elementos del tipo penal:
+	- Objetivos:
+
+		* Conducta: Acción, omisión simple, comisión por omisión. Cuando se
+			habla de comisión por omisión, siempre aparece la figura  del
+			garante. Hay que identificar el núcleo o verbo rector del tipo
+			penal.
+		* Sujeto activo: Calidad específica, pluralidad específica.
+		* Sujeto pasivo: Calidad específica, pluralidad específica.
+		* Bien jurídicamente tutelado (BJC). Denuncia y querella.
+		* Objeto: jurídico (BJC) material (externo/tangible)
+		* Daño: Lesión o peligro (tentativa: causa externa), cosas objetivas,
+			actos
+		* Resultado: Formal o material (externo, tangible)
+		* Nexo: Causal, normativo, atribuibilidad
+		* Circunstancias: tiempo, modo, lugar u ocasión
+		* Medios comisivos o de ejecución
+
+	- Subjetivos:
+
+		* Genéricos
+		* Dolo directo o eventual
+		* Culpa consciente CR, inconsciente SR
+		* Tabla de teoría subjetiva específica
+		* Elementos volitivos: al que con el fin, finalidad, deseo, propósito,
+			ánimo, tendencia, para, con el objeto, intención.
+		* Elementos intelectivos: al que a sabiendas, sepa, conociendo, tenga
+			conocimiento.
+
+	- Normativos:
+
+		* Valoración jurídica, cultural, científica
+		* Para dar explicación a un vocablo: ajeno, territorio, mala fama.
+
++ Autoría y participación, artículo 22 del CP. Autor: directo, coautor o
+	mediato; partícipe: inductor, cómplice o encubridor.
++ Iter criminis:
+	- Fase interna: Idea criminosa, deliberación y resolución.
+	- Fase externa: Manifestación, preparación y ejecución.
+	- Entre la preparación y la ejecución, puede haber desistimiento. En cambio,
+		en la tentativa sí hay ejecución, pero hay una causa externa que impide
+		cometer el acto.
++ Elementos
+	- Objetivos
+	- Subjetivos
+	- Normativos
+
++ Circunstancias modificadoras: agravantes o atenuantes.

@@ -1,0 +1,30 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 5 de septiembre de 2020
+---
+
++ Ángela Frías
++ Delitos en particular, elementos indispensables que constituyen un tipo
+    penal.
++ Evaluación
+    - Un único examen final
+    - Participación en clase
++ Material
+    - Código Penal para la Ciudad de México
+    - Ley Orgánica del Poder Judicial de la Federación
+    - Código Penal de la Federación
+
++ Código Penal
+	- Parte General o dogmática
+	- Parte Especial o delitos en particular
+
++ El artículo 50 de la Ley Orgánica del Poder Judicial establece los casos en
+	los que se aplica el Código Penal Federal, en los demás se aplica el local.
+
++ Tipo Penal: Es la descripción legal de un delito; es decir, un supuesto de
+ 	hecho establecido en la ley penal, o una herramienta descriptiva que
+ 	refiere un escenario virtual, abstracto y comparativo
++ Tipicidad: Es el encuadramiento de la conducta penal; es decir, cuando una
+	conducta está previamente descrita en alguna ley penal y ocurre que alguien
+	lleva a cabo dicha conducta descrita.

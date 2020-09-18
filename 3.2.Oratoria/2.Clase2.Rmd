@@ -1,0 +1,35 @@
+---
+title: Clase 2
+author: Santiago Botero Sierra
+date: 12 de septiembre de 2020
+---
+
++ Modelo de Harold Dwight Lasswell
+	- Emisor (orador, análisis de control), mensaje (discurso, análisis de
+		contenido), medio (voz humana en algún canal, análisis de medios),
+		receptor (público, análisis de audiencia) e impacto (reacción,
+		análisis de los efectos).
+	- Estudio del orador: análisis de control.
+
++ ¿Qué fue primero: la oratoria o la retórica?
+	- "*El principio del decir se debe a la naturaleza, y los preceptos a la
+		observación*" (Quintiliano), por lo tanto primero fue la oratoria.
+	- La retórica surge en el siglo V a.C.; pero es innata al hombre.
++ La oratoria es el arte de comunicar ideas ante un público mediante la palabra
+	hablada con los fines de convencer y persuadir.
++ Retórica
+	- Deliberativo o político
+		* Subgénero político (oratoria política). En el siglo V a.C. era el
+			género utilizado en la asamble para la deliberación pública.
+		* Subgénero comercial (oratoria de negocios).
+	- Forense o judicial
+		* Género forense o judicial (oratoria forense o judicial). Surge en
+			Siracusa, es la base del primer tratado de Córax y Tisias.
+	- Edpidíctico o demostrativo
+		* Subgénero escolar (oratoria académica). Aparece en el siglo I d.C.
+			con los tratados de Dionisio de Helicarnaso.
+		* Subgénero religioso (oratoria religiosa). Se configura con la
+			patrística en el s. IV d.C. para satisfacer las necesidades del
+			cristianismo.
+		* Subgénero social (oratoria social). Inicia en el s. V a.C. como
+			discurso de honras fúnebres y discurso panegírico.

@@ -1,0 +1,38 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 5 de septiembre de 2020
+---
+
++ Jaime Antonio Gómez Mandujano
+
++ Los significados más utilizados del concepto de comunicación:
+	- Proceso donde el emisor transmite información al receptor.
+	- Relación interhumana por la cual los individuos pueden enterderse.
++ La comunicación supone el diálogo.
+	- El diálogo implica plática alternativa entre personas; es decir,
+		implica retroalimentación.
+	- La relación interhumana implica la aceptación del otro como persona
+		autónoma; por lo tanto, se requiere persuación y convencimiento.
+
++ Propósitos de la comunicación:
+	- Informar, transmitir datos o conocimientos para ampliar aquellos que son
+		propios del receptor.
+	- Conmover, generación de emociones.
+	- Convencer, incitar, mover con razones o mudar de dictamen o comportamiento;
+		probar algo de manera que racionalmente no se pueda negar. Generar
+		certezas.
+	- Persuadir. En el diccionario es sinónimo de convencer; pero la
+		convicción se da en el terreno de la íntima convicción de las personas,
+		mientra que la persuasión se da en el terreno de la acción (en la
+		externalización de esas certezas).
+
+		* La persuación pasa, invariablemente, por la convicción.
+		* La acción sin convicción es *disuasión*.
+
++ Entonces, para comunicar se requiere: **i)** informar; **ii)** convencer y
+	conmover; y, a partir de ello, **iii)** persuadir.
+
++ Proceso de comunicación
+	- Modelo de transmisión o canal: emisor, mensaje (señales) y receptor.
+	- Modelo lineal aristotélico: orador, discurso y público.

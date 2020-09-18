@@ -31,7 +31,7 @@ date: 27 de julio de 2020
 		hay un pleito  entre alguno de los niveles de gobierno, órganos
 		autónomos o poderes.
 	- También puede haber un amparo ante el tribunal colegiado de circuito
-	- Hay dos tipos de amparo: **i)** , y **ii)**
+	- Hay dos tipos de amparo: **i)** directo, e **ii)** indirecto.
 
 + En cada entidad hay un poder judicial local, que conoce de asuntos
 	ordinarios, allí hay tribunales locales. Si en la primera instancia local
