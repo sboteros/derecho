@@ -1,0 +1,43 @@
+---
+title: Clase 3
+author: Santiago Botero Sierra
+date: 19 de septiembre de 2020
+---
+
++ El delito es la conducta típica, antijurídica y culpable.
+	- Elementos positivos: conducta, tipicidad, antijuridicidad y
+		culpabilidad. En consecuencia, la culpabilidad; estos los sostendrá el
+		Ministerio Público.
+	- Si se actualizan los elementos positivos, entonces tenemos acreditado el
+		delito. El delito en general se establece en una sentencia, es un juez
+		quien dice que hay un delito o no (sentencia condenatoria o
+		absolutoria).
+	- En esta materia únicamente se analiza la tipicidad, uno de los elementos
+		del delito.
+	- Elementos negativos; estos los sostendrá la defensa. Estos están en el
+		art. 405 del CNPP.
++ Este concepto es diferente al tipo penal. Si los elementos del tipo penal se
+	acreditan, entonces tendremos un tipo penal.
+
++ Artículo 123. Homicidio.
+	- Tipo penal. Artículo 123. Tipo penal.
+	- Conducta: Se puede cometer por acción o por comisión por omisión. Núcleo
+	 	o verbo rector: Privar de la vida
+	- Sujeto activo: No requiere calidad ni pluralidad específica, entonces es
+		cualquiera.
+	- Bien jurídicamente tutelado: la vida.
+		- Objeto jurídico: La vida.
+		- Objeto material: La persona.
+	- Daño: Es de lesión, pero también puede ser de peligro.
+	- Resultado: Material.
+	- Nexo: Causal o de atribuibilidad.
+	- Circunstancias: No las pide, entonces puede ser en cualquier tiempo,
+		modo y lugar.
+	- Elementos subjetivos genéricos: En general es doloso, pero también
+		puede ser culposo (ver el *numerus clausus* del artículo 76).
+	- Elementos volitivos: No hay.
+	- Elemento normativo: En este caso la *pérdida de la vida* está definida
+		en la ley general de salud, por lo que el elemento normativo es la
+		palabra vida.
+
+	- 8 a 20 años; entonces un culposo (1/4, art. 76)

@@ -1,0 +1,52 @@
+---
+title: Clase 5
+author: Santiago Botero Sierra
+date: 10 de octubre de 2020
+---
+
++ Enviar un discurso escrito
+	- Apego a la forma de elaboración del discurso.
+	- Relación del procedimiento de elaboración con referentes de ideas.
+	- Tema libre (interés general, iniciativa de ley, agenda nacional, tema
+		jurídico, etc.; de preferencia, ir entrando a la materia jurídica --
+		intentar construir un argumento en materia de juicio oral).
+	- Extensión de no más de 5 cuartillas, interlineado 1.5 con arial o times,
+		márgenes simétricos de 2.5.
+
++ El duscruso es el conjunto de ideas de que da cuenta el orador con los fines
+	de convencer y persuadir. En esencia, resume sus conocimientos, creencias,
+	valores y opiniones sobre un tema determinado.
++ Etapas:
+	- Invención (*inventio*), identificación y discernimiento al abordar un
+		asunto o problema. Identificar el tema que se aborda y fijar un
+		posicionamiento, que permite organizar las ideas.
+	- Disposición (*ordo* o *dispositio*):
+
+		* Orden natural (griego, clásico): exordio (proemio o insunuación,
+			proposición, división), narración, argumentación (confirmación y
+			refutación) y epílogo (recapitulación o exhortación).
+		* Orden romano: exordio (proemio o insunuación), narración,
+			argumentación (proposición, con división; confirmación y refutación),
+			epílogo o peroración (recapitulación y exhortación).
+		* Demanda: Rubro o proemio (exordio, proemio o insunuación), demanda o
+			capítulo de prestaciones (proposición, división), capítulo de hechos
+			(narración), capítulos de pruebas y de derecho (argumentación,
+			confirmación y refutación), puntos petitorios y firma (epílogo o
+			peroración, recapitulación y exhortación).
+
+	- Elocución (*elocutio*), escritura de la idea.
+	- Memoria
+	- Pronunciación (*pronuntiatio*, *declamatio* o *actio*)
+
++ Técnica de elaboración
+	- Definir el propósito central y el contexto del discurso (invención)
+	 	(qué, quién, cómo, cuándo, dónde y con qué medios; sirve para
+		contextualizar).
+	- Organizar las ideas (invención y disposición): proposición, división
+	- Hacer acopio de información (invención y disposición).
+	- Organizar el discurso.
+	- Redactar el discurso.
++ 7 partes del discurso judicial: Exordio, narración, argumentación -- a) tesis
+ 	(momento intelectual,  proposición, con división y confirmación), b)
+ 	antítesis (momento dialéctico, refutación) y c) síntesis (momento
+ 	especulativo o racional, recapitulación)-- y exhoración.

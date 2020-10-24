@@ -1,0 +1,20 @@
+---
+title: Clase 6
+author: Santiago Botero Sierra
+date: 15 de octubre de 2020
+---
+
++ Fuentes de las obligaciones: Es todo supuesto
+	- Contratos, actos ilícitos, etc.
+	- No todas tienen origen en la ley.
+	- Dependiendo de la fuente de la obligación, serán las reglas que apliquen
+		en caso de controversia, dudas, incumplimiento, etc.
+	- Clasificación legal: contratos, declaración unilateral de la voluntad,
+		del enriquecimiento ilegítimo, gestión de negocios, riesgo profesional.
+	- Clasificación doctrinal.
+		* Romanos: delitos, cuasidelitos, contratos y cuasicontratos.
+		* Francia: Hecho jurídico (*lato sensu*), es un hecho jurídico
+			(*stricto sensu*) o un acto jurídico. Los hechos jurídicos *stricto
+			sensu* son de la naturaleza o del hombre; estos últimos son de
+			conducta innecesaria o de conducta necesaria (lícitos o ilícitos).
+	- Actos o negocios jurídicos unilaterales, bilaterales o multilaterales.

@@ -1,0 +1,32 @@
+---
+title: Clase 5
+author: Santiago Botero Sierra
+date: 3 de octubre de 2020
+---
+
++ Circunstancias modificadoras
+	- Agravantes: **a)** agravantes o **b)** calificativas.
+	- Atenuantes
++ La clasificación jurídica dogmática se encuentra establecida en el artículo
+	141 del CNPP.
+
++ Artículo 130
+	- Conducta: Acción o comisión por omisión.
+	- Núcleo o verbo rector: Causar daño o alteración.
+	- Sujeto activo: No se requiere calidad o pluralidad específica.
+	- Sujeto pasivo: No se requiere calidad o pluralidad específica.
+	- Bien jurídicamente tutelado:
+		* Formal: Integridad corporal.
+		* Material: Cuerpo.
+	- Daño: Lesión o tentativa
+	- Resultado: Material
+	- Nexo: Causalidad o atribuibilidad (o evitabilidad).
+	- Circunstancias: No pide circunstancias específicas.
+	- Medios comisivos o de ejecución: Cualquiera idóneo.
+
+	- Elementos objetivos:
+		* Genérico: Dolo o culpa (ver el artículo 76)
+		* Específicos: No hay elementos volitivos ni intelectivos requeridos por
+			el tipo.
+	- Elementos normativos:
+		* 

@@ -1,0 +1,36 @@
+---
+title: Clase 3
+author: Santiago Botero Sierra
+date: 24 de septiembre de 2020
+---
+
++ 3 elementos: sujeto, objeto y relación jurídica.
+
+# Relación jurídica
+
++ Es el elemento de la obligación que explica por qué una persona debe ejecutar
+	una conducta en favor de otra, así como el surgimiento de consecuencias
+	ante el incumplimiento.
++ Es una justificación del objeto.
++ El estudio de la relación jurídica se puede dividir en dos conceptos: **i)**
+	débito y **ii)** responsabilidad del deudor. Los dos conceptos se pueden
+	encontrar en el derecho romano.
++ En Francia:
+	- El derecho de exigir, hasta donde sea posible, el derecho del acreedor.
+	- El derecho a obtener una indemnización en efectivo, conocida como daños y
+		perjuicios, en caso de incumplimiento o retraso en la ejecución.
+	- El derecho de ejercer ciertas acciones destinadas a conservar el intacto
+		patrimonio del deudor, considerado como prenda del acreedor.
++ Las obligaciones adquiridas entre los contratantes tiene fuerza de ley entre
+	los sujetos de la obligación.
++ En caso de incumplimiento, la ley faculta al acreedor para accionar contra el
+	deudor y evitar la impunidad por el incumplimiento y el pago de daños.
++ El patrimonio del deudor queda expuesto a la acción ejecutiva del acreedor.
++ Relación jurídica porque hay acreedor y deudor.
+
++ Débito: activo (acreedor) y pasivo (deudor).
++ Exigibilidad y exigibilidad coactiva.
++ Responsabilidad
+	- No sanciones penales por incumplimiento de deudas civiles.
+	- Efectos en la economía
+	- Perdida de derechos (art. 769, 901 y 1696)

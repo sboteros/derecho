@@ -1,0 +1,43 @@
+---
+title: Clase 7
+author: Santiago Botero Sierra
+date: 24 de octubre de 2020
+---
+
+- Artículo 142. Inducción al suicidio
+	+ Acción
+	+ Verbo rector: ayudar, ejecutar, inducir
+	+ Sujeto activo: cualquiera
+	+ Sujeto pasivo: cualquiera
+	+ Daño: lesión o puesta en peligro (tentativa)
+	+ Bien jurídicamente tutelado: la vida
+	+ Objeto jurídico: la vida
+	+ Objeto material: el cuerpo de la persona
+	+ Daño: de lesión o de peligro
+	+ Resultado: Material
+	+ Nexo: causal
+	+ Circunstancias: no las pide
+	+ Subjetivos genéricos: dolo directo
+	+ Específicos: No hay elementos volitivos, intelectivos ni normativos,
+		culturales o científicos.
+
+- Artículo 143: Circunstancia modificativa del tipo penal agravante.
+	+ Cambia la calidad específica en el sujeto pasivo.
+
+- Artículo 144. Aborto
+	+ Conducta: Acción y comisión por omisión.
+	+ Núcleo o verbo rector: Interrumpir el embarazo.
+	+ Sujeto activo: calidad específica de mujer embarazada.
+	+ Sujeto pasivo: calidad especifica de feto.
+	+ Daño: Lesión
+	+ Bien jurídicamente tutelado: la vida
+	+ Objeto formal: la vida
+	+ Objeto material: el feto y la mujer
+	+ Daño: lesión
+	+ Circunstancias: de tiempo (embarzado, después de la 12 semana de
+		gestación), cualquier modo, lugar u ocasión.
+	+ Cualquier medio comisivo o de ejecución.
+	+ Elementos subjetivos genéricos: dolo o culpa
+	+ Elementos volitivos: no hay
+	+ Elementos intelectivos: no hay
+	+ Elementos normativos: se requiere interpretación científica

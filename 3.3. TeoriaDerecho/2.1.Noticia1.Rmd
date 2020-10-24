@@ -1,0 +1,46 @@
+---
+title: "Baja de tasa de interés"
+author: "Santiago Botero Sierra"
+date: "25 de septiembre de 2020"
+output: pdf_document
+homework: 'Comentario de prensa'
+---
+
+# Noticia
+
+La noticia \citetitle{prensa:bajainteres} señala que la Junta de Gobierno del 
+Banco de México (Banxico) recortó la tasa de interés interbancaria para quedar 
+en un 4.25%, con lo que completó once recortes a lo largo del año. Esto, como 
+consecuencia de la afectación causada a la economía por la pandemia del virus 
+Sars-Cov2 (Coronavirus).\autocite{prensa:bajainteres}
+
+# Análisis
+
+El artículo 28, párrafo sexto, establece que el banco central tiene como 
+objetivo prioritario "(...) *procurar mantener la estabilidad del poder 
+adquisitivo de la moneda nacional* (...)". Con este objetivo en mente, Banxico 
+debe evitar los episodios de inflación y deflación que ocasionan los choques 
+aleatorios sobre la economía nacional, como el que se está viviendo en este 
+momento como consecuencia del Coronavirus.
+
+Para lograr su objetivo, Banxico tiene el control de la política monetaria; es 
+decir, controla la masa monetaria que hay en el país y, para ello, emite o 
+retira dinero de circulación. Una forma alternativa para definir cuánto dinero 
+se emitirá en el país es plantear una tasa de referencia en el mercado primario 
+y, cuando esta baja, es necesario emitir moneda para que el mercado de capitales 
+alcance el equilibrio.\autocite[cap. 5]{lib:mankiw}
+
+La emisión de moneda genera un estímulo en la economía que evita que esta se 
+contraiga de forma pronunciada. Por este motivo, a dicha política se le conoce 
+como *política contracíclica*, pues tiene el efecto contrario al choque 
+aleatorio que deprime la producción. Si no se implementara una política 
+contracíclica, entonces la producción caería y habría efectos negativos sobre el 
+poder adquisitivo de la moneda nacional,\autocite[cap. 5]{lib:mankiw} que es el 
+objetivo central de Banxico.
+
+Con base en lo señalado, puede afirmarse que Banxico está aplicando los 
+mecanismos que tiene a su disposición para hacer frente a los efectos negativos 
+del Coronavirus. Es posible que, si estos continúan en el tiempo, las tasas de
+referencia continúen bajando durante el próximo año.
+
+# Referencias

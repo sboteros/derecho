@@ -1,0 +1,15 @@
+---
+title: Clase 6
+author: Santiago Botero Sierra
+date: 22 de octubre de 2020
+---
+
++ Principios: un punto de partida, un medio para hacer mejor una cosa, una parte
+	esencial del objeto, objetivos que cumplir en una actividad.
++ Principios generales de los contratos:
+	- De autonomía de la voluntad. Artículo 1839, tesis 2008086 y 2001631.
+	- De obligatoriedad
+	- De intangiblidad
+	- De relatividad
+	- Oposición
+	- Imprevisión
