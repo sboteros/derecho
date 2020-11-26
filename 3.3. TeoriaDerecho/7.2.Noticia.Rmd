@@ -1,0 +1,112 @@
+---
+homework: "Análisis de prensa"
+title: "¿Una competencia con un solo jugador?"
+subtitle: "La Comisión Federal de Competencia Económica vs. la Secretaría de Energía"
+author: Santiago Botero Sierra
+date: 31 de octubre de 2020
+---
+
+# Descripción de la noticia
+
+\newcommand{\cofece}{\textsc{Cofece}}
+\newcommand{\sener}{\textsc{Sener}}
+\newcommand{\acuerdo}{\textsc{Acuerdo}}
+\newcommand{\cpeum}{\textsc{Constitución}}
+
+La noticia \citetitle{prensa:controversia} señala que la Comisión Federal de
+Competencia Económica (\cofece) interpuso una  controversia constitucional
+contra la Secretaría de Economía (\sener) por la  afectación a sus competencias
+constitucionales, con ocasión de la emisión  Acuerdo por el que se emite la
+Política de Confiabilidad, Seguridad, Continuidad y Calidad en el Sistema
+Eléctrico Nacional (\acuerdo).^[Publicado en el Diario Oficial de la Federación
+el quince de mayo de dos mil veinte, autocite{prensa:controversia}.]
+
+De acuerdo con  \citeauthor{prensa:controversia}, en caso de que esta
+controversia no tenga un  fallo positivo para la \cofece, se correría el riesgo
+de que el mercado  energético se reoriente hacia una estructura monopólica con
+predominio de una  empresa pública (la Comisión Federal de Electricidad --CFE-);
+en ese caso, los  amparos que se presenten, en aplicación del principio de
+relatividad (o *Fórmula Otero*) únicamente cobijarán, en su caso, a los Agentes
+Económicos (AE) que lo soliciten. Por el contrario, si la Suprema Corte
+de Justicia  de la Nación (SCJN) falla en favor de la \cofece, podrían surgir
+tres supuestos:\autocite{prensa:controversia}
+
+* Definir las relaciones que se podrían establecer, en materia de política
+	energética, entre un órgano constitucional autónomo (OCA) y una
+	dependencia del Ejecutivo Federal que, en este caso, son la \cofece y la
+	\sener, respectivamente.
+* Definir las relaciones económicas que se dan entre los AE del mercado
+	energético y las autoridades ejecutivas (la \sener).
+* Proyectar el impacto de la política energética como un *bien público*, en
+	términos ambientales y para los usuarios, como consecuenia de la
+	invalidación del \acuerdo, con lo que se salvarían las condiciones de
+	competencia  en el mercado eléctrico nacional, pues se evitarían tratos
+	discriminatorios  de la \sener en favor de la CFE.
+
+Entre los argumentos jurídicos de la demanda interpuesta por la \cofece,
+destacan:\autocite{prensa:controversia}
+
+* Respecto a la afectación de la \cofece, se plantea que el \acuerdo viola la
+	esfera competencial de la \cofece, pues la \sener pretende "[e]*stablecer
+	las líneas de política que los*  (...) ***organismos constitucionales
+	autónomos*** (...) ***deben cumplir*** *para garantizar el Suministro
+	Eléctrico confiable* (...)" (énfasis añadido). Con ello, se desconoce el
+	principio de  separación de poderes, pues la \sener pretende obligar a los
+	OCA, entre  ellos la \cofece, "(...) *que se encuentran fuera de su poder
+	jerárquico y más allá de los alcances vinculatorios de su potestad de emitir
+	políticas* (...)", con lo que causaría un menoscabo a la eficacia de sus
+	competencias.
+* Respecto a las atribuciones de la \cofece en materia de competencia en materia
+	energética, pues se le impediría ejercitar sus atribuciones para garantizar
+	la eficiencia en este sector ya que el \acuerdo establece barreras para que
+	los AE establezcan plantas generadoras de energías limpias y asigna un trato
+	discriminatorio en favor de la CFE. En este sentido, la \cofece señaló los
+	cambios que, a su criterio, establece el acuerdo en contravención con la
+	estructura del mercado establecida en la Constitución Política de los
+	Estados Unidos Mexicanos (\cpeum).[^art28]
+
+[^art28]: Al respecto, es de resaltar que el  artículo 28 de la \cpeum establece
+que la \cofece salvaguarda la competencia y la libre concurrencia en los
+mercados mexicanos, a excepción de los de  telecomunicaciones y radiodifusión,
+que corresponden al ámbito de competencia del Instituto Federal de
+Telecomunicaciones (IFT).
+
+Adicionalmente, \citeauthor{prensa:controversia} señala que la SCJN debe
+analizar cuál es su posición frente a la *política* que establezca el Ejecutivo,
+aunque en este caso estima que, más que una política, está ante un \acuerdo que
+en realidad pretende ejercitar facultades regulatorias de las que carece la
+\sener.\autocite{prensa:controversia}
+
+# Comentario
+
+Considero que es importante esta discusión que le plantea la \cofece a la SCJN
+pues la *fórmula Otero* tiene un problema: aún cuando establece que una norma
+podría ser inconstitucional o adolescer de insuficiente motivación o
+fundamentación, esta norma no es expulsada del ordenamiento sino únicamente
+inaplicada en el caso concreto.[^Otero] Esto hace que el acceso a la justicia
+sea costoso y que se puedan aplicar fracciones normativas injustas a las
+personas que no ejerciten los recursos necesarios para ampararse. Por el
+contrario, esta controversia podría tener un impacto en todo el mercado; esto
+es, justamente,  la competencia de la \cofece, que debe proteger a los mercados,
+más que a los AE que participan en ellos.
+
+La pretensión de regular a la \cofece por parte de la \sener es una amenaza al
+desarrollo del estado constitucional, puesto que "[l]*os elementos más
+básicos de todo Estado de derecho como institucionalización jurídica de la
+democracia implicarían* (...) [la] *división del poder, tanto vertical como
+horizontal, pues el Estado de derecho es incompatible con cualquier esquema de
+concentración de poder (...)", lo que implica que el Estado debe ser
+*responsable* de su actuación (*accountability*), lo que implica la existencia
+de controles verticales y  horizontales al ejercicio del poder, entre los que se
+encuentran los OCA.\autocite[269--272]{lib:introduccion2} Al respecto, el
+artículo 49 de la \cpeum establece la división tripartita del poder federal,
+pero "(...) *a esos tres poderes clásicos se han ido agregando otros órganos de
+carácter constitucional autónomo que no forman parte de ninguno de los tres
+poderes tradicionales*".\autocite[263]{lib:introduccion2}
+
+[^Otero]: Al respecto, \citeauthor{prensa:controversia} señala que "[e]*sto es
+una diferencia relevante respecto de los amparos que también se han presentado
+por las empresas afectadas y por organizaciones defensoras del medio ambiente.
+En los primeros casos, los amparos sustentados en el interés jurídico*
+***tendrían como efecto desaplicar el Acuerdo sólo para las empresas que tengan
+éxito***" (énfasis añadido), \autocite{prensa:controversia}.

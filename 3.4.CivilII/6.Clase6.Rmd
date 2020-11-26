@@ -8,8 +8,12 @@ date: 22 de octubre de 2020
 	esencial del objeto, objetivos que cumplir en una actividad.
 + Principios generales de los contratos:
 	- De autonomía de la voluntad. Artículo 1839, tesis 2008086 y 2001631.
-	- De obligatoriedad
-	- De intangiblidad
+	- De obligatoriedad, artículo 1793.
+	- De intangiblidad, artículo 1797; hay límites en el mandato (2596), las
+		donaciones (2359) y la fijación de intereses (2396).
 	- De relatividad
 	- Oposición
 	- Imprevisión
+
++ Cláusula: Es una norma jurídica individualizada creada por uno o más
+	particulares para regular una relación en la que participan.
