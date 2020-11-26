@@ -1,0 +1,63 @@
+---
+title: "Ámbitos de validez de la Ley Federal de Competencia Económica"
+author: Santiago Botero Sierra
+date: 25 de noviembre de 2020
+---
+
+De acuerdo con García Máynez, las normas pueden clasificarse, entre otros
+criterios, por sus ámbitos espacial, temporal, material y personal de
+validez.\autocite[103]{lib:introduccion2} En este documento se explica cada
+uno de dichos ámbitos de validez y se ejemplifica la clasificación de la Ley
+Federal de Competencia Económica (LFCE),[^1] que con base en dichos criterios,
+es federal, de vigencia indeterminada, de derecho público y general,
+respectivamente.
+
+[^1]: Publicada en el Diario Oficial de la Federación (DOF) el 23 de mayo de
+2020.
+
+# Territorial
+
+El ámbito espacial de validez de una norma es la porción del espacio en que un
+precepto es aplicable; en nuestro país, puede ser federal, estatal, municipal o
+de la Ciudad de México.\autocite[104]{lib:introduccion2} Al respecto, el
+artículo 1 de la LFCE señala que esta es "(...) *de observancia general en toda
+la República*". En consecuencia, el ámbito espacial de validez de la LFCE es
+federal.
+
+# Temporal
+
+El ámbito temporal de validez está determinado por el lapso durante el cual la
+norma conserva su vigencia, que puede ser determinada (cuando el plazo está
+determinado de antemano) o indeterminada (cuando la vigencia no está previamente
+definida).\autocite[104]{lib:introduccion2} Al respecto, el artículo primero
+transitorio de la LFCE señala que "[e]*l presente Decreto entratá en vigor al
+día siguiente de su publicación en el Diario Oficial de la Federación*" y no
+hay una regla que determine de forma previa una vigencia; la fecha de
+publicación en el DOF fue el 23 de mayo de 2014. En consecuencia, el ámbito
+temporal de validez de la LFCE comenzó el 24 de mayo de 2014 y tiene un
+periodo de vigencia indeterminado.
+
+# Personal
+
+Con respecto al ámbito personal de validez, las normas pueden ser
+generales o particulares. Las primeras se refieren a todos los sujetos
+normativos comprendidos dentro de la clase designada por la norma; las segundas,
+se refieren a sujetos normativos específicos (p.e. una sentencia o un
+contrato).\autocite[104]{lib:introduccion2} Al respecto, el artículo 4 de la
+LFCE señala que "[e]*stán sujetos a lo dispuesto por esta Ley todos los Agentes
+Económicos*", y el artículo 3 señala que un Agente Económico es "[t]*oda persona
+física o moral* (...)". En consecuencia, la LFCE tiene un ámbito personal de
+validez general.
+
+# Material
+
+El ámbito material de validez de una norma se refiere a la materia que regula
+la norma y, en México, suelen clasificarse en normas de derecho privado (civil
+y mercantil), de derecho público (constitucionales, administrativas, penales,
+procesales e internacionales), y de derecho social (laboral, agrario, seguridad
+social).\autocite[104]{lib:introduccion2} Al respecto, el artículo 1 de la LFCE
+señala que "[l]*a presente Ley es reglamentaria del artículo 28 de la
+Constitución Política de los Estados Unidos Mexicanos en materia de libre
+concurrencia, competencia económica, monopolios, prácticas monopólicas y
+concentraciones, es de orden público e interés social* (...)". En consecuencia,
+por su ámbito material, la LFCE es una norma de derecho público.
