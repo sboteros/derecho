@@ -4,6 +4,8 @@ author: Santiago Botero Sierra
 date: 25 de noviembre de 2020
 ---
 
+# Ámbitos de validez
+
 De acuerdo con García Máynez, las normas pueden clasificarse, entre otros
 criterios, por sus ámbitos espacial, temporal, material y personal de
 validez.\autocite[103]{lib:introduccion2} En este documento se explica cada
@@ -15,7 +17,7 @@ respectivamente.
 [^1]: Publicada en el Diario Oficial de la Federación (DOF) el 23 de mayo de
 2020.
 
-# Territorial
+## Territorial
 
 El ámbito espacial de validez de una norma es la porción del espacio en que un
 precepto es aplicable; en nuestro país, puede ser federal, estatal, municipal o
@@ -24,7 +26,7 @@ artículo 1 de la LFCE señala que esta es "(...) *de observancia general en tod
 la República*". En consecuencia, el ámbito espacial de validez de la LFCE es
 federal.
 
-# Temporal
+## Temporal
 
 El ámbito temporal de validez está determinado por el lapso durante el cual la
 norma conserva su vigencia, que puede ser determinada (cuando el plazo está
@@ -37,7 +39,7 @@ publicación en el DOF fue el 23 de mayo de 2014. En consecuencia, el ámbito
 temporal de validez de la LFCE comenzó el 24 de mayo de 2014 y tiene un
 periodo de vigencia indeterminado.
 
-# Personal
+## Personal
 
 Con respecto al ámbito personal de validez, las normas pueden ser
 generales o particulares. Las primeras se refieren a todos los sujetos
@@ -49,7 +51,7 @@ Económicos*", y el artículo 3 señala que un Agente Económico es "[t]*oda per
 física o moral* (...)". En consecuencia, la LFCE tiene un ámbito personal de
 validez general.
 
-# Material
+## Material
 
 El ámbito material de validez de una norma se refiere a la materia que regula
 la norma y, en México, suelen clasificarse en normas de derecho privado (civil
@@ -61,3 +63,101 @@ Constitución Política de los Estados Unidos Mexicanos en materia de libre
 concurrencia, competencia económica, monopolios, prácticas monopólicas y
 concentraciones, es de orden público e interés social* (...)". En consecuencia,
 por su ámbito material, la LFCE es una norma de derecho público.
+
+# Antinomias
+
+La *coherencia* es la pretensión de que las normas que integran un ordenamiento
+jurídico sean compatibles entre sí; cuando esta pretensión no se realiza,
+entonces aparecen las antinomias. En este sentido, las antinomias se presentan
+cuando dos normas pertenecen a un mismo ordenamiento jurídico, tienen el mismo
+ámbito de validez (temporal, espacial, personal y material) y son incompatibles
+entre sí. La incompatibilidad puede ser total--total, parcial--parcial o
+total--parcial; la segunda se presenta cuando "(...) *cada una de las normas
+tiene un campo de aplicación que está en conflicto con el de la otra, y un campo
+de aplicación en el que el conflicto no
+existe*".\autocite[134]{lib:introduccion2}
+
+Entre los criterios para la solución de antinomias se encuentran el cronológico
+(*lex posterior derogat priori*), el jerárquico (*lex superior derogat
+inferiori*), el de especialidad (*lex specialis derogat generali*), el de
+favorabilidad (*lex permissiva derogat imperativa*), el de competencia y el de
+prevalencia. El criterio de competencia atiende al análisis del órgano que
+emite la norma y tiene tres características básicas: "(...) *se ha de dar un
+conflicto entre normas provenientes de fuentes diferentes, entre las dos fuentes
+en cuestión no ha de haber una relación de jerarquía y cada una de las normas en
+conflicto por razón de la materia debe tener una esfera de competencias
+exclusivas y regular unas materias concretas*".\autocite[134--135]{lib:introduccion2}
+
+\newcommand{\cofece}{\textsc{Cofece}}
+\newcommand{\sener}{\textsc{Sener}}
+\newcommand{\acuerdo}{\textsc{Acuerdo}}
+\newcommand{\cpeum}{\textsc{Constitución}}
+
+La noticia \citetitle{prensa:controversia} señala que la Comisión Federal de
+Competencia Económica (\cofece) interpuso una  controversia constitucional
+contra la Secretaría de Energía (\sener) por la  afectación a sus competencias
+constitucionales, con ocasión de la emisión  Acuerdo por el que se emite la
+Política de Confiabilidad, Seguridad, Continuidad y Calidad en el Sistema
+Eléctrico Nacional (\acuerdo),^[Publicado en el Diario Oficial de la Federación
+el quince de mayo de dos mil veinte, autocite{prensa:controversia}.] que
+pretende "[e]*stablecer las líneas de política que los*  (...) ***organismos
+constitucionales autónomos*** (...) ***deben cumplir*** *para garantizar el
+Suministro Eléctrico confiable* (...)" (énfasis añadido).
+
+Al respecto, considero que esta parte del \acuerdo es una antinomia con respecto
+al artículo 28 de la Constitución, párrafo décimocuarto, que establece que
+"[e]*l Estado contará con una Comisión Federal de Competencia Económica, que
+será un* **órgano autónomo**" (énfasis añadido). En este sentido, la antinomia
+se presenta porque  una autoridad del poder ejecutivo pretende imponer un deber
+de cumplimiento a  un órgano autónomo que no tiene una relación de jerarquía con
+ella. Por lo tanto, considero que se trata de una antinomia parcial--parcial,
+pues tanto la \sener como la \cofece continúan ejercitando sus atribuciones en
+todas las demás partes normativas que les son propias, y el resto del \acuerdo
+subsiste. Creo que esta antinomia no se resolverá a través de los criterios
+clásicos para la resolución de antinomias, sino a partir del criterio de
+competencia, pues no existe una relación de jerarquía entre la \cofece y la
+\sener y ambas autoridades son especialistas en sus respectivos ámbitos
+materiales (la competencia económica y la energía, respectivamente).
+
+# Lagunas
+
+Las lagunas surgen como consecuencia de la pretensión de plenitud hermenéutica
+del derecho, es decir, el ideal de que exista una norma para regular cada caso
+en el ordenamiento jurídico. Entre las tipologías de lagunas se encuentra la
+clasificación de las ideológicas o impropias (que implican la ausencia de una
+solución satisfactoria, es decir, de una norma justa relativa al caso) y las
+propias o reales (que entrañan la ausencia normativa o de criterios adecuados
+referentes al caso).\autocite[138--139]{lib:introduccion2}
+
+De acuerdo con \citeauthor{art:mena}, en México se corre el
+riesgo de que acuerdos entre competidores que puedan ser pro-competitivos sean
+sancionados como nulos de pleno derecho por la \cofece o deban surtir el
+procedimiento establecido para la notificación de concentraciones. Al respecto,
+señala que
+
+> "(...) *la gran mayoría de casos* [de acuerdos de colaboración entre
+> competidores] *dichos acuerdos no tienen el propósito o el efecto de
+> restringir la competencia en forma alguna. Sin embargo, la lista de conductas*
+> [prohibidas] *es tan amplia que sería muy riesgoso para las partes descartar
+> cualquier posibilidad de encuendar en uno de sus
+> parágrafos*" (traducción libre).\autocite{art:mena}
+
+Para solucionar esta situación, la Autoridad Investigadora elaboró el borrador
+de una Guía sobre Acuerdos de Colaboración Entre Competidores, que fue rechazada
+por el Pleno de la \cofece. Por lo tanto, dichos acuerdos deben ser
+autoevaluados por los propios agentes, o ser notificados mediante el
+procedimiento de control de concentraciones; no obstante, este procedimiento,
+de acuerdo con \citeauthor{art:mena} es largo e intensivo en
+documentación. En el mismo sentido, señalan que "(...) *casi ningún acuerdo de
+colaboración tiene la naturaleza  de una concentración, debemos entender también
+que requerirles una revisión  demorada puede destruir su valor como estrategia
+de negocios*" (traducción libre).\autocite{art:mena}
+
+Con base en lo señalado por \citeauthor{art:mena}, considero que
+la ausencia de una regulación clara sobre los acuerdos de colaboración entre
+competidores que puedan tener efectos pro-competitivos es una laguna ideológica
+o impropia en el sistema de defensa de la competencia en méxico, pues implica
+que no hay una solución satisfactoria para los mismos: las empresas quedan en
+situación de incertidumbre al llevarlos a cabo, pues deben confiar en su
+autoevaluación; o deben someterse al procedimiento del control de
+concentraciones que no les es propio.
