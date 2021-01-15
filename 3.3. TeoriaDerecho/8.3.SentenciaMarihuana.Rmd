@@ -1,0 +1,360 @@
+---
+title: Sentencia de la SCJN con respecto al consumo recreativo de marihuana
+author: Santiago Botero Sierra
+date: 29 de noviembre de 2020
+---
+
+\newcommand{\marihuana}{\textsc{Sentencia de la Marihuana}}
+
+\citeauthor{lib:marihuana} explica que la sentencia del amparo en revisión
+237/2014 (\marihuana) posibilitó un amplio debate en el país con respecto a los
+alcances del derecho humano al libre desarrollo de la personalidad y sus
+implicaciones sobre las actividades recreativas que eligen los adultos, como el
+uso recreativo de la marihuana. En ese sentido, señala que la deliberación
+democrática puede ser profundizada e impulsada a través del derecho
+constitucional, pues los tribunales constitucionales pueden contribuir a la
+democracia deliberativa tanto parlamentaria como de la opinión pública, como se
+explica a continuación.\autocite{lib:marihuana}
+
+# Tribunales constitucionales y procesos deliberativos
+
+Con respecto a la deliberación pública, las sentencias constitucionales pueden
+ayudar a impulsar el debate en la opinión pública, que "(...) *tiene como tarea
+criticar y controlar formal (elecciones) e informalmente el ejercicio del poder
+estatal*". Para ello, sus contribuciones pueden ser para igualar las
+oportunidades de participación en el debate público, fortalecer el debate en
+tiempos electorales, promover la deliberación en asuntos controvertidos y
+proveer argumentos en asuntos públicos.\autocite[205--208]{lib:marihuana}
+
+Por su parte, los aportes a través de la contribución parlamentaria los puede
+realizar "(...) *obligando a que los legisladores cumplan con su función de
+legislar*". Para ello, los tribunales pueden ser foro para la expresión de
+argumentos que, de otra manera, serían desatendidos en sede parlamentaria,
+ayudar a reconsiderar los argumentos que fueron considerados en la discusión
+parlamentaria o proveer nuevos argumentos. En este último aspecto,
+\citeauthor{lib:marihuana} señala que "(...) *mientras que en los procesos
+constitucionales es necesaria la presentación de argumentos basados en la
+Constitución* (...), *en la deliberación política su consideración es eventual*"
+y que "(...) *los jueces pueden ayudar a subsanar lo que Dixon ha denominado
+como 'puntos ciegos' que se deben a que el legislativo no siempre puede prever
+los casos en que la inconstitucionalidad de una ley deviene de su
+aplicación*".\autocite[195--198]{lib:marihuana}
+
+# Resolución de antinomias
+
+Al respecto, conviene enmarcar este aporte de la justicia constitucional al
+proceso legislativo como un intento de alcanzar la plenitud hermenéutica del
+ordenamiento jurídico, pues obligar a que el legislador cumpla con su función
+legislativa tiene la pretención de que el ordenamiento jurídico carezca de
+lagunas para regular un caso concreto:
+
++ Permitir la consideración de argumentos que no fueron tenidos en cuenta, da
+    cuenta de la importancia de disminuir la existencia de *lagunas subjetivas*,
+    que  "(...) *son producto de la negligencia del legislador*" o que fueron
+    dejadas en  los códigos de forma intencional por él; lo que las diferencia
+    de las *lagunas objetivas*, que son independientes de su
+    voluntad.\autocite[139]{lib:introduccion2}
++ Asimismo, eliminar los puntos ciegos de la regulación hace referencia a la
+    eliminación de las *lagunas de conocimiento*, que "(...) *resulta*[n] *de la
+    ausencia de información sobre los hechos del caso*", lo que las distingue de
+    las *lagunas de reconocimiento*, que surgen como producto de la
+    indeterminación semántica.\autocite[139]{lib:introduccion2}
+
+# Resolución de lagunas
+
+Similarmente, este aporte a la deliberación parlamentaria también busca
+contribuir a alcanzar la coherencia del ordenamiento jurídico, pues la no
+consideración de argumentos basados en la Constitución dentro del procedimiento
+legislativo puede llevar a la emergencia de antinomias. Esto sucedería cuando
+las normas emanadas del legislativo entran en contradicción con los principios
+del sistema jurídico. En este sentido, cuando existe un choque entre principios,
+el intérprete constitucional debe acudir a la *ponderación*, pues no son
+aplicables los mecanismos de solución de antinomias que le aplican a las
+reglas.\autocite[133--138]{lib:introduccion2}
+
+En efecto, \citeauthor{lib:marihuana} señala que, a través de la aplicación del
+*test de proporcionalidad*, "(...) *se trata de analizar la constitucionalidad
+de la posible restricción de un derecho fundamental o la afectación de un
+principio por una decisión legislativa, administrativa o
+judicial*";\autocite[199]{lib:marihuana} es decir, eliminar antinomias entre
+reglas y principios.
+
+# Aportes de la \marihuana
+
+Estos aportes de la deliberación constitucional fueron observados en la
+\marihuana, pues "(...) *esta contribuyó al debate público de diversas formas*
+(...) *tanto en la esfera pública informal como en sede
+parlamentaria*":\autocite[208--2014]{lib:marihuana}
+
++ "(...) [E]*l presidente de la República convocó a un Debate Nacional sobre el
+    Uso de la Marihuana*",
++ "(...) [L]*a Cámara de Senadores organizó audiencias públicas sobre las
+    alternativas de regulación de marihuana y creó el Consejo Técnico para las
+    Alternativas de Regulación de la Marihuana*",
++ "*En la Cámara de Senadores se presentaron distintas iniciativas de reforma a
+    la Ley General de Salud y otras leyes para regular el uso medicinal y lúdico
+    de la marihuana* (...)", y
++ "(...) [E]*l Instituto de Investigaciones Jurídicas de la UNAM creó un
+    micrositio destinado al análisis de la sentencia* (...)".
+
+# Reglas de aplicación del derecho
+
+Con base en lo señalado anteriormente en relación con la \marihuana, en esta
+sección se aplica un tamiz para identificar la técnica jurídica empleada por  la
+Suprema Corte de Justicia de la Nación (SCJN) en la resolución del caso sometido
+a  su consideración:
+
++ Identificar el problema a resolver: La SCJN tuvo que identificar que el caso
+    sometido a su consideración trataba de la restricción al ejercicio del
+    derecho humano al libre desarrollo de la personalidad que implicaban
+    diversas disposiciones que impedían el consumo lúdico de marihuana por parte
+    de los accionantes.
++ Naturaleza jurídica de la SCJN: La SCJN es uno de los organos que ejercen el
+    Poder Judicial de la Federación, se compone de once ministros y funciona en
+    Pleno o en Salas, de conformidad con la Ley Orgánica del Poder Judicial de
+    la Federación,^[Publicado en el Diario Oficial de la Federación (DOF) el 26
+    de mayo de 1995.] artículos 1 y 2. Al respecto, en la página de internet de
+    la SCJN se señala que:
+
+    > "*La Suprema Corte de Justicia de la Nación es el Máximo Tribunal
+    > Constitucional del país y cabeza del Poder Judicial de la Federación.
+    > Tiene entre sus responsabilidades defender el orden establecido por la
+    > Constitución Política de los Estados Unidos Mexicanos; mantener el
+    > equilibrio entre los distintos Poderes y ámbitos de gobierno, a través de
+    > las resoluciones judiciales que emite; además de solucionar, de manera
+    > definitiva, asuntos que son de gran importancia para la sociedad. En esa
+    > virtud, y toda vez que imparte justicia en el más alto nivel, es decir, el
+    > constitucional, no existe en nuestro país autoridad que se encuentre por
+    > encima de ella o recurso legal que pueda ejercerse en contra de sus
+    > resoluciones*".^[https://www.scjn.gob.mx/conoce-la-corte/que-es-la-scjn]
+
++ Recabación de disposiciones normativas: diversos artículos de la Ley General
+    de Salud que prevén un sistema de prohibiciones administrativas para
+    sembrar, cultivar, cosechar, preparar, poseer y transportar la marihuana con
+    el fin de su consumo lúdico personal, excluyendo del análisis las
+    actividades relacionadas con el comercio. Específicamente, en relación con
+    la producción, uso y autoconsumo del estupefaciente “cannabis” y el
+    psicotrópico “THC”, en conjunto conocidos como “marihuana” las fracciones
+    normativas analizadasde dicha ley fueron:
+
+    - Artículo 235, último párrafo.
+    - Artículo 237
+    - Artículo 245, fracción I
+    - Artículo 247, último párrafo
+    - Artículo 248, todos de la Ley General de Salud.
+
++ Interpretación de las disposiciones: la SCJN utilizó el *test de
+    proporcionalidad* como metodología para la interpretación de las
+    disposiciones a la luz del derecho humano al libre desarrollo de la
+    personalidad. Al respecto, \citeauthor{lib:marihuana} señala que "(...) *lo
+    que analizamos a través del test de proporcionalidad es si la regulación
+    legislativa, la determinación administrativa o judicial, o la actuación de
+    los particulares sobre esos derechos subjetivos, libertades, etcétera, se
+    justifican a la luz de los fines, la relación medio-fin y el balance entre
+    principios*", y que esta prueba goza de tres características cuando se la
+    considera desde su estructura de
+    justificación:\autocite[200--202]{lib:marihuana}
+
+    - "(...) [S]*e analiza la decisión de otros poderes y los problemas se  
+        plantean en términos de derechos, lo que implica que están presentes en
+        la discusión*",
+    - "(...) [E]*s una estructura ordenada y transparente de argumentación que
+        sirve para disciplinar y racionalizar las decisiones judiciales*", y
+    - "(...) [D]*a la oportunidad para que las autoridades expliciten las
+        razones, los fines, los medios, etcétera, de sus decisiones que dan
+        contenido a los derechos fundamentales*"
+
++ Valoración sobre la aplicación de las normas al caso concreto: la SCJN
+    determinó que las normas analizadas resultaron inconstitucionalidades y,
+    por lo tanto, no resultaban aplicables al caso concreto; es decir, no
+    aplicarían para los cuatro quejosos.
++ Resolución de los problemas de antinomias: De acuerdo con
+    \citeauthor{lib:introduccion2}, "(...) *la antinomia jurídica es una
+    situación en la que dos normas son incompatibles a condición de que ambas
+    permanezcan en el mismo ordenamiento y estén dentro de similar ámbito de
+    validez*".\autocite[134]{lib:introduccion2} En el caso bajo análisis, la
+    SCJN determinó que la solución de la antinomia encontrada con el derecho
+    humano al libre desarrollo de la personalidad consistía en la inaplicación
+    de las normas impugnadas para los quejosos.
++ Integración para el cubrimiento de lagunas normativas: en el caso no se
+    presentó una ausencia de regulación, sino un exceso de la misma; por lo
+    tanto, no hubo una laguna sino una antinomia. De acuerdo con
+    \citeauthor{lib:introduccion2}, el mayor uso del derecho constitucional
+    permite que existan menos lagunas pues hay un mayor margen de interpretación
+    del ordenamiento jurídico, al respecto plantea que:
+
+    > "*Ante la existencia de lagunas jurídicas, por falta de regla expresa, el
+    > principio constitucional se hace presente y a través de él se soluciona la
+    > aparente laguna. En las teorías tradicionales del derecho, cuando no se
+    > asumía la existencia de principios constitucionales, las lagunas tenían
+    > que resolverse acudiendo a la interpretación analógica o a los principios
+    > generales del derecho. Con la admisión de los principios constitucionales,
+    > por su carácter normativo y jerárquico, muchas de las lagunas dejan de
+    > serlo, pues existen normas jurídicas —los principios constitucionales— que
+    > por su sentido maximizador, irradiador y orientador del ordenamiento
+    > pueden ser aplicables a los casos
+    > concretos*".\autocite[142]{lib:introduccion2}
+
++ Cuando la letra de la ley es clara no debe eludirse el texto para penetrar su
+    espíritu: En este caso la letra de la ley es clara frente a la prohibición
+    absoluta de determinadas actividades con respecto a la marihuana; pero se
+    determinó que el espíritu de dichas normas, aunque idóneo y necesario,
+    resultaba excesivo para lograr los fines legítimos de la regulación estatal.
++ Donde la ley (legislador) no distingue, nosotros no debemos distinguir: el
+    principio de relatividad de las sentencias de amparo hace que la \marihuana
+    solo proteja a los quejosos; aunque, si la conclusión fue que los artículos
+    bajo análisis eran inconstitucionales, debiera darse una protección que
+    irradie hacia las demás personas que también están sujetas al cumplimiento
+    de las normas inconstitucionales.
++ Cuando existe la misma razón entre dos casos debe aplicarse la misma
+    disposición: como lo señalé previamente, debiera permitirse que la
+    inaplicación de las normas inconstitucionales irradie hacia los demás
+    ciudadanos, que están sujetos a su cumplimiento pese a que la \marihuana las
+    declaró inconstitucionales.
++ La razón debe ser exactamente la misma para que se pueda aplicar la misma
+    disposición porque la mínima diferencia en el hecho puede inducir
+    consecuencias de derecho diferentes: en contraposición a lo señalado en los
+    dos incisos previos, este principio general del derecho brinda una
+    justificación al principio de relatividad de las sentencias de amparo,
+    también conocido como *fórmula Otero*. Al respecto, considero que la
+    *fórmula Otero* tiene un problema: aún cuando establece que una norma podría
+    ser inconstitucional o adolescer de insuficiente motivación o
+    fundamentación, esta norma no es expulsada del ordenamiento sino únicamente
+    inaplicada en el caso concreto, lo que hace que el acceso a la justicia sea
+    costoso y que se puedan aplicar fracciones normativas injustas a las
+    personas que no ejerciten los recursos necesarios para ampararse. Al
+    respecto, la SCJN ha señalado:
+
+    > "***PRINCIPIO DE RELATIVIDAD DE LAS SENTENCIAS. LO DECIDIDO EN ÉSTAS SÓLO
+    > AFECTA LA CONDICIÓN JURÍDICA DEL QUEJOSO, POR LO QUE SUS EFECTOS NO PUEDEN
+    > EXTENDERSE O LIMITAR EL CRITERIO DEL JUZGADOR AL RESOLVER LA SITUACIÓN DE
+    > DIVERSO QUEJOSO (COSENTENCIADO), AUN CUANDO AMBOS JUICIOS EMANEN DEL MISMO
+    > PROCEDIMIENTO PENAL Y PARA LA EMISIÓN DEL ACTO RECLAMADO SE HAYAN
+    > PONDERADO IDÉNTICAS PRUEBAS.*** *Los artículos 107, fracción II, de la
+    > Constitución Política de los Estados Unidos Mexicanos y 73 de la Ley de
+    > Amparo contienen la llamada "Fórmula Otero" o principio de relatividad de
+    > los efectos de la sentencia que consiste, esencialmente, en que las que se
+    > pronuncien en los juicios de amparo sólo se ocuparán de los individuos que
+    > lo hayan solicitado. La esencia de este postulado radica en que la
+    > sentencia que conceda el amparo únicamente protege los intereses jurídicos
+    > del quejoso, sin poder realizar una declaración general de
+    > inconstitucionalidad. Esto es, destaca el carácter individualista del
+    > amparo, el cual no constituye una defensa directa de la
+    > constitucionalidad, sino sólo la del gobernado frente al Estado. En esos
+    > términos, aun cuando exista una sentencia de amparo ejecutoriada
+    > pronunciada previamente y emitida en relación con un cosentenciado del
+    > quejoso en la que en determinado tiempo se avaló su apego a la Máxima Ley,
+    > tal determinación sólo afecta la condición jurídica de quien promovió
+    > aquella acción de amparo, pero no puede hacer extensivos sus efectos o
+    > limitar el criterio del juzgador al resolver la situación de un sujeto
+    > diverso, quien con posterioridad demandó el amparo, aun cuando ambos
+    > juicios emanen del mismo procedimiento penal e, incluso, que para la
+    > emisión del acto reclamado (el mismo, en los dos juicios) se haya
+    > ponderado idéntico material probatorio, porque de acuerdo con el principio
+    > de relatividad, la sentencia dictada en un juicio de amparo sólo es eficaz
+    > en relación con el gobernado que lo demandó; máxime cuando a la fecha en
+    > que el órgano de control constitucional se pronuncia, existe diverso
+    > desarrollo jurisprudencial en materia de derechos humanos, que lo obligan
+    > a resolver de forma distinta a la anterior.*" (Tesis aislada I.1o.P.87 P
+    > (10a.), con número de rubro 2015811).
+
++ Cuando la ley expresamente autoriza lo más tácitamente permite lo menos:
+    Debemos asumir que, si la SCJN autoriza que los adultos elijan libremente
+    las actividades lúdicas que deseen siempre que no afecten a terceros, como
+    la marihuana, también se autorizan otras actividades que no tengan impactos
+    negativos sobre la salud.
++ Cuando la ley prohíbe lo menos, con mayor razón prohíbe lo más: las normas
+    bajo análisis prohibían el uso lúdico de la marihuana para los accionantes,
+    entonces con mayor razón prohiben el uso de otras sustancias psicotrópicas
+    con efectos más adictivos y dañinos que la marihuana.
++ El principio romano *inclusio unius exlusio alterius, quod lex dicit de uno,
+    negat de altero*, que dispone que lo que se le aplica a uno, excluye al otro
+    que se encuentra en una situación diferente, constituye el fundamento del
+    argumento *a contrario sensu*. Con base en este principio se puede afirmar
+    que el derecho humano al libre desarrollo de la personalidad protege a los
+    individuos para que puedan elegir libremente las actividades lúdicas que
+    deseen realizar, pues el Estado no tiene un fin perfeccionista con respecto
+    a los individuos.
++ Se prohíbe por tanto el argumento *ad absurdum* en la integración en sentido
+    contrario.
++ *Lex posteriori derogat legi priori*: De acuerdo con
+    \citeauthor{lib:introduccion2}, "[e]*l criterio cronológico nos dirá que la
+    ley posterior deroga a la anterior* (Lex posterior derogat
+    priori)".\autocite[134]{lib:introduccion2} Al respecto, actualmente se
+    discute en el Congreso de la Unión una iniciativa para permitir el consumo
+    recreativo de la marihuana; por lo tanto, en caso de ser aprobada la
+    iniciativa (a más tardar el 15 de diciembre de este año), se derogarían las
+    disposiciones declaradas inconstitucionales en la \marihuana.
++ *Lex generalis non derogat legi speciali*: De acuerdo con
+    \citeauthor{lib:introduccion2}, "[e]*l tercer criterio determina que la ley
+    especial deroga a la general* (Lex specialis derogat
+    generali)".\autocite[134]{lib:introduccion2} la inciativa señalada en el
+    inciso anterior trata específicamente sobre la marihuana, a diferencia de la
+    Ley General de Salud, que trata el asunto de la salud humana en general; por
+    lo tanto, en caso de ser aprobada la iniciativa (a más tardar el 15 de
+    diciembre de este año), se derogarían las disposiciones declaradas
+    inconstitucionales en la \marihuana.
++ *Lex primaria derogat subsidiarte*: De acuerdo con
+    \citeauthor{lib:introduccion2}, "[e]*l criterio jerárquico establece que
+    frente a dos normas incompatibles prevalece la norma jerárquicamente
+    superior* (Lex superior derogat
+    inferiori)".\autocite[134]{lib:introduccion2} la \marihuana hizo que, en el
+    caso concreto, prevalecieran las disposiciones constitucionales en materia
+    de derechos humanos por sobre la disposición infraconstitucional establecida
+    en la Ley General de Salud.
++ *Odia restringenda, favores ampleandi*: De acuerdo con
+    \citeauthor{lib:introduccion2}, "[e]*l cuarto criterio nos dirá que
+    apliquemos la norma más favorable y no la odiosa. En otras palabras, la
+    norma que concede una libertad y no aquella que impone una obligación* (Lex
+    permissiva *es* favorabilis*, y una* Lex imperativa *es*
+    odiosa).".\autocite[135]{lib:introduccion2} la interpretación realizada en
+    la \marihuana interpreta en sentido expansivo el derecho humano al libre
+    desarrollo de la personalidad y restringe la aplicación de las disposiciones
+    declaradas inconstitucionales.
++ Aplicación del principio *pro personae*: la restricción de la ley perjudicial
+    para garantizar la maximización del goce del derecho humano al libre
+    desarrollo de la personalidad es una aplicación del principio *pro personae*.
++ Aplicación del control de convencionalidad: la solución en del caso concreto
+    a través de la \marihuana aplica el control de convencionalidad pues
+    garantiza el goce efectivo de los derechos humanos a las personas y
+    contribuye a actualizar el marco normativo interno para armonizarlo con el
+    sistema interamericano. A este respecto, debe señalarse que la SCJN ha
+    establecido que se ejercerá tanto el control de convencionalidad como el
+    de constitucionalidad, que pueden ser concentrados o difusos:
+
+    > "***CONTROL CONCENTRADO Y DIFUSO DE CONSTITUCIONALIDAD Y CONVENCIONALIDAD.
+    > SUS DIFERENCIAS.*** *De los artículos 1o. y 133 de la Constitución
+    > Política de los Estados Unidos Mexicanos, deriva que el control
+    > concentrado de constitucionalidad y convencionalidad respecto de normas
+    > generales por vía de acción está depositado exclusivamente en los órganos
+    > del Poder Judicial de la Federación, quienes deciden en forma terminal y
+    > definitiva, por medio del análisis exhaustivo de los argumentos que los
+    > quejosos propongan en su demanda o en los casos en que proceda la
+    > suplencia de la queja, si una disposición es contraria o no a la
+    > Constitución Federal y a los tratados internacionales sobre derechos
+    > humanos de los que el Estado Mexicano sea parte. Por su parte, el control
+    > difuso que realizan las demás autoridades del país, en el ámbito de su
+    > competencia, se ejerce de manera oficiosa, si y sólo si, encuentran
+    > sustento para ello, respaldándose en el imperio del cual están investidas
+    > para juzgar conforme a la Constitución. Por tanto, el control ordinario
+    > que ejercen estas autoridades en su labor cotidiana, es decir, en su
+    > competencia específica, se constriñe a establecer la legalidad del asunto
+    > sometido a su consideración con base en los hechos, argumentaciones
+    > jurídicas, pruebas y alegatos propuestos por las partes, dando
+    > cumplimiento a los derechos fundamentales de audiencia, legalidad, debido
+    > proceso y acceso a la justicia. Es aquí donde el juzgador ordinario, al
+    > aplicar la norma, puede contrastar, de oficio, entre su contenido y los
+    > derechos humanos que reconoce el orden jurídico nacional (esto es,
+    > realizar el control difuso) en ejercicio de una competencia genérica, sin
+    > que la reflexión que realiza el juez común, forme parte de la disputa
+    > entre actor y demandado. En ese sentido, la diferencia toral entre los
+    > medios de control concentrado y difuso estriba, esencialmente, en que en
+    > el primero es decisión del quejoso que el tema de inconstitucionalidad o
+    > inconvencionalidad de la ley forme parte de la litis, al plantearlo
+    > expresamente en su demanda de amparo; mientras que en el segundo, ese tema
+    > no integra la litis, que se limita a la materia de legalidad (competencia
+    > específica); no obstante, por razón de su función, por decisión propia y
+    > prescindiendo de todo argumento de las partes, el juzgador puede
+    > desaplicar la norma que a su criterio no sea acorde con la Constitución o
+    > con los tratados internacionales en materia de derechos humanos.*" (Tesis
+    > Aislada 1a. CCLXXXIX/2015 (10a.), con número de registro 2010143)

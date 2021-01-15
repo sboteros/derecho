@@ -1,0 +1,32 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 13 de enero de 2021
+---
+
+- Calificación:
+    + Parcial, 35%.
+    + Tareas, 5%.
+        - Investigación sobre la firma electrónica: cuál es el marco jurídico,
+            qué dice, cuáles son las aplicaciones, ¿funciona pegar la foto de la
+            firma?, una  opinión. 5 cuartillas. 17 de febrero a las 10:00 p.m.
+        - Lectura de un libro de al menos 200 páginas, con la que hay que llenar
+            un cuestionario. 21 de abril.
+        - Otras tareas, que dependen del avance.
+    + Caso final, 50%. 14 de abril, entrega de borrador del contrato.
+    + Participación, 10%.
+
+- Contrato
+    + La RAE define contrato y convenio de forma interrelacionada, por lo que
+        no permitiría diferenciar entre ambos conceptos.
+    + Zamora y Valencia: "Acuerdo de voluntades entre dos o más personas para
+        crear o transmitir derechos y obligaciones de caracter patrimonial."
+    + Artículo 1792 del CC. Convenio: crea, transfiere, modifica o extingue
+        obligaciones.
+    + Artículo 1793 del CC. Los contratos son convenios que producen o
+        transfieren.
+
+- Elementos del contrato (1794)
+    + Consentimiento
+    + Objeto
+    + Solemnidad o forma

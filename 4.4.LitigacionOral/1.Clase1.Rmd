@@ -1,0 +1,22 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 14 de enero de 2021
+---
+
++ Teléfono: 7711435479
+
++ Películas:
+    - [El túnel](https://www.youtube.com/watch?v=LbB3GpJDJ_M)
+    - [Presunto culpable](https://www.youtube.com/watch?v=jw901iRgSh4)
+    - [Mi primo Vinny](https://www.youtube.com/watch?v=jw901iRgSh4 )
+    - Cuestión de honor
+    - El crimen perfecto
+    - Doce hombres en pugna
+    - Matar un ruiseñor
+    - [Homicidio de un domingo en la mañana](https://www.youtube.com/watch?v=H4wjb1V6FLw)
+    - El juez (Netflix)
+    - El defensor
+    - El abogado del diablo
++ Leer sobre la reforma constitucional penal, http://www.iluminemosmexico.org.mx/ABCnsjpm5edSpred.pdf
++ El rey de los pleitos. Grisham.

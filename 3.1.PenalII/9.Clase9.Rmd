@@ -1,5 +1,53 @@
 ---
-title: Clase 9
+title: Clase 11
 author: Santiago Botero Sierra
-date: 14 de noviembre de 2020
+date: 5 de diciembre de 2020
 ---
+
++ Abuso de confianza
+    - Artículo 227
+    - Núcleo o verbo rector: disponer; es actuar como dueño.
+    - Es una conducta de acción.
+    - Presupuesto: Antes tuvo que haber una transmisión de la tenencia, pero no
+        el dominio.
+
++ Fraude
+    - Artículo 230
+    - Puede ser de acción (por medio de engaño) o de omisión simple
+        (aprovechando el error)
+    - Objeto formal: patrimonio
+    - Objeto material: cosa
+    - Resultado: Hacerse ilícitamente de algo u obtener un lucro indebido.
+    - Nexo: causal y/o normativo.
+    - No requiere calidades de los sujetos, ni circunstancias de tiempo, modo o
+        lugar.
+    - Medios comisivos: engaño o aprovechamiento del error.
+
++ Despojo
+    - Artículo 237
+    - Conducta de acción, *de propia autoridad*.
+    - Núcleos o verbos rectores: *i)* ocupar un inmueble ajeno, *ii)* hacer
+        uso de un inmueble ajeno, *iii)* hacer uso de un derecho real ajeno;
+        *iv)* ocupar un inmueble propio en casos no permitidos por hallarse en
+        poder de otra persona, *v)* ejercer actos de dominio que lesionen
+        legítimos derechos del ocupante en un inmueble propio; o, *vi)* cometer
+        despojo de aguas.
+    - No hay calidad específica en los sujetos activo ni pasivo.
+    - Es de lesión al bien jurídicamente tutelado, aunque también existe la
+        tentativa.
+    - Bien jurídicamente tutelado: patrimonio.
+    - Objeto formal: patrimonio.
+    - Objeto material: el inmueble.
+    - Resultadao: Material.
+    - Nexo: causalidad.
+    - Medios comisivos: *i)* violencia (física o moral), *ii)* engaño o *iii)*
+        furtivamente.
+    - Dolo.
+    - No hay elementos subjetivos.
+    - Elementos normativos: están las definiciones de violencia, furtividad y
+        engaño.
+    - Circunstancias modificativas del tipo penal:
+
+        * Grupo o grupos mayores a 5 personas.
+        * Sujeto pasivo mayor de 60 años o con discapacidad.
+        * Reincidencia.

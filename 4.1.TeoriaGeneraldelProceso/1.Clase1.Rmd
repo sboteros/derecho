@@ -1,0 +1,38 @@
+---
+title: Clase 1
+author: Santiago Botero Sierra
+date: 9 de enero de 2021
+---
+
++ Evaluación:
+    - Asistencia, 10%
+    - Participación en clase, actividades, aportación de películas y/o series
+        con contenido jurídico, 10%
+    - Proyecto final práctico, 50%
+    - Examen teórico, 30%
+    - Guías de estudio, puntuación extra
+
++ ¿Qué es?
+    - Teoría general del derecho procesal; el proceso es uno de los institutos
+        del derecho procesal.
+    - Se introdujo en los currículos por sugerencia de Niceto Alcalá Zamora, que
+        lo define como la "*Exposición de los conceptos, instituciones y
+        principios comunes a las  distintas ramas del enjuiciamiento.*"
+    - Estudia la función jurisdiccional del estado.
+    - Sociedad humana y conflictos de interés y derechos: defensa privada o
+        actividad del Estado. El derecho procesal es la reglamentación de la
+        facultad del Estado para resolver conflictos con base en los principios
+        de restringir dicha facultad y determinar la norma para su ejercicio.
+    - La jurisdicción, normalmente, debiera ser la principal alternativa para la
+        solución de conflictos en la sociedad. Cuando el conflicto se somete al
+        proceso jurisdiccional, Carnelutti le denomina litigio.
++ Litigio
+    - Proviene del latín *lis litis*.
+    - No es el proceso como tal, porque para que haya proceso se requiere un
+        litigio.
+    - Carnelutti llama litigio al conflicto de intereses calificado por la
+        pretensión de uno de los interesados y por la resistencia del otro.
+    - Alcalá-Zamora le agrega a dicho concepto la trascendencia jurídica.
+    - 3 elementos de la definición: conflicto de intereses (pretensión),
+        resistencia, y trascendencia jurídica (por el choque entre la pretensión
+        y la resistencia).

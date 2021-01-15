@@ -1,0 +1,57 @@
+---
+homework: "Análisis de prensa"
+title: "Seguro vendrán más Assanges en el futuro"
+author: Santiago Botero Sierra
+date: 29 de noviembre de 2020
+---
+
+# Descripción de la noticia
+
+La noticia \citetitle{prensa:assanges} reseña el paso de una década desde la
+filtración de más de 250,000 documentos clasificados por parte de WikiLeaks, el
+28 de noviembre de 2010. Al respecto, Juan Pablo Salazar, abogado especialista
+en derecho cibernético, señaló que "(...) *Assange* [el entonces director de
+WikiLeaks] *es parte de una etapa de la historia, seguro vendrán más* Assanges
+*en el futuro, movilizados en lograr mayor transparencia y acceso a la
+información pública, así como un mecanismo para asegurar el control social y
+político de los gobiernos*".\autocite{prensa:assanges}
+
+La noticia señala los hitos en la historia del internet que han representado
+activistas como Assange, Chelsea Manning (antes Bradley Manning) y Edward
+Snowden, quienes revelaron información confidencial que comprometía a los
+Estados Unidos en graves violaciones de derechos humanos en Irak y Guantánamo,
+así como en operaciones de espionaje interno.\autocite{prensa:assanges}
+
+Al respecto, Iván Martínez, de la Red en Defensa de los Derechos Digitales,
+explicó que "*en la actualidad hay ciberactivistas por doquier luchando a diario
+por la defensa y promoción de los derechos humanos, garantizando la privacidad y
+anonimato de personas periodistas y personas defensoras de derechos
+humanos*".\autocite{prensa:assanges}
+
+# Análisis
+
+El transcurso de diez años desde las importantes revelaciones de WikiLeaks ha
+sido testigo de muchos acontecimientos cuyo eje ha girado en torno al Internet:
+la persecusión y las viscicitudes políticas que ha asumido Assange por ellas,
+la llamada *primavera árabe*, los  hechos de las elecciones de Estados Unidos de
+2016 que llevaron a la presidencia a Donald Trump y que hicieron de ese el *año
+de la posverdad*, así como las  preocupaciones (que no se realizaron) en las
+elecciones de ese país durante este  año respecto a las *deepfakes*,[^1] dan
+cuenta de la doble cara del internet:
+
+[^1]: Edición de video mediante inteligencia  artificial que dificulta
+distinguir entre el material audiovisual real y el falso.
+
++ Por un lado, la censura y el ocultamiento se vuelven prácticamente  imposibles
+		y ello repercute en el vigor y  la promoción de las instituciones
+		democráticas. Al respecto, Martínez explicó  que "(...) *lo más relevante es
+		crear a nivel social la conciencia en las personas de que existe una forma de
+		enriquecer la democracia y el debate público mediante la revelación de
+		documentos que consignen y prueben actos de corrupción, violaciones a
+		derechos humanos e injusticia*".\autocite{prensa:assanges}
++ Por otra parte, la *infoxicación*, la fácil dispersión de las noticias falsas,
+		la facilidad en la manipulación y la dificultad para validar la información,
+		son un riesgo para esas mismas instituciones. Al respecto, Martínez señaló
+		que "[e]*l riesgo más grande* (...) *es la capacidad que tenemos las
+		personas para discernir de lo que es correcto de lo que es
+		falso...*".\autocite{prensa:assanges}
